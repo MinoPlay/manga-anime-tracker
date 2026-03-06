@@ -266,7 +266,7 @@ class AnimeTrackerApp {
       card.innerHTML = `
         <div class="card-content">
           <h3 class="card-title">${entry.title}</h3>
-          ${entry.englishTitle && entry.englishTitle !== entry.title ? `<p class="category-english-title" style="font-size: 0.75rem; color: var(--text-light); margin-bottom: 2px;">${entry.englishTitle}</p>` : ''}
+          ${entry.alternative_titles_en && entry.alternative_titles_en !== entry.title ? `<p class="category-english-title" style="font-size: 0.75rem; color: var(--text-light); margin-bottom: 2px;">${entry.alternative_titles_en}</p>` : ''}
           
           <div class="progress-section">
             <div class="progress-info desktop-only">
@@ -311,6 +311,7 @@ class AnimeTrackerApp {
             <img src="${entry.logoUrl}" alt="${entry.title}" style="width: 100px; border-radius: 8px;">
             <div style="flex: 1;">
               <h2 style="font-size: 1.2rem; font-weight: bold; margin-bottom: 0.5rem; line-height: 1.2;">${entry.title}</h2>
+              ${entry.alternative_titles_en && entry.alternative_titles_en !== entry.title ? `<p style="font-size: 0.75rem; color: var(--text-light); margin-bottom: 0.5rem;">${entry.alternative_titles_en}</p>` : ''}
               <p style="font-size: 0.85rem; color: #666;">
                 <strong>${this.currentType === 'anime' ? 'Episodes' : 'Chapters'}:</strong> ${totalUnits || 'N/A'} • 
                 <strong>Season:</strong> ${entry.season || 'N/A'}
@@ -437,7 +438,7 @@ class AnimeTrackerApp {
           <img src="${entry.logoUrl}" alt="${entry.title}" class="detail-image">
           <div class="detail-info">
             <h2>${entry.title}</h2>
-            ${entry.englishTitle && entry.englishTitle !== entry.title ? `<p><strong>English:</strong> ${entry.englishTitle}</p>` : ''}
+            ${entry.alternative_titles_en && entry.alternative_titles_en !== entry.title ? `<p><strong>English:</strong> ${entry.alternative_titles_en}</p>` : ''}
             ${entry.japaneseTitle ? `<p><strong>Japanese:</strong> ${entry.japaneseTitle}</p>` : ''}
             
             <div class="detail-status-section">
