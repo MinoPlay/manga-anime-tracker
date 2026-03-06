@@ -24,17 +24,12 @@ class AnimeTrackerApp {
     console.log('[AnimeTrackerApp] Storage instance:', storage);
     console.log('[AnimeTrackerApp] MALDataLoader available:', typeof MALDataLoader);
     
-    // Try to load MyAnimeList data first
-    console.log('[AnimeTrackerApp] Attempting to load MAL data...');
-    const malLoaded = await storage.loadMALData('TrulyYoursMino-animelist.json', 'TrulyYoursMino-mangalist.json', false);
-    console.log('[AnimeTrackerApp] MAL data loaded result:', malLoaded);
-    console.log('[AnimeTrackerApp] Library after MAL load:', storage.library);
-    
-    if (!malLoaded) {
-      console.log('[AnimeTrackerApp] MAL data failed, loading library.json...');
-      // If MAL data not available, load library from data/library.json
-      await storage.loadLibrary();
-    }
+    // Try to load MyAnimeList data first 
+    // [MODIFIED] Loading from user_summary.json directly
+    console.log('[AnimeTrackerApp] Attempting to load user_summary data...');
+    const dataLoaded = await storage.loadLibrary();
+    console.log('[AnimeTrackerApp] Summary data loaded result:', !!dataLoaded);
+    console.log('[AnimeTrackerApp] Library entries:', storage.library.entries?.length || 0);
     
     // Setup event listeners
     console.log('[AnimeTrackerApp] Setting up event listeners...');
@@ -48,6 +43,9 @@ class AnimeTrackerApp {
       document.getElementById('app-header').classList.add('collapsed');
     }
 
+    // Initialize GitHub settings UI
+    this.initGhSettings();
+
     // Render initial view
     console.log('[AnimeTrackerApp] Showing library tab...');
     this.showTab('library');
@@ -57,10 +55,75 @@ class AnimeTrackerApp {
     console.log('[AnimeTrackerApp] App initialized. Library entries:', storage.library.entries?.length || 0);
   }
 
+  // ============ GITHUB SETTINGS ============
+
+  initGhSettings() {
+    const ghToggle = document.getElementById('gh-settings-toggle');
+    const ghModal = document.getElementById('gh-settings-modal');
+    const ghCancel = document.getElementById('gh-settings-cancel');
+    const ghSave = document.getElementById('gh-settings-save');
+    
+    if (!ghToggle || !ghModal || !ghCancel || !ghSave) {
+      console.error('[AnimeTrackerApp] GitHub settings elements not found!');
+      return;
+    }
+
+    const ghUser = document.getElementById('gh-user');
+    const ghRepo = document.getElementById('gh-repo');
+    const ghPath = document.getElementById('gh-path');
+    const ghPat = document.getElementById('gh-pat');
+
+    // Populate existing config
+    if (storage.ghConfig) {
+      ghUser.value = storage.ghConfig.user || '';
+      ghRepo.value = storage.ghConfig.repo || '';
+      ghPath.value = storage.ghConfig.path || 'user_summary.json';
+      ghPat.value = storage.ghConfig.pat || '';
+    }
+
+    ghToggle.onclick = (e) => {
+      e.preventDefault();
+      ghModal.style.display = 'block';
+    };
+
+    ghCancel.onclick = () => {
+      ghModal.style.display = 'none';
+    };
+
+    ghSave.onclick = async () => {
+      const user = ghUser.value.trim();
+      const repo = ghRepo.value.trim();
+      const path = ghPath.value.trim();
+      const pat = ghPat.value.trim();
+
+      storage.saveGhConfig(user, repo, pat, path);
+      ghModal.style.display = 'none';
+      
+      // Reload library with new config
+      alert('GitHub settings saved! Loading library from new source...');
+      await storage.loadLibrary();
+      this.renderLibrary();
+      this.updateStats();
+    };
+
+    // Close modal on click outside
+    window.addEventListener('click', (e) => {
+      if (e.target === ghModal) {
+        ghModal.style.display = 'none';
+      }
+    });
+  }
+
   setupEventListeners() {
     // Tab buttons
     document.getElementById('tab-library-btn').addEventListener('click', () => this.showTab('library'));
     document.getElementById('tab-add-btn').addEventListener('click', () => this.showTab('add'));
+    document.getElementById('debug-toggle').addEventListener('click', () => {
+      const debugConsole = document.getElementById('debug-console');
+      if (debugConsole) {
+        debugConsole.style.display = debugConsole.style.display === 'none' ? 'block' : 'none';
+      }
+    });
 
     // Header filter stats
     document.querySelectorAll('.filter-stat').forEach(stat => {
@@ -359,8 +422,8 @@ class AnimeTrackerApp {
           lastUpdated: new Date().toISOString()
         });
         
-        // Persist to library.json
-        storage.generateDownloadFile();
+        // Persist to user_summary.json
+        storage.saveLibrary();
         
         this.renderLibrary();
         this.updateStats();
@@ -579,12 +642,14 @@ class AnimeTrackerApp {
     storage.updateStatus(entryId, newStatus);
     console.log(`Updated ${entryId} status to ${newStatus}`);
     this.updateStats();
+    storage.saveLibrary(); // Persist change to server
   }
 
   incrementRewatch(entryId) {
     storage.incrementRewatchCount(entryId);
     this.refreshEditTab();
     this.updateStats();
+    storage.saveLibrary(); // Persist change to server
   }
 
   decrementRewatch(entryId) {
@@ -595,6 +660,7 @@ class AnimeTrackerApp {
       storage.isDirty = true;
       this.refreshEditTab();
       this.updateStats();
+      storage.saveLibrary(); // Persist change to server
     }
   }
 
@@ -603,6 +669,7 @@ class AnimeTrackerApp {
       storage.deleteEntry(entryId);
       this.refreshEditTab();
       this.updateStats();
+      storage.saveLibrary(); // Persist change to server
     }
   }
 

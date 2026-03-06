@@ -10,24 +10,129 @@ class StorageManager {
       lastSynced: new Date().toISOString()
     };
     this.isDirty = false; // Track if data has unsaved changes
+    
+    // GitHub storage settings
+    this.ghConfig = JSON.parse(localStorage.getItem('ghStorageConfig') || 'null');
   }
 
   /**
-   * Load library from data/library.json
+   * Save GitHub configuration
+   */
+  saveGhConfig(user, repo, pat, path = 'user_summary.json') {
+    if (!user || !repo || !pat) {
+      this.ghConfig = null;
+      localStorage.removeItem('ghStorageConfig');
+    } else {
+      this.ghConfig = { user, repo, pat, path: path || 'user_summary.json' };
+      localStorage.setItem('ghStorageConfig', JSON.stringify(this.ghConfig));
+    }
+    return this.ghConfig;
+  }
+
+  /**
+   * Load library from sanitized_data/user_summary.json or GitHub
    */
   async loadLibrary() {
     try {
-      const response = await fetch('./data/library.json');
-      if (!response.ok) throw new Error(`Failed to load library: ${response.status}`);
+      if (this.ghConfig) {
+        const filePath = this.ghConfig.path || 'user_summary.json';
+        console.log(`[StorageManager] Loading from GitHub: ${this.ghConfig.user}/${this.ghConfig.repo}/${filePath}`);
+        const response = await fetch(`https://api.github.com/repos/${this.ghConfig.user}/${this.ghConfig.repo}/contents/${filePath}`, {
+          headers: {
+            'Authorization': `token ${this.ghConfig.pat}`,
+            'Accept': 'application/vnd.github.v3.raw'
+          }
+        });
+        
+        if (response.ok) {
+          const summaryData = await response.json();
+          this.library = summaryData;
+          console.log(`Loaded GitHub summary from ${filePath} with ${this.library.entries.length} entries`);
+          return this.library;
+        } else if (response.status === 404) {
+          console.warn(`${filePath} not found in GitHub repo. Initializing empty.`);
+          this.library = { entries: [], lastSynced: new Date().toISOString() };
+          return this.library;
+        }
+        throw new Error(`GitHub load failed: ${response.status}`);
+      }
+
+      // Default local load
+      const response = await fetch('./sanitized_data/user_summary.json');
+      if (!response.ok) throw new Error(`Failed to load summary: ${response.status}`);
       
-      this.library = await response.json();
-      console.log(`Loaded library with ${this.library.entries.length} entries`);
+      const summaryData = await response.json();
+      this.library = summaryData;
+      console.log(`Loaded summary with ${this.library.entries.length} entries`);
       return this.library;
     } catch (error) {
       console.error(`Load library failed: ${error.message}`);
       // Return empty library if load fails
       this.library = { entries: [], lastSynced: new Date().toISOString() };
       return this.library;
+    }
+  }
+
+  /**
+   * Save library to user_summary.json via local API or GitHub
+   */
+  async saveLibrary() {
+    try {
+      this.library.lastUpdated = new Date().toISOString();
+      
+      if (this.ghConfig) {
+        const filePath = this.ghConfig.path || 'user_summary.json';
+        console.log(`[StorageManager] Saving to GitHub: ${this.ghConfig.user}/${this.ghConfig.repo}/${filePath}`);
+        
+        // Need to get the SHA of the existing file to update it
+        let sha = null;
+        const getFile = await fetch(`https://api.github.com/repos/${this.ghConfig.user}/${this.ghConfig.repo}/contents/${filePath}`, {
+          headers: { 'Authorization': `token ${this.ghConfig.pat}` }
+        });
+        
+        if (getFile.ok) {
+          const fileData = await getFile.json();
+          sha = fileData.sha;
+        }
+
+        const content = btoa(unescape(encodeURIComponent(JSON.stringify(this.library, null, 2))));
+        const response = await fetch(`https://api.github.com/repos/${this.ghConfig.user}/${this.ghConfig.repo}/contents/${filePath}`, {
+          method: 'PUT',
+          headers: {
+            'Authorization': `token ${this.ghConfig.pat}`,
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({
+            message: `Update ${filePath} from Tracker [${new Date().toISOString()}]`,
+            content: content,
+            sha: sha
+          })
+        });
+
+        if (!response.ok) throw new Error(`GitHub save failed: ${response.status}`);
+        
+        this.isDirty = false;
+        console.log(`Saved library to GitHub at ${filePath}`);
+        return true;
+      }
+
+      // Default local save
+      const response = await fetch('/api/update-summary', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(this.library)
+      });
+      
+      if (!response.ok) throw new Error('Failed to save to server');
+      
+      this.isDirty = false;
+      console.log('Saved library to user_summary.json');
+      return true;
+    } catch (error) {
+      console.error('Save failed:', error.message);
+      return false;
     }
   }
 
