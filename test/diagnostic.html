@@ -1,0 +1,563 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MyAnimeList API Diagnostic</title>
+    <style>
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        background: #f3f4f6;
+        padding: 2rem;
+        max-width: 1000px;
+        margin: 0 auto;
+      }
+
+      h1 {
+        color: #1f2937;
+      }
+
+      .diagnostic-card {
+        background: white;
+        padding: 1.5rem;
+        border-radius: 0.5rem;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        margin-bottom: 1.5rem;
+      }
+
+      .command-box {
+        background: #1f2937;
+        color: #f3f4f6;
+        padding: 1rem;
+        border-radius: 0.5rem;
+        font-family: 'Courier New', monospace;
+        font-size: 0.875rem;
+        overflow-x: auto;
+        margin: 1rem 0;
+      }
+
+      button {
+        background: #4f46e5;
+        color: white;
+        border: none;
+        padding: 0.75rem 1.5rem;
+        border-radius: 0.5rem;
+        cursor: pointer;
+        font-size: 1rem;
+        margin-right: 0.5rem;
+        margin-bottom: 1rem;
+      }
+
+      button:hover {
+        background: #4338ca;
+      }
+
+      .result {
+        background: #f9fafb;
+        border: 1px solid #e5e7eb;
+        padding: 1rem;
+        border-radius: 0.5rem;
+        margin: 1rem 0;
+        font-family: 'Courier New', monospace;
+        font-size: 0.875rem;
+        max-height: 300px;
+        overflow-y: auto;
+        white-space: pre-wrap;
+        word-break: break-all;
+      }
+
+      .result.success {
+        background: #f0fdf4;
+        border-color: #86efac;
+      }
+
+      .result.error {
+        background: #fef2f2;
+        border-color: #fca5a5;
+      }
+
+      .status {
+        margin: 1rem 0;
+        padding: 1rem;
+        border-radius: 0.5rem;
+        font-weight: 600;
+      }
+
+      .status.ok {
+        background: #d1fae5;
+        color: #065f46;
+        border-left: 4px solid #10b981;
+      }
+
+      .status.error {
+        background: #fee2e2;
+        color: #7f1d1d;
+        border-left: 4px solid #ef4444;
+      }
+
+      .status.loading {
+        background: #fef3c7;
+        color: #78350f;
+        border-left: 4px solid #f59e0b;
+      }
+
+      ul {
+        line-height: 1.8;
+      }
+
+      li {
+        margin-bottom: 0.5rem;
+      }
+
+      code {
+        background: #f3f4f6;
+        padding: 0.125rem 0.5rem;
+        border-radius: 0.25rem;
+        font-family: 'Courier New', monospace;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>🔍 MyAnimeList API Diagnostic Tool</h1>
+    <p>Use this to diagnose MyAnimeList API connectivity issues.</p>
+
+    <div class="diagnostic-card">
+      <h2>1️⃣ Connection Test</h2>
+      <p>Test if the MyAnimeList API is reachable:</p>
+      <button onclick="testConnection()">🌐 Test Connection</button>
+      <div id="connection-result"></div>
+    </div>
+
+    <div class="diagnostic-card">
+      <h2>2️⃣ Direct API Call</h2>
+      <p>Make a direct fetch call to MyAnimeList API:</p>
+      <button onclick="directApiCall()">📡 Make API Call</button>
+      <p style="color: #6b7280; font-size: 0.875rem;">
+        Will fetch: GET https://api.myanimelist.net/v2/anime?q=naruto&limit=5
+      </p>
+      <div id="api-result"></div>
+    </div>
+
+    <div class="diagnostic-card">
+      <h2>3️⃣ Anime Ranking</h2>
+      <p>Test anime ranking endpoint:</p>
+      <button onclick="getAnimeRanking()">🏆 Get Ranking</button>
+      <p style="color: #6b7280; font-size: 0.875rem;">
+        Will fetch: GET https://api.myanimelist.net/v2/anime/ranking?ranking_type=all&limit=4
+      </p>
+      <div id="ranking-result"></div>
+    </div>
+
+    <div class="diagnostic-card">
+      <h2>4️⃣ Get User Anime List</h2>
+      <p>Fetch a specific user's anime list:</p>
+      <button onclick="getUserAnimeList()">👤 Get User List</button>
+      <p style="color: #6b7280; font-size: 0.875rem;">
+        Will fetch: GET https://api.myanimelist.net/v2/users/TrulyYoursMino/animelist
+      </p>
+      <div id="user-list-result"></div>
+    </div>
+
+    <div class="diagnostic-card">
+      <h2>5️⃣ Test with malAPI Object</h2>
+      <p>Test using the malAPI wrapper:</p>
+      <button onclick="testWithWrapper()">🔧 Test Wrapper</button>
+      <p style="color: #6b7280; font-size: 0.875rem;">
+        Makes sure our malAPI wrapper works correctly.
+      </p>
+      <div id="wrapper-result"></div>
+    </div>
+
+    <div class="diagnostic-card">
+      <h2>🔧 Manual Test</h2>
+      <p>Run tests manually from the browser console:</p>
+      <div class="command-box">
+// Test connection (with Client ID header)
+const clientId = 'a86cd94144af52f931b0a3ab74455192';
+await fetch('https://api.myanimelist.net/v2/anime/1', {
+  headers: { 'X-MAL-CLIENT-ID': clientId }
+})
+
+// Use CORS proxy (if running: node proxy-server.js)
+await fetch('http://localhost:3000/anime/1', {
+  headers: { 'X-MAL-CLIENT-ID': clientId }
+})
+
+// Configure malAPI to use proxy
+malAPI.configureProxy('http://localhost:3000', false);
+
+// Now all malAPI calls will try proxy first, then fallback to direct
+await malAPI.getAnimeRanking('all', 4)
+
+// Search anime
+await fetch('https://api.myanimelist.net/v2/anime?q=naruto&limit=5', {
+  headers: { 'X-MAL-CLIENT-ID': clientId }
+})
+  .then(r => r.json())
+  .then(d => console.log(d))
+
+// Get user's anime list
+await fetch('https://api.myanimelist.net/v2/users/TrulyYoursMino/animelist?limit=10', {
+  headers: { 'X-MAL-CLIENT-ID': clientId }
+})
+  .then(r => r.json())
+  .then(d => console.log(d))
+
+// Test malAPI wrapper - search
+await malAPI.searchAnime('naruto')
+
+// Test malAPI wrapper - get anime ranking
+await malAPI.getAnimeRanking('all', 4)
+
+// Test malAPI wrapper - get user list
+await malAPI.getUserAnimeList('TrulyYoursMino', null, 10)
+
+// Direct ranking endpoint
+await fetch('https://api.myanimelist.net/v2/anime/ranking?ranking_type=all&limit=4', {
+  headers: { 'X-MAL-CLIENT-ID': clientId }
+})
+  .then(r => r.json())
+  .then(d => console.log(d))
+
+// Show debug info
+malAPI.getDebugInfo()
+      </div>
+    </div>
+
+    <div class="diagnostic-card">
+      <h2>⚠️ Troubleshooting CORS Issues</h2>
+      <p><strong>If getting "Failed to fetch" errors:</strong></p>
+      <ol style="line-height: 1.8;">
+        <li>Open <strong>new terminal</strong> in VS Code</li>
+        <li>Run: <code style="background: #f3f4f6; padding: 0.25rem 0.5rem; border-radius: 0.25rem;">node proxy-server.js</code></li>
+        <li>Keep the proxy running (you'll see: "🔄 CORS Proxy Server running at http://localhost:3000")</li>
+        <li>Come back to this page and click test buttons again</li>
+      </ol>
+      <p style="color: #666; font-size: 0.875rem; margin-top: 1rem;"><strong>Why?</strong> MyAnimeList API doesn't support CORS from browsers. The proxy server adds the necessary headers.</p>
+    </div>
+
+    <div class="diagnostic-card">
+      <h2>📝 Other Common Issues</h2>
+      <ul>
+        <li><strong>Empty Results:</strong> Try a different search term or check MyAnimeList API status</li>
+        <li><strong>Timeout:</strong> Your internet connection might be slow. Try again in a few seconds</li>
+        <li><strong>Rate Limited:</strong> MyAnimeList allows 1000+ requests/minute. Rare unless making many rapid requests</li>
+        <li><strong>HTTP Server Error:</strong> Make sure you started: <code style="background: #f3f4f6; padding: 0.25rem 0.5rem;">python -m http.server 8000</code></li>
+      </ul>
+    </div>
+
+    <script src="../js/mal-api.js"></script>
+    <script>
+      function log(element, message, type = 'info') {
+        const div = document.createElement('div');
+        div.className = `status ${type}`;
+        div.textContent = message;
+        const el = document.getElementById(element);
+        el.innerHTML = '';
+        el.appendChild(div);
+      }
+
+      function result(element, data, type = 'success') {
+        const div = document.createElement('div');
+        div.className = `result ${type}`;
+        div.textContent = typeof data === 'string' ? data : JSON.stringify(data, null, 2);
+        const el = document.getElementById(element);
+        el.appendChild(div);
+      }
+
+      async function testConnection() {
+        log('connection-result', '🔄 Testing MyAnimeList API...', 'loading');
+        
+        const endpoints = [
+          { url: 'http://localhost:3000/anime/1', label: 'Proxy (3000)' },
+          { url: 'https://api.myanimelist.net/v2/anime/1', label: 'Direct' }
+        ];
+
+        for (const endpoint of endpoints) {
+          try {
+            console.log(`[Diagnostic] Trying ${endpoint.label}: ${endpoint.url}`);
+            const start = Date.now();
+            const response = await fetch(endpoint.url, {
+              headers: { 'X-MAL-CLIENT-ID': 'a86cd94144af52f931b0a3ab74455192' }
+            });
+            const duration = Date.now() - start;
+
+            if (response.ok) {
+              log(
+                'connection-result',
+                `✅ MyAnimeList API is reachable! (via ${endpoint.label}) - ${duration}ms`,
+                'ok'
+              );
+              result('connection-result', {
+                status: response.status,
+                statusText: response.statusText,
+                duration: `${duration}ms`,
+                source: endpoint.label,
+                endpoint: endpoint.url
+              });
+              return;
+            }
+          } catch (error) {
+            console.log(`[Diagnostic] ${endpoint.label} failed: ${error.message}`);
+            continue;
+          }
+        }
+
+        log('connection-result', `❌ Connection failed: Could not reach API`, 'error');
+        result('connection-result', {
+          error: 'Failed to connect to MyAnimeList API',
+          corsNote: 'If proxy failed: ensure "node proxy-server.js" is running',
+          troubleshooting: [
+            'Check internet connection',
+            'Start proxy server: node proxy-server.js',
+            'Verify MyAnimeList API status'
+          ]
+        }, 'error');
+      }
+
+      async function directApiCall() {
+        log('api-result', '� Calling MyAnimeList API...', 'loading');
+
+        const endpoints = [
+          { url: 'http://localhost:3000/anime?q=naruto&limit=5', label: 'Proxy (3000)' },
+          { url: 'https://api.myanimelist.net/v2/anime?q=naruto&limit=5', label: 'Direct' }
+        ];
+
+        let lastError = null;
+
+        for (const endpoint of endpoints) {
+          try {
+            console.log(`[Diagnostic] Trying ${endpoint.label}: ${endpoint.url}`);
+            const response = await fetch(endpoint.url, {
+              headers: { 'X-MAL-CLIENT-ID': 'a86cd94144af52f931b0a3ab74455192' }
+            });
+            const data = await response.json();
+
+            if (data.data && data.data.length > 0) {
+              log(
+                'api-result',
+                `✅ API call successful! (via ${endpoint.label}) Found ${data.data.length} results`,
+                'ok'
+              );
+              result('api-result', {
+                resultCount: data.data.length,
+                firstResult: {
+                  title: data.data[0].title,
+                  mal_id: data.data[0].id,
+                  year: data.data[0].start_date ? data.data[0].start_date.split('-')[0] : 'N/A'
+                },
+                source: endpoint.label,
+                endpoint: endpoint.url
+              });
+              return;
+            }
+          } catch (error) {
+            console.log(`[Diagnostic] ${endpoint.label} failed: ${error.message}`);
+            lastError = error;
+            continue;
+          }
+        }
+
+        log('api-result', `❌ API call failed: ${lastError?.message}`, 'error');
+        result('api-result', {
+          error: lastError?.message || 'No results found',
+          corsNote: 'If error is "Failed to fetch": proxy server at :3000 is not running',
+          instructions: 'Start proxy with: node proxy-server.js',
+          troubleshooting: [
+            'Ensure proxy server is running',
+            'Try a different search term',
+            'Check internet connection'
+          ]
+        }, 'error');
+      }
+
+      async function getAnimeRanking() {
+        log('ranking-result', '🏆 Fetching anime ranking...', 'loading');
+
+        const endpoints = [
+          { url: 'http://localhost:3000/anime/ranking?ranking_type=all&limit=4', label: 'Proxy (3000)' },
+          { url: 'https://api.myanimelist.net/v2/anime/ranking?ranking_type=all&limit=4', label: 'Direct' }
+        ];
+
+        let lastError = null;
+
+        for (const endpoint of endpoints) {
+          try {
+            console.log(`[Diagnostic] Trying ${endpoint.label}: ${endpoint.url}`);
+            const response = await fetch(endpoint.url, {
+              headers: { 'X-MAL-CLIENT-ID': 'a86cd94144af52f931b0a3ab74455192' }
+            });
+
+            if (!response.ok) {
+              throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+            }
+
+            const data = await response.json();
+
+            if (data.data && data.data.length > 0) {
+              log(
+                'ranking-result',
+                `✅ Ranking fetch successful! (via ${endpoint.label})`,
+                'ok'
+              );
+              const topRanked = data.data.map(item => ({
+                title: item.node?.title || item.title,
+                mal_id: item.node?.id || item.id,
+                rank: item.ranking?.rank || 'N/A',
+                score: item.node?.mean || item.score || 'N/A'
+              }));
+              result('ranking-result', {
+                count: data.data.length,
+                topRanked: topRanked,
+                source: endpoint.label,
+                endpoint: endpoint.url
+              });
+              return;
+            }
+          } catch (error) {
+            console.log(`[Diagnostic] ${endpoint.label} failed: ${error.message}`);
+            lastError = error;
+            continue;
+          }
+        }
+
+        // All endpoints failed
+        log('ranking-result', `❌ Ranking fetch failed: ${lastError?.message}`, 'error');
+        result('ranking-result', {
+          error: lastError?.message || 'Unknown error',
+          suggestion: 'CORS Issue: Try starting the proxy server',
+          corsNote: 'MyAnimeList API blocks direct browser requests (CORS restrictions)',
+          instructions: 'Start proxy server with: node proxy-server.js in root directory',
+          troubleshooting: [
+            '1. Open new terminal',
+            '2. Run: node proxy-server.js',
+            '3. Keep it running',
+            '4. Click test button again'
+          ]
+        }, 'error');
+      }
+
+      async function getUserAnimeList() {
+        log('user-list-result', '👤 Fetching user anime list...', 'loading');
+
+        const username = 'TrulyYoursMino';
+        const endpoints = [
+          { url: `http://localhost:3000/users/${encodeURIComponent(username)}/animelist?limit=10`, label: 'Proxy (3000)' },
+          { url: `https://api.myanimelist.net/v2/users/${encodeURIComponent(username)}/animelist?limit=10`, label: 'Direct' }
+        ];
+
+        let lastError = null;
+
+        for (const endpoint of endpoints) {
+          try {
+            console.log(`[Diagnostic] Trying ${endpoint.label}: ${endpoint.url}`);
+            const response = await fetch(endpoint.url, {
+              headers: { 'X-MAL-CLIENT-ID': 'a86cd94144af52f931b0a3ab74455192' }
+            });
+            
+            if (!response.ok) {
+              throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+            }
+
+            const data = await response.json();
+
+            if (data.data && data.data.length > 0) {
+              log(
+                'user-list-result',
+                `✅ Successfully fetched user list! (via ${endpoint.label})`,
+                'ok'
+              );
+              const entries = data.data.slice(0, 3).map(item => ({
+                title: item.node?.title || item.title,
+                mal_id: item.node?.id || item.id,
+                status: item.list_status?.status || 'unknown'
+              }));
+              result('user-list-result', {
+                totalEntries: data.data.length,
+                firstThreeEntries: entries,
+                source: endpoint.label,
+                endpoint: endpoint.url
+              });
+              return;
+            } else {
+              throw new Error('User list is empty or returned no data');
+            }
+          } catch (error) {
+            console.log(`[Diagnostic] ${endpoint.label} failed: ${error.message}`);
+            lastError = error;
+            continue;
+          }
+        }
+
+        // All endpoints failed
+        log('user-list-result', `❌ Failed to fetch user list: ${lastError?.message}`, 'error');
+        result('user-list-result', {
+          error: lastError?.message || 'Failed to fetch',
+          username: username,
+          troubleshooting: [
+            'This endpoint returns a user\'s public anime list',
+            'The user\'s profile must be public',
+            'Try checking: https://myanimelist.net/profile/TrulyYoursMino',
+            'If profile is private, the API cannot access the list'
+          ],
+          corsNote: 'If error is "Failed to fetch": proxy server at :3000 is not running',
+          instructions: 'Start proxy with: node proxy-server.js',
+          endpoint: endpoints
+        }, 'error');
+      }
+
+      async function testWithWrapper() {
+        log('wrapper-result', '🔄 Testing malAPI wrapper...', 'loading');
+
+        try {
+          if (typeof malAPI === 'undefined') {
+            log(
+              'wrapper-result',
+              '❌ malAPI is not loaded',
+              'error'
+            );
+            result('wrapper-result', {
+              error: 'malAPI object not found. Make sure mal-api.js is loaded.'
+            }, 'error');
+            return;
+          }
+
+          const results = await malAPI.searchAnime('naruto');
+
+          if (results.length > 0) {
+            log(
+              'wrapper-result',
+              `✅ Wrapper working! Found ${results.length} results`,
+              'ok'
+            );
+            result('wrapper-result', {
+              resultCount: results.length,
+              firstResult: {
+                title: results[0].title,
+                mal_id: results[0].mal_id,
+                episodes: results[0].episodes
+              }
+            });
+          } else {
+            log('wrapper-result', '❌ Wrapper returned no results', 'error');
+            result('wrapper-result', {
+              error: 'No results returned by malAPI.searchAnime()',
+              debug: malAPI.getDebugInfo()
+            }, 'error');
+          }
+        } catch (error) {
+          log('wrapper-result', `❌ Wrapper error: ${error.message}`, 'error');
+          result('wrapper-result', {
+            error: error.message,
+            debug: malAPI.getDebugInfo()
+          }, 'error');
+        }
+      }
+
+      // Test on load
+      window.addEventListener('load', () => {
+        console.log('%c[Diagnostic] Page loaded. Run tests using buttons above.', 'color: #4f46e5; font-weight: bold;');
+      });
+    </script>
+  </body>
+</html>

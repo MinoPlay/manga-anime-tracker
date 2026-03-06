@@ -1,0 +1,100 @@
+[
+  {
+    "node": {
+      "id": 67617,
+      "title": "Tate no Yuusha no Nariagari",
+      "main_picture": {
+        "medium": "https://myanimelist.net/images/manga/3/115755.jpg",
+        "large": "https://myanimelist.net/images/manga/3/115755l.jpg"
+      },
+      "alternative_titles": {
+        "synonyms": [],
+        "en": "The Rising of the Shield Hero",
+        "ja": "盾の勇者の成り上がり"
+      },
+      "genres": [
+        {
+          "id": 10,
+          "name": "Fantasy"
+        },
+        {
+          "id": 62,
+          "name": "Isekai"
+        }
+      ],
+      "synopsis": "Stories of old tell of four otherworldly heroes—wielding the sword, spear, bow, and shield—who defended the land from wave after wave of calamity. With the fate of the world in balance, the kingdom of Melromarc summons these legendary figures; in modern-day Japan, the call is answered, and the unwitting heroes are transported to this fantasy universe.\n\nThrust into Melromarc and given the title of \"Shield Hero,\" otaku Naofumi Iwatani is labeled the weakest due to his lack of offensive capability and apparent inexperience. When the heroes part ways to start their journeys, he only has one willing companion: the beautiful princess Malty Melromarc. However, she soon betrays him, steals all his money, and accuses him of taking advantage of her.\n\nFor his alleged crimes, Naofumi is branded a criminal and made outcast of society. With hatred filling his heart, he sets out alone, vowing vengeance against those who wronged him.\n\n[Written by MAL Rewrite]",
+      "num_chapters": 0,
+      "start_date": "2013-08-22",
+      "mean": 7.9,
+      "rank": 1063,
+      "popularity": 405,
+      "nsfw": "white",
+      "media_type": "light_novel",
+      "status": "currently_publishing"
+    },
+    "list_status": {
+      "status": "reading",
+      "is_rereading": false,
+      "num_volumes_read": 0,
+      "num_chapters_read": 0,
+      "score": 0,
+      "updated_at": "2022-08-12T07:56:14+00:00"
+    }
+  },
+  {
+    "node": {
+      "id": 122663,
+      "title": "Tower of God",
+      "main_picture": {
+        "medium": "https://myanimelist.net/images/manga/2/223694.webp",
+        "large": "https://myanimelist.net/images/manga/2/223694l.webp"
+      },
+      "alternative_titles": {
+        "synonyms": [
+          "Sin-ui Tap"
+        ],
+        "en": "Tower of God",
+        "ja": "신의 탑"
+      },
+      "genres": [
+        {
+          "id": 1,
+          "name": "Action"
+        },
+        {
+          "id": 2,
+          "name": "Adventure"
+        },
+        {
+          "id": 8,
+          "name": "Drama"
+        },
+        {
+          "id": 10,
+          "name": "Fantasy"
+        },
+        {
+          "id": 7,
+          "name": "Mystery"
+        }
+      ],
+      "synopsis": "Twenty-Fifth Bam had been alone his whole life until he met Rachel. Now, however, Rachel is set on climbing the Tower, and she is willing to leave Bam behind to do so. After Rachel disappears in a veil of light, Bam follows her, vowing to ascend the Tower in hopes of meeting her again.\n\nBut the Tower is a dangerous place full of ancient secrets, fearsome monsters, and nefarious humans. Each floor is protected by an Administrator who puts the daring challengers through grueling tests that will push them to their limits.\n\nAs he confronts Headon, the Administrator of the first floor, Bam learns that he is an ''Irregular,'' someone who was not chosen by the Tower but was able to enter it on his own, an extremely rare event inside the Tower. Regardless of this revelation, however, his path forward is clear. Be it wealth, power, glory, or even reuniting with Rachel, all desires will be realized at the top of the Tower.\n\n[Written by MAL Rewrite]",
+      "num_chapters": 0,
+      "start_date": "2010-07-05",
+      "mean": 8.34,
+      "rank": 296,
+      "popularity": 42,
+      "nsfw": "white",
+      "media_type": "manhwa",
+      "status": "currently_publishing"
+    },
+    "list_status": {
+      "status": "reading",
+      "is_rereading": false,
+      "num_volumes_read": 3,
+      "num_chapters_read": 64,
+      "score": 0,
+      "updated_at": "2020-07-12T17:13:36+00:00"
+    }
+  }
+]

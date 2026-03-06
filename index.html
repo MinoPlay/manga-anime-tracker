@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Anime & Manga Tracker</title>
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <!-- Header -->
+    <header>
+      <h1>📺 Anime & Manga Tracker</h1>
+      <div class="stats-bar">
+        <div class="stat">
+          <span class="stat-label">Total Entries</span>
+          <span class="stat-value" id="stat-total">0</span>
+        </div>
+        <div class="stat">
+          <span class="stat-label">Watching</span>
+          <span class="stat-value" id="stat-watching">0</span>
+        </div>
+        <div class="stat">
+          <span class="stat-label">Plan to Watch</span>
+          <span class="stat-value" id="stat-plan">0</span>
+        </div>
+        <div class="stat">
+          <span class="stat-label">Completed</span>
+          <span class="stat-value" id="stat-completed">0</span>
+        </div>
+        <div class="stat">
+          <span class="stat-label">Dropped</span>
+          <span class="stat-value" id="stat-dropped">0</span>
+        </div>
+        <div class="stat">
+          <span class="stat-label">Total Rewatches</span>
+          <span class="stat-value" id="stat-rewatches">0</span>
+        </div>
+      </div>
+    </header>
+
+    <!-- Navigation Tabs -->
+    <nav class="nav-tabs">
+      <button class="tab-btn active" id="tab-library-btn">📚 Library</button>
+      <button class="tab-btn" id="tab-add-btn">➕ Add Entry</button>
+      <button class="tab-btn" id="tab-edit-btn">✏️ Edit Info</button>
+    </nav>
+
+    <!-- Main Container -->
+    <div class="container">
+      <!-- LIBRARY TAB -->
+      <section class="tab-content" id="tab-library" style="display: block">
+        <div class="library-controls">
+          <div class="type-toggle">
+            <button class="type-btn active" id="type-anime">Anime</button>
+            <button class="type-btn" id="type-manga">Manga</button>
+          </div>
+          <div class="filter-group">
+            <button class="filter-btn active" id="filter-all">All</button>
+            <button class="filter-btn" id="filter-watching">Watching</button>
+            <button class="filter-btn" id="filter-plan-to-watch">Plan to Watch</button>
+            <button class="filter-btn" id="filter-completed">Completed</button>
+            <button class="filter-btn" id="filter-dropped">Dropped</button>
+          </div>
+        </div>
+        <div id="library-grid"></div>
+      </section>
+
+      <!-- ADD TAB -->
+      <section class="tab-content" id="tab-add">
+        <div style="margin-bottom: 2rem">
+          <h2>Add New Entry</h2>
+        </div>
+        <div class="add-container">
+          <!-- Search Section -->
+          <div class="search-section">
+            <h3 style="margin-bottom: 1rem">Search</h3>
+            <div class="search-type-btns">
+              <button class="search-type-btn active" id="search-type-anime">
+                Anime
+              </button>
+              <button class="search-type-btn" id="search-type-manga">Manga</button>
+            </div>
+            <input
+              type="text"
+              id="search-input"
+              placeholder="Search for anime or manga..."
+              autocomplete="off"
+            />
+            <div id="search-results"></div>
+          </div>
+
+          <!-- Preview Section -->
+          <div class="preview-section">
+            <h3 style="margin-bottom: 1rem">Preview</h3>
+            <div id="selected-result" style="min-height: 200px"></div>
+            <button id="add-to-library-btn">Add to Library</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- EDIT TAB -->
+      <section class="tab-content" id="tab-edit">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5rem">
+          <h2>Edit & Manage Entries</h2>
+          <div class="edit-toolbar">
+            <button id="export-btn">💾 Export</button>
+            <button id="import-btn">📥 Import</button>
+            <input
+              type="file"
+              id="import-file"
+              accept=".json"
+              style="display: none"
+            />
+            <button id="edit-refresh-btn">🔄 Refresh</button>
+          </div>
+        </div>
+
+        <div style="margin-bottom: 1rem">
+          <div class="type-toggle">
+            <button class="type-btn active" id="type-anime-edit" style="display: none">
+              Anime
+            </button>
+            <button class="type-btn" id="type-manga-edit" style="display: none">
+              Manga
+            </button>
+          </div>
+        </div>
+
+        <div id="edit-list"></div>
+      </section>
+    </div>
+
+    <!-- Modal for Entry Details -->
+    <div id="entry-detail-modal">
+      <div id="entry-detail-content"></div>
+    </div>
+
+    <!-- Debug Console -->
+    <div id="debug-console" style="position: fixed; bottom: 0; right: 0; width: 400px; height: 300px; background: #1a1a1a; color: #00ff00; border: 2px solid #00ff00; border-radius: 5px; overflow: auto; font-family: monospace; font-size: 11px; padding: 10px; z-index: 10000; display: none;">
+      <div style="margin-bottom: 10px;">
+        <button onclick="document.getElementById('debug-console').style.display='none'" style="float: right; background: #00ff00; color: #000; border: none; padding: 5px 10px; cursor: pointer; border-radius: 3px;">Close</button>
+        <strong>Debug Console</strong>
+      </div>
+      <div id="debug-output" style="height: 100%; overflow-y: auto;"></div>
+    </div>
+    
+    <!-- Debug Toggle Button -->
+    <button id="debug-toggle" style="position: fixed; bottom: 20px; right: 20px; padding: 10px 15px; background: #00ff00; color: #000; border: none; border-radius: 5px; cursor: pointer; font-weight: bold; z-index: 9999;">Debug</button>
+
+    <!-- Scripts -->
+    <script src="./js/mal-api.js"></script>
+    <script src="./js/data-loader.js"></script>
+    <script src="./js/storage.js"></script>
+    <script>
+      // Setup debug console
+      const debugOutput = document.getElementById('debug-output');
+      const debugToggle = document.getElementById('debug-toggle');
+      const debugConsole = document.getElementById('debug-console');
+      
+      debugToggle.addEventListener('click', () => {
+        debugConsole.style.display = debugConsole.style.display === 'none' ? 'block' : 'none';
+      });
+      
+      const originalLog = console.log;
+      const originalError = console.error;
+      
+      console.log = function(...args) {
+        originalLog.apply(console, args);
+        const message = args.map(arg => typeof arg === 'object' ? JSON.stringify(arg, null, 2) : String(arg)).join(' ');
+        const line = document.createElement('div');
+        line.style.color = '#00ff00';
+        line.textContent = '[LOG] ' + message;
+        debugOutput.appendChild(line);
+        debugOutput.scrollTop = debugOutput.scrollHeight;
+      };
+      
+      console.error = function(...args) {
+        originalError.apply(console, args);
+        const message = args.map(arg => typeof arg === 'object' ? JSON.stringify(arg, null, 2) : String(arg)).join(' ');
+        const line = document.createElement('div');
+        line.style.color = '#ff0000';
+        line.textContent = '[ERROR] ' + message;
+        debugOutput.appendChild(line);
+        debugOutput.scrollTop = debugOutput.scrollHeight;
+      };
+      
+      console.log('Debug console initialized');
+      console.log('[index.html] typeof MALDataLoader:', typeof MALDataLoader);
+      console.log('[index.html] typeof StorageManager:', typeof StorageManager);
+      console.log('[index.html] typeof AnimeTrackerApp:', typeof AnimeTrackerApp);
+    </script>
+    <script src="./js/app.js"></script>
+  </body>
+</html>

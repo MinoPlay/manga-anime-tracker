@@ -1,0 +1,890 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MyAnimeList API Tests</title>
+    <style>
+      :root {
+        --primary: #1f2937;
+        --success: #10b981;
+        --error: #ef4444;
+        --warning: #f59e0b;
+        --bg: #f3f4f6;
+      }
+
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+        background: var(--bg);
+        padding: 2rem;
+        max-width: 1200px;
+        margin: 0 auto;
+      }
+
+      h1 {
+        color: var(--primary);
+        margin-bottom: 1rem;
+      }
+
+      .test-container {
+        background: white;
+        padding: 1.5rem;
+        border-radius: 0.5rem;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        margin-bottom: 1.5rem;
+      }
+
+      .test-section {
+        margin-bottom: 2rem;
+        border-left: 4px solid var(--primary);
+        padding-left: 1rem;
+      }
+
+      .test-button {
+        background: var(--primary);
+        color: white;
+        border: none;
+        padding: 0.75rem 1.5rem;
+        border-radius: 0.5rem;
+        cursor: pointer;
+        font-size: 1rem;
+        margin-right: 0.5rem;
+        margin-bottom: 1rem;
+      }
+
+      .test-button:hover {
+        background: #374151;
+      }
+
+      .test-button:disabled {
+        background: #9ca3af;
+        cursor: not-allowed;
+      }
+
+      .test-result {
+        background: #f9fafb;
+        border: 1px solid #e5e7eb;
+        border-radius: 0.5rem;
+        padding: 1rem;
+        margin: 0.75rem 0;
+        font-family: 'Courier New', monospace;
+        font-size: 0.875rem;
+        overflow-x: auto;
+      }
+
+      .test-result.pass {
+        border-left: 4px solid var(--success);
+        background: #f0fdf4;
+      }
+
+      .test-result.fail {
+        border-left: 4px solid var(--error);
+        background: #fef2f2;
+      }
+
+      .test-result.loading {
+        border-left: 4px solid var(--warning);
+        background: #fffbeb;
+      }
+
+      .status-badge {
+        display: inline-block;
+        padding: 0.25rem 0.75rem;
+        border-radius: 0.25rem;
+        font-weight: 600;
+        font-size: 0.875rem;
+        margin-right: 0.5rem;
+      }
+
+      .status-badge.pass {
+        background: var(--success);
+        color: white;
+      }
+
+      .status-badge.fail {
+        background: var(--error);
+        color: white;
+      }
+
+      .status-badge.loading {
+        background: var(--warning);
+        color: white;
+      }
+
+      .rate-limit {
+        background: #fef3c7;
+        border: 1px solid #fcd34d;
+        padding: 1rem;
+        border-radius: 0.5rem;
+        margin: 1rem 0;
+      }
+
+      .stats {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        gap: 1rem;
+        margin: 1rem 0;
+      }
+
+      .stat-box {
+        background: #f9fafb;
+        padding: 1rem;
+        border-radius: 0.5rem;
+        text-align: center;
+        border: 1px solid #e5e7eb;
+      }
+
+      .stat-label {
+        font-size: 0.875rem;
+        color: #6b7280;
+      }
+
+      .stat-value {
+        font-size: 1.5rem;
+        font-weight: bold;
+        color: var(--primary);
+      }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 1rem 0;
+      }
+
+      th,
+      td {
+        border: 1px solid #e5e7eb;
+        padding: 0.75rem;
+        text-align: left;
+        font-size: 0.875rem;
+      }
+
+      th {
+        background: #f3f4f6;
+        font-weight: 600;
+      }
+
+      .code-block {
+        background: #1f2937;
+        color: #f3f4f6;
+        padding: 1rem;
+        border-radius: 0.5rem;
+        overflow-x: auto;
+        font-family: 'Courier New', monospace;
+        font-size: 0.875rem;
+        white-space: pre-wrap;
+        word-break: break-all;
+      }
+
+      .error-text {
+        color: var(--error);
+        font-weight: 600;
+      }
+
+      .success-text {
+        color: var(--success);
+        font-weight: 600;
+      }
+
+      .run-all-btn {
+        background: var(--success);
+        padding: 1rem 2rem;
+        font-size: 1.1rem;
+      }
+
+      .run-all-btn:hover {
+        background: #059669;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>🧪 MyAnimeList API Test Suite</h1>
+    <p>Test the MyAnimeList API v2 integration to ensure anime/manga search is working correctly.</p>
+
+    <div class="test-container">
+      <p style="background: #fef2f2; padding: 1rem; border-left: 4px solid #ef4444; border-radius: 0.25rem; margin-bottom: 1rem;">
+        <strong>🔴 Important:</strong> If tests are failing with empty results, click <strong>"🔧 Debug Info"</strong> or <strong>"🌐 Test Connection"</strong> to diagnose the issue. Check browser console (F12 → Console) for detailed logs marked with <strong>[MAL]</strong>.
+      </p>
+
+    <div class="test-container">
+      <div class="stats">
+        <div class="stat-box">
+          <div class="stat-label">Tests Run</div>
+          <div class="stat-value" id="stat-total">0</div>
+        </div>
+        <div class="stat-box">
+          <div class="stat-label">Passed</div>
+          <div class="stat-value success-text" id="stat-passed">0</div>
+        </div>
+        <div class="stat-box">
+          <div class="stat-label">Failed</div>
+          <div class="stat-value error-text" id="stat-failed">0</div>
+        </div>
+        <div class="stat-box">
+          <div class="stat-label">Requests Made</div>
+          <div class="stat-value" id="stat-requests">0</div>
+        </div>
+      </div>
+
+      <div class="rate-limit">
+        <strong>⚠️ Rate Limit:</strong> MyAnimeList API allows 1000+ requests per minute. Tests will pause
+        if limit is reached.
+      </div>
+
+      <button class="test-button run-all-btn" onclick="runAllTests()">
+        ▶️ Run All Tests
+      </button>
+      <button class="test-button" onclick="clearResults()">🗑️ Clear Results</button>
+      <button class="test-button" onclick="testConnection()" style="background: #f59e0b;">
+        🌐 Test Connection
+      </button>
+      <button class="test-button" onclick="showDebugInfo()" style="background: #8b5cf6;">
+        🔧 Debug Info
+      </button>
+    </div>
+
+    <!-- Test Results -->
+    <div id="test-results"></div>
+
+    <!-- Scripts -->
+    <script src="../js/mal-api.js"></script>
+    <script>
+      let testStats = {
+        total: 0,
+        passed: 0,
+        failed: 0,
+        requests: 0
+      };
+
+      // Cache search results to minimize API requests
+      let cachedAnimeSearch = null;
+      let cachedMangaSearch = null;
+      let cachedAnimeDetails = null;
+      let cachedMangaDetails = null;
+
+      const resultsContainer = document.getElementById('test-results');
+
+      /**
+       * Log a test result
+       */
+      function logResult(testName, status, message, details = null) {
+        testStats.total++;
+
+        if (status === 'pass') {
+          testStats.passed++;
+        } else if (status === 'fail') {
+          testStats.failed++;
+        }
+
+        updateStats();
+
+        const resultEl = document.createElement('div');
+        resultEl.className = `test-result ${status}`;
+
+        let html = `
+          <div>
+            <span class="status-badge ${status}">${status.toUpperCase()}</span>
+            <strong>${testName}</strong>
+          </div>
+          <p>${message}</p>
+        `;
+
+        if (details) {
+          html += `<div class="code-block">${escapeHtml(JSON.stringify(details, null, 2))}</div>`;
+        }
+
+        resultEl.innerHTML = html;
+        resultsContainer.appendChild(resultEl);
+      }
+
+      /**
+       * Escape HTML special characters
+       */
+      function escapeHtml(text) {
+        const map = {
+          '&': '&amp;',
+          '<': '&lt;',
+          '>': '&gt;',
+          '"': '&quot;',
+          "'": '&#039;'
+        };
+        return text.replace(/[&<>"']/g, m => map[m]);
+      }
+
+      /**
+       * Update statistics
+       */
+      function updateStats() {
+        document.getElementById('stat-total').textContent = testStats.total;
+        document.getElementById('stat-passed').textContent = testStats.passed;
+        document.getElementById('stat-failed').textContent = testStats.failed;
+        document.getElementById('stat-requests').textContent = testStats.requests;
+      }
+
+      /**
+       * Clear all results
+       */
+      function clearResults() {
+        resultsContainer.innerHTML = '';
+        testStats = { total: 0, passed: 0, failed: 0, requests: 0 };
+        updateStats();
+      }
+
+      /**
+       * Show debug information
+       */
+      async function showDebugInfo() {
+        const debugInfo = malAPI.getDebugInfo();
+        const resultEl = document.createElement('div');
+        resultEl.className = 'test-result';
+        resultEl.style.borderLeftColor = '#8b5cf6';
+        
+        const html = `
+          <div>
+            <strong>🔧 Debug Information</strong>
+          </div>
+          <div class="code-block">${escapeHtml(JSON.stringify(debugInfo, null, 2))}</div>
+          <p>Debug mode: ${malAPI.debug ? '✅ Enabled' : '❌ Disabled'}</p>
+          <p>Check browser console for detailed logs marked with [MAL]</p>
+        `;
+        resultEl.innerHTML = html;
+        resultsContainer.insertBefore(resultEl, resultsContainer.firstChild);
+      }
+
+      /**
+       * Test API connectivity
+       */
+      async function testConnection() {
+        const resultEl = document.createElement('div');
+        resultEl.className = 'test-result loading';
+        resultEl.innerHTML = `
+          <div>
+            <span class="status-badge loading">TESTING</span>
+            <strong>Connection Test</strong>
+          </div>
+          <p>Testing MyAnimeList API connectivity...</p>
+        `;
+        resultsContainer.insertBefore(resultEl, resultsContainer.firstChild);
+
+        try {
+          const result = await malAPI.testConnection();
+          resultEl.className = `test-result ${result.success ? 'pass' : 'fail'}`;
+          resultEl.innerHTML = `
+            <div>
+              <span class="status-badge ${result.success ? 'pass' : 'fail'}">
+                ${result.success ? 'PASS' : 'FAIL'}
+              </span>
+              <strong>Connection Test</strong>
+            </div>
+            <p>${result.message}</p>
+          `;
+        } catch (error) {
+          resultEl.className = 'test-result fail';
+          resultEl.innerHTML = `
+            <div>
+              <span class="status-badge fail">FAIL</span>
+              <strong>Connection Test</strong>
+            </div>
+            <p>Error: ${error.message}</p>
+          `;
+        }
+      }
+
+      /**
+       * Test 1: Check if MAL API is initialized
+       */
+      async function test_jikan_initialized() {
+        try {
+          if (typeof malAPI === 'undefined') {
+            logResult(
+              'MAL API Initialization',
+              'fail',
+              'malAPI object is not defined. Check if mal-api.js is loaded.'
+            );
+            return;
+          }
+
+          if (typeof malAPI.searchAnime !== 'function') {
+            logResult(
+              'MAL API Initialization',
+              'fail',
+              'searchAnime method is not available on malAPI object.'
+            );
+            return;
+          }
+
+          if (typeof malAPI.searchManga !== 'function') {
+            logResult(
+              'MAL API Initialization',
+              'fail',
+              'searchManga method is not available on malAPI object.'
+            );
+            return;
+          }
+
+          logResult(
+            'MAL API Initialization',
+            'pass',
+            'malAPI is properly initialized with search methods.'
+          );
+        } catch (error) {
+          logResult('MAL API Initialization', 'fail', error.message);
+        }
+      }
+
+      /**
+       * Test 2: Search for anime
+       */
+      async function test_search_anime() {
+        try {
+          const results = await malAPI.searchAnime('Naruto');
+          cachedAnimeSearch = results; // Cache for later tests
+          testStats.requests++;
+          updateStats();
+
+          if (!Array.isArray(results)) {
+            logResult('Search Anime', 'fail', 'Results are not an array.', {
+              error: 'Invalid response type',
+              debug: malAPI.getDebugInfo()
+            });
+            return;
+          }
+
+          if (results.length === 0) {
+            logResult('Search Anime', 'fail', 'Search returned empty results.', {
+              error: 'No results from MAL API',
+              suggestion: 'Check browser console for [MAL] logs',
+              debug: malAPI.getDebugInfo()
+            });
+            return;
+          }
+
+          const firstResult = results[0];
+          if (!firstResult.mal_id || !firstResult.title) {
+            logResult('Search Anime', 'fail', 'Results missing expected fields (mal_id, title).', {
+              error: 'Invalid result structure',
+              debug: malAPI.getDebugInfo()
+            });
+            return;
+          }
+
+          logResult(
+            'Search Anime',
+            'pass',
+            `Found ${results.length} results for "Naruto". First result: "${firstResult.title}" (ID: ${firstResult.mal_id})`,
+            {
+              resultCount: results.length,
+              firstResult: {
+                title: firstResult.title,
+                mal_id: firstResult.mal_id,
+                episodes: firstResult.num_episodes,
+                status: firstResult.status
+              }
+            }
+          );
+        } catch (error) {
+          logResult('Search Anime', 'fail', `Error: ${error.message}`, {
+            error: error.message,
+            debug: malAPI.getDebugInfo()
+          });
+        }
+      }
+
+      /**
+       * Test 3: Search for manga
+       */
+      async function test_search_manga() {
+        try {
+          const results = await malAPI.searchManga('One Piece');
+          cachedMangaSearch = results; // Cache for later tests
+          testStats.requests++;
+          updateStats();
+
+          if (!Array.isArray(results)) {
+            logResult('Search Manga', 'fail', 'Results are not an array.', {
+              error: 'Invalid response type',
+              debug: malAPI.getDebugInfo()
+            });
+            return;
+          }
+
+          if (results.length === 0) {
+            logResult('Search Manga', 'fail', 'Search returned empty results.', {
+              error: 'No results from MAL API',
+              suggestion: 'Check browser console for [MAL] logs',
+              debug: malAPI.getDebugInfo()
+            });
+            return;
+          }
+
+          const firstResult = results[0];
+          if (!firstResult.mal_id || !firstResult.title) {
+            logResult('Search Manga', 'fail', 'Results missing expected fields (mal_id, title).', {
+              error: 'Invalid result structure',
+              debug: malAPI.getDebugInfo()
+            });
+            return;
+          }
+
+          logResult(
+            'Search Manga',
+            'pass',
+            `Found ${results.length} results for "One Piece". First result: "${firstResult.title}" (ID: ${firstResult.mal_id})`,
+            {
+              resultCount: results.length,
+              firstResult: {
+                title: firstResult.title,
+                mal_id: firstResult.mal_id,
+                chapters: firstResult.num_chapters,
+                status: firstResult.status
+              }
+            }
+          );
+        } catch (error) {
+          logResult('Search Manga', 'fail', `Error: ${error.message}`, {
+            error: error.message,
+            debug: malAPI.getDebugInfo()
+          });
+        }
+      }
+
+      /**
+       * Test 4: Get anime details
+       */
+      async function test_get_anime_details() {
+        try {
+          // Use cached search results instead of making a new request
+          const searchResults = cachedAnimeSearch;
+
+          if (!searchResults || searchResults.length === 0) {
+            logResult('Get Anime Details', 'fail', 'Cached anime results not available.');
+            return;
+          }
+
+          const animeId = searchResults[0].mal_id;
+          const details = await malAPI.getAnimeDetails(animeId);
+          testStats.requests++;
+          updateStats();
+
+          if (!details) {
+            logResult('Get Anime Details', 'fail', 'getAnimeDetails returned null.');
+            return;
+          }
+
+          if (!details.mal_id || !details.title) {
+            logResult('Get Anime Details', 'fail', 'Details missing expected fields.');
+            return;
+          }
+
+          logResult(
+            'Get Anime Details',
+            'pass',
+            `Successfully fetched details for "${details.title}" (ID: ${animeId})`,
+            {
+              title: details.title,
+              mal_id: details.mal_id,
+              episodes: details.episodes,
+              duration: details.duration,
+              season: details.season,
+              year: details.year,
+              score: details.score,
+              synopsis: details.synopsis ? details.synopsis.substring(0, 100) + '...' : 'N/A'
+            }
+          );
+        } catch (error) {
+          logResult('Get Anime Details', 'fail', `Error: ${error.message}`);
+        }
+      }
+
+      /**
+       * Test 5: Get manga details
+       */
+      async function test_get_manga_details() {
+        try {
+          // Use cached search results instead of making a new request
+          const searchResults = cachedMangaSearch;
+
+          if (!searchResults || searchResults.length === 0) {
+            logResult('Get Manga Details', 'fail', 'Cached manga results not available.');
+            return;
+          }
+
+          const mangaId = searchResults[0].mal_id;
+          const details = await malAPI.getMangaDetails(mangaId);
+          testStats.requests++;
+          updateStats();
+
+          if (!details) {
+            logResult('Get Manga Details', 'fail', 'getMangaDetails returned null.');
+            return;
+          }
+
+          if (!details.mal_id || !details.title) {
+            logResult('Get Manga Details', 'fail', 'Details missing expected fields.');
+            return;
+          }
+
+          logResult(
+            'Get Manga Details',
+            'pass',
+            `Successfully fetched details for "${details.title}" (ID: ${mangaId})`,
+            {
+              title: details.title,
+              mal_id: details.mal_id,
+              chapters: details.chapters,
+              volumes: details.volumes,
+              status: details.status,
+              score: details.score
+            }
+          );
+        } catch (error) {
+          logResult('Get Manga Details', 'fail', `Error: ${error.message}`);
+        }
+      }
+
+      /**
+       * Test 6: Extract metadata from anime
+       */
+      async function test_extract_anime_metadata() {
+        try {
+          // Use cached search results instead of making a new request (0 API calls)
+          const searchResults = cachedAnimeSearch;
+
+          if (!searchResults || searchResults.length === 0) {
+            logResult('Extract Anime Metadata', 'fail', 'Cached anime results not available.');
+            return;
+          }
+
+          const result = searchResults[0];
+          const metadata = malAPI.extractMetadata(result, 'anime');
+
+          if (!metadata.title || !metadata.episodes || !metadata.jikanId) {
+            logResult('Extract Anime Metadata', 'fail', 'Extracted metadata is missing required fields.');
+            return;
+          }
+
+          logResult(
+            'Extract Anime Metadata',
+            'pass',
+            'Successfully extracted anime metadata with all required fields.',
+            {
+              title: metadata.title,
+              englishTitle: metadata.englishTitle,
+              episodes: metadata.episodes,
+              duration: metadata.duration,
+              season: metadata.season,
+              logoUrl: metadata.logoUrl ? 'Present' : 'Missing',
+              genres: metadata.genres.slice(0, 3).join(', '),
+              score: metadata.score
+            }
+          );
+        } catch (error) {
+          logResult('Extract Anime Metadata', 'fail', `Error: ${error.message}`);
+        }
+      }
+
+      /**
+       * Test 7: Extract metadata from manga
+       */
+      async function test_extract_manga_metadata() {
+        try {
+          // Use cached search results instead of making a new request (0 API calls)
+          const searchResults = cachedMangaSearch;
+
+          if (!searchResults || searchResults.length === 0) {
+            logResult('Extract Manga Metadata', 'fail', 'Cached manga results not available.');
+            return;
+          }
+
+          const result = searchResults[0];
+          const metadata = malAPI.extractMetadata(result, 'manga');
+
+          if (!metadata.title || !metadata.episodes || !metadata.jikanId) {
+            logResult(
+              'Extract Manga Metadata',
+              'fail',
+              'Extracted metadata is missing required fields.'
+            );
+            return;
+          }
+
+          logResult(
+            'Extract Manga Metadata',
+            'pass',
+            'Successfully extracted manga metadata with all required fields.',
+            {
+              title: metadata.title,
+              chapters: metadata.episodes, // extractMetadata uses 'episodes' for chapters too
+              genres: metadata.genres.slice(0, 3).join(', '),
+              score: metadata.score,
+              logoUrl: metadata.logoUrl ? 'Present' : 'Missing'
+            }
+          );
+        } catch (error) {
+          logResult('Extract Manga Metadata', 'fail', `Error: ${error.message}`);
+        }
+      }
+
+      /**
+       * Test 8: Error handling - invalid search
+       */
+      async function test_error_handling_invalid_search() {
+        try {
+          // Search with empty string
+          const results = await malAPI.searchAnime('');
+          testStats.requests++;
+          updateStats();
+
+          if (results.length === 0) {
+            logResult(
+              'Error Handling - Invalid Search',
+              'pass',
+              'Empty search query correctly returns no results.'
+            );
+          } else {
+            logResult(
+              'Error Handling - Invalid Search',
+              'fail',
+              'Empty search should return no results but got: ' + results.length
+            );
+          }
+        } catch (error) {
+          logResult(
+            'Error Handling - Invalid Search',
+            'pass',
+            `Correctly handled error: ${error.message}`
+          );
+        }
+      }
+
+      /**
+       * Test 9: Verify response structure
+       */
+      async function test_response_structure() {
+        try {
+          const results = await malAPI.searchAnime('Neon Genesis Evangelion');
+          testStats.requests++;
+          updateStats();
+
+          if (results.length === 0) {
+            logResult('Response Structure', 'fail', 'No results returned.');
+            return;
+          }
+
+          const item = results[0];
+          const requiredFields = [
+            'mal_id',
+            'title',
+            'images',
+            'airing',
+            'synopsis',
+            'year',
+            'season',
+            'episodes',
+            'status'
+          ];
+
+          const missingFields = requiredFields.filter(field => !(field in item));
+
+          if (missingFields.length > 0) {
+            logResult(
+              'Response Structure',
+              'fail',
+              `Missing fields: ${missingFields.join(', ')}`
+            );
+            return;
+          }
+
+          logResult(
+            'Response Structure',
+            'pass',
+            'All expected fields are present in API response.',
+            {
+              fields: requiredFields,
+              sampleItem: {
+                mal_id: item.mal_id,
+                title: item.title,
+                episodes: item.episodes,
+                year: item.year,
+                status: item.status
+              }
+            }
+          );
+        } catch (error) {
+          logResult('Response Structure', 'fail', `Error: ${error.message}`);
+        }
+      }
+
+      /**
+       * Run all tests
+       */
+      async function runAllTests() {
+        const button = event.target;
+        button.disabled = true;
+        button.textContent = '⏳ Running tests...';
+
+        clearResults();
+
+        // Run tests sequentially with delays to avoid rate limiting
+        await test_jikan_initialized();
+        await new Promise(resolve => setTimeout(resolve, 500));
+
+        await test_search_anime();
+        await new Promise(resolve => setTimeout(resolve, 500));
+
+        await test_search_manga();
+        await new Promise(resolve => setTimeout(resolve, 500));
+
+        await test_get_anime_details();
+        await new Promise(resolve => setTimeout(resolve, 500));
+
+        await test_get_manga_details();
+        await new Promise(resolve => setTimeout(resolve, 500));
+
+        await test_extract_anime_metadata();
+        await new Promise(resolve => setTimeout(resolve, 500));
+
+        await test_extract_manga_metadata();
+        await new Promise(resolve => setTimeout(resolve, 500));
+
+        await test_error_handling_invalid_search();
+        await new Promise(resolve => setTimeout(resolve, 500));
+
+        await test_response_structure();
+
+        button.disabled = false;
+        button.textContent = '▶️ Run All Tests';
+
+        // Show summary
+        const passRate =
+          testStats.total > 0
+            ? ((testStats.passed / testStats.total) * 100).toFixed(1)
+            : 0;
+        const summaryEl = document.createElement('div');
+        summaryEl.className = 'test-container';
+        summaryEl.style.marginTop = '2rem';
+
+        let summaryHTML = `
+          <h2>📊 Test Summary</h2>
+          <p><strong>Total Tests:</strong> ${testStats.total}</p>
+          <p><strong>Passed:</strong> <span class="success-text">${testStats.passed}</span></p>
+          <p><strong>Failed:</strong> <span class="error-text">${testStats.failed}</span></p>
+          <p><strong>API Requests:</strong> ${testStats.requests}</p>
+          <p><strong>Pass Rate:</strong> <strong>${passRate}%</strong></p>
+        `;
+
+        if (testStats.failed === 0) {
+          summaryHTML += '<p>✅ All tests passed! MyAnimeList API is working correctly.</p>';
+        } else {
+          summaryHTML += `<p>⚠️ ${testStats.failed} test(s) failed. Check the results above.</p>`;
+        }
+
+        summaryEl.innerHTML = summaryHTML;
+        resultsContainer.appendChild(summaryEl);
+      }
+
+      // Initialize
+      updateStats();
+    </script>
+  </body>
+</html>

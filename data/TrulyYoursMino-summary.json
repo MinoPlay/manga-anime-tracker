@@ -1,0 +1,55 @@
+[
+  {
+    "username": "TrulyYoursMino",
+    "fetchedAt": "2026-03-06T09:29:34.701Z",
+    "statistics": {
+      "totalAnime": 223,
+      "totalManga": 3,
+      "totalEntries": 226,
+      "animeProgress": {
+        "totalEpisodesWatched": 7200,
+        "byStatus": {
+          "plan_to_watch": {
+            "count": 26,
+            "episodesWatched": 0,
+            "averageScore": 0
+          },
+          "completed": {
+            "count": 174,
+            "episodesWatched": 5895,
+            "averageScore": 0.07471264367816093
+          },
+          "watching": {
+            "count": 22,
+            "episodesWatched": 1288,
+            "averageScore": 0
+          },
+          "dropped": {
+            "count": 1,
+            "episodesWatched": 17,
+            "averageScore": 0
+          }
+        }
+      },
+      "mangaProgress": {
+        "totalChaptersRead": 265,
+        "byStatus": {
+          "completed": {
+            "count": 1,
+            "chaptersRead": 201,
+            "averageScore": 0
+          },
+          "reading": {
+            "count": 2,
+            "chaptersRead": 64,
+            "averageScore": 0
+          }
+        }
+      }
+    },
+    "files": {
+      "anime": "TrulyYoursMino-animelist.json",
+      "manga": "TrulyYoursMino-mangalist.json"
+    }
+  }
+]
