@@ -119,6 +119,29 @@ class StorageManager {
   }
 
   /**
+   * Update entry
+   */
+  updateEntry(entryId, updates) {
+    const entry = this.library.entries.find(e => e.id === entryId);
+    if (!entry) {
+      console.error(`Entry not found: ${entryId}`);
+      return null;
+    }
+
+    // Auto-complete progress if status is set to completed
+    if (updates.status === 'completed') {
+      const totalUnits = entry.type === 'manga' ? entry.chapters : entry.episodes;
+      if (totalUnits) {
+        updates.progress = totalUnits;
+      }
+    }
+
+    Object.assign(entry, updates, { lastUpdated: new Date().toISOString() });
+    this.isDirty = true;
+    return entry;
+  }
+
+  /**
    * Update entry status
    */
   updateStatus(entryId, status) {
@@ -201,6 +224,8 @@ class StorageManager {
   getStats() {
     const stats = {
       total: this.library.entries.length,
+      animeCount: this.library.entries.filter(e => e.type === 'anime').length,
+      mangaCount: this.library.entries.filter(e => e.type === 'manga').length,
       watching: this.library.entries.filter(e => e.status === 'watching').length,
       planToWatch: this.library.entries.filter(e => e.status === 'plan-to-watch').length,
       completed: this.library.entries.filter(e => e.status === 'completed').length,

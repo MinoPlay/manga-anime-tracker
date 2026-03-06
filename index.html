@@ -2,34 +2,44 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <title>Anime & Manga Tracker</title>
     <link rel="stylesheet" href="./css/style.css" />
   </head>
   <body>
     <!-- Header -->
-    <header>
-      <h1>📺 Anime & Manga Tracker</h1>
-      <div class="stats-bar">
-        <div class="stat">
+    <header id="app-header">
+      <div class="header-main">
+        <h1>📺 Anime & Manga Tracker</h1>
+      </div>
+      <div class="stats-bar" id="collapsable-menu">
+        <div class="stat filter-stat" id="stat-type-anime" data-type="anime">
+          <span class="stat-label">Anime</span>
+          <span class="stat-value" id="stat-anime-count">0</span>
+        </div>
+        <div class="stat filter-stat" id="stat-type-manga" data-type="manga">
+          <span class="stat-label">Manga</span>
+          <span class="stat-value" id="stat-manga-count">0</span>
+        </div>
+        <div class="stat filter-stat" id="stat-all" data-filter="all">
           <span class="stat-label">Total Entries</span>
           <span class="stat-value" id="stat-total">0</span>
         </div>
-        <div class="stat">
+        <div class="stat filter-stat" id="stat-watching" data-filter="watching">
           <span class="stat-label">Watching</span>
-          <span class="stat-value" id="stat-watching">0</span>
+          <span class="stat-value" id="stat-watching-count">0</span>
         </div>
-        <div class="stat">
+        <div class="stat filter-stat" id="stat-plan" data-filter="plan-to-watch">
           <span class="stat-label">Plan to Watch</span>
-          <span class="stat-value" id="stat-plan">0</span>
+          <span class="stat-value" id="stat-plan-count">0</span>
         </div>
-        <div class="stat">
+        <div class="stat filter-stat" id="stat-completed" data-filter="completed">
           <span class="stat-label">Completed</span>
-          <span class="stat-value" id="stat-completed">0</span>
+          <span class="stat-value" id="stat-completed-count">0</span>
         </div>
-        <div class="stat">
+        <div class="stat filter-stat" id="stat-dropped" data-filter="dropped">
           <span class="stat-label">Dropped</span>
-          <span class="stat-value" id="stat-dropped">0</span>
+          <span class="stat-value" id="stat-dropped-count">0</span>
         </div>
         <div class="stat">
           <span class="stat-label">Total Rewatches</span>
@@ -42,26 +52,13 @@
     <nav class="nav-tabs">
       <button class="tab-btn active" id="tab-library-btn">📚 Library</button>
       <button class="tab-btn" id="tab-add-btn">➕ Add Entry</button>
-      <button class="tab-btn" id="tab-edit-btn">✏️ Edit Info</button>
+      <button class="tab-btn" id="debug-toggle">🛠️ Debug</button>
     </nav>
 
     <!-- Main Container -->
     <div class="container">
       <!-- LIBRARY TAB -->
       <section class="tab-content" id="tab-library" style="display: block">
-        <div class="library-controls">
-          <div class="type-toggle">
-            <button class="type-btn active" id="type-anime">Anime</button>
-            <button class="type-btn" id="type-manga">Manga</button>
-          </div>
-          <div class="filter-group">
-            <button class="filter-btn active" id="filter-all">All</button>
-            <button class="filter-btn" id="filter-watching">Watching</button>
-            <button class="filter-btn" id="filter-plan-to-watch">Plan to Watch</button>
-            <button class="filter-btn" id="filter-completed">Completed</button>
-            <button class="filter-btn" id="filter-dropped">Dropped</button>
-          </div>
-        </div>
         <div id="library-grid"></div>
       </section>
 
@@ -144,9 +141,6 @@
       <div id="debug-output" style="height: 100%; overflow-y: auto;"></div>
     </div>
     
-    <!-- Debug Toggle Button -->
-    <button id="debug-toggle" style="position: fixed; bottom: 20px; right: 20px; padding: 10px 15px; background: #00ff00; color: #000; border: none; border-radius: 5px; cursor: pointer; font-weight: bold; z-index: 9999;">Debug</button>
-
     <!-- Scripts -->
     <script src="./js/mal-api.js"></script>
     <script src="./js/data-loader.js"></script>
