@@ -1,0 +1,95 @@
+name: Daily MAL Data Export
+
+on:
+  schedule:
+    # 5:00 AM UTC = 6:00 AM Danish winter time (CET) / 7:00 AM summer time (CEST)
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  export-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch user data from MyAnimeList
+        env:
+          MAL_USERNAME: TrulyYoursMino
+          USE_PROXY: 'false'
+        run: node fetch-user-data.js
+
+      - name: Export data by status
+        env:
+          MAL_USERNAME: TrulyYoursMino
+        run: node export-by-status.js
+
+      - name: Sanitize and optimize data
+        run: node sanitize-user-data.js
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git diff --quiet data/ sanitized_data/ \
+            && echo "has_changes=false" >> "$GITHUB_OUTPUT" \
+            || echo "has_changes=true" >> "$GITHUB_OUTPUT"
+
+      - name: Create branch and commit changes
+        id: create_branch
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          BRANCH="data-export/$(date -u +'%Y-%m-%d-%H%M')"
+          echo "branch=$BRANCH" >> "$GITHUB_OUTPUT"
+
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git checkout -b "$BRANCH"
+          git add data/ sanitized_data/
+          git commit -m "chore: daily MAL data export $(date -u +'%Y-%m-%d')"
+          git push origin "$BRANCH"
+
+      - name: Create pull request
+        id: create_pr
+        if: steps.check_changes.outputs.has_changes == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          PR_URL=$(gh pr create \
+            --base main \
+            --head "${{ steps.create_branch.outputs.branch }}" \
+            --title "chore: daily MAL data export $(date -u +'%Y-%m-%d')" \
+            --body "Automated daily export of anime and manga lists from MyAnimeList.
+
+          **What changed**
+          - Raw list data in \`data/\`
+          - Per-status split files in \`data/\`
+          - Sanitized/optimized data in \`sanitized_data/\`
+
+          *This PR was created and merged automatically by the [Daily MAL Data Export](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}) workflow.*")
+
+          echo "pr_url=$PR_URL" >> "$GITHUB_OUTPUT"
+
+      - name: Auto-merge pull request (squash)
+        if: steps.check_changes.outputs.has_changes == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh pr merge "${{ steps.create_pr.outputs.pr_url }}" \
+            --squash \
+            --auto \
+            --delete-branch
+
+      - name: No changes detected
+        if: steps.check_changes.outputs.has_changes == 'false'
+        run: echo "✅ No data changes detected — skipping PR creation."
