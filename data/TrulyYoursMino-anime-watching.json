@@ -4,8 +4,8 @@
       "id": 61026,
       "title": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1276/151118.jpg",
-        "large": "https://myanimelist.net/images/anime/1276/151118l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1276/151118.webp",
+        "large": "https://myanimelist.net/images/anime/1276/151118l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -37,8 +37,8 @@
       "start_date": "2025-10-07",
       "end_date": "2025-12-23",
       "mean": 6.58,
-      "rank": 6981,
-      "popularity": 1672,
+      "rank": 7119,
+      "popularity": 1654,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -57,12 +57,15 @@
       "id": 60420,
       "title": "Cang Yuan Tu 2",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1530/146755.jpg",
-        "large": "https://myanimelist.net/images/anime/1530/146755l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1403/155838.jpg",
+        "large": "https://myanimelist.net/images/anime/1403/155838l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
-          "Azure Legacy"
+          "Cang Yuan Tu 2nd Season",
+          "The Demon Hunter 2nd Season",
+          "沧元图 第二季",
+          "Azure Legacy 2nd Season"
         ],
         "en": "The Demon Hunter 2",
         "ja": "沧元图2"
@@ -89,13 +92,13 @@
           "name": "Martial Arts"
         }
       ],
-      "synopsis": "The second season of Cang Yuan Tu.",
+      "synopsis": "Second season of Cang Yuan Tu.",
       "num_episodes": 36,
       "start_date": "2024-12-06",
       "end_date": "2025-08-01",
       "mean": 8.19,
       "rank": 440,
-      "popularity": 12270,
+      "popularity": 12242,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -148,7 +151,7 @@
       "num_episodes": 156,
       "start_date": "2023-06-24",
       "mean": 8.06,
-      "rank": 632,
+      "rank": 621,
       "popularity": 8371,
       "nsfw": "white",
       "media_type": "ona",
@@ -203,9 +206,9 @@
       "synopsis": "Fifth season of Doupo Cangqiong.",
       "num_episodes": 209,
       "start_date": "2022-07-31",
-      "mean": 8.43,
-      "rank": 201,
-      "popularity": 6653,
+      "mean": 8.41,
+      "rank": 214,
+      "popularity": 6654,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -223,8 +226,8 @@
       "id": 47160,
       "title": "Goblin Slayer II",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1100/138338.jpg",
-        "large": "https://myanimelist.net/images/anime/1100/138338l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1100/138338.webp",
+        "large": "https://myanimelist.net/images/anime/1100/138338l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -255,9 +258,9 @@
       "num_episodes": 12,
       "start_date": "2023-10-06",
       "end_date": "2023-12-22",
-      "mean": 7.2,
-      "rank": 3592,
-      "popularity": 660,
+      "mean": 7.21,
+      "rank": 3544,
+      "popularity": 658,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -275,8 +278,8 @@
       "id": 54362,
       "title": "Hametsu no Oukoku",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1610/138189.webp",
-        "large": "https://myanimelist.net/images/anime/1610/138189l.webp"
+        "medium": "https://myanimelist.net/images/anime/1610/138189.jpg",
+        "large": "https://myanimelist.net/images/anime/1610/138189l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -314,7 +317,7 @@
       "start_date": "2023-10-07",
       "end_date": "2023-12-23",
       "mean": 6.22,
-      "rank": 9206,
+      "rank": 9378,
       "popularity": 1228,
       "nsfw": "white",
       "media_type": "tv",
@@ -330,19 +333,74 @@
   },
   {
     "node": {
-      "id": 54492,
-      "title": "Kusuriya no Hitorigoto",
+      "id": 60460,
+      "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1708/138033.jpg",
-        "large": "https://myanimelist.net/images/anime/1708/138033l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1151/152479.jpg",
+        "large": "https://myanimelist.net/images/anime/1151/152479l.jpg"
+      },
+      "alternative_titles": {
+        "synonyms": [],
+        "en": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
+        "ja": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～"
+      },
+      "genres": [
+        {
+          "id": 1,
+          "name": "Action"
+        },
+        {
+          "id": 2,
+          "name": "Adventure"
+        },
+        {
+          "id": 10,
+          "name": "Fantasy"
+        },
+        {
+          "id": 62,
+          "name": "Isekai"
+        },
+        {
+          "id": 72,
+          "name": "Reincarnation"
+        }
+      ],
+      "synopsis": "\"Level up even while offline?! That's not a game on 'easy mode'—that's just an AFK game!\" The online game Kenichi Yamada had been playing religiously is shutting down its servers, leaving him with a void in his heart. He looks for a new game to fill it, but everything he finds is way too easy. The kind of game he likes—the kind punishing enough to make players want to spend thousands of hours on it—just isn't around anymore.\n\n\"What's this? 'You are invited to a game that will never end.'\" Kenichi stumbles upon an untitled game, one promising incomparable challenge with unprecedented potential. Without hesitation, he selects the \"Hell Mode\" difficulty. Lo and behold, he finds himself reincarnated in another world as a serf! Now called Allen, he sets out to unlock the secrets of his mystery-laden Summoner class; without the convenience of walkthroughs, game guides, or online forums, he must grope his way to the top of his new world!\n\n(Source: J-Novel Club)",
+      "num_episodes": 12,
+      "start_date": "2026-01-10",
+      "end_date": "2026-03-28",
+      "mean": 6.88,
+      "rank": 5275,
+      "popularity": 3719,
+      "nsfw": "white",
+      "media_type": "tv",
+      "status": "currently_airing"
+    },
+    "list_status": {
+      "status": "watching",
+      "score": 0,
+      "num_episodes_watched": 10,
+      "is_rewatching": false,
+      "updated_at": "2026-03-15T20:59:04+00:00",
+      "start_date": "2026-03-15"
+    }
+  },
+  {
+    "node": {
+      "id": 58514,
+      "title": "Kusuriya no Hitorigoto 2nd Season",
+      "main_picture": {
+        "medium": "https://myanimelist.net/images/anime/1025/147458.jpg",
+        "large": "https://myanimelist.net/images/anime/1025/147458l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
           "The Pharmacist's Monologue",
           "Drugstore Soliloquy"
         ],
-        "en": "The Apothecary Diaries",
-        "ja": "薬屋のひとりごと"
+        "en": "The Apothecary Diaries Season 2",
+        "ja": "薬屋のひとりごと 第2期"
       },
       "genres": [
         {
@@ -362,13 +420,13 @@
           "name": "Mystery"
         }
       ],
-      "synopsis": "Maomao, an apothecary's daughter, has been plucked from her peaceful life and sold to the lowest echelons of the imperial court. Now merely a maid, Maomao settles into her new mundane life and hides her extensive knowledge of medicine in order to avoid any unwanted attention.\n\nNot long after Maomao's arrival, the emperor's infant children inexplicably begin to experience grave symptoms—almost as if a curse has been cast. The curious Maomao easily solves the mystery and, to remain out of the limelight, attempts to leave an anonymous tip. Unfortunately, the dashing and perceptive eunuch Jinshi sees through it and manages to single her out.\n\nIn recognition of her talent, Maomao is promoted to lady-in-waiting for the emperor's favorite concubine, Gyokuyou. As Maomao continues to remedy the numerous ailments afflicting the imperial court, her pharmaceutical expertise quickly proves indispensable.\n\n[Written by MAL Rewrite]",
+      "synopsis": "Using her wit and vast knowledge of medicines and poisons alike, Maomao played a pivotal role in solving a series of mysteries and conspiracies that plagued the imperial court. Having recently come to terms with the secrets of her parents, she returns to fulfill her normal duties on behalf of the emperor's highest-ranking consorts. Maomao also works alongside the eunuch Jinshi to better the consorts' many ladies-in-waiting, including helping them learn to read.\n\nHowever, with the arrival of a merchant caravan comes a new wave of intrigue. A pattern of strange coincidences involving the visitors and their wares unsettles Maomao, driving her to investigate the puzzling circumstances behind the convoy. As dangers from both outside and within threaten the balance between the imperial concubines, Maomao continues to utilize her cunning and medical expertise to keep the women safe from harm.\n\n[Written by MAL Rewrite]",
       "num_episodes": 24,
-      "start_date": "2023-10-22",
-      "end_date": "2024-03-24",
-      "mean": 8.85,
-      "rank": 29,
-      "popularity": 279,
+      "start_date": "2025-01-10",
+      "end_date": "2025-07-04",
+      "mean": 8.91,
+      "rank": 22,
+      "popularity": 538,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -376,9 +434,10 @@
     "list_status": {
       "status": "watching",
       "score": 0,
-      "num_episodes_watched": 11,
+      "num_episodes_watched": 0,
       "is_rewatching": false,
-      "updated_at": "2023-12-17T19:09:51+00:00"
+      "updated_at": "2026-03-12T11:08:51+00:00",
+      "start_date": "2026-03-12"
     }
   },
   {
@@ -416,8 +475,8 @@
       "start_date": "2024-07-13",
       "end_date": "2024-09-28",
       "mean": 6.23,
-      "rank": 9150,
-      "popularity": 1890,
+      "rank": 9340,
+      "popularity": 1886,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -462,9 +521,9 @@
       "synopsis": "The entire universe is divided into the inner universe and the outer universe. The two universes are enemies of each other. The outer universe is ruled by demons, and the inner universe is divided into The Realm of gods, the Eternal Realm, and the Mortal Realm. In the universe, there are countless mortal worlds like the Tianfa Continent, and they are collectively referred to as the Jiutian Xin Region. In the field of Jiutian Xin, nine immortal emperors commanded all star fields in nine layers. Above the nine heavens is the realm of purification of immortal gods. \n\n(Source: AnimeXin)",
       "num_episodes": 580,
       "start_date": "2021-07-16",
-      "mean": 7.28,
-      "rank": 3098,
-      "popularity": 10211,
+      "mean": 7.27,
+      "rank": 3208,
+      "popularity": 10221,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -475,6 +534,56 @@
       "num_episodes_watched": 329,
       "is_rewatching": false,
       "updated_at": "2024-09-15T14:10:28+00:00"
+    }
+  },
+  {
+    "node": {
+      "id": 61549,
+      "title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni",
+      "main_picture": {
+        "medium": "https://myanimelist.net/images/anime/1264/153908.jpg",
+        "large": "https://myanimelist.net/images/anime/1264/153908l.jpg"
+      },
+      "alternative_titles": {
+        "synonyms": [
+          "Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City",
+          "Fun Territory Defense by the Optimistic Lord"
+        ],
+        "en": "Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City",
+        "ja": "お気楽領主の楽しい領地防衛～生産系魔術で名もなき村を最強の城塞都市に～"
+      },
+      "genres": [
+        {
+          "id": 10,
+          "name": "Fantasy"
+        },
+        {
+          "id": 62,
+          "name": "Isekai"
+        },
+        {
+          "id": 72,
+          "name": "Reincarnation"
+        }
+      ],
+      "synopsis": "Van, the fourth son of a powerful noble, is only two years old when he remembers his past life as a salaryman in Japan. With his adult brain in a young body, he's considered a child prodigy...until he displays the \"Production Magic\" skill when he turns eight. In a family that favors offensive magic, this crafting skill is considered useless in battle, and Van is banished to oversee a tiny country town in disgrace. With only his personal maid, the memories of his past life, and his \"worthless\" magic, can Van improve the fortunes of this little village—and himself?\n\n(Source: Seven Seas Entertainment)",
+      "num_episodes": 12,
+      "start_date": "2026-01-10",
+      "end_date": "2026-03-28",
+      "mean": 6.83,
+      "rank": 5579,
+      "popularity": 3566,
+      "nsfw": "white",
+      "media_type": "tv",
+      "status": "currently_airing"
+    },
+    "list_status": {
+      "status": "watching",
+      "score": 0,
+      "num_episodes_watched": 10,
+      "is_rewatching": false,
+      "updated_at": "2026-03-12T19:39:40+00:00",
+      "start_date": "2026-03-12"
     }
   },
   {
@@ -513,7 +622,7 @@
       "start_date": "2022-07-05",
       "end_date": "2022-09-27",
       "mean": 8.06,
-      "rank": 625,
+      "rank": 630,
       "popularity": 391,
       "nsfw": "white",
       "media_type": "tv",
@@ -560,8 +669,8 @@
       "synopsis": "Revealing himself to be a Dual Knight, Long Hao Chen triumphs in his match within his temple and advances to the finals. But before the grand finals can begin, ranking matches are conducted in each temple to determine the strongest within. During the rankings, Hao Chen is injured, enraging Sheng Cai'er and driving her to seek vengeance for what happened to him. Her actions cause a fight between the Knight Temple and Assassin Temple, only to be subdued after a shocking revelation—that Sheng Cai'er is a Reincarnated Saint.\n\nThe finals for the Demon Hunting Team Competition begin with the division of the sixty remaining participants into six groups. The top sixteen participants are then further pitted against each other to determine the top three. Each of the top three will be rewarded with a spiritual stove and the right to pick their teammates.\n\nIn order to become a knight that is capable of defeating the Demon Lord, Long Hao Chen must strive to be first in this competition so he can select the best teammates to give him a fighting chance.\n\n[Written by MAL Rewrite]",
       "num_episodes": 0,
       "start_date": "2022-11-10",
-      "mean": 8.22,
-      "rank": 406,
+      "mean": 8.21,
+      "rank": 419,
       "popularity": 8043,
       "nsfw": "white",
       "media_type": "ona",
@@ -580,8 +689,8 @@
       "id": 57442,
       "title": "Shixiong A Shixiong 2nd Season",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1578/153464.webp",
-        "large": "https://myanimelist.net/images/anime/1578/153464l.webp"
+        "medium": "https://myanimelist.net/images/anime/1578/153464.jpg",
+        "large": "https://myanimelist.net/images/anime/1578/153464l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -617,8 +726,8 @@
       "start_date": "2023-12-14",
       "end_date": "2024-05-30",
       "mean": 7.64,
-      "rank": 1548,
-      "popularity": 12437,
+      "rank": 1573,
+      "popularity": 12435,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -636,8 +745,8 @@
       "id": 48736,
       "title": "Sono Bisque Doll wa Koi wo Suru",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1179/119897.jpg",
-        "large": "https://myanimelist.net/images/anime/1179/119897l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1179/119897.webp",
+        "large": "https://myanimelist.net/images/anime/1179/119897l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -670,7 +779,7 @@
       "start_date": "2022-01-09",
       "end_date": "2022-03-27",
       "mean": 8.13,
-      "rank": 515,
+      "rank": 532,
       "popularity": 121,
       "nsfw": "white",
       "media_type": "tv",
@@ -687,64 +796,11 @@
   },
   {
     "node": {
-      "id": 52991,
-      "title": "Sousou no Frieren",
-      "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1015/138006.webp",
-        "large": "https://myanimelist.net/images/anime/1015/138006l.webp"
-      },
-      "alternative_titles": {
-        "synonyms": [
-          "Frieren at the Funeral",
-          "Frieren The Slayer"
-        ],
-        "en": "Frieren: Beyond Journey's End",
-        "ja": "葬送のフリーレン"
-      },
-      "genres": [
-        {
-          "id": 2,
-          "name": "Adventure"
-        },
-        {
-          "id": 8,
-          "name": "Drama"
-        },
-        {
-          "id": 10,
-          "name": "Fantasy"
-        },
-        {
-          "id": 27,
-          "name": "Shounen"
-        }
-      ],
-      "synopsis": "During their decade-long quest to defeat the Demon King, the members of the hero's party—Himmel himself, the priest Heiter, the dwarf warrior Eisen, and the elven mage Frieren—forge bonds through adventures and battles, creating unforgettable precious memories for most of them.\n\nHowever, the time that Frieren spends with her comrades is equivalent to merely a fraction of her life, which has lasted over a thousand years. When the party disbands after their victory, Frieren casually returns to her \"usual\" routine of collecting spells across the continent. Due to her different sense of time, she seemingly holds no strong feelings toward the experiences she went through.\n\nAs the years pass, Frieren gradually realizes how her days in the hero's party truly impacted her. Witnessing the deaths of two of her former companions, Frieren begins to regret having taken their presence for granted; she vows to better understand humans and create real personal connections. Although the story of that once memorable journey has long ended, a new tale is about to begin.\n\n[Written by MAL Rewrite]",
-      "num_episodes": 28,
-      "start_date": "2023-09-29",
-      "end_date": "2024-03-22",
-      "mean": 9.28,
-      "rank": 1,
-      "popularity": 108,
-      "nsfw": "white",
-      "media_type": "tv",
-      "status": "finished_airing"
-    },
-    "list_status": {
-      "status": "watching",
-      "score": 0,
-      "num_episodes_watched": 10,
-      "is_rewatching": false,
-      "updated_at": "2023-11-12T15:02:14+00:00"
-    }
-  },
-  {
-    "node": {
       "id": 50602,
       "title": "Spy x Family Part 2",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1111/127508.jpg",
-        "large": "https://myanimelist.net/images/anime/1111/127508l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1111/127508.webp",
+        "large": "https://myanimelist.net/images/anime/1111/127508l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -778,7 +834,7 @@
       "start_date": "2022-10-01",
       "end_date": "2022-12-24",
       "mean": 8.2,
-      "rank": 431,
+      "rank": 434,
       "popularity": 156,
       "nsfw": "white",
       "media_type": "tv",
@@ -790,6 +846,61 @@
       "num_episodes_watched": 3,
       "is_rewatching": false,
       "updated_at": "2023-12-17T14:39:40+00:00"
+    }
+  },
+  {
+    "node": {
+      "id": 61207,
+      "title": "Tensei shitara Dragon no Tamago datta",
+      "main_picture": {
+        "medium": "https://myanimelist.net/images/anime/1250/156107.jpg",
+        "large": "https://myanimelist.net/images/anime/1250/156107l.jpg"
+      },
+      "alternative_titles": {
+        "synonyms": [],
+        "en": "Reincarnated as a Dragon Hatchling",
+        "ja": "転生したらドラゴンの卵だった"
+      },
+      "genres": [
+        {
+          "id": 1,
+          "name": "Action"
+        },
+        {
+          "id": 2,
+          "name": "Adventure"
+        },
+        {
+          "id": 10,
+          "name": "Fantasy"
+        },
+        {
+          "id": 62,
+          "name": "Isekai"
+        },
+        {
+          "id": 72,
+          "name": "Reincarnation"
+        }
+      ],
+      "synopsis": "Our hero wakes up one day in a brand new world…but his new life doesn’t come with fighting skills or magic powers, or even arms and legs! He’s reborn as a helpless egg, stuck in an unfamiliar forest surrounded by terrifying, hungry beasts. But eggs hatch, hatchlings grow up, and humble beginnings can lead to something great. He’ll do his best to become the strongest dragon ever, and no measly shell will get in his way!\n\n(Source: Seven Seas Entertainment)",
+      "num_episodes": 12,
+      "start_date": "2026-01-10",
+      "end_date": "2026-03-28",
+      "mean": 6.46,
+      "rank": 7946,
+      "popularity": 4721,
+      "nsfw": "white",
+      "media_type": "tv",
+      "status": "currently_airing"
+    },
+    "list_status": {
+      "status": "watching",
+      "score": 0,
+      "num_episodes_watched": 9,
+      "is_rewatching": false,
+      "updated_at": "2026-03-12T13:23:13+00:00",
+      "start_date": "2026-03-12"
     }
   },
   {
@@ -834,7 +945,7 @@
       "num_episodes": 175,
       "start_date": "2023-10-03",
       "mean": 8.37,
-      "rank": 249,
+      "rank": 252,
       "popularity": 8977,
       "nsfw": "white",
       "media_type": "ona",
@@ -854,15 +965,13 @@
       "id": 52765,
       "title": "Wan Jie Du Zun 2nd Season",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1937/127040.jpg",
-        "large": "https://myanimelist.net/images/anime/1937/127040l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1937/127040.webp",
+        "large": "https://myanimelist.net/images/anime/1937/127040l.webp"
       },
       "alternative_titles": {
-        "synonyms": [
-          "Ten Thousand Worlds 2nd Season"
-        ],
-        "en": "Ten Thousand Worlds",
-        "ja": "万界独尊"
+        "synonyms": [],
+        "en": "Ten Thousand Worlds 2nd Season",
+        "ja": "万界独尊 第二季"
       },
       "genres": [
         {
@@ -886,13 +995,13 @@
           "name": "Martial Arts"
         }
       ],
-      "synopsis": "The second season of Wan Jie Du Zun.",
+      "synopsis": "Second season of Wan Jie Du Zun.",
       "num_episodes": 224,
       "start_date": "2022-08-16",
       "end_date": "2024-10-01",
-      "mean": 7.34,
-      "rank": 2808,
-      "popularity": 11454,
+      "mean": 7.33,
+      "rank": 2908,
+      "popularity": 11461,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -947,8 +1056,8 @@
       "num_episodes": 286,
       "start_date": "2021-04-23",
       "mean": 7.86,
-      "rank": 974,
-      "popularity": 6248,
+      "rank": 994,
+      "popularity": 6257,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1003,9 +1112,9 @@
       "synopsis": "The protagonist Qin Chen, who was originally the top genius in the military domain, was conspired by the people to fall into the death canyon in the forbidden land of the mainland. Qin Chen, who was inevitably dead, unexpectedly triggered the power of the mysterious ancient sword.\n\nThree hundred years later, in a remote part of the Tianwu mainland, a boy of the same name accidentally inherited Qin Chen’s will. As the beloved grandson of King Dingwu of the Daqi National Army, due to the birth father’s birth, the mother and son were treated coldly in Dingwu’s palace and lived together. In order to rewrite the myth of the strong man in hope of the sun, and to protect everything he loves, Qin Chen resolutely took up the responsibility of maintaining the five kingdoms of the world and set foot on the road of martial arts again.",
       "num_episodes": 720,
       "start_date": "2020-03-08",
-      "mean": 7.57,
-      "rank": 1810,
-      "popularity": 8412,
+      "mean": 7.56,
+      "rank": 1864,
+      "popularity": 8422,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1056,11 +1165,11 @@
         }
       ],
       "synopsis": "Wang Lin is a very smart boy with loving parents. Although he and his parents are shunned by the rest of their relatives, his parents have always held high hopes that he will one day achieve greatness. One day, Wang Lin suddenly gained the chance to walk the path of an immortal but found that he only had mediocre talent at best. Watch Wang Lin as he breaks through his lack of talent and walks the path towards becoming a real immortal!\n\n(Source: Xian Ni Wiki)",
-      "num_episodes": 0,
+      "num_episodes": 180,
       "start_date": "2023-09-25",
-      "mean": 8.46,
-      "rank": 182,
-      "popularity": 7064,
+      "mean": 8.47,
+      "rank": 179,
+      "popularity": 7027,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1078,8 +1187,8 @@
       "id": 56717,
       "title": "Xianwu Zhuan 2nd Season",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1269/150045.jpg",
-        "large": "https://myanimelist.net/images/anime/1269/150045l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1269/150045.webp",
+        "large": "https://myanimelist.net/images/anime/1269/150045l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1113,9 +1222,9 @@
       "synopsis": "Ye Chen, the outcast disciple, is banished from the sect and becomes homeless. Through a series of coincidences, he receives a True Flame and once again steps on the path of cultivation. This is a world where demons and deities co-exist and an era where all realms in the world are overrun by chaos. Ye Chen's journey to defying heaven begins, and after going through all kinds of trials and tribulations, he finally reaches the pinnacle of cultivation.\n\n(Source: Youku)",
       "num_episodes": 147,
       "start_date": "2023-09-24",
-      "mean": 7.37,
-      "rank": 2643,
-      "popularity": 12113,
+      "mean": 7.36,
+      "rank": 2744,
+      "popularity": 12117,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1133,8 +1242,8 @@
       "id": 56215,
       "title": "Yi Nian Yong Heng 3rd Season",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1105/150044.jpg",
-        "large": "https://myanimelist.net/images/anime/1105/150044l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1105/150044.webp",
+        "large": "https://myanimelist.net/images/anime/1105/150044l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1175,9 +1284,9 @@
       "num_episodes": 59,
       "start_date": "2024-07-03",
       "end_date": "2025-07-22",
-      "mean": 8.22,
-      "rank": 408,
-      "popularity": 10181,
+      "mean": 8.23,
+      "rank": 396,
+      "popularity": 10177,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1188,6 +1297,55 @@
       "num_episodes_watched": 7,
       "is_rewatching": false,
       "updated_at": "2024-11-17T12:47:35+00:00"
+    }
+  },
+  {
+    "node": {
+      "id": 61128,
+      "title": "Yuusha Party wo Oidasareta Kiyoubinbou",
+      "main_picture": {
+        "medium": "https://myanimelist.net/images/anime/1486/153135.jpg",
+        "large": "https://myanimelist.net/images/anime/1486/153135l.jpg"
+      },
+      "alternative_titles": {
+        "synonyms": [
+          "Yuusya Party wo Oidasareta Kiyou Bimbou"
+        ],
+        "en": "Jack-of-All-Trades, Party of None",
+        "ja": "勇者パーティを追い出された器用貧乏"
+      },
+      "genres": [
+        {
+          "id": 1,
+          "name": "Action"
+        },
+        {
+          "id": 2,
+          "name": "Adventure"
+        },
+        {
+          "id": 10,
+          "name": "Fantasy"
+        }
+      ],
+      "synopsis": "\"Orn Doula, today will be your last day in the party.\"\n\nOrn, once a skilled Swordsman, had adapted to the role of Enchanter to fill a crucial gap in the Hero Party. However, one day, the party leader abruptly dismisses him, claiming his skills are lacking. Branded a \"weakling\" and a \"jack of all trades, master of none,\" by his former comrades, Orn is cast out without a second thought.\n\nDetermined to start anew, he returns to adventuring—this time as a Swordsman, the role he originally excelled in. But his time as an Enchanter was far from wasted. The experience, knowledge, and countless original spells he developed in the Hero Party have forged him into a warrior unlike any other. Now, armed with an unconventional set of skills, Orn is ready to carve his own path—one that will prove his true strength to the world.\n\n(Source: MAL News)",
+      "num_episodes": 12,
+      "start_date": "2026-01-04",
+      "end_date": "2026-03-19",
+      "mean": 6.65,
+      "rank": 6748,
+      "popularity": 2581,
+      "nsfw": "white",
+      "media_type": "tv",
+      "status": "currently_airing"
+    },
+    "list_status": {
+      "status": "watching",
+      "score": 0,
+      "num_episodes_watched": 9,
+      "is_rewatching": false,
+      "updated_at": "2026-03-12T11:10:00+00:00",
+      "start_date": "2026-03-12"
     }
   }
 ]
