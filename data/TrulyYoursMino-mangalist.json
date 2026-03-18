@@ -1,6 +1,56 @@
 [
   {
     "node": {
+      "id": 147317,
+      "title": "Lout of Count's Family",
+      "main_picture": {
+        "medium": "https://myanimelist.net/images/manga/2/261316.webp",
+        "large": "https://myanimelist.net/images/manga/2/261316l.webp"
+      },
+      "alternative_titles": {
+        "synonyms": [
+          "Trash of the Count's Family",
+          "Baekjakga-ui Mangnani-ga Doeeotda"
+        ],
+        "en": "Lout of Count's Family",
+        "ja": "백작가의 망나니가 되었다"
+      },
+      "genres": [
+        {
+          "id": 10,
+          "name": "Fantasy"
+        },
+        {
+          "id": 62,
+          "name": "Isekai"
+        },
+        {
+          "id": 73,
+          "name": "Reincarnation"
+        }
+      ],
+      "synopsis": "Birth of a Hero is an ordinary novel where the kind protagonist, Choi Han, loses everyone he loves and falls deep into desperation. In order to get revenge, he leaves his home and heads to a nearby city where he beats up a low-life, drunken noble who was getting on his nerves, a barely relevant moment for this soon-to-be hero's journey.\n\nUnfortunately for Kim Roksu, he wakes up as Cale Henituse—the same drunkard noble who is destined to be beaten by Choi Han. However, Roksu has no intentions of letting the story keep its course and intends to live a peaceful life instead.  Using his knowledge of the novel from his previous life and the wealth from his current one, he plans to protect himself with the help of ancient spells in case he encounters the main lead.\n\nCale's wish to be free of worries for the rest of his days sounds easy on paper, but his actions might take him and the story in a completely different direction.\n\n[Written by MAL Rewrite]",
+      "num_chapters": 0,
+      "start_date": "2020-08-31",
+      "mean": 7.79,
+      "rank": 1502,
+      "popularity": 645,
+      "nsfw": "white",
+      "media_type": "manhwa",
+      "status": "currently_publishing"
+    },
+    "list_status": {
+      "status": "reading",
+      "is_rereading": false,
+      "num_volumes_read": 0,
+      "num_chapters_read": 89,
+      "score": 0,
+      "updated_at": "2026-03-14T11:31:56+00:00",
+      "start_date": "2026-03-14"
+    }
+  },
+  {
+    "node": {
       "id": 121496,
       "title": "Solo Leveling",
       "main_picture": {
@@ -41,8 +91,8 @@
       "num_chapters": 201,
       "start_date": "2018-03-04",
       "end_date": "2023-05-31",
-      "mean": 8.59,
-      "rank": 106,
+      "mean": 8.58,
+      "rank": 115,
       "popularity": 5,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -84,7 +134,7 @@
       "num_chapters": 0,
       "start_date": "2013-08-22",
       "mean": 7.9,
-      "rank": 1063,
+      "rank": 1101,
       "popularity": 405,
       "nsfw": "white",
       "media_type": "light_novel",
@@ -140,7 +190,7 @@
       "num_chapters": 0,
       "start_date": "2010-07-05",
       "mean": 8.34,
-      "rank": 296,
+      "rank": 304,
       "popularity": 42,
       "nsfw": "white",
       "media_type": "manhwa",
