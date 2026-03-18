@@ -87,7 +87,6 @@ jobs:
         run: |
           gh pr merge "${{ steps.create_pr.outputs.pr_url }}" \
             --squash \
-            --auto \
             --delete-branch
 
       - name: No changes detected
