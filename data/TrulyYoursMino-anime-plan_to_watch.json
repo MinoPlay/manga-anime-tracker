@@ -56,8 +56,8 @@
       "id": 52995,
       "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1553/145597.webp",
-        "large": "https://myanimelist.net/images/anime/1553/145597l.webp"
+        "medium": "https://myanimelist.net/images/anime/1553/145597.jpg",
+        "large": "https://myanimelist.net/images/anime/1553/145597l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -93,7 +93,7 @@
       "start_date": "2024-10-14",
       "end_date": "2025-02-17",
       "mean": 7.02,
-      "rank": 4569,
+      "rank": 4574,
       "popularity": 1393,
       "nsfw": "white",
       "media_type": "tv",
@@ -112,8 +112,8 @@
       "id": 10218,
       "title": "Berserk: Ougon Jidai-hen I - Haou no Tamago",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/12/62179.jpg",
-        "large": "https://myanimelist.net/images/anime/12/62179l.jpg"
+        "medium": "https://myanimelist.net/images/anime/12/62179.webp",
+        "large": "https://myanimelist.net/images/anime/12/62179l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -187,8 +187,8 @@
       "id": 12113,
       "title": "Berserk: Ougon Jidai-hen II - Doldrey Kouryaku",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/12/37193.webp",
-        "large": "https://myanimelist.net/images/anime/12/37193l.webp"
+        "medium": "https://myanimelist.net/images/anime/12/37193.jpg",
+        "large": "https://myanimelist.net/images/anime/12/37193l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -241,8 +241,8 @@
       "start_date": "2012-06-23",
       "end_date": "2012-06-23",
       "mean": 7.87,
-      "rank": 951,
-      "popularity": 1209,
+      "rank": 952,
+      "popularity": 1210,
       "nsfw": "white",
       "media_type": "movie",
       "status": "finished_airing"
@@ -260,8 +260,8 @@
       "id": 12115,
       "title": "Berserk: Ougon Jidai-hen III - Kourin",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/12/41305.jpg",
-        "large": "https://myanimelist.net/images/anime/12/41305l.jpg"
+        "medium": "https://myanimelist.net/images/anime/12/41305.webp",
+        "large": "https://myanimelist.net/images/anime/12/41305l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -315,7 +315,7 @@
       "start_date": "2013-02-01",
       "end_date": "2013-02-01",
       "mean": 8.21,
-      "rank": 410,
+      "rank": 409,
       "popularity": 1141,
       "nsfw": "white",
       "media_type": "movie",
@@ -327,6 +327,62 @@
       "num_episodes_watched": 0,
       "is_rewatching": false,
       "updated_at": "2024-02-11T12:53:48+00:00"
+    }
+  },
+  {
+    "node": {
+      "id": 57555,
+      "title": "Chainsaw Man Movie: Reze-hen",
+      "main_picture": {
+        "medium": "https://myanimelist.net/images/anime/1763/150638.webp",
+        "large": "https://myanimelist.net/images/anime/1763/150638l.webp"
+      },
+      "alternative_titles": {
+        "synonyms": [
+          "Gekijouban Chainsaw Man: Reze-hen"
+        ],
+        "en": "Chainsaw Man – The Movie: Reze Arc",
+        "ja": "劇場版 チェンソーマン レゼ篇"
+      },
+      "genres": [
+        {
+          "id": 1,
+          "name": "Action"
+        },
+        {
+          "id": 10,
+          "name": "Fantasy"
+        },
+        {
+          "id": 58,
+          "name": "Gore"
+        },
+        {
+          "id": 27,
+          "name": "Shounen"
+        },
+        {
+          "id": 82,
+          "name": "Urban Fantasy"
+        }
+      ],
+      "synopsis": "Despite the immediate challenges following becoming a devil hunter with the Public Safety Bureau, Denji has quickly adapted to his new life and responsibilities. As the chaos of Denji's first ordeal with Public Safety settles down, the elite devil hunter Makima decides to take Denji out on a date. Although the date strengthens his affection for Makima and he swears to not fall in love with anyone else, Denji soon finds himself in a tricky situation when he meets a seemingly innocent cafe worker named Reze.\n\nWith her forward and flirty demeanor, Reze immediately captures Denji's heart, driving him to frequent the cafe where she works and deepen his relationship with her. However, Denji is completely oblivious to the fact that meeting Reze might have grave consequences beyond simply deciding which woman his heart belongs to. \n\n[Written by MAL Rewrite]",
+      "num_episodes": 1,
+      "start_date": "2025-09-19",
+      "end_date": "2025-09-19",
+      "mean": 9.09,
+      "rank": 4,
+      "popularity": 628,
+      "nsfw": "white",
+      "media_type": "movie",
+      "status": "finished_airing"
+    },
+    "list_status": {
+      "status": "plan_to_watch",
+      "score": 0,
+      "num_episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at": "2026-03-18T13:33:59+00:00"
     }
   },
   {
@@ -378,8 +434,8 @@
       "num_episodes": 52,
       "start_date": "2026-01-09",
       "mean": 7,
-      "rank": 4680,
-      "popularity": 15053,
+      "rank": 4684,
+      "popularity": 15050,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -390,6 +446,126 @@
       "num_episodes_watched": 0,
       "is_rewatching": false,
       "updated_at": "2025-04-30T11:07:08+00:00"
+    }
+  },
+  {
+    "node": {
+      "id": 60557,
+      "title": "Fanren Xiu Xian Zhuan 4th Season",
+      "main_picture": {
+        "medium": "https://myanimelist.net/images/anime/1421/153427.webp",
+        "large": "https://myanimelist.net/images/anime/1421/153427l.webp"
+      },
+      "alternative_titles": {
+        "synonyms": [
+          "A Mortal's Journey 4th Season",
+          "A Record of a Mortal's Journey to Immortality 4th Season",
+          "Fanren Xiu Xian Chuan",
+          "RMJI"
+        ],
+        "en": "A Record Of Mortal's Journey To Immortality 4th Season",
+        "ja": "凡人修仙传 第四季"
+      },
+      "genres": [
+        {
+          "id": 1,
+          "name": "Action"
+        },
+        {
+          "id": 2,
+          "name": "Adventure"
+        },
+        {
+          "id": 10,
+          "name": "Fantasy"
+        },
+        {
+          "id": 13,
+          "name": "Historical"
+        },
+        {
+          "id": 17,
+          "name": "Martial Arts"
+        }
+      ],
+      "synopsis": "Fourth season of Fanren Xiu Xian Zhuan.",
+      "num_episodes": 52,
+      "start_date": "2025-01-18",
+      "end_date": "2026-01-03",
+      "mean": 8.55,
+      "rank": 130,
+      "popularity": 11465,
+      "nsfw": "white",
+      "media_type": "ona",
+      "status": "finished_airing"
+    },
+    "list_status": {
+      "status": "plan_to_watch",
+      "score": 0,
+      "num_episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at": "2026-03-18T13:44:50+00:00"
+    }
+  },
+  {
+    "node": {
+      "id": 63632,
+      "title": "Guimi Zhi Zhu: Wu Mian Ren",
+      "main_picture": {
+        "medium": "https://myanimelist.net/images/anime/1729/155794.webp",
+        "large": "https://myanimelist.net/images/anime/1729/155794l.webp"
+      },
+      "alternative_titles": {
+        "synonyms": [
+          "Lord of Mysteries: Faceless Arc",
+          "诡秘之主 无面人篇",
+          "Lord of Mysteries 2nd Season",
+          "诡秘之主 第二季",
+          "LOTM"
+        ],
+        "en": "",
+        "ja": "诡秘之主 无面人"
+      },
+      "genres": [
+        {
+          "id": 1,
+          "name": "Action"
+        },
+        {
+          "id": 50,
+          "name": "Adult Cast"
+        },
+        {
+          "id": 10,
+          "name": "Fantasy"
+        },
+        {
+          "id": 62,
+          "name": "Isekai"
+        },
+        {
+          "id": 7,
+          "name": "Mystery"
+        },
+        {
+          "id": 41,
+          "name": "Suspense"
+        }
+      ],
+      "synopsis": "After his resurrection, Klein, now known as Sherlock, becomes a private detective. While taking on cases, he inadvertently provokes a spy organization. With the help of his bodyguard Sharron, as well as the assistance of Audrey and others, he faces many enemies, including the powerful Ambassador of Intis. In a later case, Klein unexpectedly discovers ruins from the Tudor dynasty. While continuing his detective work, Klein searches for clues to his advancement while also pursuing his enemies, Lanevus and Intis…\n\n(Source: Tencent, translated & edited)",
+      "num_episodes": 0,
+      "start_date": "2027",
+      "popularity": 7468,
+      "nsfw": "white",
+      "media_type": "ona",
+      "status": "not_yet_aired"
+    },
+    "list_status": {
+      "status": "plan_to_watch",
+      "score": 0,
+      "num_episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at": "2026-03-18T13:43:43+00:00"
     }
   },
   {
@@ -446,11 +622,57 @@
   },
   {
     "node": {
+      "id": 62546,
+      "title": "Kimetsu no Yaiba Movie 2: Mugenjou-hen",
+      "main_picture": {
+        "medium": "https://myanimelist.net/images/anime/1000/152184.webp",
+        "large": "https://myanimelist.net/images/anime/1000/152184l.webp"
+      },
+      "alternative_titles": {
+        "synonyms": [],
+        "en": "Demon Slayer: Kimetsu no Yaiba - The Movie 2: Infinity Castle",
+        "ja": "劇場版 鬼滅の刃 無限城編"
+      },
+      "genres": [
+        {
+          "id": 1,
+          "name": "Action"
+        },
+        {
+          "id": 13,
+          "name": "Historical"
+        },
+        {
+          "id": 27,
+          "name": "Shounen"
+        },
+        {
+          "id": 37,
+          "name": "Supernatural"
+        }
+      ],
+      "synopsis": "Second anime movie of the trilogy adaptation of the Infinity Castle Arc.",
+      "num_episodes": 1,
+      "popularity": 2806,
+      "nsfw": "white",
+      "media_type": "movie",
+      "status": "not_yet_aired"
+    },
+    "list_status": {
+      "status": "plan_to_watch",
+      "score": 0,
+      "num_episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at": "2026-03-18T13:37:43+00:00"
+    }
+  },
+  {
+    "node": {
       "id": 51064,
       "title": "Kuro no Shoukanshi",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1517/125496.webp",
-        "large": "https://myanimelist.net/images/anime/1517/125496l.webp"
+        "medium": "https://myanimelist.net/images/anime/1517/125496.jpg",
+        "large": "https://myanimelist.net/images/anime/1517/125496l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -482,7 +704,7 @@
       "start_date": "2022-07-09",
       "end_date": "2022-09-24",
       "mean": 7.01,
-      "rank": 4638,
+      "rank": 4643,
       "popularity": 950,
       "nsfw": "white",
       "media_type": "tv",
@@ -538,8 +760,8 @@
       "num_episodes": 6,
       "start_date": "2019-07-13",
       "end_date": "2019-09-21",
-      "mean": 7.49,
-      "rank": 2155,
+      "mean": 7.48,
+      "rank": 2189,
       "popularity": 8004,
       "nsfw": "white",
       "media_type": "ona",
@@ -593,7 +815,7 @@
       "start_date": "2020-01-07",
       "end_date": "2020-03-31",
       "mean": 5.85,
-      "rank": 11444,
+      "rank": 11457,
       "popularity": 2780,
       "nsfw": "white",
       "media_type": "tv",
@@ -612,8 +834,8 @@
       "id": 50392,
       "title": "Mato Seihei no Slave",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1114/140805.jpg",
-        "large": "https://myanimelist.net/images/anime/1114/140805l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1114/140805.webp",
+        "large": "https://myanimelist.net/images/anime/1114/140805l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -650,7 +872,7 @@
       "start_date": "2024-01-04",
       "end_date": "2024-03-21",
       "mean": 6.86,
-      "rank": 5414,
+      "rank": 5425,
       "popularity": 1064,
       "nsfw": "white",
       "media_type": "tv",
@@ -722,8 +944,8 @@
       "id": 33674,
       "title": "No Game No Life: Zero",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1085/90759.jpg",
-        "large": "https://myanimelist.net/images/anime/1085/90759l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1085/90759.webp",
+        "large": "https://myanimelist.net/images/anime/1085/90759l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -775,8 +997,8 @@
       "id": 54000,
       "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1068/154863.webp",
-        "large": "https://myanimelist.net/images/anime/1068/154863l.webp"
+        "medium": "https://myanimelist.net/images/anime/1068/154863.jpg",
+        "large": "https://myanimelist.net/images/anime/1068/154863l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -834,8 +1056,8 @@
       "id": 50380,
       "title": "Paripi Koumei",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1970/122297.jpg",
-        "large": "https://myanimelist.net/images/anime/1970/122297l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1970/122297.webp",
+        "large": "https://myanimelist.net/images/anime/1970/122297l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -952,8 +1174,8 @@
       "id": 56845,
       "title": "Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou sareru",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1384/140829.jpg",
-        "large": "https://myanimelist.net/images/anime/1384/140829l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1384/140829.webp",
+        "large": "https://myanimelist.net/images/anime/1384/140829l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -981,7 +1203,7 @@
       "start_date": "2024-01-07",
       "end_date": "2024-03-24",
       "mean": 6.13,
-      "rank": 9928,
+      "rank": 9946,
       "popularity": 2364,
       "nsfw": "white",
       "media_type": "tv",
@@ -1000,8 +1222,8 @@
       "id": 59978,
       "title": "Sousou no Frieren 2nd Season",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1921/154528.webp",
-        "large": "https://myanimelist.net/images/anime/1921/154528l.webp"
+        "medium": "https://myanimelist.net/images/anime/1921/154528.jpg",
+        "large": "https://myanimelist.net/images/anime/1921/154528l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1034,7 +1256,7 @@
       "end_date": "2026-03-27",
       "mean": 9.15,
       "rank": 2,
-      "popularity": 615,
+      "popularity": 613,
       "nsfw": "white",
       "media_type": "tv",
       "status": "currently_airing"
@@ -1088,7 +1310,7 @@
       "start_date": "2018-10-07",
       "end_date": "2019-03-31",
       "mean": 7.57,
-      "rank": 1823,
+      "rank": 1822,
       "popularity": 149,
       "nsfw": "white",
       "media_type": "tv",
@@ -1107,8 +1329,8 @@
       "id": 40540,
       "title": "Sword Art Online: Alicization - War of Underworld 2nd Season",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1438/105106.jpg",
-        "large": "https://myanimelist.net/images/anime/1438/105106l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1438/105106.webp",
+        "large": "https://myanimelist.net/images/anime/1438/105106l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1146,7 +1368,7 @@
       "start_date": "2020-07-12",
       "end_date": "2020-09-20",
       "mean": 7.51,
-      "rank": 2077,
+      "rank": 2080,
       "popularity": 352,
       "nsfw": "white",
       "media_type": "tv",
@@ -1165,8 +1387,8 @@
       "id": 40357,
       "title": "Tate no Yuusha no Nariagari Season 3",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1317/139802.webp",
-        "large": "https://myanimelist.net/images/anime/1317/139802l.webp"
+        "medium": "https://myanimelist.net/images/anime/1317/139802.jpg",
+        "large": "https://myanimelist.net/images/anime/1317/139802l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1203,7 +1425,7 @@
       "start_date": "2023-10-06",
       "end_date": "2023-12-22",
       "mean": 7.08,
-      "rank": 4326,
+      "rank": 4331,
       "popularity": 489,
       "nsfw": "white",
       "media_type": "tv",
@@ -1255,7 +1477,7 @@
       "start_date": "2024-07-07",
       "end_date": "2024-09-29",
       "mean": 7.85,
-      "rank": 1011,
+      "rank": 1012,
       "popularity": 776,
       "nsfw": "white",
       "media_type": "tv",
@@ -1356,8 +1578,8 @@
       "start_date": "2025-01-30",
       "end_date": "2025-07-17",
       "mean": 7.88,
-      "rank": 947,
-      "popularity": 13772,
+      "rank": 948,
+      "popularity": 13774,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1433,8 +1655,8 @@
       "id": 49759,
       "title": "Zhu Xian",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1709/155866.webp",
-        "large": "https://myanimelist.net/images/anime/1709/155866l.webp"
+        "medium": "https://myanimelist.net/images/anime/1709/155866.jpg",
+        "large": "https://myanimelist.net/images/anime/1709/155866l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -1468,7 +1690,7 @@
       "start_date": "2022-08-02",
       "end_date": "2023-01-17",
       "mean": 7.54,
-      "rank": 1959,
+      "rank": 1962,
       "popularity": 9134,
       "nsfw": "white",
       "media_type": "ona",
@@ -1521,7 +1743,7 @@
       "end_date": "2026-03-25",
       "mean": 8.6,
       "rank": 110,
-      "popularity": 1269,
+      "popularity": 1265,
       "nsfw": "white",
       "media_type": "tv",
       "status": "currently_airing"
