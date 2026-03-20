@@ -37,8 +37,8 @@
       "start_date": "2025-10-07",
       "end_date": "2025-12-23",
       "mean": 6.58,
-      "rank": 7134,
-      "popularity": 1653,
+      "rank": 7150,
+      "popularity": 1652,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -97,8 +97,8 @@
       "start_date": "2024-12-06",
       "end_date": "2025-08-01",
       "mean": 8.19,
-      "rank": 440,
-      "popularity": 12244,
+      "rank": 441,
+      "popularity": 12246,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -151,8 +151,8 @@
       "num_episodes": 156,
       "start_date": "2023-06-24",
       "mean": 8.06,
-      "rank": 621,
-      "popularity": 8374,
+      "rank": 623,
+      "popularity": 8377,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -207,8 +207,8 @@
       "num_episodes": 209,
       "start_date": "2022-07-31",
       "mean": 8.41,
-      "rank": 214,
-      "popularity": 6653,
+      "rank": 215,
+      "popularity": 6654,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -259,7 +259,7 @@
       "start_date": "2023-10-06",
       "end_date": "2023-12-22",
       "mean": 7.21,
-      "rank": 3555,
+      "rank": 3563,
       "popularity": 658,
       "nsfw": "white",
       "media_type": "tv",
@@ -278,8 +278,8 @@
       "id": 54362,
       "title": "Hametsu no Oukoku",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1610/138189.webp",
-        "large": "https://myanimelist.net/images/anime/1610/138189l.webp"
+        "medium": "https://myanimelist.net/images/anime/1610/138189.jpg",
+        "large": "https://myanimelist.net/images/anime/1610/138189l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -317,7 +317,7 @@
       "start_date": "2023-10-07",
       "end_date": "2023-12-23",
       "mean": 6.22,
-      "rank": 9398,
+      "rank": 9409,
       "popularity": 1228,
       "nsfw": "white",
       "media_type": "tv",
@@ -370,9 +370,9 @@
       "num_episodes": 12,
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
-      "mean": 6.87,
-      "rank": 5347,
-      "popularity": 3712,
+      "mean": 6.88,
+      "rank": 5293,
+      "popularity": 3696,
       "nsfw": "white",
       "media_type": "tv",
       "status": "currently_airing"
@@ -425,7 +425,7 @@
       "start_date": "2025-01-10",
       "end_date": "2025-07-04",
       "mean": 8.91,
-      "rank": 22,
+      "rank": 23,
       "popularity": 537,
       "nsfw": "white",
       "media_type": "tv",
@@ -445,8 +445,8 @@
       "id": 56062,
       "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1664/144272.webp",
-        "large": "https://myanimelist.net/images/anime/1664/144272l.webp"
+        "medium": "https://myanimelist.net/images/anime/1664/144272.jpg",
+        "large": "https://myanimelist.net/images/anime/1664/144272l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -475,7 +475,7 @@
       "start_date": "2024-07-13",
       "end_date": "2024-09-28",
       "mean": 6.23,
-      "rank": 9364,
+      "rank": 9374,
       "popularity": 1886,
       "nsfw": "white",
       "media_type": "tv",
@@ -522,7 +522,7 @@
       "num_episodes": 580,
       "start_date": "2021-07-16",
       "mean": 7.27,
-      "rank": 3209,
+      "rank": 3212,
       "popularity": 10221,
       "nsfw": "white",
       "media_type": "ona",
@@ -571,8 +571,8 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.83,
-      "rank": 5602,
-      "popularity": 3552,
+      "rank": 5611,
+      "popularity": 3539,
       "nsfw": "white",
       "media_type": "tv",
       "status": "currently_airing"
@@ -591,8 +591,8 @@
       "id": 48895,
       "title": "Overlord IV",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1530/120110.webp",
-        "large": "https://myanimelist.net/images/anime/1530/120110l.webp"
+        "medium": "https://myanimelist.net/images/anime/1530/120110.jpg",
+        "large": "https://myanimelist.net/images/anime/1530/120110l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -622,7 +622,7 @@
       "start_date": "2022-07-05",
       "end_date": "2022-09-27",
       "mean": 8.06,
-      "rank": 630,
+      "rank": 634,
       "popularity": 391,
       "nsfw": "white",
       "media_type": "tv",
@@ -670,8 +670,8 @@
       "num_episodes": 0,
       "start_date": "2022-11-10",
       "mean": 8.2,
-      "rank": 432,
-      "popularity": 8041,
+      "rank": 433,
+      "popularity": 8045,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -689,8 +689,8 @@
       "id": 57442,
       "title": "Shixiong A Shixiong 2nd Season",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1578/153464.jpg",
-        "large": "https://myanimelist.net/images/anime/1578/153464l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1578/153464.webp",
+        "large": "https://myanimelist.net/images/anime/1578/153464l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -726,8 +726,8 @@
       "start_date": "2023-12-14",
       "end_date": "2024-05-30",
       "mean": 7.64,
-      "rank": 1574,
-      "popularity": 12438,
+      "rank": 1577,
+      "popularity": 12445,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -745,8 +745,8 @@
       "id": 48736,
       "title": "Sono Bisque Doll wa Koi wo Suru",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1179/119897.webp",
-        "large": "https://myanimelist.net/images/anime/1179/119897l.webp"
+        "medium": "https://myanimelist.net/images/anime/1179/119897.jpg",
+        "large": "https://myanimelist.net/images/anime/1179/119897l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -779,7 +779,7 @@
       "start_date": "2022-01-09",
       "end_date": "2022-03-27",
       "mean": 8.13,
-      "rank": 532,
+      "rank": 533,
       "popularity": 121,
       "nsfw": "white",
       "media_type": "tv",
@@ -799,8 +799,8 @@
       "id": 50602,
       "title": "Spy x Family Part 2",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1111/127508.webp",
-        "large": "https://myanimelist.net/images/anime/1111/127508l.webp"
+        "medium": "https://myanimelist.net/images/anime/1111/127508.jpg",
+        "large": "https://myanimelist.net/images/anime/1111/127508l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -834,7 +834,7 @@
       "start_date": "2022-10-01",
       "end_date": "2022-12-24",
       "mean": 8.2,
-      "rank": 434,
+      "rank": 435,
       "popularity": 156,
       "nsfw": "white",
       "media_type": "tv",
@@ -888,8 +888,8 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.46,
-      "rank": 7962,
-      "popularity": 4705,
+      "rank": 7984,
+      "popularity": 4693,
       "nsfw": "white",
       "media_type": "tv",
       "status": "currently_airing"
@@ -945,7 +945,7 @@
       "num_episodes": 175,
       "start_date": "2023-10-03",
       "mean": 8.37,
-      "rank": 252,
+      "rank": 254,
       "popularity": 8979,
       "nsfw": "white",
       "media_type": "ona",
@@ -965,8 +965,8 @@
       "id": 52765,
       "title": "Wan Jie Du Zun 2nd Season",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1937/127040.webp",
-        "large": "https://myanimelist.net/images/anime/1937/127040l.webp"
+        "medium": "https://myanimelist.net/images/anime/1937/127040.jpg",
+        "large": "https://myanimelist.net/images/anime/1937/127040l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -1000,7 +1000,7 @@
       "start_date": "2022-08-16",
       "end_date": "2024-10-01",
       "mean": 7.33,
-      "rank": 2907,
+      "rank": 2909,
       "popularity": 11463,
       "nsfw": "white",
       "media_type": "ona",
@@ -1056,7 +1056,7 @@
       "num_episodes": 286,
       "start_date": "2021-04-23",
       "mean": 7.86,
-      "rank": 996,
+      "rank": 998,
       "popularity": 6258,
       "nsfw": "white",
       "media_type": "ona",
@@ -1113,8 +1113,8 @@
       "num_episodes": 720,
       "start_date": "2020-03-08",
       "mean": 7.56,
-      "rank": 1867,
-      "popularity": 8423,
+      "rank": 1874,
+      "popularity": 8427,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1168,8 +1168,8 @@
       "num_episodes": 180,
       "start_date": "2023-09-25",
       "mean": 8.47,
-      "rank": 179,
-      "popularity": 7020,
+      "rank": 180,
+      "popularity": 7021,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1222,8 +1222,8 @@
       "synopsis": "Ye Chen, the outcast disciple, is banished from the sect and becomes homeless. Through a series of coincidences, he receives a True Flame and once again steps on the path of cultivation. This is a world where demons and deities co-exist and an era where all realms in the world are overrun by chaos. Ye Chen's journey to defying heaven begins, and after going through all kinds of trials and tribulations, he finally reaches the pinnacle of cultivation.\n\n(Source: Youku)",
       "num_episodes": 147,
       "start_date": "2023-09-24",
-      "mean": 7.36,
-      "rank": 2744,
+      "mean": 7.37,
+      "rank": 2690,
       "popularity": 12115,
       "nsfw": "white",
       "media_type": "ona",
@@ -1242,8 +1242,8 @@
       "id": 56215,
       "title": "Yi Nian Yong Heng 3rd Season",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1105/150044.webp",
-        "large": "https://myanimelist.net/images/anime/1105/150044l.webp"
+        "medium": "https://myanimelist.net/images/anime/1105/150044.jpg",
+        "large": "https://myanimelist.net/images/anime/1105/150044l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1285,8 +1285,8 @@
       "start_date": "2024-07-03",
       "end_date": "2025-07-22",
       "mean": 8.23,
-      "rank": 396,
-      "popularity": 10176,
+      "rank": 397,
+      "popularity": 10173,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1332,12 +1332,12 @@
       "num_episodes": 12,
       "start_date": "2026-01-04",
       "end_date": "2026-03-19",
-      "mean": 6.61,
-      "rank": 7002,
-      "popularity": 2518,
+      "mean": 6.65,
+      "rank": 6781,
+      "popularity": 2476,
       "nsfw": "white",
       "media_type": "tv",
-      "status": "currently_airing"
+      "status": "finished_airing"
     },
     "list_status": {
       "status": "watching",
