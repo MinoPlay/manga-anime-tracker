@@ -33,7 +33,7 @@
       "num_chapters": 0,
       "start_date": "2020-08-31",
       "mean": 7.78,
-      "rank": 1587,
+      "rank": 1592,
       "popularity": 645,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -43,9 +43,9 @@
       "status": "reading",
       "is_rereading": false,
       "num_volumes_read": 0,
-      "num_chapters_read": 89,
+      "num_chapters_read": 102,
       "score": 0,
-      "updated_at": "2026-03-14T11:31:56+00:00",
+      "updated_at": "2026-03-24T13:17:11+00:00",
       "start_date": "2026-03-14"
     }
   },
@@ -54,8 +54,8 @@
       "id": 67617,
       "title": "Tate no Yuusha no Nariagari",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/manga/3/115755.webp",
-        "large": "https://myanimelist.net/images/manga/3/115755l.webp"
+        "medium": "https://myanimelist.net/images/manga/3/115755.jpg",
+        "large": "https://myanimelist.net/images/manga/3/115755l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -76,7 +76,7 @@
       "num_chapters": 0,
       "start_date": "2013-08-22",
       "mean": 7.91,
-      "rank": 1100,
+      "rank": 1106,
       "popularity": 405,
       "nsfw": "white",
       "media_type": "light_novel",
@@ -132,7 +132,7 @@
       "num_chapters": 0,
       "start_date": "2010-07-05",
       "mean": 8.34,
-      "rank": 311,
+      "rank": 312,
       "popularity": 42,
       "nsfw": "white",
       "media_type": "manhwa",
