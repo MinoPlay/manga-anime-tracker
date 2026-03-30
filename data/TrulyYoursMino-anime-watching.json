@@ -36,9 +36,9 @@
       "num_episodes": 12,
       "start_date": "2025-10-07",
       "end_date": "2025-12-23",
-      "mean": 6.58,
-      "rank": 7281,
-      "popularity": 1641,
+      "mean": 6.57,
+      "rank": 7331,
+      "popularity": 1640,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -96,9 +96,9 @@
       "num_episodes": 36,
       "start_date": "2024-12-06",
       "end_date": "2025-08-01",
-      "mean": 8.19,
-      "rank": 441,
-      "popularity": 12236,
+      "mean": 8.18,
+      "rank": 454,
+      "popularity": 12227,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -152,7 +152,7 @@
       "start_date": "2023-06-24",
       "mean": 8.06,
       "rank": 626,
-      "popularity": 8381,
+      "popularity": 8386,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -226,8 +226,8 @@
       "id": 47160,
       "title": "Goblin Slayer II",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1100/138338.jpg",
-        "large": "https://myanimelist.net/images/anime/1100/138338l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1100/138338.webp",
+        "large": "https://myanimelist.net/images/anime/1100/138338l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -259,7 +259,7 @@
       "start_date": "2023-10-06",
       "end_date": "2023-12-22",
       "mean": 7.21,
-      "rank": 3603,
+      "rank": 3601,
       "popularity": 657,
       "nsfw": "white",
       "media_type": "tv",
@@ -317,7 +317,7 @@
       "start_date": "2023-10-07",
       "end_date": "2023-12-23",
       "mean": 6.23,
-      "rank": 9442,
+      "rank": 9449,
       "popularity": 1229,
       "nsfw": "white",
       "media_type": "tv",
@@ -370,9 +370,9 @@
       "num_episodes": 12,
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
-      "mean": 7.16,
-      "rank": 3909,
-      "popularity": 3355,
+      "mean": 7.18,
+      "rank": 3849,
+      "popularity": 3300,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -426,7 +426,7 @@
       "end_date": "2025-07-04",
       "mean": 8.91,
       "rank": 23,
-      "popularity": 535,
+      "popularity": 534,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -445,8 +445,8 @@
       "id": 56062,
       "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1664/144272.jpg",
-        "large": "https://myanimelist.net/images/anime/1664/144272l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1664/144272.webp",
+        "large": "https://myanimelist.net/images/anime/1664/144272l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -475,8 +475,8 @@
       "start_date": "2024-07-13",
       "end_date": "2024-09-28",
       "mean": 6.23,
-      "rank": 9460,
-      "popularity": 1883,
+      "rank": 9466,
+      "popularity": 1879,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -522,8 +522,8 @@
       "num_episodes": 580,
       "start_date": "2021-07-16",
       "mean": 7.27,
-      "rank": 3247,
-      "popularity": 10238,
+      "rank": 3251,
+      "popularity": 10241,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -571,8 +571,8 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.8,
-      "rank": 5884,
-      "popularity": 3168,
+      "rank": 5888,
+      "popularity": 3132,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -591,8 +591,8 @@
       "id": 48895,
       "title": "Overlord IV",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1530/120110.jpg",
-        "large": "https://myanimelist.net/images/anime/1530/120110l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1530/120110.webp",
+        "large": "https://myanimelist.net/images/anime/1530/120110l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -671,7 +671,7 @@
       "start_date": "2022-11-10",
       "mean": 8.19,
       "rank": 448,
-      "popularity": 8053,
+      "popularity": 8052,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -726,8 +726,8 @@
       "start_date": "2023-12-14",
       "end_date": "2024-05-30",
       "mean": 7.64,
-      "rank": 1591,
-      "popularity": 12442,
+      "rank": 1592,
+      "popularity": 12440,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -745,8 +745,8 @@
       "id": 48736,
       "title": "Sono Bisque Doll wa Koi wo Suru",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1179/119897.jpg",
-        "large": "https://myanimelist.net/images/anime/1179/119897l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1179/119897.webp",
+        "large": "https://myanimelist.net/images/anime/1179/119897l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -799,8 +799,8 @@
       "id": 50602,
       "title": "Spy x Family Part 2",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1111/127508.jpg",
-        "large": "https://myanimelist.net/images/anime/1111/127508l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1111/127508.webp",
+        "large": "https://myanimelist.net/images/anime/1111/127508l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -835,7 +835,7 @@
       "end_date": "2022-12-24",
       "mean": 8.2,
       "rank": 435,
-      "popularity": 156,
+      "popularity": 155,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -888,8 +888,8 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.42,
-      "rank": 8347,
-      "popularity": 4426,
+      "rank": 8354,
+      "popularity": 4347,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -944,9 +944,9 @@
       "synopsis": "Fourth season of Tunshi Xingkong.",
       "num_episodes": 175,
       "start_date": "2023-10-03",
-      "mean": 8.37,
-      "rank": 256,
-      "popularity": 8988,
+      "mean": 8.36,
+      "rank": 266,
+      "popularity": 8985,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1001,7 +1001,7 @@
       "end_date": "2024-10-01",
       "mean": 7.32,
       "rank": 2988,
-      "popularity": 11482,
+      "popularity": 11492,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1020,8 +1020,8 @@
       "id": 47405,
       "title": "Wanmei Shijie",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1809/153679.webp",
-        "large": "https://myanimelist.net/images/anime/1809/153679l.webp"
+        "medium": "https://myanimelist.net/images/anime/1809/153679.jpg",
+        "large": "https://myanimelist.net/images/anime/1809/153679l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1055,8 +1055,8 @@
       "synopsis": "Born into a unique world where villages fight to gain power and control, the main character, Shi Hao, is a genius blessed by the heavens born under the poorest of conditions.\n\nHis clan, however, has a mysterious past. To rise up and become the genius he is meant to be, the clan goes through every effort to aid his cultivation as they battle through fanatical monsters and engage in power struggles with other clans.\n\nHis journey will bring him through unknown lands until he is able to become a person that can truly shake the world.\n\n(Source: Novels Xianxia&Xuanhuan Wiki)",
       "num_episodes": 286,
       "start_date": "2021-04-23",
-      "mean": 7.86,
-      "rank": 1006,
+      "mean": 7.85,
+      "rank": 1023,
       "popularity": 6263,
       "nsfw": "white",
       "media_type": "ona",
@@ -1113,8 +1113,8 @@
       "num_episodes": 720,
       "start_date": "2020-03-08",
       "mean": 7.55,
-      "rank": 1935,
-      "popularity": 8439,
+      "rank": 1939,
+      "popularity": 8444,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1167,9 +1167,9 @@
       "synopsis": "Wang Lin is a very smart boy with loving parents. Although he and his parents are shunned by the rest of their relatives, his parents have always held high hopes that he will one day achieve greatness. One day, Wang Lin suddenly gained the chance to walk the path of an immortal but found that he only had mediocre talent at best. Watch Wang Lin as he breaks through his lack of talent and walks the path towards becoming a real immortal!\n\n(Source: Xian Ni Wiki)",
       "num_episodes": 180,
       "start_date": "2023-09-25",
-      "mean": 8.48,
-      "rank": 177,
-      "popularity": 7006,
+      "mean": 8.47,
+      "rank": 179,
+      "popularity": 7007,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1223,8 +1223,8 @@
       "num_episodes": 147,
       "start_date": "2023-09-24",
       "mean": 7.37,
-      "rank": 2716,
-      "popularity": 12132,
+      "rank": 2718,
+      "popularity": 12137,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1284,9 +1284,9 @@
       "num_episodes": 59,
       "start_date": "2024-07-03",
       "end_date": "2025-07-22",
-      "mean": 8.23,
-      "rank": 399,
-      "popularity": 10172,
+      "mean": 8.22,
+      "rank": 411,
+      "popularity": 10170,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1333,8 +1333,8 @@
       "start_date": "2026-01-04",
       "end_date": "2026-03-22",
       "mean": 6.64,
-      "rank": 6964,
-      "popularity": 2281,
+      "rank": 6969,
+      "popularity": 2257,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
