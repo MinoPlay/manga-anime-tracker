@@ -4,8 +4,8 @@
       "id": 41457,
       "title": "86",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1987/117507.jpg",
-        "large": "https://myanimelist.net/images/anime/1987/117507l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1987/117507.webp",
+        "large": "https://myanimelist.net/images/anime/1987/117507l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -93,7 +93,7 @@
       "start_date": "2024-10-14",
       "end_date": "2025-02-17",
       "mean": 7.02,
-      "rank": 4650,
+      "rank": 4653,
       "popularity": 1386,
       "nsfw": "white",
       "media_type": "tv",
@@ -168,8 +168,8 @@
       "start_date": "2012-02-04",
       "end_date": "2012-02-04",
       "mean": 7.71,
-      "rank": 1356,
-      "popularity": 1137,
+      "rank": 1357,
+      "popularity": 1134,
       "nsfw": "white",
       "media_type": "movie",
       "status": "finished_airing"
@@ -316,7 +316,7 @@
       "end_date": "2013-02-01",
       "mean": 8.21,
       "rank": 412,
-      "popularity": 1142,
+      "popularity": 1141,
       "nsfw": "white",
       "media_type": "movie",
       "status": "finished_airing"
@@ -372,7 +372,7 @@
       "end_date": "2025-09-19",
       "mean": 9.09,
       "rank": 4,
-      "popularity": 607,
+      "popularity": 602,
       "nsfw": "white",
       "media_type": "movie",
       "status": "finished_airing"
@@ -434,8 +434,8 @@
       "num_episodes": 52,
       "start_date": "2026-01-09",
       "mean": 7,
-      "rank": 4749,
-      "popularity": 14982,
+      "rank": 4747,
+      "popularity": 14985,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -453,8 +453,8 @@
       "id": 60557,
       "title": "Fanren Xiu Xian Zhuan 4th Season",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1421/153427.jpg",
-        "large": "https://myanimelist.net/images/anime/1421/153427l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1421/153427.webp",
+        "large": "https://myanimelist.net/images/anime/1421/153427l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -494,7 +494,7 @@
       "end_date": "2026-01-03",
       "mean": 8.56,
       "rank": 125,
-      "popularity": 11441,
+      "popularity": 11447,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -512,8 +512,8 @@
       "id": 63632,
       "title": "Guimi Zhi Zhu: Wu Mian Ren",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1729/155794.jpg",
-        "large": "https://myanimelist.net/images/anime/1729/155794l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1729/155794.webp",
+        "large": "https://myanimelist.net/images/anime/1729/155794l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -555,7 +555,7 @@
       "synopsis": "After his resurrection, Klein, now known as Sherlock, becomes a private detective. While taking on cases, he inadvertently provokes a spy organization. With the help of his bodyguard Sharron, as well as the assistance of Audrey and others, he faces many enemies, including the powerful Ambassador of Intis. In a later case, Klein unexpectedly discovers ruins from the Tudor dynasty. While continuing his detective work, Klein searches for clues to his advancement while also pursuing his enemies, Lanevus and Intis…\n\n(Source: Tencent, translated & edited)",
       "num_episodes": 0,
       "start_date": "2027",
-      "popularity": 7075,
+      "popularity": 7031,
       "nsfw": "white",
       "media_type": "ona",
       "status": "not_yet_aired"
@@ -609,7 +609,7 @@
       "num_episodes": 1,
       "start_date": "2027",
       "end_date": "2027",
-      "popularity": 2258,
+      "popularity": 2252,
       "nsfw": "white",
       "media_type": "movie",
       "status": "not_yet_aired"
@@ -655,7 +655,7 @@
       ],
       "synopsis": "Second anime movie of the trilogy adaptation of the Infinity Castle Arc.",
       "num_episodes": 1,
-      "popularity": 2776,
+      "popularity": 2769,
       "nsfw": "white",
       "media_type": "movie",
       "status": "not_yet_aired"
@@ -706,8 +706,8 @@
       "start_date": "2022-07-09",
       "end_date": "2022-09-24",
       "mean": 7.01,
-      "rank": 4718,
-      "popularity": 946,
+      "rank": 4717,
+      "popularity": 945,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -762,9 +762,9 @@
       "num_episodes": 6,
       "start_date": "2019-07-13",
       "end_date": "2019-09-21",
-      "mean": 7.49,
-      "rank": 2176,
-      "popularity": 8012,
+      "mean": 7.48,
+      "rank": 2215,
+      "popularity": 8016,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -817,8 +817,8 @@
       "start_date": "2020-01-07",
       "end_date": "2020-03-31",
       "mean": 5.85,
-      "rank": 11528,
-      "popularity": 2784,
+      "rank": 11533,
+      "popularity": 2786,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -875,7 +875,7 @@
       "end_date": "2024-03-21",
       "mean": 6.87,
       "rank": 5473,
-      "popularity": 1057,
+      "popularity": 1054,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -893,8 +893,8 @@
       "id": 61557,
       "title": "Nitian Xie Shen: Nian Fan",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1125/156004.webp",
-        "large": "https://myanimelist.net/images/anime/1125/156004l.webp"
+        "medium": "https://myanimelist.net/images/anime/1125/156004.jpg",
+        "large": "https://myanimelist.net/images/anime/1125/156004l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -928,7 +928,8 @@
       ],
       "synopsis": "Second season of Nitian Xie Shen.",
       "num_episodes": 0,
-      "popularity": 17705,
+      "start_date": "2026-04",
+      "popularity": 17646,
       "nsfw": "white",
       "media_type": "ona",
       "status": "not_yet_aired"
@@ -980,7 +981,7 @@
       "start_date": "2017-07-15",
       "end_date": "2017-07-15",
       "mean": 8.16,
-      "rank": 497,
+      "rank": 496,
       "popularity": 211,
       "nsfw": "white",
       "media_type": "movie",
@@ -1040,7 +1041,7 @@
       "synopsis": "Second season of Otome Game Sekai wa Mob ni Kibishii Sekai desu.",
       "num_episodes": 0,
       "start_date": "2026",
-      "popularity": 3192,
+      "popularity": 3190,
       "nsfw": "white",
       "media_type": "tv",
       "status": "not_yet_aired"
@@ -1096,7 +1097,7 @@
       "end_date": "2022-06-21",
       "mean": 8.09,
       "rank": 591,
-      "popularity": 845,
+      "popularity": 847,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1114,8 +1115,8 @@
       "id": 39587,
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1444/108005.jpg",
-        "large": "https://myanimelist.net/images/anime/1444/108005l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1444/108005.webp",
+        "large": "https://myanimelist.net/images/anime/1444/108005l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1157,8 +1158,8 @@
       "start_date": "2020-07-08",
       "end_date": "2020-09-30",
       "mean": 8.32,
-      "rank": 300,
-      "popularity": 128,
+      "rank": 301,
+      "popularity": 127,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1176,8 +1177,8 @@
       "id": 56845,
       "title": "Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou sareru",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1384/140829.jpg",
-        "large": "https://myanimelist.net/images/anime/1384/140829l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1384/140829.webp",
+        "large": "https://myanimelist.net/images/anime/1384/140829l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1205,8 +1206,8 @@
       "start_date": "2024-01-07",
       "end_date": "2024-03-24",
       "mean": 6.13,
-      "rank": 10045,
-      "popularity": 2365,
+      "rank": 10046,
+      "popularity": 2363,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1256,9 +1257,9 @@
       "num_episodes": 10,
       "start_date": "2026-01-16",
       "end_date": "2026-03-27",
-      "mean": 8.98,
-      "rank": 16,
-      "popularity": 563,
+      "mean": 8.96,
+      "rank": 17,
+      "popularity": 559,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1312,7 +1313,7 @@
       "start_date": "2018-10-07",
       "end_date": "2019-03-31",
       "mean": 7.57,
-      "rank": 1842,
+      "rank": 1840,
       "popularity": 149,
       "nsfw": "white",
       "media_type": "tv",
@@ -1370,7 +1371,7 @@
       "start_date": "2020-07-12",
       "end_date": "2020-09-20",
       "mean": 7.51,
-      "rank": 2101,
+      "rank": 2100,
       "popularity": 351,
       "nsfw": "white",
       "media_type": "tv",
@@ -1446,8 +1447,8 @@
       "id": 58059,
       "title": "Tsue to Tsurugi no Wistoria",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1281/144104.jpg",
-        "large": "https://myanimelist.net/images/anime/1281/144104l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1281/144104.webp",
+        "large": "https://myanimelist.net/images/anime/1281/144104l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1479,7 +1480,7 @@
       "start_date": "2024-07-07",
       "end_date": "2024-09-29",
       "mean": 7.85,
-      "rank": 1023,
+      "rank": 1021,
       "popularity": 770,
       "nsfw": "white",
       "media_type": "tv",
@@ -1498,8 +1499,8 @@
       "id": 33352,
       "title": "Violet Evergarden",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1795/95088.webp",
-        "large": "https://myanimelist.net/images/anime/1795/95088l.webp"
+        "medium": "https://myanimelist.net/images/anime/1795/95088.jpg",
+        "large": "https://myanimelist.net/images/anime/1795/95088l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -1581,7 +1582,7 @@
       "end_date": "2025-07-17",
       "mean": 7.87,
       "rank": 984,
-      "popularity": 13754,
+      "popularity": 13755,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1599,8 +1600,8 @@
       "id": 58448,
       "title": "Yong Sheng: Qizhuang Shanhe",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1474/155874.jpg",
-        "large": "https://myanimelist.net/images/anime/1474/155874l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1474/155874.webp",
+        "large": "https://myanimelist.net/images/anime/1474/155874l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1638,8 +1639,8 @@
       "start_date": "2024-04-19",
       "end_date": "2024-07-19",
       "mean": 7.57,
-      "rank": 1853,
-      "popularity": 12942,
+      "rank": 1850,
+      "popularity": 12949,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1657,8 +1658,8 @@
       "id": 49759,
       "title": "Zhu Xian",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1709/155866.jpg",
-        "large": "https://myanimelist.net/images/anime/1709/155866l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1709/155866.webp",
+        "large": "https://myanimelist.net/images/anime/1709/155866l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -1691,9 +1692,9 @@
       "num_episodes": 26,
       "start_date": "2022-08-02",
       "end_date": "2023-01-17",
-      "mean": 7.55,
-      "rank": 1938,
-      "popularity": 9153,
+      "mean": 7.54,
+      "rank": 1979,
+      "popularity": 9157,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1744,8 +1745,8 @@
       "start_date": "2026-01-14",
       "end_date": "2026-03-25",
       "mean": 8.75,
-      "rank": 49,
-      "popularity": 1209,
+      "rank": 50,
+      "popularity": 1194,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1763,8 +1764,8 @@
       "id": 63794,
       "title": "[Oshi no Ko] 4th Season",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1702/156273.webp",
-        "large": "https://myanimelist.net/images/anime/1702/156273l.webp"
+        "medium": "https://myanimelist.net/images/anime/1702/156273.jpg",
+        "large": "https://myanimelist.net/images/anime/1702/156273l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1793,7 +1794,7 @@
       ],
       "synopsis": "Final season of [Oshi no Ko].",
       "num_episodes": 0,
-      "popularity": 4323,
+      "popularity": 4164,
       "nsfw": "white",
       "media_type": "tv",
       "status": "not_yet_aired"
