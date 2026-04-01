@@ -37,7 +37,7 @@
       "start_date": "2025-10-07",
       "end_date": "2025-12-23",
       "mean": 6.57,
-      "rank": 7340,
+      "rank": 7347,
       "popularity": 1637,
       "nsfw": "white",
       "media_type": "tv",
@@ -97,8 +97,8 @@
       "start_date": "2024-12-06",
       "end_date": "2025-08-01",
       "mean": 8.18,
-      "rank": 453,
-      "popularity": 12219,
+      "rank": 454,
+      "popularity": 12209,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -116,8 +116,8 @@
       "id": 51836,
       "title": "Douluo Dalu II: Jueshi Tangmen",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1357/154563.webp",
-        "large": "https://myanimelist.net/images/anime/1357/154563l.webp"
+        "medium": "https://myanimelist.net/images/anime/1357/154563.jpg",
+        "large": "https://myanimelist.net/images/anime/1357/154563l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -150,9 +150,9 @@
       "synopsis": "A strange continent in another world.\n\nNo magic, no battle qi, no martial arts, only martial spirits. Ten thousand years after the Tang clan was founded on the Douluo continent, the Tang clan has declined to the verge of extinction.\n\nA whole new generation of proud talents has been born. Will the new generation of the Seven monsters of Shrek be able to reestablish the Tang Clan and compose a new tale of greatness for the unrivaled Tang Clan?\n\n(Source: IMDB)",
       "num_episodes": 156,
       "start_date": "2023-06-24",
-      "mean": 8.05,
-      "rank": 647,
-      "popularity": 8387,
+      "mean": 8.06,
+      "rank": 629,
+      "popularity": 8389,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -207,8 +207,8 @@
       "num_episodes": 209,
       "start_date": "2022-07-31",
       "mean": 8.39,
-      "rank": 231,
-      "popularity": 6650,
+      "rank": 230,
+      "popularity": 6651,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -226,8 +226,8 @@
       "id": 47160,
       "title": "Goblin Slayer II",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1100/138338.webp",
-        "large": "https://myanimelist.net/images/anime/1100/138338l.webp"
+        "medium": "https://myanimelist.net/images/anime/1100/138338.jpg",
+        "large": "https://myanimelist.net/images/anime/1100/138338l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -278,8 +278,8 @@
       "id": 54362,
       "title": "Hametsu no Oukoku",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1610/138189.jpg",
-        "large": "https://myanimelist.net/images/anime/1610/138189l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1610/138189.webp",
+        "large": "https://myanimelist.net/images/anime/1610/138189l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -317,7 +317,7 @@
       "start_date": "2023-10-07",
       "end_date": "2023-12-23",
       "mean": 6.23,
-      "rank": 9455,
+      "rank": 9458,
       "popularity": 1229,
       "nsfw": "white",
       "media_type": "tv",
@@ -366,13 +366,13 @@
           "name": "Reincarnation"
         }
       ],
-      "synopsis": "\"Level up even while offline?! That's not a game on 'easy mode'—that's just an AFK game!\" The online game Kenichi Yamada had been playing religiously is shutting down its servers, leaving him with a void in his heart. He looks for a new game to fill it, but everything he finds is way too easy. The kind of game he likes—the kind punishing enough to make players want to spend thousands of hours on it—just isn't around anymore.\n\n\"What's this? 'You are invited to a game that will never end.'\" Kenichi stumbles upon an untitled game, one promising incomparable challenge with unprecedented potential. Without hesitation, he selects the \"Hell Mode\" difficulty. Lo and behold, he finds himself reincarnated in another world as a serf! Now called Allen, he sets out to unlock the secrets of his mystery-laden Summoner class; without the convenience of walkthroughs, game guides, or online forums, he must grope his way to the top of his new world!\n\n(Source: J-Novel Club)",
+      "synopsis": "Kenichi Yamada has spent most of his adult life chasing the next punishing challenge in online gaming, only to find the modern landscape dominated by forgiving mechanics. As if fate were listening to his desire, Kenichi receives a sudden, mysterious invitation to an untitled game promising an inconceivable level of difficulty. Delighted, he selects its most ruthless setting without hesitation—Hell Mode.\n\nHowever, instead of diving into another virtual game, Kenichi is reborn in another world as a peasant named Allen, forced to grapple with a cruelly complex system where even the basics of progression demand relentless effort. Consequently, Allen must build his strength from the ground up and learn to master the summoner class. With his resilience being tested at every turn, Allen embarks on an uncharted journey that might just prove to burn hotter than actual hell.\n\n[Written by MAL Rewrite]",
       "num_episodes": 12,
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 7.18,
-      "rank": 3792,
-      "popularity": 3264,
+      "rank": 3800,
+      "popularity": 3232,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -475,8 +475,8 @@
       "start_date": "2024-07-13",
       "end_date": "2024-09-28",
       "mean": 6.23,
-      "rank": 9474,
-      "popularity": 1879,
+      "rank": 9477,
+      "popularity": 1878,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -522,8 +522,8 @@
       "num_episodes": 580,
       "start_date": "2021-07-16",
       "mean": 7.27,
-      "rank": 3256,
-      "popularity": 10245,
+      "rank": 3258,
+      "popularity": 10248,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -541,8 +541,8 @@
       "id": 61549,
       "title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1264/153908.webp",
-        "large": "https://myanimelist.net/images/anime/1264/153908l.webp"
+        "medium": "https://myanimelist.net/images/anime/1264/153908.jpg",
+        "large": "https://myanimelist.net/images/anime/1264/153908l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -571,8 +571,8 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.8,
-      "rank": 5900,
-      "popularity": 3114,
+      "rank": 5905,
+      "popularity": 3090,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -622,7 +622,7 @@
       "start_date": "2022-07-05",
       "end_date": "2022-09-27",
       "mean": 8.06,
-      "rank": 642,
+      "rank": 644,
       "popularity": 390,
       "nsfw": "white",
       "media_type": "tv",
@@ -670,8 +670,8 @@
       "num_episodes": 0,
       "start_date": "2022-11-10",
       "mean": 8.18,
-      "rank": 472,
-      "popularity": 8052,
+      "rank": 473,
+      "popularity": 8053,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -689,8 +689,8 @@
       "id": 57442,
       "title": "Shixiong A Shixiong 2nd Season",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1578/153464.jpg",
-        "large": "https://myanimelist.net/images/anime/1578/153464l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1578/153464.webp",
+        "large": "https://myanimelist.net/images/anime/1578/153464l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -726,8 +726,8 @@
       "start_date": "2023-12-14",
       "end_date": "2024-05-30",
       "mean": 7.64,
-      "rank": 1595,
-      "popularity": 12445,
+      "rank": 1593,
+      "popularity": 12442,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -780,7 +780,7 @@
       "end_date": "2022-03-27",
       "mean": 8.13,
       "rank": 536,
-      "popularity": 121,
+      "popularity": 120,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -853,8 +853,8 @@
       "id": 61207,
       "title": "Tensei shitara Dragon no Tamago datta",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1250/156107.jpg",
-        "large": "https://myanimelist.net/images/anime/1250/156107l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1250/156107.webp",
+        "large": "https://myanimelist.net/images/anime/1250/156107l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -887,9 +887,9 @@
       "num_episodes": 12,
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
-      "mean": 6.42,
-      "rank": 8365,
-      "popularity": 4309,
+      "mean": 6.41,
+      "rank": 8412,
+      "popularity": 4279,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -945,8 +945,8 @@
       "num_episodes": 175,
       "start_date": "2023-10-03",
       "mean": 8.36,
-      "rank": 266,
-      "popularity": 8987,
+      "rank": 265,
+      "popularity": 8989,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -965,8 +965,8 @@
       "id": 52765,
       "title": "Wan Jie Du Zun 2nd Season",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1937/127040.webp",
-        "large": "https://myanimelist.net/images/anime/1937/127040l.webp"
+        "medium": "https://myanimelist.net/images/anime/1937/127040.jpg",
+        "large": "https://myanimelist.net/images/anime/1937/127040l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -1000,8 +1000,8 @@
       "start_date": "2022-08-16",
       "end_date": "2024-10-01",
       "mean": 7.32,
-      "rank": 2987,
-      "popularity": 11492,
+      "rank": 2990,
+      "popularity": 11493,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1056,8 +1056,8 @@
       "num_episodes": 286,
       "start_date": "2021-04-23",
       "mean": 7.85,
-      "rank": 1024,
-      "popularity": 6265,
+      "rank": 1025,
+      "popularity": 6269,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1113,8 +1113,8 @@
       "num_episodes": 720,
       "start_date": "2020-03-08",
       "mean": 7.55,
-      "rank": 1941,
-      "popularity": 8447,
+      "rank": 1942,
+      "popularity": 8449,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1167,9 +1167,9 @@
       "synopsis": "Wang Lin is a very smart boy with loving parents. Although he and his parents are shunned by the rest of their relatives, his parents have always held high hopes that he will one day achieve greatness. One day, Wang Lin suddenly gained the chance to walk the path of an immortal but found that he only had mediocre talent at best. Watch Wang Lin as he breaks through his lack of talent and walks the path towards becoming a real immortal!\n\n(Source: Xian Ni Wiki)",
       "num_episodes": 180,
       "start_date": "2023-09-25",
-      "mean": 8.48,
-      "rank": 175,
-      "popularity": 7008,
+      "mean": 8.47,
+      "rank": 178,
+      "popularity": 7003,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1223,8 +1223,8 @@
       "num_episodes": 147,
       "start_date": "2023-09-24",
       "mean": 7.37,
-      "rank": 2720,
-      "popularity": 12138,
+      "rank": 2729,
+      "popularity": 12137,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1242,8 +1242,8 @@
       "id": 56215,
       "title": "Yi Nian Yong Heng 3rd Season",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1105/150044.webp",
-        "large": "https://myanimelist.net/images/anime/1105/150044l.webp"
+        "medium": "https://myanimelist.net/images/anime/1105/150044.jpg",
+        "large": "https://myanimelist.net/images/anime/1105/150044l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1285,8 +1285,8 @@
       "start_date": "2024-07-03",
       "end_date": "2025-07-22",
       "mean": 8.22,
-      "rank": 411,
-      "popularity": 10164,
+      "rank": 412,
+      "popularity": 10166,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1333,8 +1333,8 @@
       "start_date": "2026-01-04",
       "end_date": "2026-03-22",
       "mean": 6.64,
-      "rank": 6973,
-      "popularity": 2240,
+      "rank": 6985,
+      "popularity": 2228,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
