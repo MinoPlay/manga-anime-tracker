@@ -37,7 +37,7 @@
       "start_date": "2025-10-07",
       "end_date": "2025-12-23",
       "mean": 6.57,
-      "rank": 7347,
+      "rank": 7353,
       "popularity": 1637,
       "nsfw": "white",
       "media_type": "tv",
@@ -97,7 +97,7 @@
       "start_date": "2024-12-06",
       "end_date": "2025-08-01",
       "mean": 8.18,
-      "rank": 454,
+      "rank": 457,
       "popularity": 12209,
       "nsfw": "white",
       "media_type": "ona",
@@ -151,7 +151,7 @@
       "num_episodes": 156,
       "start_date": "2023-06-24",
       "mean": 8.06,
-      "rank": 629,
+      "rank": 631,
       "popularity": 8389,
       "nsfw": "white",
       "media_type": "ona",
@@ -208,7 +208,7 @@
       "start_date": "2022-07-31",
       "mean": 8.39,
       "rank": 230,
-      "popularity": 6651,
+      "popularity": 6654,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -259,7 +259,7 @@
       "start_date": "2023-10-06",
       "end_date": "2023-12-22",
       "mean": 7.21,
-      "rank": 3605,
+      "rank": 3611,
       "popularity": 655,
       "nsfw": "white",
       "media_type": "tv",
@@ -317,7 +317,7 @@
       "start_date": "2023-10-07",
       "end_date": "2023-12-23",
       "mean": 6.23,
-      "rank": 9458,
+      "rank": 9470,
       "popularity": 1229,
       "nsfw": "white",
       "media_type": "tv",
@@ -371,8 +371,8 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 7.18,
-      "rank": 3800,
-      "popularity": 3232,
+      "rank": 3806,
+      "popularity": 3217,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -391,8 +391,8 @@
       "id": 58514,
       "title": "Kusuriya no Hitorigoto 2nd Season",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1025/147458.webp",
-        "large": "https://myanimelist.net/images/anime/1025/147458l.webp"
+        "medium": "https://myanimelist.net/images/anime/1025/147458.jpg",
+        "large": "https://myanimelist.net/images/anime/1025/147458l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -445,8 +445,8 @@
       "id": 56062,
       "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1664/144272.webp",
-        "large": "https://myanimelist.net/images/anime/1664/144272l.webp"
+        "medium": "https://myanimelist.net/images/anime/1664/144272.jpg",
+        "large": "https://myanimelist.net/images/anime/1664/144272l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -475,7 +475,7 @@
       "start_date": "2024-07-13",
       "end_date": "2024-09-28",
       "mean": 6.23,
-      "rank": 9477,
+      "rank": 9487,
       "popularity": 1878,
       "nsfw": "white",
       "media_type": "tv",
@@ -522,8 +522,8 @@
       "num_episodes": 580,
       "start_date": "2021-07-16",
       "mean": 7.27,
-      "rank": 3258,
-      "popularity": 10248,
+      "rank": 3262,
+      "popularity": 10247,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -541,8 +541,8 @@
       "id": 61549,
       "title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1264/153908.jpg",
-        "large": "https://myanimelist.net/images/anime/1264/153908l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1264/153908.webp",
+        "large": "https://myanimelist.net/images/anime/1264/153908l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -570,9 +570,9 @@
       "num_episodes": 12,
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
-      "mean": 6.8,
-      "rank": 5905,
-      "popularity": 3090,
+      "mean": 6.79,
+      "rank": 5973,
+      "popularity": 3071,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -622,8 +622,8 @@
       "start_date": "2022-07-05",
       "end_date": "2022-09-27",
       "mean": 8.06,
-      "rank": 644,
-      "popularity": 390,
+      "rank": 646,
+      "popularity": 391,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -670,7 +670,7 @@
       "num_episodes": 0,
       "start_date": "2022-11-10",
       "mean": 8.18,
-      "rank": 473,
+      "rank": 476,
       "popularity": 8053,
       "nsfw": "white",
       "media_type": "ona",
@@ -689,8 +689,8 @@
       "id": 57442,
       "title": "Shixiong A Shixiong 2nd Season",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1578/153464.webp",
-        "large": "https://myanimelist.net/images/anime/1578/153464l.webp"
+        "medium": "https://myanimelist.net/images/anime/1578/153464.jpg",
+        "large": "https://myanimelist.net/images/anime/1578/153464l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -726,8 +726,8 @@
       "start_date": "2023-12-14",
       "end_date": "2024-05-30",
       "mean": 7.64,
-      "rank": 1593,
-      "popularity": 12442,
+      "rank": 1596,
+      "popularity": 12444,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -745,8 +745,8 @@
       "id": 48736,
       "title": "Sono Bisque Doll wa Koi wo Suru",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1179/119897.webp",
-        "large": "https://myanimelist.net/images/anime/1179/119897l.webp"
+        "medium": "https://myanimelist.net/images/anime/1179/119897.jpg",
+        "large": "https://myanimelist.net/images/anime/1179/119897l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -779,7 +779,7 @@
       "start_date": "2022-01-09",
       "end_date": "2022-03-27",
       "mean": 8.13,
-      "rank": 536,
+      "rank": 538,
       "popularity": 120,
       "nsfw": "white",
       "media_type": "tv",
@@ -799,8 +799,8 @@
       "id": 50602,
       "title": "Spy x Family Part 2",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1111/127508.jpg",
-        "large": "https://myanimelist.net/images/anime/1111/127508l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1111/127508.webp",
+        "large": "https://myanimelist.net/images/anime/1111/127508l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -834,7 +834,7 @@
       "start_date": "2022-10-01",
       "end_date": "2022-12-24",
       "mean": 8.2,
-      "rank": 435,
+      "rank": 437,
       "popularity": 155,
       "nsfw": "white",
       "media_type": "tv",
@@ -853,8 +853,8 @@
       "id": 61207,
       "title": "Tensei shitara Dragon no Tamago datta",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1250/156107.webp",
-        "large": "https://myanimelist.net/images/anime/1250/156107l.webp"
+        "medium": "https://myanimelist.net/images/anime/1250/156107.jpg",
+        "large": "https://myanimelist.net/images/anime/1250/156107l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -888,8 +888,8 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.41,
-      "rank": 8412,
-      "popularity": 4279,
+      "rank": 8417,
+      "popularity": 4249,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -945,8 +945,8 @@
       "num_episodes": 175,
       "start_date": "2023-10-03",
       "mean": 8.36,
-      "rank": 265,
-      "popularity": 8989,
+      "rank": 266,
+      "popularity": 8990,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -999,9 +999,9 @@
       "num_episodes": 224,
       "start_date": "2022-08-16",
       "end_date": "2024-10-01",
-      "mean": 7.32,
-      "rank": 2990,
-      "popularity": 11493,
+      "mean": 7.31,
+      "rank": 3053,
+      "popularity": 11495,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1056,7 +1056,7 @@
       "num_episodes": 286,
       "start_date": "2021-04-23",
       "mean": 7.85,
-      "rank": 1025,
+      "rank": 1027,
       "popularity": 6269,
       "nsfw": "white",
       "media_type": "ona",
@@ -1113,8 +1113,8 @@
       "num_episodes": 720,
       "start_date": "2020-03-08",
       "mean": 7.55,
-      "rank": 1942,
-      "popularity": 8449,
+      "rank": 1947,
+      "popularity": 8451,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1167,9 +1167,9 @@
       "synopsis": "Wang Lin is a very smart boy with loving parents. Although he and his parents are shunned by the rest of their relatives, his parents have always held high hopes that he will one day achieve greatness. One day, Wang Lin suddenly gained the chance to walk the path of an immortal but found that he only had mediocre talent at best. Watch Wang Lin as he breaks through his lack of talent and walks the path towards becoming a real immortal!\n\n(Source: Xian Ni Wiki)",
       "num_episodes": 180,
       "start_date": "2023-09-25",
-      "mean": 8.47,
-      "rank": 178,
-      "popularity": 7003,
+      "mean": 8.48,
+      "rank": 174,
+      "popularity": 6999,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1223,8 +1223,8 @@
       "num_episodes": 147,
       "start_date": "2023-09-24",
       "mean": 7.37,
-      "rank": 2729,
-      "popularity": 12137,
+      "rank": 2734,
+      "popularity": 12138,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1285,8 +1285,8 @@
       "start_date": "2024-07-03",
       "end_date": "2025-07-22",
       "mean": 8.22,
-      "rank": 412,
-      "popularity": 10166,
+      "rank": 414,
+      "popularity": 10163,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1333,8 +1333,8 @@
       "start_date": "2026-01-04",
       "end_date": "2026-03-22",
       "mean": 6.64,
-      "rank": 6985,
-      "popularity": 2228,
+      "rank": 6996,
+      "popularity": 2216,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
