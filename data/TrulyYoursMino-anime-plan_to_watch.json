@@ -4,8 +4,8 @@
       "id": 41457,
       "title": "86",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1987/117507.jpg",
-        "large": "https://myanimelist.net/images/anime/1987/117507l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1987/117507.webp",
+        "large": "https://myanimelist.net/images/anime/1987/117507l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -93,7 +93,7 @@
       "start_date": "2024-10-14",
       "end_date": "2025-02-17",
       "mean": 7.02,
-      "rank": 4732,
+      "rank": 4733,
       "popularity": 1380,
       "nsfw": "white",
       "media_type": "tv",
@@ -168,8 +168,8 @@
       "start_date": "2012-02-04",
       "end_date": "2012-02-04",
       "mean": 7.71,
-      "rank": 1378,
-      "popularity": 1136,
+      "rank": 1380,
+      "popularity": 1137,
       "nsfw": "white",
       "media_type": "movie",
       "status": "finished_airing"
@@ -241,7 +241,7 @@
       "start_date": "2012-06-23",
       "end_date": "2012-06-23",
       "mean": 7.87,
-      "rank": 981,
+      "rank": 982,
       "popularity": 1212,
       "nsfw": "white",
       "media_type": "movie",
@@ -260,8 +260,8 @@
       "id": 12115,
       "title": "Berserk: Ougon Jidai-hen III - Kourin",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/12/41305.jpg",
-        "large": "https://myanimelist.net/images/anime/12/41305l.jpg"
+        "medium": "https://myanimelist.net/images/anime/12/41305.webp",
+        "large": "https://myanimelist.net/images/anime/12/41305l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -316,7 +316,7 @@
       "end_date": "2013-02-01",
       "mean": 8.21,
       "rank": 419,
-      "popularity": 1143,
+      "popularity": 1144,
       "nsfw": "white",
       "media_type": "movie",
       "status": "finished_airing"
@@ -372,7 +372,7 @@
       "end_date": "2025-09-19",
       "mean": 9.09,
       "rank": 4,
-      "popularity": 590,
+      "popularity": 589,
       "nsfw": "white",
       "media_type": "movie",
       "status": "finished_airing"
@@ -390,8 +390,8 @@
       "id": 61556,
       "title": "Da Zhuzai: Nian Fan 2",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1110/154910.jpg",
-        "large": "https://myanimelist.net/images/anime/1110/154910l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1110/154910.webp",
+        "large": "https://myanimelist.net/images/anime/1110/154910l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -433,9 +433,9 @@
       "synopsis": "Second season of Da Zhuzai: Nian Fan.",
       "num_episodes": 52,
       "start_date": "2026-01-09",
-      "mean": 6.95,
-      "rank": 5092,
-      "popularity": 14909,
+      "mean": 6.98,
+      "rank": 4944,
+      "popularity": 14889,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -494,7 +494,7 @@
       "end_date": "2026-01-03",
       "mean": 8.55,
       "rank": 134,
-      "popularity": 11391,
+      "popularity": 11386,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -512,8 +512,8 @@
       "id": 63632,
       "title": "Guimi Zhi Zhu: Wu Mian Ren",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1729/155794.jpg",
-        "large": "https://myanimelist.net/images/anime/1729/155794l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1729/155794.webp",
+        "large": "https://myanimelist.net/images/anime/1729/155794l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -555,7 +555,7 @@
       "synopsis": "After his resurrection, Klein, now known as Sherlock, becomes a private detective. While taking on cases, he inadvertently provokes a spy organization. With the help of his bodyguard Sharron, as well as the assistance of Audrey and others, he faces many enemies, including the powerful Ambassador of Intis. In a later case, Klein unexpectedly discovers ruins from the Tudor dynasty. While continuing his detective work, Klein searches for clues to his advancement while also pursuing his enemies, Lanevus and Intis…\n\n(Source: Tencent, translated & edited)",
       "num_episodes": 0,
       "start_date": "2027",
-      "popularity": 6860,
+      "popularity": 6845,
       "nsfw": "white",
       "media_type": "ona",
       "status": "not_yet_aired"
@@ -609,7 +609,7 @@
       "num_episodes": 1,
       "start_date": "2027",
       "end_date": "2027",
-      "popularity": 2237,
+      "popularity": 2238,
       "nsfw": "white",
       "media_type": "movie",
       "status": "not_yet_aired"
@@ -655,7 +655,7 @@
       ],
       "synopsis": "Second anime movie of the trilogy adaptation of the Infinity Castle Arc.",
       "num_episodes": 1,
-      "popularity": 2735,
+      "popularity": 2731,
       "nsfw": "white",
       "media_type": "movie",
       "status": "not_yet_aired"
@@ -710,8 +710,8 @@
       "num_episodes": 6,
       "start_date": "2019-07-13",
       "end_date": "2019-09-21",
-      "mean": 7.48,
-      "rank": 2256,
+      "mean": 7.49,
+      "rank": 2214,
       "popularity": 8012,
       "nsfw": "white",
       "media_type": "ona",
@@ -765,7 +765,7 @@
       "start_date": "2020-01-07",
       "end_date": "2020-03-31",
       "mean": 5.85,
-      "rank": 11617,
+      "rank": 11622,
       "popularity": 2794,
       "nsfw": "white",
       "media_type": "tv",
@@ -822,7 +822,7 @@
       "start_date": "2024-01-04",
       "end_date": "2024-03-21",
       "mean": 6.87,
-      "rank": 5570,
+      "rank": 5577,
       "popularity": 1045,
       "nsfw": "white",
       "media_type": "tv",
@@ -877,7 +877,7 @@
       "synopsis": "Second season of Nitian Xie Shen.",
       "num_episodes": 0,
       "start_date": "2026-04-16",
-      "popularity": 17271,
+      "popularity": 17265,
       "nsfw": "white",
       "media_type": "ona",
       "status": "not_yet_aired"
@@ -895,8 +895,8 @@
       "id": 33674,
       "title": "No Game No Life: Zero",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1085/90759.jpg",
-        "large": "https://myanimelist.net/images/anime/1085/90759l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1085/90759.webp",
+        "large": "https://myanimelist.net/images/anime/1085/90759l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -989,7 +989,7 @@
       "synopsis": "Second season of Otome Game Sekai wa Mob ni Kibishii Sekai desu.",
       "num_episodes": 0,
       "start_date": "2026",
-      "popularity": 3185,
+      "popularity": 3186,
       "nsfw": "white",
       "media_type": "tv",
       "status": "not_yet_aired"
@@ -1154,8 +1154,8 @@
       "start_date": "2024-01-07",
       "end_date": "2024-03-24",
       "mean": 6.13,
-      "rank": 10135,
-      "popularity": 2364,
+      "rank": 10143,
+      "popularity": 2362,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1173,8 +1173,8 @@
       "id": 59978,
       "title": "Sousou no Frieren 2nd Season",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1921/154528.webp",
-        "large": "https://myanimelist.net/images/anime/1921/154528l.webp"
+        "medium": "https://myanimelist.net/images/anime/1921/154528.jpg",
+        "large": "https://myanimelist.net/images/anime/1921/154528l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1205,9 +1205,9 @@
       "num_episodes": 10,
       "start_date": "2026-01-16",
       "end_date": "2026-03-27",
-      "mean": 8.95,
-      "rank": 17,
-      "popularity": 528,
+      "mean": 8.94,
+      "rank": 18,
+      "popularity": 525,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1225,8 +1225,8 @@
       "id": 36474,
       "title": "Sword Art Online: Alicization",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1993/93837.jpg",
-        "large": "https://myanimelist.net/images/anime/1993/93837l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1993/93837.webp",
+        "large": "https://myanimelist.net/images/anime/1993/93837l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1261,7 +1261,7 @@
       "start_date": "2018-10-07",
       "end_date": "2019-03-31",
       "mean": 7.58,
-      "rank": 1834,
+      "rank": 1835,
       "popularity": 149,
       "nsfw": "white",
       "media_type": "tv",
@@ -1280,8 +1280,8 @@
       "id": 40540,
       "title": "Sword Art Online: Alicization - War of Underworld 2nd Season",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1438/105106.webp",
-        "large": "https://myanimelist.net/images/anime/1438/105106l.webp"
+        "medium": "https://myanimelist.net/images/anime/1438/105106.jpg",
+        "large": "https://myanimelist.net/images/anime/1438/105106l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1319,7 +1319,7 @@
       "start_date": "2020-07-12",
       "end_date": "2020-09-20",
       "mean": 7.51,
-      "rank": 2137,
+      "rank": 2139,
       "popularity": 350,
       "nsfw": "white",
       "media_type": "tv",
@@ -1338,8 +1338,8 @@
       "id": 40357,
       "title": "Tate no Yuusha no Nariagari Season 3",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1317/139802.jpg",
-        "large": "https://myanimelist.net/images/anime/1317/139802l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1317/139802.webp",
+        "large": "https://myanimelist.net/images/anime/1317/139802l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1376,7 +1376,7 @@
       "start_date": "2023-10-06",
       "end_date": "2023-12-22",
       "mean": 7.08,
-      "rank": 4475,
+      "rank": 4476,
       "popularity": 488,
       "nsfw": "white",
       "media_type": "tv",
@@ -1529,8 +1529,8 @@
       "start_date": "2025-01-30",
       "end_date": "2025-07-17",
       "mean": 7.87,
-      "rank": 1002,
-      "popularity": 13735,
+      "rank": 1003,
+      "popularity": 13737,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1548,8 +1548,8 @@
       "id": 58448,
       "title": "Yong Sheng: Qizhuang Shanhe",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1474/155874.jpg",
-        "large": "https://myanimelist.net/images/anime/1474/155874l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1474/155874.webp",
+        "large": "https://myanimelist.net/images/anime/1474/155874l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1587,7 +1587,7 @@
       "start_date": "2024-04-19",
       "end_date": "2024-07-19",
       "mean": 7.58,
-      "rank": 1844,
+      "rank": 1845,
       "popularity": 12956,
       "nsfw": "white",
       "media_type": "ona",
@@ -1641,8 +1641,8 @@
       "start_date": "2022-08-02",
       "end_date": "2023-01-17",
       "mean": 7.53,
-      "rank": 2062,
-      "popularity": 9158,
+      "rank": 2066,
+      "popularity": 9157,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1660,8 +1660,8 @@
       "id": 60058,
       "title": "[Oshi no Ko] 3rd Season",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1979/153329.webp",
-        "large": "https://myanimelist.net/images/anime/1979/153329l.webp"
+        "medium": "https://myanimelist.net/images/anime/1979/153329.jpg",
+        "large": "https://myanimelist.net/images/anime/1979/153329l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1694,7 +1694,7 @@
       "end_date": "2026-03-25",
       "mean": 8.73,
       "rank": 56,
-      "popularity": 1146,
+      "popularity": 1136,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1742,7 +1742,7 @@
       ],
       "synopsis": "Final season of [Oshi no Ko].",
       "num_episodes": 0,
-      "popularity": 3750,
+      "popularity": 3733,
       "nsfw": "white",
       "media_type": "tv",
       "status": "not_yet_aired"
