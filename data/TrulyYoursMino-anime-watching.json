@@ -37,7 +37,7 @@
       "start_date": "2025-10-07",
       "end_date": "2025-12-23",
       "mean": 6.57,
-      "rank": 7469,
+      "rank": 7481,
       "popularity": 1625,
       "nsfw": "white",
       "media_type": "tv",
@@ -96,9 +96,9 @@
       "num_episodes": 36,
       "start_date": "2024-12-06",
       "end_date": "2025-08-01",
-      "mean": 8.19,
-      "rank": 452,
-      "popularity": 12179,
+      "mean": 8.18,
+      "rank": 465,
+      "popularity": 12173,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -152,7 +152,7 @@
       "start_date": "2023-06-24",
       "mean": 8.05,
       "rank": 657,
-      "popularity": 8368,
+      "popularity": 8365,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -208,7 +208,7 @@
       "start_date": "2022-07-31",
       "mean": 8.38,
       "rank": 240,
-      "popularity": 6652,
+      "popularity": 6655,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -259,7 +259,7 @@
       "start_date": "2023-10-06",
       "end_date": "2023-12-22",
       "mean": 7.21,
-      "rank": 3669,
+      "rank": 3678,
       "popularity": 655,
       "nsfw": "white",
       "media_type": "tv",
@@ -317,7 +317,7 @@
       "start_date": "2023-10-07",
       "end_date": "2023-12-23",
       "mean": 6.23,
-      "rank": 9558,
+      "rank": 9564,
       "popularity": 1228,
       "nsfw": "white",
       "media_type": "tv",
@@ -370,9 +370,9 @@
       "num_episodes": 12,
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
-      "mean": 7.19,
-      "rank": 3804,
-      "popularity": 3079,
+      "mean": 7.18,
+      "rank": 3864,
+      "popularity": 3074,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -430,7 +430,7 @@
       "start_date": "2020-10-04",
       "end_date": "2020-12-20",
       "mean": 6.96,
-      "rank": 5059,
+      "rank": 5068,
       "popularity": 1108,
       "nsfw": "white",
       "media_type": "tv",
@@ -450,8 +450,8 @@
       "id": 58514,
       "title": "Kusuriya no Hitorigoto 2nd Season",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1025/147458.jpg",
-        "large": "https://myanimelist.net/images/anime/1025/147458l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1025/147458.webp",
+        "large": "https://myanimelist.net/images/anime/1025/147458l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -485,7 +485,7 @@
       "end_date": "2025-07-04",
       "mean": 8.91,
       "rank": 23,
-      "popularity": 530,
+      "popularity": 529,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -504,8 +504,8 @@
       "id": 56062,
       "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1664/144272.jpg",
-        "large": "https://myanimelist.net/images/anime/1664/144272l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1664/144272.webp",
+        "large": "https://myanimelist.net/images/anime/1664/144272l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -534,7 +534,7 @@
       "start_date": "2024-07-13",
       "end_date": "2024-09-28",
       "mean": 6.23,
-      "rank": 9582,
+      "rank": 9588,
       "popularity": 1874,
       "nsfw": "white",
       "media_type": "tv",
@@ -581,7 +581,7 @@
       "num_episodes": 580,
       "start_date": "2021-07-16",
       "mean": 7.26,
-      "rank": 3388,
+      "rank": 3392,
       "popularity": 10258,
       "nsfw": "white",
       "media_type": "ona",
@@ -630,8 +630,8 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.79,
-      "rank": 6068,
-      "popularity": 2975,
+      "rank": 6077,
+      "popularity": 2970,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -730,7 +730,7 @@
       "start_date": "2022-11-10",
       "mean": 8.17,
       "rank": 496,
-      "popularity": 8057,
+      "popularity": 8056,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -786,7 +786,7 @@
       "end_date": "2024-05-30",
       "mean": 7.65,
       "rank": 1589,
-      "popularity": 12443,
+      "popularity": 12442,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -838,7 +838,7 @@
       "start_date": "2022-01-09",
       "end_date": "2022-03-27",
       "mean": 8.13,
-      "rank": 550,
+      "rank": 551,
       "popularity": 120,
       "nsfw": "white",
       "media_type": "tv",
@@ -858,8 +858,8 @@
       "id": 50602,
       "title": "Spy x Family Part 2",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1111/127508.jpg",
-        "large": "https://myanimelist.net/images/anime/1111/127508l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1111/127508.webp",
+        "large": "https://myanimelist.net/images/anime/1111/127508l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -912,8 +912,8 @@
       "id": 61207,
       "title": "Tensei shitara Dragon no Tamago datta",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1250/156107.jpg",
-        "large": "https://myanimelist.net/images/anime/1250/156107l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1250/156107.webp",
+        "large": "https://myanimelist.net/images/anime/1250/156107l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -947,8 +947,8 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.4,
-      "rank": 8584,
-      "popularity": 4121,
+      "rank": 8592,
+      "popularity": 4112,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1004,8 +1004,8 @@
       "num_episodes": 175,
       "start_date": "2023-10-03",
       "mean": 8.36,
-      "rank": 270,
-      "popularity": 8981,
+      "rank": 272,
+      "popularity": 8980,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1058,9 +1058,9 @@
       "num_episodes": 224,
       "start_date": "2022-08-16",
       "end_date": "2024-10-01",
-      "mean": 7.31,
-      "rank": 3087,
-      "popularity": 11507,
+      "mean": 7.3,
+      "rank": 3163,
+      "popularity": 11509,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1079,8 +1079,8 @@
       "id": 47405,
       "title": "Wanmei Shijie",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1809/153679.jpg",
-        "large": "https://myanimelist.net/images/anime/1809/153679l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1809/153679.webp",
+        "large": "https://myanimelist.net/images/anime/1809/153679l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1114,9 +1114,9 @@
       "synopsis": "Born into a unique world where villages fight to gain power and control, the main character, Shi Hao, is a genius blessed by the heavens born under the poorest of conditions.\n\nHis clan, however, has a mysterious past. To rise up and become the genius he is meant to be, the clan goes through every effort to aid his cultivation as they battle through fanatical monsters and engage in power struggles with other clans.\n\nHis journey will bring him through unknown lands until he is able to become a person that can truly shake the world.\n\n(Source: Novels Xianxia&Xuanhuan Wiki)",
       "num_episodes": 286,
       "start_date": "2021-04-23",
-      "mean": 7.84,
-      "rank": 1065,
-      "popularity": 6280,
+      "mean": 7.83,
+      "rank": 1087,
+      "popularity": 6281,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1172,7 +1172,7 @@
       "num_episodes": 720,
       "start_date": "2020-03-08",
       "mean": 7.54,
-      "rank": 2011,
+      "rank": 2012,
       "popularity": 8452,
       "nsfw": "white",
       "media_type": "ona",
@@ -1228,7 +1228,7 @@
       "start_date": "2023-09-25",
       "mean": 8.48,
       "rank": 175,
-      "popularity": 7000,
+      "popularity": 7001,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1282,7 +1282,7 @@
       "num_episodes": 147,
       "start_date": "2023-09-24",
       "mean": 7.37,
-      "rank": 2774,
+      "rank": 2775,
       "popularity": 12148,
       "nsfw": "white",
       "media_type": "ona",
@@ -1363,8 +1363,8 @@
       "id": 61128,
       "title": "Yuusha Party wo Oidasareta Kiyoubinbou",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1486/153135.jpg",
-        "large": "https://myanimelist.net/images/anime/1486/153135l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1486/153135.webp",
+        "large": "https://myanimelist.net/images/anime/1486/153135l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1392,8 +1392,8 @@
       "start_date": "2026-01-04",
       "end_date": "2026-03-22",
       "mean": 6.65,
-      "rank": 7029,
-      "popularity": 2142,
+      "rank": 7040,
+      "popularity": 2137,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
