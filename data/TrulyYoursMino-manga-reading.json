@@ -83,7 +83,7 @@
       "num_chapters": 0,
       "start_date": "2020-08-31",
       "mean": 7.78,
-      "rank": 1628,
+      "rank": 1629,
       "popularity": 644,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -101,11 +101,66 @@
   },
   {
     "node": {
+      "id": 152612,
+      "title": "Returning With Absolutely Nothing",
+      "main_picture": {
+        "medium": "https://myanimelist.net/images/manga/2/270200.jpg",
+        "large": "https://myanimelist.net/images/manga/2/270200l.jpg"
+      },
+      "alternative_titles": {
+        "synonyms": [
+          "Worthless Regression",
+          "Possessing Nothing",
+          "Jwippul-do Eomneun Hoegwi"
+        ],
+        "en": "Returning With Absolutely Nothing",
+        "ja": "쥐뿔도 없는 회귀"
+      },
+      "genres": [
+        {
+          "id": 1,
+          "name": "Action"
+        },
+        {
+          "id": 10,
+          "name": "Fantasy"
+        },
+        {
+          "id": 62,
+          "name": "Isekai"
+        },
+        {
+          "id": 79,
+          "name": "Time Travel"
+        }
+      ],
+      "synopsis": "In Aeria, a place where people from various worlds are summoned, the weak are destined to die. Sungmin Lee, a talentless mercenary, was no exception. Fortunately for him, a mysterious item he finds before his untimely death sends him back to the past. Now a 13-year-old with a second chance at life, Sungmin begins his desperate journey to become Aeria's strongest with no money or talent. The question is... will effort alone be enough to make a hero of a boy with absolutely nothing?\n\n(Source: Tapas Media)",
+      "num_chapters": 0,
+      "start_date": "2022-03-27",
+      "mean": 7.47,
+      "rank": 3573,
+      "popularity": 2249,
+      "nsfw": "white",
+      "media_type": "manhwa",
+      "status": "currently_publishing"
+    },
+    "list_status": {
+      "status": "reading",
+      "is_rereading": false,
+      "num_volumes_read": 0,
+      "num_chapters_read": 10,
+      "score": 0,
+      "updated_at": "2026-04-13T13:13:24+00:00",
+      "start_date": "2026-04-13"
+    }
+  },
+  {
+    "node": {
       "id": 67617,
       "title": "Tate no Yuusha no Nariagari",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/manga/3/115755.webp",
-        "large": "https://myanimelist.net/images/manga/3/115755l.webp"
+        "medium": "https://myanimelist.net/images/manga/3/115755.jpg",
+        "large": "https://myanimelist.net/images/manga/3/115755l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -126,7 +181,7 @@
       "num_chapters": 0,
       "start_date": "2013-08-22",
       "mean": 7.93,
-      "rank": 1085,
+      "rank": 1084,
       "popularity": 405,
       "nsfw": "white",
       "media_type": "light_novel",
@@ -183,7 +238,7 @@
       "start_date": "2010-07-05",
       "mean": 8.34,
       "rank": 326,
-      "popularity": 42,
+      "popularity": 43,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
