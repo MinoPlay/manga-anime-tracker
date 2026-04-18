@@ -37,7 +37,7 @@
       "start_date": "2021-04-11",
       "end_date": "2021-06-20",
       "mean": 8.35,
-      "rank": 273,
+      "rank": 274,
       "popularity": 202,
       "nsfw": "white",
       "media_type": "tv",
@@ -56,8 +56,8 @@
       "id": 52995,
       "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1553/145597.jpg",
-        "large": "https://myanimelist.net/images/anime/1553/145597l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1553/145597.webp",
+        "large": "https://myanimelist.net/images/anime/1553/145597l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -241,7 +241,7 @@
       "start_date": "2012-06-23",
       "end_date": "2012-06-23",
       "mean": 7.87,
-      "rank": 989,
+      "rank": 990,
       "popularity": 1212,
       "nsfw": "white",
       "media_type": "movie",
@@ -372,7 +372,7 @@
       "end_date": "2025-09-19",
       "mean": 9.08,
       "rank": 4,
-      "popularity": 585,
+      "popularity": 584,
       "nsfw": "white",
       "media_type": "movie",
       "status": "finished_airing"
@@ -434,7 +434,7 @@
       "num_episodes": 52,
       "start_date": "2026-01-09",
       "mean": 7,
-      "rank": 4935,
+      "rank": 4939,
       "popularity": 14873,
       "nsfw": "white",
       "media_type": "ona",
@@ -446,6 +446,48 @@
       "num_episodes_watched": 0,
       "is_rewatching": false,
       "updated_at": "2025-04-30T11:07:08+00:00"
+    }
+  },
+  {
+    "node": {
+      "id": 62927,
+      "title": "Fangkai Nage Nuwu",
+      "main_picture": {
+        "medium": "https://myanimelist.net/images/anime/1381/153536.jpg",
+        "large": "https://myanimelist.net/images/anime/1381/153536l.jpg"
+      },
+      "alternative_titles": {
+        "synonyms": [],
+        "en": "Release that Witch",
+        "ja": "放开那个女巫"
+      },
+      "genres": [
+        {
+          "id": 10,
+          "name": "Fantasy"
+        },
+        {
+          "id": 62,
+          "name": "Isekai"
+        }
+      ],
+      "synopsis": "Modern man Cheng Yan unexpectedly dies and his soul travels to a medieval European-style otherworldly continent, becoming Roland, the fourth prince of the Kingdom of Graycastle. This playboy prince saves the witch Anna at an execution scene and is shocked to discover that magic really exists in this medieval-style otherworld.\n\nWhen Anna, as a witch, displays her magical skills, Roland realizes that magic can replace some modern technology, so he formulates a \"great development of magical industry\" plan. Thus, in an era where everyone hates witches, the independent Roland begins to recruit witches, using their magic to transform Border Town and improve the lives of himself and the locals.\n\nIn addition to using magic to develop industry, Roland also introduces modern business ideas to Border Town. Under Roland's leadership, people manufacture firearms, and Roland gains public support. As the number of witches in Roland's camp increases, the magical industry continues to improve. At the same time, Roland will face battles with great families and other princes and princesses.\n\nAs his territory expands, Roland successfully creates a harmonious coexistence between witches and ordinary people, gradually bringing the western territory of Graycastle and even the entire kingdom under his rule, and slowly uncovering the secrets of the devil race and the Witch Empire.\n\n(Source: Crunchyroll)",
+      "num_episodes": 8,
+      "start_date": "2026-03-02",
+      "end_date": "2026-04-20",
+      "mean": 8.18,
+      "rank": 471,
+      "popularity": 6004,
+      "nsfw": "white",
+      "media_type": "ona",
+      "status": "currently_airing"
+    },
+    "list_status": {
+      "status": "plan_to_watch",
+      "score": 0,
+      "num_episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at": "2026-04-17T11:22:28+00:00"
     }
   },
   {
@@ -494,7 +536,7 @@
       "end_date": "2026-01-03",
       "mean": 8.54,
       "rank": 139,
-      "popularity": 11364,
+      "popularity": 11365,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -512,8 +554,8 @@
       "id": 63632,
       "title": "Guimi Zhi Zhu: Wu Mian Ren",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1729/155794.jpg",
-        "large": "https://myanimelist.net/images/anime/1729/155794l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1729/155794.webp",
+        "large": "https://myanimelist.net/images/anime/1729/155794l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -555,7 +597,7 @@
       "synopsis": "After his resurrection, Klein, now known as Sherlock, becomes a private detective. While taking on cases, he inadvertently provokes a spy organization. With the help of his bodyguard Sharron, as well as the assistance of Audrey and others, he faces many enemies, including the powerful Ambassador of Intis. In a later case, Klein unexpectedly discovers ruins from the Tudor dynasty. While continuing his detective work, Klein searches for clues to his advancement while also pursuing his enemies, Lanevus and Intis…\n\n(Source: Tencent, translated & edited)",
       "num_episodes": 0,
       "start_date": "2027",
-      "popularity": 6785,
+      "popularity": 6774,
       "nsfw": "white",
       "media_type": "ona",
       "status": "not_yet_aired"
@@ -573,8 +615,8 @@
       "id": 57584,
       "title": "Kage no Jitsuryokusha ni Naritakute! Movie: Zankyou-hen",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1797/156362.jpg",
-        "large": "https://myanimelist.net/images/anime/1797/156362l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1797/156362.webp",
+        "large": "https://myanimelist.net/images/anime/1797/156362l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -609,7 +651,7 @@
       "num_episodes": 1,
       "start_date": "2027",
       "end_date": "2027",
-      "popularity": 2233,
+      "popularity": 2232,
       "nsfw": "white",
       "media_type": "movie",
       "status": "not_yet_aired"
@@ -627,8 +669,8 @@
       "id": 62546,
       "title": "Kimetsu no Yaiba Movie 2: Mugenjou-hen",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1000/152184.webp",
-        "large": "https://myanimelist.net/images/anime/1000/152184l.webp"
+        "medium": "https://myanimelist.net/images/anime/1000/152184.jpg",
+        "large": "https://myanimelist.net/images/anime/1000/152184l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -655,7 +697,7 @@
       ],
       "synopsis": "Second anime movie of the trilogy adaptation of the Infinity Castle Arc.",
       "num_episodes": 1,
-      "popularity": 2717,
+      "popularity": 2713,
       "nsfw": "white",
       "media_type": "movie",
       "status": "not_yet_aired"
@@ -711,8 +753,8 @@
       "start_date": "2019-07-13",
       "end_date": "2019-09-21",
       "mean": 7.49,
-      "rank": 2234,
-      "popularity": 8010,
+      "rank": 2233,
+      "popularity": 8012,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -730,8 +772,8 @@
       "id": 37576,
       "title": "Majutsushi Orphen Hagure Tabi",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1093/113944.webp",
-        "large": "https://myanimelist.net/images/anime/1093/113944l.webp"
+        "medium": "https://myanimelist.net/images/anime/1093/113944.jpg",
+        "large": "https://myanimelist.net/images/anime/1093/113944l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -765,7 +807,7 @@
       "start_date": "2020-01-07",
       "end_date": "2020-03-31",
       "mean": 5.85,
-      "rank": 11671,
+      "rank": 11670,
       "popularity": 2795,
       "nsfw": "white",
       "media_type": "tv",
@@ -784,8 +826,8 @@
       "id": 50392,
       "title": "Mato Seihei no Slave",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1114/140805.webp",
-        "large": "https://myanimelist.net/images/anime/1114/140805l.webp"
+        "medium": "https://myanimelist.net/images/anime/1114/140805.jpg",
+        "large": "https://myanimelist.net/images/anime/1114/140805l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -822,8 +864,8 @@
       "start_date": "2024-01-04",
       "end_date": "2024-03-21",
       "mean": 6.87,
-      "rank": 5679,
-      "popularity": 1043,
+      "rank": 5680,
+      "popularity": 1042,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -877,8 +919,8 @@
       "synopsis": "Second season of Nitian Xie Shen.",
       "num_episodes": 52,
       "start_date": "2026-04-16",
-      "rank": 19153,
-      "popularity": 16824,
+      "rank": 19154,
+      "popularity": 16738,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -930,7 +972,7 @@
       "start_date": "2017-07-15",
       "end_date": "2017-07-15",
       "mean": 8.16,
-      "rank": 504,
+      "rank": 505,
       "popularity": 211,
       "nsfw": "white",
       "media_type": "movie",
@@ -1045,7 +1087,7 @@
       "start_date": "2022-04-05",
       "end_date": "2022-06-21",
       "mean": 8.09,
-      "rank": 604,
+      "rank": 606,
       "popularity": 848,
       "nsfw": "white",
       "media_type": "tv",
@@ -1126,8 +1168,8 @@
       "id": 56845,
       "title": "Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou sareru",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1384/140829.jpg",
-        "large": "https://myanimelist.net/images/anime/1384/140829l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1384/140829.webp",
+        "large": "https://myanimelist.net/images/anime/1384/140829l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1155,8 +1197,8 @@
       "start_date": "2024-01-07",
       "end_date": "2024-03-24",
       "mean": 6.14,
-      "rank": 10140,
-      "popularity": 2361,
+      "rank": 10141,
+      "popularity": 2362,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1208,7 +1250,7 @@
       "end_date": "2026-03-27",
       "mean": 8.92,
       "rank": 22,
-      "popularity": 514,
+      "popularity": 513,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1262,7 +1304,7 @@
       "start_date": "2018-10-07",
       "end_date": "2019-03-31",
       "mean": 7.58,
-      "rank": 1851,
+      "rank": 1852,
       "popularity": 149,
       "nsfw": "white",
       "media_type": "tv",
@@ -1281,8 +1323,8 @@
       "id": 40540,
       "title": "Sword Art Online: Alicization - War of Underworld 2nd Season",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1438/105106.webp",
-        "large": "https://myanimelist.net/images/anime/1438/105106l.webp"
+        "medium": "https://myanimelist.net/images/anime/1438/105106.jpg",
+        "large": "https://myanimelist.net/images/anime/1438/105106l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1377,7 +1419,7 @@
       "start_date": "2023-10-06",
       "end_date": "2023-12-22",
       "mean": 7.08,
-      "rank": 4542,
+      "rank": 4546,
       "popularity": 487,
       "nsfw": "white",
       "media_type": "tv",
@@ -1389,6 +1431,49 @@
       "num_episodes_watched": 0,
       "is_rewatching": false,
       "updated_at": "2022-08-12T07:55:55+00:00"
+    }
+  },
+  {
+    "node": {
+      "id": 51553,
+      "title": "Tongari Boushi no Atelier",
+      "main_picture": {
+        "medium": "https://myanimelist.net/images/anime/1726/155542.webp",
+        "large": "https://myanimelist.net/images/anime/1726/155542l.webp"
+      },
+      "alternative_titles": {
+        "synonyms": [
+          "Atelier of Witch Hat"
+        ],
+        "en": "Witch Hat Atelier",
+        "ja": "とんがり帽子のアトリエ"
+      },
+      "genres": [
+        {
+          "id": 10,
+          "name": "Fantasy"
+        },
+        {
+          "id": 42,
+          "name": "Seinen"
+        }
+      ],
+      "synopsis": "Coco, a humble dressmaker's daughter, has always been fascinated by magic and the witches who cast it, despite the strict precautions they take to hide their methods from the public. However, when Coco takes advantage of a golden chance to spy on the skilled witch Qifrey, she realizes that her favorite picture book was a disguised magic book all along! In her excitement, she immediately starts testing out the various spells.\n\nWhen a spell causes a disaster in her home, Qifrey rescues her just in time and decides to train her, realizing that she is the first lead he has found that could help him track down the Brimmed Caps—a dangerous group of heretics who experiment with forbidden body-altering magic and spread magical artifacts among the commoners. But before Coco and Qifrey can confront the Brimmed Caps, she is going to have to improve her magical skills and learn to get along with Qifrey's other apprentices. \n\n[Written by MAL Rewrite]",
+      "num_episodes": 13,
+      "start_date": "2026-04-06",
+      "mean": 8.73,
+      "rank": 55,
+      "popularity": 1403,
+      "nsfw": "white",
+      "media_type": "tv",
+      "status": "currently_airing"
+    },
+    "list_status": {
+      "status": "plan_to_watch",
+      "score": 0,
+      "num_episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at": "2026-04-17T15:07:36+00:00"
     }
   },
   {
@@ -1430,7 +1515,7 @@
       "end_date": "2024-09-29",
       "mean": 7.85,
       "rank": 1046,
-      "popularity": 757,
+      "popularity": 756,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1530,8 +1615,8 @@
       "start_date": "2025-01-30",
       "end_date": "2025-07-17",
       "mean": 7.89,
-      "rank": 962,
-      "popularity": 13709,
+      "rank": 961,
+      "popularity": 13706,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1549,8 +1634,8 @@
       "id": 58448,
       "title": "Yong Sheng: Qizhuang Shanhe",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1474/155874.webp",
-        "large": "https://myanimelist.net/images/anime/1474/155874l.webp"
+        "medium": "https://myanimelist.net/images/anime/1474/155874.jpg",
+        "large": "https://myanimelist.net/images/anime/1474/155874l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1588,8 +1673,8 @@
       "start_date": "2024-04-19",
       "end_date": "2024-07-19",
       "mean": 7.58,
-      "rank": 1860,
-      "popularity": 12953,
+      "rank": 1861,
+      "popularity": 12954,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1642,8 +1727,8 @@
       "start_date": "2022-08-02",
       "end_date": "2023-01-17",
       "mean": 7.52,
-      "rank": 2130,
-      "popularity": 9160,
+      "rank": 2129,
+      "popularity": 9162,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1661,8 +1746,8 @@
       "id": 60058,
       "title": "[Oshi no Ko] 3rd Season",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1979/153329.jpg",
-        "large": "https://myanimelist.net/images/anime/1979/153329l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1979/153329.webp",
+        "large": "https://myanimelist.net/images/anime/1979/153329l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1695,7 +1780,7 @@
       "end_date": "2026-03-25",
       "mean": 8.72,
       "rank": 62,
-      "popularity": 1115,
+      "popularity": 1112,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1713,8 +1798,8 @@
       "id": 63794,
       "title": "[Oshi no Ko] 4th Season",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1702/156273.webp",
-        "large": "https://myanimelist.net/images/anime/1702/156273l.webp"
+        "medium": "https://myanimelist.net/images/anime/1702/156273.jpg",
+        "large": "https://myanimelist.net/images/anime/1702/156273l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1743,7 +1828,7 @@
       ],
       "synopsis": "Final season of [Oshi no Ko].",
       "num_episodes": 0,
-      "popularity": 3602,
+      "popularity": 3599,
       "nsfw": "white",
       "media_type": "tv",
       "status": "not_yet_aired"
