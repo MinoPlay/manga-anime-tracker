@@ -33,7 +33,7 @@
       "num_chapters": 0,
       "start_date": "2021-06-14",
       "mean": 7.72,
-      "rank": 1926,
+      "rank": 1891,
       "popularity": 1391,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -83,7 +83,7 @@
       "num_chapters": 0,
       "start_date": "2020-08-31",
       "mean": 7.78,
-      "rank": 1639,
+      "rank": 1623,
       "popularity": 640,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -104,8 +104,8 @@
       "id": 152612,
       "title": "Returning With Absolutely Nothing",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/manga/2/270200.jpg",
-        "large": "https://myanimelist.net/images/manga/2/270200l.jpg"
+        "medium": "https://myanimelist.net/images/manga/2/270200.webp",
+        "large": "https://myanimelist.net/images/manga/2/270200l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -138,7 +138,7 @@
       "num_chapters": 0,
       "start_date": "2022-03-27",
       "mean": 7.47,
-      "rank": 3580,
+      "rank": 3646,
       "popularity": 2243,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -159,8 +159,8 @@
       "id": 121496,
       "title": "Solo Leveling",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/manga/3/222295.jpg",
-        "large": "https://myanimelist.net/images/manga/3/222295l.jpg"
+        "medium": "https://myanimelist.net/images/manga/3/222295.webp",
+        "large": "https://myanimelist.net/images/manga/3/222295l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -217,8 +217,8 @@
       "id": 67617,
       "title": "Tate no Yuusha no Nariagari",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/manga/3/115755.webp",
-        "large": "https://myanimelist.net/images/manga/3/115755l.webp"
+        "medium": "https://myanimelist.net/images/manga/3/115755.jpg",
+        "large": "https://myanimelist.net/images/manga/3/115755l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -239,7 +239,7 @@
       "num_chapters": 0,
       "start_date": "2013-08-22",
       "mean": 7.93,
-      "rank": 1089,
+      "rank": 1081,
       "popularity": 405,
       "nsfw": "white",
       "media_type": "light_novel",
@@ -295,7 +295,7 @@
       "num_chapters": 0,
       "start_date": "2010-07-05",
       "mean": 8.34,
-      "rank": 321,
+      "rank": 323,
       "popularity": 43,
       "nsfw": "white",
       "media_type": "manhwa",
