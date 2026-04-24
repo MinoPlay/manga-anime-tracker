@@ -1,11 +1,71 @@
 [
   {
     "node": {
+      "id": 170974,
+      "title": "Blink Master of the Magic Academy",
+      "main_picture": {
+        "medium": "https://myanimelist.net/images/manga/2/303869.jpg",
+        "large": "https://myanimelist.net/images/manga/2/303869l.jpg"
+      },
+      "alternative_titles": {
+        "synonyms": [
+          "Magic Academy's Genius Blinker",
+          "I Became a Flashing Genius at the Magic Academy",
+          "Quick Teleporting Genius from Magic School",
+          "Mabeop Hakgyo Apjeommyeol Cheonjae-ga Doeeotda"
+        ],
+        "en": "Blink Master of the Magic Academy",
+        "ja": "마법학교 앞점멸 천재가 되었다"
+      },
+      "genres": [
+        {
+          "id": 1,
+          "name": "Action"
+        },
+        {
+          "id": 10,
+          "name": "Fantasy"
+        },
+        {
+          "id": 62,
+          "name": "Isekai"
+        },
+        {
+          "id": 73,
+          "name": "Reincarnation"
+        },
+        {
+          "id": 23,
+          "name": "School"
+        }
+      ],
+      "synopsis": "The character with the highest difficulty and the worst performance, Baek Yuseol, was considered a trash character in-game because he could not use magic in a fantasy setting where everyone else could. However...\n\n[Because the wrong ending has been reached, 90% of Aether World has been destroyed.] [Please reach the \"True Ending.\"]\n\nSuddenly, those words echoed in my mind before I was transmigrated to the Aether World.\n\n[You can use the skill \"Blink.\"]\n\n\"Just why did I possess this character?\"\n\nBlink was the only magic skill I had. Surviving in Stella Academy among genius mages, I became the notorious Blink Mage.\n\n(Source: Kakao Entertainment, translated)",
+      "num_chapters": 0,
+      "start_date": "2024-06-08",
+      "mean": 7.56,
+      "rank": 2931,
+      "popularity": 1501,
+      "nsfw": "white",
+      "media_type": "manhwa",
+      "status": "currently_publishing"
+    },
+    "list_status": {
+      "status": "reading",
+      "is_rereading": false,
+      "num_volumes_read": 0,
+      "num_chapters_read": 94,
+      "score": 0,
+      "updated_at": "2026-04-24T03:47:30+00:00",
+      "start_date": "2026-04-24"
+    }
+  },
+  {
+    "node": {
       "id": 147847,
       "title": "Descended from Divinity",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/manga/1/262444.jpg",
-        "large": "https://myanimelist.net/images/manga/1/262444l.jpg"
+        "medium": "https://myanimelist.net/images/manga/1/262444.webp",
+        "large": "https://myanimelist.net/images/manga/1/262444l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -33,7 +93,7 @@
       "num_chapters": 0,
       "start_date": "2021-06-14",
       "mean": 7.72,
-      "rank": 1891,
+      "rank": 1889,
       "popularity": 1391,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -83,7 +143,7 @@
       "num_chapters": 0,
       "start_date": "2020-08-31",
       "mean": 7.78,
-      "rank": 1623,
+      "rank": 1624,
       "popularity": 640,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -104,8 +164,8 @@
       "id": 152612,
       "title": "Returning With Absolutely Nothing",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/manga/2/270200.webp",
-        "large": "https://myanimelist.net/images/manga/2/270200l.webp"
+        "medium": "https://myanimelist.net/images/manga/2/270200.jpg",
+        "large": "https://myanimelist.net/images/manga/2/270200l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -138,7 +198,7 @@
       "num_chapters": 0,
       "start_date": "2022-03-27",
       "mean": 7.47,
-      "rank": 3646,
+      "rank": 3645,
       "popularity": 2243,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -217,8 +277,8 @@
       "id": 67617,
       "title": "Tate no Yuusha no Nariagari",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/manga/3/115755.jpg",
-        "large": "https://myanimelist.net/images/manga/3/115755l.jpg"
+        "medium": "https://myanimelist.net/images/manga/3/115755.webp",
+        "large": "https://myanimelist.net/images/manga/3/115755l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -256,11 +316,65 @@
   },
   {
     "node": {
+      "id": 177451,
+      "title": "The Legendary Hero Is an Academy Honors Student",
+      "main_picture": {
+        "medium": "https://myanimelist.net/images/manga/2/317060.webp",
+        "large": "https://myanimelist.net/images/manga/2/317060l.webp"
+      },
+      "alternative_titles": {
+        "synonyms": [
+          "Jeonseol-geup Yeongung-eun Academy Udeungsaeng",
+          "Legendary Hero Is an Academy Honors Student"
+        ],
+        "en": "The Legendary Hero Is an Academy Honors Student",
+        "ja": "전설급 영웅은 아카데미 우등생"
+      },
+      "genres": [
+        {
+          "id": 1,
+          "name": "Action"
+        },
+        {
+          "id": 10,
+          "name": "Fantasy"
+        },
+        {
+          "id": 73,
+          "name": "Reincarnation"
+        },
+        {
+          "id": 23,
+          "name": "School"
+        }
+      ],
+      "synopsis": "In the Age of Catastrophe, five heroes saved the world from a primordial evil. One of the heroes, now reborn as Leo Plove, is excited to revisit his glorious past—only to find his name erased from history. Determined to uncover the truth, he joins Lumerne, a hero military academy, unaware he's about to discover dark secrets surrounding his reincarnation. Why are his past records hidden, and who wants to keep them that way? Will Leo be able to set things right and reclaim the credit he deserves?\n\n(Source: Tapas Media)",
+      "num_chapters": 0,
+      "start_date": "2024-12-28",
+      "mean": 7.03,
+      "rank": 9367,
+      "popularity": 3628,
+      "nsfw": "white",
+      "media_type": "manhwa",
+      "status": "currently_publishing"
+    },
+    "list_status": {
+      "status": "reading",
+      "is_rereading": false,
+      "num_volumes_read": 0,
+      "num_chapters_read": 30,
+      "score": 0,
+      "updated_at": "2026-04-24T03:48:02+00:00",
+      "start_date": "2026-04-24"
+    }
+  },
+  {
+    "node": {
       "id": 122663,
       "title": "Tower of God",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/manga/2/223694.webp",
-        "large": "https://myanimelist.net/images/manga/2/223694l.webp"
+        "medium": "https://myanimelist.net/images/manga/2/223694.jpg",
+        "large": "https://myanimelist.net/images/manga/2/223694l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -295,7 +409,7 @@
       "num_chapters": 0,
       "start_date": "2010-07-05",
       "mean": 8.34,
-      "rank": 323,
+      "rank": 324,
       "popularity": 43,
       "nsfw": "white",
       "media_type": "manhwa",
