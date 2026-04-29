@@ -37,8 +37,8 @@
       "start_date": "2025-10-07",
       "end_date": "2025-12-23",
       "mean": 6.57,
-      "rank": 7605,
-      "popularity": 1614,
+      "rank": 7615,
+      "popularity": 1613,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -98,7 +98,7 @@
       "end_date": "2025-08-01",
       "mean": 8.2,
       "rank": 441,
-      "popularity": 12127,
+      "popularity": 12122,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -152,7 +152,7 @@
       "start_date": "2023-06-24",
       "mean": 8.05,
       "rank": 661,
-      "popularity": 8351,
+      "popularity": 8354,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -253,8 +253,8 @@
       "start_date": "2022-07-10",
       "end_date": "2022-07-10",
       "mean": 8.11,
-      "rank": 569,
-      "popularity": 702,
+      "rank": 570,
+      "popularity": 701,
       "nsfw": "white",
       "media_type": "tv_special",
       "status": "finished_airing"
@@ -306,7 +306,7 @@
       "start_date": "2023-10-06",
       "end_date": "2023-12-22",
       "mean": 7.21,
-      "rank": 3778,
+      "rank": 3787,
       "popularity": 655,
       "nsfw": "white",
       "media_type": "tv",
@@ -364,8 +364,8 @@
       "start_date": "2023-10-07",
       "end_date": "2023-12-23",
       "mean": 6.23,
-      "rank": 9667,
-      "popularity": 1227,
+      "rank": 9675,
+      "popularity": 1228,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -422,7 +422,7 @@
       "start_date": "2020-10-04",
       "end_date": "2020-12-20",
       "mean": 6.96,
-      "rank": 5214,
+      "rank": 5229,
       "popularity": 1105,
       "nsfw": "white",
       "media_type": "tv",
@@ -477,7 +477,7 @@
       "end_date": "2025-07-04",
       "mean": 8.91,
       "rank": 22,
-      "popularity": 521,
+      "popularity": 520,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -496,8 +496,8 @@
       "id": 56062,
       "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1664/144272.jpg",
-        "large": "https://myanimelist.net/images/anime/1664/144272l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1664/144272.webp",
+        "large": "https://myanimelist.net/images/anime/1664/144272l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -526,8 +526,8 @@
       "start_date": "2024-07-13",
       "end_date": "2024-09-28",
       "mean": 6.23,
-      "rank": 9684,
-      "popularity": 1872,
+      "rank": 9692,
+      "popularity": 1871,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -573,8 +573,8 @@
       "num_episodes": 580,
       "start_date": "2021-07-16",
       "mean": 7.27,
-      "rank": 3397,
-      "popularity": 10265,
+      "rank": 3409,
+      "popularity": 10264,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -592,8 +592,8 @@
       "id": 61549,
       "title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1264/153908.jpg",
-        "large": "https://myanimelist.net/images/anime/1264/153908l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1264/153908.webp",
+        "large": "https://myanimelist.net/images/anime/1264/153908l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -622,8 +622,8 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.79,
-      "rank": 6251,
-      "popularity": 2864,
+      "rank": 6258,
+      "popularity": 2859,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -673,7 +673,7 @@
       "start_date": "2022-07-05",
       "end_date": "2022-09-27",
       "mean": 8.06,
-      "rank": 654,
+      "rank": 655,
       "popularity": 391,
       "nsfw": "white",
       "media_type": "tv",
@@ -723,7 +723,7 @@
       "end_date": "2026-04-23",
       "mean": 8.35,
       "rank": 281,
-      "popularity": 8027,
+      "popularity": 8028,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -778,7 +778,7 @@
       "start_date": "2023-12-14",
       "end_date": "2024-05-30",
       "mean": 7.65,
-      "rank": 1611,
+      "rank": 1614,
       "popularity": 12429,
       "nsfw": "white",
       "media_type": "ona",
@@ -851,8 +851,8 @@
       "id": 50602,
       "title": "Spy x Family Part 2",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1111/127508.webp",
-        "large": "https://myanimelist.net/images/anime/1111/127508l.webp"
+        "medium": "https://myanimelist.net/images/anime/1111/127508.jpg",
+        "large": "https://myanimelist.net/images/anime/1111/127508l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -886,7 +886,7 @@
       "start_date": "2022-10-01",
       "end_date": "2022-12-24",
       "mean": 8.2,
-      "rank": 450,
+      "rank": 451,
       "popularity": 154,
       "nsfw": "white",
       "media_type": "tv",
@@ -905,8 +905,8 @@
       "id": 61207,
       "title": "Tensei shitara Dragon no Tamago datta",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1250/156107.jpg",
-        "large": "https://myanimelist.net/images/anime/1250/156107l.jpg"
+        "medium": "https://myanimelist.net/images/anime/1250/156107.webp",
+        "large": "https://myanimelist.net/images/anime/1250/156107l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -940,8 +940,8 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.41,
-      "rank": 8651,
-      "popularity": 3999,
+      "rank": 8657,
+      "popularity": 3994,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -960,8 +960,8 @@
       "id": 51553,
       "title": "Tongari Boushi no Atelier",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1726/155542.webp",
-        "large": "https://myanimelist.net/images/anime/1726/155542l.webp"
+        "medium": "https://myanimelist.net/images/anime/1726/155542.jpg",
+        "large": "https://myanimelist.net/images/anime/1726/155542l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -983,9 +983,9 @@
       "synopsis": "Coco, a humble dressmaker's daughter, has always been fascinated by magic and the witches who cast it, despite the strict precautions they take to hide their methods from the public. However, when Coco takes advantage of a golden chance to spy on the skilled witch Qifrey, she realizes that her favorite picture book was a disguised magic book all along! In her excitement, she immediately starts testing out the various spells.\n\nWhen a spell causes a disaster in her home, Qifrey rescues her just in time and decides to train her, realizing that she is the first lead he has found that could help him track down the Brimmed Caps—a dangerous group of heretics who experiment with forbidden body-altering magic and spread magical artifacts among the commoners. But before Coco and Qifrey can confront the Brimmed Caps, she is going to have to improve her magical skills and learn to get along with Qifrey's other apprentices. \n\n[Written by MAL Rewrite]",
       "num_episodes": 13,
       "start_date": "2026-04-06",
-      "mean": 8.73,
-      "rank": 55,
-      "popularity": 1246,
+      "mean": 8.74,
+      "rank": 51,
+      "popularity": 1226,
       "nsfw": "white",
       "media_type": "tv",
       "status": "currently_airing"
@@ -1041,7 +1041,7 @@
       "start_date": "2023-10-03",
       "mean": 8.37,
       "rank": 261,
-      "popularity": 8931,
+      "popularity": 8929,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1095,7 +1095,7 @@
       "start_date": "2022-08-16",
       "end_date": "2024-10-01",
       "mean": 7.31,
-      "rank": 3186,
+      "rank": 3199,
       "popularity": 11520,
       "nsfw": "white",
       "media_type": "ona",
@@ -1208,8 +1208,8 @@
       "num_episodes": 720,
       "start_date": "2020-03-08",
       "mean": 7.54,
-      "rank": 2049,
-      "popularity": 8459,
+      "rank": 2055,
+      "popularity": 8460,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1264,7 +1264,7 @@
       "start_date": "2023-09-25",
       "mean": 8.5,
       "rank": 168,
-      "popularity": 6967,
+      "popularity": 6966,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1318,8 +1318,8 @@
       "num_episodes": 147,
       "start_date": "2023-09-24",
       "mean": 7.37,
-      "rank": 2832,
-      "popularity": 12152,
+      "rank": 2836,
+      "popularity": 12149,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1337,8 +1337,8 @@
       "id": 56215,
       "title": "Yi Nian Yong Heng 3rd Season",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/anime/1105/150044.webp",
-        "large": "https://myanimelist.net/images/anime/1105/150044l.webp"
+        "medium": "https://myanimelist.net/images/anime/1105/150044.jpg",
+        "large": "https://myanimelist.net/images/anime/1105/150044l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1379,9 +1379,9 @@
       "num_episodes": 59,
       "start_date": "2024-07-03",
       "end_date": "2025-07-22",
-      "mean": 8.23,
-      "rank": 409,
-      "popularity": 10104,
+      "mean": 8.24,
+      "rank": 400,
+      "popularity": 10094,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1428,8 +1428,8 @@
       "start_date": "2026-01-04",
       "end_date": "2026-03-22",
       "mean": 6.65,
-      "rank": 7189,
-      "popularity": 2035,
+      "rank": 7202,
+      "popularity": 2030,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
