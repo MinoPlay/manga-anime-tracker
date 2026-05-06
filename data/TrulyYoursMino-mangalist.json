@@ -43,8 +43,8 @@
       "num_chapters": 0,
       "start_date": "2024-06-08",
       "mean": 7.56,
-      "rank": 3013,
-      "popularity": 1469,
+      "rank": 3014,
+      "popularity": 1468,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -64,8 +64,8 @@
       "id": 147847,
       "title": "Descended from Divinity",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/manga/1/262444.webp",
-        "large": "https://myanimelist.net/images/manga/1/262444l.webp"
+        "medium": "https://myanimelist.net/images/manga/1/262444.jpg",
+        "large": "https://myanimelist.net/images/manga/1/262444l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -93,8 +93,8 @@
       "num_chapters": 0,
       "start_date": "2021-06-14",
       "mean": 7.71,
-      "rank": 1961,
-      "popularity": 1383,
+      "rank": 1965,
+      "popularity": 1381,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -114,8 +114,8 @@
       "id": 147317,
       "title": "Lout of Count's Family",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/manga/2/261316.jpg",
-        "large": "https://myanimelist.net/images/manga/2/261316l.jpg"
+        "medium": "https://myanimelist.net/images/manga/2/261316.webp",
+        "large": "https://myanimelist.net/images/manga/2/261316l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -143,7 +143,7 @@
       "num_chapters": 0,
       "start_date": "2020-08-31",
       "mean": 7.77,
-      "rank": 1674,
+      "rank": 1677,
       "popularity": 638,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -157,6 +157,98 @@
       "score": 0,
       "updated_at": "2026-03-24T13:17:11+00:00",
       "start_date": "2026-03-14"
+    }
+  },
+  {
+    "node": {
+      "id": 165175,
+      "title": "Nebula's Civilization",
+      "main_picture": {
+        "medium": "https://myanimelist.net/images/manga/2/293346.webp",
+        "large": "https://myanimelist.net/images/manga/2/293346l.webp"
+      },
+      "alternative_titles": {
+        "synonyms": [
+          "Seulgiroun Munmyeong Saenghwal"
+        ],
+        "en": "Nebula's Civilization",
+        "ja": "슬기로운 문명생활"
+      },
+      "genres": [
+        {
+          "id": 2,
+          "name": "Adventure"
+        },
+        {
+          "id": 10,
+          "name": "Fantasy"
+        }
+      ],
+      "synopsis": "Seong-un Choi is the top-ranked player in the game \"Lost World,\" being the only player to have completed all its achievements. However, his triumph is short-lived as a mysterious message transports him to the real \"Lost World,\" transforming him from a mere gamer to a contender for godhood. Amidst others vying for divinity, will Seong-un be able to achieve true godhood and reign supreme in this new realm?\n\n(Source: Webtoon Entertainment)",
+      "num_chapters": 0,
+      "start_date": "2023-11-29",
+      "mean": 7.73,
+      "rank": 1864,
+      "popularity": 2822,
+      "nsfw": "white",
+      "media_type": "manhwa",
+      "status": "currently_publishing"
+    },
+    "list_status": {
+      "status": "reading",
+      "is_rereading": false,
+      "num_volumes_read": 0,
+      "num_chapters_read": 89,
+      "score": 0,
+      "updated_at": "2026-05-05T09:59:38+00:00"
+    }
+  },
+  {
+    "node": {
+      "id": 164754,
+      "title": "Necromancer Academy and the Genius Summoner",
+      "main_picture": {
+        "medium": "https://myanimelist.net/images/manga/1/292639.webp",
+        "large": "https://myanimelist.net/images/manga/1/292639l.webp"
+      },
+      "alternative_titles": {
+        "synonyms": [
+          "Necromansa Hakgyo-ui Sohwan Cheonjae"
+        ],
+        "en": "Necromancer Academy and the Genius Summoner",
+        "ja": "네크로맨서 학교의 소환천재"
+      },
+      "genres": [
+        {
+          "id": 1,
+          "name": "Action"
+        },
+        {
+          "id": 10,
+          "name": "Fantasy"
+        },
+        {
+          "id": 23,
+          "name": "School"
+        }
+      ],
+      "synopsis": "Necromancers have built a name for themselves as fearsome practitioners of magic capable of dropping entire empires to their knees. Simon Follentia is a necromancer with incredible latent talent! After being scouted for the necromancer's academy, this genius is ready to be nurtured and taken to the next level. But could Simon's insane talents attract some unforeseen consequences?\n\n(Source: Tapas Media)",
+      "num_chapters": 0,
+      "start_date": "2023-10-07",
+      "mean": 7.11,
+      "rank": 8075,
+      "popularity": 3773,
+      "nsfw": "white",
+      "media_type": "manhwa",
+      "status": "currently_publishing"
+    },
+    "list_status": {
+      "status": "reading",
+      "is_rereading": false,
+      "num_volumes_read": 0,
+      "num_chapters_read": 44,
+      "score": 0,
+      "updated_at": "2026-05-05T09:59:10+00:00"
     }
   },
   {
@@ -198,7 +290,7 @@
       "num_chapters": 0,
       "start_date": "2022-03-27",
       "mean": 7.47,
-      "rank": 3613,
+      "rank": 3621,
       "popularity": 2240,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -277,8 +369,8 @@
       "id": 67617,
       "title": "Tate no Yuusha no Nariagari",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/manga/3/115755.jpg",
-        "large": "https://myanimelist.net/images/manga/3/115755l.jpg"
+        "medium": "https://myanimelist.net/images/manga/3/115755.webp",
+        "large": "https://myanimelist.net/images/manga/3/115755l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -299,7 +391,7 @@
       "num_chapters": 0,
       "start_date": "2013-08-22",
       "mean": 7.95,
-      "rank": 1051,
+      "rank": 1052,
       "popularity": 407,
       "nsfw": "white",
       "media_type": "light_novel",
@@ -316,11 +408,162 @@
   },
   {
     "node": {
+      "id": 166865,
+      "title": "The Extra's Academy Survival Guide",
+      "main_picture": {
+        "medium": "https://myanimelist.net/images/manga/2/296379.webp",
+        "large": "https://myanimelist.net/images/manga/2/296379l.webp"
+      },
+      "alternative_titles": {
+        "synonyms": [
+          "How to Survive at the Academy"
+        ],
+        "en": "The Extra's Academy Survival Guide",
+        "ja": "아카데미에서 살아남기"
+      },
+      "genres": [
+        {
+          "id": 1,
+          "name": "Action"
+        },
+        {
+          "id": 10,
+          "name": "Fantasy"
+        },
+        {
+          "id": 62,
+          "name": "Isekai"
+        },
+        {
+          "id": 23,
+          "name": "School"
+        }
+      ],
+      "synopsis": "Ed Rothstaylor is a third-rate villain in a game, disowned by his family and kicked out of the dormitory for his misdeeds. One day, our main character wakes up as this very Ed, and realizes he must earn a scholarship so he can graduate and be set for life. Now living in the woods, he resolves to keep away from the protagonists, but four of the female leads just won't leave him alone. Not only that, his presence starts to change the timeline and events of the game! Can Ed help the story progress while staying out of the limelight?\n\n(Source: Webtoon Entertainment)",
+      "num_chapters": 0,
+      "start_date": "2023-12-28",
+      "mean": 8.26,
+      "rank": 455,
+      "popularity": 811,
+      "nsfw": "white",
+      "media_type": "manhwa",
+      "status": "currently_publishing"
+    },
+    "list_status": {
+      "status": "reading",
+      "is_rereading": false,
+      "num_volumes_read": 0,
+      "num_chapters_read": 82,
+      "score": 0,
+      "updated_at": "2026-05-05T10:01:30+00:00"
+    }
+  },
+  {
+    "node": {
+      "id": 154692,
+      "title": "The Infinite Mage",
+      "main_picture": {
+        "medium": "https://myanimelist.net/images/manga/2/274476.jpg",
+        "large": "https://myanimelist.net/images/manga/2/274476l.jpg"
+      },
+      "alternative_titles": {
+        "synonyms": [
+          "Infinite Wizard",
+          "Muhan-ui Mabeopsa"
+        ],
+        "en": "The Infinite Mage",
+        "ja": "무한의 마법사"
+      },
+      "genres": [
+        {
+          "id": 1,
+          "name": "Action"
+        },
+        {
+          "id": 2,
+          "name": "Adventure"
+        },
+        {
+          "id": 10,
+          "name": "Fantasy"
+        }
+      ],
+      "synopsis": "Abandoned at birth in a stable, Shirone was raised by commoners. As a child, he had gifted insight and had learned how to read. After visiting the city, he finally saw the workings of magic, which he was immensely curious about. This inspired Shirone's dream of becoming a mage. However, the city was a place with a cruel and rigid social hierarchy. Here, Shirone discovered the hidden side of the world before he even reached adulthood... Will Shirone be able to achieve his dream of becoming a mage in this twisted world?\n\n(Source: Kakao Entertainment Corp., translated)",
+      "num_chapters": 0,
+      "start_date": "2022-12-30",
+      "mean": 7.85,
+      "rank": 1381,
+      "popularity": 554,
+      "nsfw": "white",
+      "media_type": "manhwa",
+      "status": "currently_publishing"
+    },
+    "list_status": {
+      "status": "reading",
+      "is_rereading": false,
+      "num_volumes_read": 0,
+      "num_chapters_read": 147,
+      "score": 0,
+      "updated_at": "2026-05-05T10:00:27+00:00"
+    }
+  },
+  {
+    "node": {
+      "id": 170427,
+      "title": "The Knight Only Lives Today",
+      "main_picture": {
+        "medium": "https://myanimelist.net/images/manga/1/303264.webp",
+        "large": "https://myanimelist.net/images/manga/1/303264l.webp"
+      },
+      "alternative_titles": {
+        "synonyms": [
+          "Eternally Regressing Knight",
+          "A Knight Who Eternally Regresses",
+          "Oneul-man Saneun Gisa"
+        ],
+        "en": "The Knight Only Lives Today",
+        "ja": "오늘만 사는 기사"
+      },
+      "genres": [
+        {
+          "id": 1,
+          "name": "Action"
+        },
+        {
+          "id": 10,
+          "name": "Fantasy"
+        },
+        {
+          "id": 79,
+          "name": "Time Travel"
+        }
+      ],
+      "synopsis": "\"You're a genius.\" Those words he heard as a child were poison. Encrid dreamed of becoming a knight, but he soon realized it was futile. \"You want to live by the sword with that level of skill?\" Some laughed at him. \"Just give up.\" Some advised him against it. Despite that, his dream remained steadfast. He slept less, ran more, and trained harder. One day, he died, having been stabbed in the neck. Encrid opened his eyes again to \"today's\" morning.\n\n(Source: Naver Corporation, translated)",
+      "num_chapters": 0,
+      "start_date": "2024-05-17",
+      "mean": 8.51,
+      "rank": 172,
+      "popularity": 1004,
+      "nsfw": "white",
+      "media_type": "manhwa",
+      "status": "currently_publishing"
+    },
+    "list_status": {
+      "status": "reading",
+      "is_rereading": false,
+      "num_volumes_read": 0,
+      "num_chapters_read": 105,
+      "score": 0,
+      "updated_at": "2026-05-05T09:58:00+00:00"
+    }
+  },
+  {
+    "node": {
       "id": 177451,
       "title": "The Legendary Hero Is an Academy Honors Student",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/manga/2/317060.webp",
-        "large": "https://myanimelist.net/images/manga/2/317060l.webp"
+        "medium": "https://myanimelist.net/images/manga/2/317060.jpg",
+        "large": "https://myanimelist.net/images/manga/2/317060l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -352,8 +595,8 @@
       "num_chapters": 0,
       "start_date": "2024-12-28",
       "mean": 7.03,
-      "rank": 9290,
-      "popularity": 3594,
+      "rank": 9293,
+      "popularity": 3591,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -370,11 +613,64 @@
   },
   {
     "node": {
+      "id": 147536,
+      "title": "The Legendary Moonlight Sculptor",
+      "main_picture": {
+        "medium": "https://myanimelist.net/images/manga/1/261859.webp",
+        "large": "https://myanimelist.net/images/manga/1/261859l.webp"
+      },
+      "alternative_titles": {
+        "synonyms": [
+          "Dalbit Jogaksa"
+        ],
+        "en": "The Legendary Moonlight Sculptor",
+        "ja": "달빛조각사"
+      },
+      "genres": [
+        {
+          "id": 1,
+          "name": "Action"
+        },
+        {
+          "id": 2,
+          "name": "Adventure"
+        },
+        {
+          "id": 10,
+          "name": "Fantasy"
+        },
+        {
+          "id": 80,
+          "name": "Video Game"
+        }
+      ],
+      "synopsis": "Hyun's what some may call resourceful, thrifty, or, um, stingy. Whatever you call him, he's also dedicated—he grinded night-and-day to get a top-tier character. But once he sold it, every last cent was taken away by loan sharks. In the new VR MMO Royal Road, he's committed to making it big for himself and his family. He knows that he should absolutely NEVER be one of those weak and poor sculptors, so what's he going to do when he accidentally becomes the Legendary Moonlight Sculptor?\n\n(Source: Tapas Media)",
+      "num_chapters": 169,
+      "start_date": "2015-02-16",
+      "end_date": "2020-11-30",
+      "mean": 7.46,
+      "rank": 3755,
+      "popularity": 2401,
+      "nsfw": "white",
+      "media_type": "manhwa",
+      "status": "on_hiatus"
+    },
+    "list_status": {
+      "status": "reading",
+      "is_rereading": false,
+      "num_volumes_read": 0,
+      "num_chapters_read": 0,
+      "score": 0,
+      "updated_at": "2026-05-05T09:58:37+00:00"
+    }
+  },
+  {
+    "node": {
       "id": 122663,
       "title": "Tower of God",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/manga/2/223694.jpg",
-        "large": "https://myanimelist.net/images/manga/2/223694l.jpg"
+        "medium": "https://myanimelist.net/images/manga/2/223694.webp",
+        "large": "https://myanimelist.net/images/manga/2/223694l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -408,8 +704,8 @@
       "synopsis": "Twenty-Fifth Bam had been alone his whole life until he met Rachel. Now, however, Rachel is set on climbing the Tower, and she is willing to leave Bam behind to do so. After Rachel disappears in a veil of light, Bam follows her, vowing to ascend the Tower in hopes of meeting her again.\n\nBut the Tower is a dangerous place full of ancient secrets, fearsome monsters, and nefarious humans. Each floor is protected by an Administrator who puts the daring challengers through grueling tests that will push them to their limits.\n\nAs he confronts Headon, the Administrator of the first floor, Bam learns that he is an ''Irregular,'' someone who was not chosen by the Tower but was able to enter it on his own, an extremely rare event inside the Tower. Regardless of this revelation, however, his path forward is clear. Be it wealth, power, glory, or even reuniting with Rachel, all desires will be realized at the top of the Tower.\n\n[Written by MAL Rewrite]",
       "num_chapters": 0,
       "start_date": "2010-07-05",
-      "mean": 8.34,
-      "rank": 337,
+      "mean": 8.33,
+      "rank": 342,
       "popularity": 43,
       "nsfw": "white",
       "media_type": "manhwa",
