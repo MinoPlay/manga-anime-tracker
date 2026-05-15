@@ -42,7 +42,7 @@
       "start_date": "2018-03-04",
       "end_date": "2023-05-31",
       "mean": 8.57,
-      "rank": 142,
+      "rank": 136,
       "popularity": 5,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -55,6 +55,60 @@
       "num_chapters_read": 201,
       "score": 0,
       "updated_at": "2025-03-02T20:01:41+00:00"
+    }
+  },
+  {
+    "node": {
+      "id": 168907,
+      "title": "The Last Adventurer",
+      "main_picture": {
+        "medium": "https://myanimelist.net/images/manga/3/299926.webp",
+        "large": "https://myanimelist.net/images/manga/3/299926l.webp"
+      },
+      "alternative_titles": {
+        "synonyms": [
+          "Choehu-ui Moheomga"
+        ],
+        "en": "The Last Adventurer",
+        "ja": "최후의 모험가"
+      },
+      "genres": [
+        {
+          "id": 1,
+          "name": "Action"
+        },
+        {
+          "id": 2,
+          "name": "Adventure"
+        },
+        {
+          "id": 10,
+          "name": "Fantasy"
+        },
+        {
+          "id": 79,
+          "name": "Time Travel"
+        }
+      ],
+      "synopsis": "In the Era of Adventure kickstarted by the spawning of Gates, marked by absolute hopelessness, destitute, desperation, and despair, everyone had given up their hope and lost their courage to continue fighting—except one adventurer that refused to go down until his last breath. \"You are the only one left, Last Adventurer Elpam.\" As the history of adventurers was forced to come to an end, the Last Adventurer returned to where this story all began.\n\n(Source: Webtoon Entertainment)",
+      "num_chapters": 121,
+      "start_date": "2024-03-30",
+      "end_date": "2026-04-25",
+      "mean": 7.14,
+      "rank": 7757,
+      "popularity": 2567,
+      "nsfw": "white",
+      "media_type": "manhwa",
+      "status": "finished"
+    },
+    "list_status": {
+      "status": "completed",
+      "is_rereading": false,
+      "num_volumes_read": 0,
+      "num_chapters_read": 121,
+      "score": 0,
+      "updated_at": "2026-05-14T14:36:02+00:00",
+      "finish_date": "2026-05-14"
     }
   }
 ]
