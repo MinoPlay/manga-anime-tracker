@@ -42,7 +42,7 @@
       "start_date": "2018-03-04",
       "end_date": "2023-05-31",
       "mean": 8.57,
-      "rank": 136,
+      "rank": 137,
       "popularity": 5,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -62,8 +62,8 @@
       "id": 168907,
       "title": "The Last Adventurer",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/manga/3/299926.webp",
-        "large": "https://myanimelist.net/images/manga/3/299926l.webp"
+        "medium": "https://myanimelist.net/images/manga/3/299926.jpg",
+        "large": "https://myanimelist.net/images/manga/3/299926l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -95,8 +95,8 @@
       "start_date": "2024-03-30",
       "end_date": "2026-04-25",
       "mean": 7.14,
-      "rank": 7757,
-      "popularity": 2567,
+      "rank": 7761,
+      "popularity": 2566,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "finished"
