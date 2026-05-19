@@ -4,8 +4,8 @@
       "id": 121496,
       "title": "Solo Leveling",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/manga/3/222295.webp",
-        "large": "https://myanimelist.net/images/manga/3/222295l.webp"
+        "medium": "https://cdn.myanimelist.net/images/manga/3/222295.webp",
+        "large": "https://cdn.myanimelist.net/images/manga/3/222295l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -42,7 +42,7 @@
       "start_date": "2018-03-04",
       "end_date": "2023-05-31",
       "mean": 8.56,
-      "rank": 150,
+      "rank": 144,
       "popularity": 5,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -62,8 +62,8 @@
       "id": 168907,
       "title": "The Last Adventurer",
       "main_picture": {
-        "medium": "https://myanimelist.net/images/manga/3/299926.jpg",
-        "large": "https://myanimelist.net/images/manga/3/299926l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/manga/3/299926.jpg",
+        "large": "https://cdn.myanimelist.net/images/manga/3/299926l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -95,8 +95,8 @@
       "start_date": "2024-03-30",
       "end_date": "2026-04-25",
       "mean": 7.14,
-      "rank": 7763,
-      "popularity": 2563,
+      "rank": 7765,
+      "popularity": 2560,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "finished"
