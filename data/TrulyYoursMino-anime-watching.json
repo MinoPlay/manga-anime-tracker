@@ -37,7 +37,7 @@
       "start_date": "2025-10-07",
       "end_date": "2025-12-23",
       "mean": 6.56,
-      "rank": 7821,
+      "rank": 7824,
       "popularity": 1578,
       "nsfw": "white",
       "media_type": "tv",
@@ -98,7 +98,7 @@
       "end_date": "2025-08-01",
       "mean": 8.2,
       "rank": 445,
-      "popularity": 12061,
+      "popularity": 12064,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -152,7 +152,7 @@
       "start_date": "2023-06-24",
       "mean": 8.04,
       "rank": 692,
-      "popularity": 8304,
+      "popularity": 8303,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -208,7 +208,7 @@
       "start_date": "2022-07-31",
       "mean": 8.33,
       "rank": 294,
-      "popularity": 6664,
+      "popularity": 6665,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -253,7 +253,7 @@
       "start_date": "2022-07-10",
       "end_date": "2022-07-10",
       "mean": 8.11,
-      "rank": 583,
+      "rank": 584,
       "popularity": 701,
       "nsfw": "white",
       "media_type": "tv_special",
@@ -306,7 +306,7 @@
       "start_date": "2023-10-06",
       "end_date": "2023-12-22",
       "mean": 7.22,
-      "rank": 3881,
+      "rank": 3890,
       "popularity": 654,
       "nsfw": "white",
       "media_type": "tv",
@@ -364,7 +364,7 @@
       "start_date": "2023-10-07",
       "end_date": "2023-12-23",
       "mean": 6.24,
-      "rank": 9709,
+      "rank": 9714,
       "popularity": 1227,
       "nsfw": "white",
       "media_type": "tv",
@@ -422,7 +422,7 @@
       "start_date": "2020-10-04",
       "end_date": "2020-12-20",
       "mean": 6.96,
-      "rank": 5422,
+      "rank": 5429,
       "popularity": 1106,
       "nsfw": "white",
       "media_type": "tv",
@@ -442,8 +442,8 @@
       "id": 58514,
       "title": "Kusuriya no Hitorigoto 2nd Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1025/147458.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1025/147458l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1025/147458.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1025/147458l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -496,8 +496,8 @@
       "id": 56062,
       "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1664/144272.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1664/144272l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1664/144272.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1664/144272l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -526,7 +526,7 @@
       "start_date": "2024-07-13",
       "end_date": "2024-09-28",
       "mean": 6.23,
-      "rank": 9787,
+      "rank": 9790,
       "popularity": 1866,
       "nsfw": "white",
       "media_type": "tv",
@@ -573,8 +573,8 @@
       "num_episodes": 580,
       "start_date": "2021-07-16",
       "mean": 7.26,
-      "rank": 3624,
-      "popularity": 10270,
+      "rank": 3627,
+      "popularity": 10271,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -592,8 +592,8 @@
       "id": 61549,
       "title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1264/153908.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1264/153908l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1264/153908.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1264/153908l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -622,8 +622,8 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.79,
-      "rank": 6424,
-      "popularity": 2763,
+      "rank": 6430,
+      "popularity": 2761,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -778,8 +778,8 @@
       "start_date": "2023-12-14",
       "end_date": "2024-05-30",
       "mean": 7.64,
-      "rank": 1685,
-      "popularity": 12427,
+      "rank": 1686,
+      "popularity": 12417,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -832,7 +832,7 @@
       "end_date": "2022-03-27",
       "mean": 8.13,
       "rank": 560,
-      "popularity": 117,
+      "popularity": 116,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -940,8 +940,8 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.41,
-      "rank": 8774,
-      "popularity": 3841,
+      "rank": 8777,
+      "popularity": 3836,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -986,7 +986,7 @@
       "end_date": "2026-06-22",
       "mean": 8.74,
       "rank": 52,
-      "popularity": 970,
+      "popularity": 962,
       "nsfw": "white",
       "media_type": "tv",
       "status": "currently_airing"
@@ -1041,8 +1041,8 @@
       "num_episodes": 175,
       "start_date": "2023-10-03",
       "mean": 8.36,
-      "rank": 272,
-      "popularity": 8854,
+      "rank": 271,
+      "popularity": 8852,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1061,8 +1061,8 @@
       "id": 52765,
       "title": "Wan Jie Du Zun 2nd Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1937/127040.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1937/127040l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1937/127040.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1937/127040l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -1096,8 +1096,8 @@
       "start_date": "2022-08-16",
       "end_date": "2024-10-01",
       "mean": 7.29,
-      "rank": 3432,
-      "popularity": 11539,
+      "rank": 3438,
+      "popularity": 11540,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1152,7 +1152,7 @@
       "num_episodes": 286,
       "start_date": "2021-04-23",
       "mean": 7.8,
-      "rank": 1203,
+      "rank": 1206,
       "popularity": 6283,
       "nsfw": "white",
       "media_type": "ona",
@@ -1171,8 +1171,8 @@
       "id": 41409,
       "title": "Wushen Zhuzai",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1738/107609.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1738/107609l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1738/107609.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1738/107609l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1209,8 +1209,8 @@
       "num_episodes": 720,
       "start_date": "2020-03-08",
       "mean": 7.54,
-      "rank": 2110,
-      "popularity": 8472,
+      "rank": 2113,
+      "popularity": 8473,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1263,9 +1263,9 @@
       "synopsis": "Wang Lin is a very smart boy with loving parents. Although he and his parents are shunned by the rest of their relatives, his parents have always held high hopes that he will one day achieve greatness. One day, Wang Lin suddenly gained the chance to walk the path of an immortal but found that he only had mediocre talent at best. Watch Wang Lin as he breaks through his lack of talent and walks the path towards becoming a real immortal!\n\n(Source: Xian Ni Wiki)",
       "num_episodes": 180,
       "start_date": "2023-09-25",
-      "mean": 8.5,
-      "rank": 168,
-      "popularity": 6894,
+      "mean": 8.49,
+      "rank": 174,
+      "popularity": 6890,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1283,8 +1283,8 @@
       "id": 56717,
       "title": "Xianwu Zhuan 2nd Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1878/157623.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1878/157623l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1878/157623.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1878/157623l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1319,7 +1319,7 @@
       "num_episodes": 147,
       "start_date": "2023-09-24",
       "mean": 7.37,
-      "rank": 2943,
+      "rank": 2948,
       "popularity": 12135,
       "nsfw": "white",
       "media_type": "ona",
@@ -1382,7 +1382,7 @@
       "end_date": "2025-07-22",
       "mean": 8.24,
       "rank": 405,
-      "popularity": 10034,
+      "popularity": 10031,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1400,8 +1400,8 @@
       "id": 61128,
       "title": "Yuusha Party wo Oidasareta Kiyoubinbou",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1486/153135.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1486/153135l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1486/153135.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1486/153135l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1429,8 +1429,8 @@
       "start_date": "2026-01-04",
       "end_date": "2026-03-22",
       "mean": 6.66,
-      "rank": 7279,
-      "popularity": 1948,
+      "rank": 7292,
+      "popularity": 1944,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
