@@ -43,7 +43,7 @@
       "num_chapters": 0,
       "start_date": "2024-06-08",
       "mean": 7.56,
-      "rank": 2774,
+      "rank": 2770,
       "popularity": 1358,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -93,8 +93,8 @@
       "num_chapters": 0,
       "start_date": "2021-06-14",
       "mean": 7.73,
-      "rank": 1764,
-      "popularity": 1347,
+      "rank": 1765,
+      "popularity": 1345,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -143,8 +143,8 @@
       "num_chapters": 0,
       "start_date": "2020-08-31",
       "mean": 7.78,
-      "rank": 1530,
-      "popularity": 622,
+      "rank": 1531,
+      "popularity": 621,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -188,8 +188,8 @@
       "num_chapters": 0,
       "start_date": "2023-11-29",
       "mean": 7.74,
-      "rank": 1696,
-      "popularity": 2677,
+      "rank": 1695,
+      "popularity": 2670,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -236,7 +236,7 @@
       "num_chapters": 0,
       "start_date": "2023-10-07",
       "mean": 7.1,
-      "rank": 7998,
+      "rank": 7987,
       "popularity": 3639,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -290,8 +290,8 @@
       "num_chapters": 0,
       "start_date": "2022-03-27",
       "mean": 7.49,
-      "rank": 3313,
-      "popularity": 2199,
+      "rank": 3312,
+      "popularity": 2198,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -311,8 +311,8 @@
       "id": 121496,
       "title": "Solo Leveling",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/3/222295.webp",
-        "large": "https://cdn.myanimelist.net/images/manga/3/222295l.webp"
+        "medium": "https://cdn.myanimelist.net/images/manga/3/222295.jpg",
+        "large": "https://cdn.myanimelist.net/images/manga/3/222295l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -443,8 +443,8 @@
       "num_chapters": 0,
       "start_date": "2023-12-28",
       "mean": 8.27,
-      "rank": 395,
-      "popularity": 763,
+      "rank": 396,
+      "popularity": 762,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -492,8 +492,8 @@
       "num_chapters": 0,
       "start_date": "2022-12-30",
       "mean": 7.86,
-      "rank": 1227,
-      "popularity": 537,
+      "rank": 1224,
+      "popularity": 536,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -595,7 +595,7 @@
       "start_date": "2024-03-30",
       "end_date": "2026-04-25",
       "mean": 7.11,
-      "rank": 7942,
+      "rank": 7930,
       "popularity": 2484,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -649,8 +649,8 @@
       "num_chapters": 0,
       "start_date": "2024-12-28",
       "mean": 7.07,
-      "rank": 8562,
-      "popularity": 3390,
+      "rank": 8545,
+      "popularity": 3385,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -703,8 +703,8 @@
       "start_date": "2015-02-16",
       "end_date": "2020-11-30",
       "mean": 7.49,
-      "rank": 3312,
-      "popularity": 2366,
+      "rank": 3311,
+      "popularity": 2364,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "on_hiatus"
