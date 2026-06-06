@@ -37,8 +37,8 @@
       "start_date": "2025-10-07",
       "end_date": "2025-12-23",
       "mean": 6.56,
-      "rank": 7349,
-      "popularity": 1564,
+      "rank": 7348,
+      "popularity": 1562,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -57,8 +57,8 @@
       "id": 60420,
       "title": "Cang Yuan Tu 2",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1403/155838.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1403/155838l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1403/155838.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1403/155838l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -98,7 +98,7 @@
       "end_date": "2025-08-01",
       "mean": 8.21,
       "rank": 420,
-      "popularity": 11955,
+      "popularity": 11956,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -226,8 +226,8 @@
       "id": 50612,
       "title": "Dr. Stone: Ryuusui",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1071/124921.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1071/124921l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1071/124921.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1071/124921l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -253,7 +253,7 @@
       "start_date": "2022-07-10",
       "end_date": "2022-07-10",
       "mean": 8.11,
-      "rank": 566,
+      "rank": 567,
       "popularity": 699,
       "nsfw": "white",
       "media_type": "tv_special",
@@ -273,8 +273,8 @@
       "id": 47160,
       "title": "Goblin Slayer II",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1100/138338.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1100/138338l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1100/138338.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1100/138338l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -306,7 +306,7 @@
       "start_date": "2023-10-06",
       "end_date": "2023-12-22",
       "mean": 7.21,
-      "rank": 3595,
+      "rank": 3594,
       "popularity": 654,
       "nsfw": "white",
       "media_type": "tv",
@@ -364,7 +364,7 @@
       "start_date": "2023-10-07",
       "end_date": "2023-12-23",
       "mean": 6.22,
-      "rank": 9487,
+      "rank": 9488,
       "popularity": 1230,
       "nsfw": "white",
       "media_type": "tv",
@@ -383,8 +383,8 @@
       "id": 41312,
       "title": "Kami-tachi ni Hirowareta Otoko",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1654/108801.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1654/108801l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1654/108801.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1654/108801l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -422,7 +422,7 @@
       "start_date": "2020-10-04",
       "end_date": "2020-12-20",
       "mean": 6.95,
-      "rank": 4974,
+      "rank": 4975,
       "popularity": 1105,
       "nsfw": "white",
       "media_type": "tv",
@@ -526,7 +526,7 @@
       "start_date": "2024-07-13",
       "end_date": "2024-09-28",
       "mean": 6.23,
-      "rank": 9450,
+      "rank": 9453,
       "popularity": 1861,
       "nsfw": "white",
       "media_type": "tv",
@@ -573,7 +573,7 @@
       "num_episodes": 580,
       "start_date": "2021-07-16",
       "mean": 7.3,
-      "rank": 3087,
+      "rank": 3089,
       "popularity": 10214,
       "nsfw": "white",
       "media_type": "ona",
@@ -693,8 +693,8 @@
       "id": 52684,
       "title": "Shen Yin Wangzuo 2nd Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1897/150028.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1897/150028l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1897/150028.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1897/150028l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -722,8 +722,8 @@
       "start_date": "2022-11-10",
       "end_date": "2026-04-23",
       "mean": 8.33,
-      "rank": 294,
-      "popularity": 7985,
+      "rank": 293,
+      "popularity": 7984,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -779,7 +779,7 @@
       "end_date": "2024-05-30",
       "mean": 7.65,
       "rank": 1586,
-      "popularity": 12321,
+      "popularity": 12323,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -832,7 +832,7 @@
       "end_date": "2022-03-27",
       "mean": 8.13,
       "rank": 546,
-      "popularity": 115,
+      "popularity": 114,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -851,8 +851,8 @@
       "id": 50602,
       "title": "Spy x Family Part 2",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1111/127508.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1111/127508l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1111/127508.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1111/127508l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -940,8 +940,8 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.41,
-      "rank": 8389,
-      "popularity": 3762,
+      "rank": 8390,
+      "popularity": 3758,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -986,7 +986,7 @@
       "end_date": "2026-06-22",
       "mean": 8.72,
       "rank": 60,
-      "popularity": 887,
+      "popularity": 883,
       "nsfw": "white",
       "media_type": "tv",
       "status": "currently_airing"
@@ -1040,9 +1040,9 @@
       "synopsis": "Fourth season of Tunshi Xingkong.",
       "num_episodes": 175,
       "start_date": "2023-10-03",
-      "mean": 8.36,
-      "rank": 268,
-      "popularity": 8788,
+      "mean": 8.35,
+      "rank": 280,
+      "popularity": 8785,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1097,7 +1097,7 @@
       "end_date": "2024-10-01",
       "mean": 7.36,
       "rank": 2797,
-      "popularity": 11497,
+      "popularity": 11499,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1153,7 +1153,7 @@
       "start_date": "2021-04-23",
       "mean": 7.88,
       "rank": 971,
-      "popularity": 6260,
+      "popularity": 6261,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1209,7 +1209,7 @@
       "num_episodes": 720,
       "start_date": "2020-03-08",
       "mean": 7.61,
-      "rank": 1732,
+      "rank": 1734,
       "popularity": 8453,
       "nsfw": "white",
       "media_type": "ona",
@@ -1321,7 +1321,7 @@
       "end_date": "2026-05-24",
       "mean": 7.27,
       "rank": 3267,
-      "popularity": 12056,
+      "popularity": 12061,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1339,8 +1339,8 @@
       "id": 56215,
       "title": "Yi Nian Yong Heng 3rd Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1105/150044.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1105/150044l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1105/150044.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1105/150044l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1382,8 +1382,8 @@
       "start_date": "2024-07-03",
       "end_date": "2025-07-22",
       "mean": 8.24,
-      "rank": 399,
-      "popularity": 9958,
+      "rank": 398,
+      "popularity": 9956,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1430,7 +1430,7 @@
       "start_date": "2026-01-04",
       "end_date": "2026-03-22",
       "mean": 6.65,
-      "rank": 6827,
+      "rank": 6828,
       "popularity": 1908,
       "nsfw": "white",
       "media_type": "tv",
