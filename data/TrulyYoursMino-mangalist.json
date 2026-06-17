@@ -43,7 +43,7 @@
       "num_chapters": 0,
       "start_date": "2024-06-08",
       "mean": 7.57,
-      "rank": 2731,
+      "rank": 2680,
       "popularity": 1324,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -93,8 +93,8 @@
       "num_chapters": 0,
       "start_date": "2021-06-14",
       "mean": 7.73,
-      "rank": 1763,
-      "popularity": 1330,
+      "rank": 1741,
+      "popularity": 1328,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -143,7 +143,7 @@
       "num_chapters": 0,
       "start_date": "2020-08-31",
       "mean": 7.78,
-      "rank": 1535,
+      "rank": 1554,
       "popularity": 616,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -188,7 +188,7 @@
       "num_chapters": 0,
       "start_date": "2023-11-29",
       "mean": 7.74,
-      "rank": 1696,
+      "rank": 1724,
       "popularity": 2617,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -236,7 +236,7 @@
       "num_chapters": 0,
       "start_date": "2023-10-07",
       "mean": 7.1,
-      "rank": 7948,
+      "rank": 8057,
       "popularity": 3627,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -290,7 +290,7 @@
       "num_chapters": 0,
       "start_date": "2022-03-27",
       "mean": 7.49,
-      "rank": 3294,
+      "rank": 3250,
       "popularity": 2192,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -391,7 +391,7 @@
       "num_chapters": 0,
       "start_date": "2013-08-22",
       "mean": 7.91,
-      "rank": 1075,
+      "rank": 1082,
       "popularity": 409,
       "nsfw": "white",
       "media_type": "light_novel",
@@ -443,8 +443,8 @@
       "num_chapters": 0,
       "start_date": "2023-12-28",
       "mean": 8.27,
-      "rank": 397,
-      "popularity": 746,
+      "rank": 389,
+      "popularity": 745,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -463,8 +463,8 @@
       "id": 154692,
       "title": "The Infinite Mage",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/2/274476.jpg",
-        "large": "https://cdn.myanimelist.net/images/manga/2/274476l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/manga/2/274476.webp",
+        "large": "https://cdn.myanimelist.net/images/manga/2/274476l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -492,7 +492,7 @@
       "num_chapters": 0,
       "start_date": "2022-12-30",
       "mean": 7.86,
-      "rank": 1238,
+      "rank": 1257,
       "popularity": 531,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -543,7 +543,7 @@
       "start_date": "2024-05-17",
       "mean": 8.54,
       "rank": 147,
-      "popularity": 910,
+      "popularity": 908,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -595,8 +595,8 @@
       "start_date": "2024-03-30",
       "end_date": "2026-04-25",
       "mean": 7.1,
-      "rank": 7949,
-      "popularity": 2461,
+      "rank": 8058,
+      "popularity": 2458,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "finished"
@@ -649,8 +649,8 @@
       "num_chapters": 0,
       "start_date": "2024-12-28",
       "mean": 7.08,
-      "rank": 8272,
-      "popularity": 3340,
+      "rank": 8358,
+      "popularity": 3335,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -703,7 +703,7 @@
       "start_date": "2015-02-16",
       "end_date": "2020-11-30",
       "mean": 7.49,
-      "rank": 3293,
+      "rank": 3249,
       "popularity": 2356,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -723,8 +723,8 @@
       "id": 122663,
       "title": "Tower of God",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/2/223694.webp",
-        "large": "https://cdn.myanimelist.net/images/manga/2/223694l.webp"
+        "medium": "https://cdn.myanimelist.net/images/manga/2/223694.jpg",
+        "large": "https://cdn.myanimelist.net/images/manga/2/223694l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -759,7 +759,7 @@
       "num_chapters": 0,
       "start_date": "2010-07-05",
       "mean": 8.34,
-      "rank": 302,
+      "rank": 310,
       "popularity": 42,
       "nsfw": "white",
       "media_type": "manhwa",
