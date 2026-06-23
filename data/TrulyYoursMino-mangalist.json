@@ -44,7 +44,7 @@
       "start_date": "2024-06-08",
       "mean": 7.57,
       "rank": 2686,
-      "popularity": 1320,
+      "popularity": 1318,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -93,7 +93,7 @@
       "num_chapters": 0,
       "start_date": "2021-06-14",
       "mean": 7.73,
-      "rank": 1747,
+      "rank": 1746,
       "popularity": 1326,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -164,8 +164,8 @@
       "id": 165175,
       "title": "Nebula's Civilization",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/2/293346.jpg",
-        "large": "https://cdn.myanimelist.net/images/manga/2/293346l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/manga/2/293346.webp",
+        "large": "https://cdn.myanimelist.net/images/manga/2/293346l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -188,8 +188,8 @@
       "num_chapters": 0,
       "start_date": "2023-11-29",
       "mean": 7.74,
-      "rank": 1729,
-      "popularity": 2597,
+      "rank": 1731,
+      "popularity": 2596,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -208,8 +208,8 @@
       "id": 164754,
       "title": "Necromancer Academy and the Genius Summoner",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/1/292639.jpg",
-        "large": "https://cdn.myanimelist.net/images/manga/1/292639l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/manga/1/292639.webp",
+        "large": "https://cdn.myanimelist.net/images/manga/1/292639l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -236,8 +236,8 @@
       "num_chapters": 0,
       "start_date": "2023-10-07",
       "mean": 7.1,
-      "rank": 8059,
-      "popularity": 3621,
+      "rank": 8058,
+      "popularity": 3620,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -290,7 +290,7 @@
       "num_chapters": 0,
       "start_date": "2022-03-27",
       "mean": 7.49,
-      "rank": 3254,
+      "rank": 3256,
       "popularity": 2187,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -391,7 +391,7 @@
       "num_chapters": 0,
       "start_date": "2013-08-22",
       "mean": 7.91,
-      "rank": 1092,
+      "rank": 1094,
       "popularity": 409,
       "nsfw": "white",
       "media_type": "light_novel",
@@ -463,8 +463,8 @@
       "id": 154692,
       "title": "The Infinite Mage",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/2/274476.jpg",
-        "large": "https://cdn.myanimelist.net/images/manga/2/274476l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/manga/2/274476.webp",
+        "large": "https://cdn.myanimelist.net/images/manga/2/274476l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -543,7 +543,7 @@
       "start_date": "2024-05-17",
       "mean": 8.55,
       "rank": 132,
-      "popularity": 903,
+      "popularity": 901,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -595,8 +595,8 @@
       "start_date": "2024-03-30",
       "end_date": "2026-04-25",
       "mean": 7.1,
-      "rank": 8061,
-      "popularity": 2446,
+      "rank": 8060,
+      "popularity": 2442,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "finished"
@@ -616,8 +616,8 @@
       "id": 177451,
       "title": "The Legendary Hero Is an Academy Honors Student",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/2/317060.jpg",
-        "large": "https://cdn.myanimelist.net/images/manga/2/317060l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/manga/2/317060.webp",
+        "large": "https://cdn.myanimelist.net/images/manga/2/317060l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -649,8 +649,8 @@
       "num_chapters": 0,
       "start_date": "2024-12-28",
       "mean": 7.09,
-      "rank": 8132,
-      "popularity": 3315,
+      "rank": 8134,
+      "popularity": 3310,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -703,8 +703,8 @@
       "start_date": "2015-02-16",
       "end_date": "2020-11-30",
       "mean": 7.49,
-      "rank": 3253,
-      "popularity": 2357,
+      "rank": 3255,
+      "popularity": 2356,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "on_hiatus"
