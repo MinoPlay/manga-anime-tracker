@@ -37,8 +37,8 @@
       "start_date": "2025-10-07",
       "end_date": "2025-12-23",
       "mean": 6.56,
-      "rank": 7397,
-      "popularity": 1547,
+      "rank": 7408,
+      "popularity": 1546,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -152,7 +152,7 @@
       "start_date": "2023-06-24",
       "mean": 8.05,
       "rank": 652,
-      "popularity": 8255,
+      "popularity": 8252,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -170,8 +170,8 @@
       "id": 51039,
       "title": "Doupo Cangqiong: Nian Fan",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1419/126374.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1419/126374l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1419/126374.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1419/126374l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -208,7 +208,7 @@
       "start_date": "2022-07-31",
       "mean": 8.43,
       "rank": 203,
-      "popularity": 6656,
+      "popularity": 6657,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -253,7 +253,7 @@
       "start_date": "2022-07-10",
       "end_date": "2022-07-10",
       "mean": 8.11,
-      "rank": 568,
+      "rank": 569,
       "popularity": 700,
       "nsfw": "white",
       "media_type": "tv_special",
@@ -306,7 +306,7 @@
       "start_date": "2023-10-06",
       "end_date": "2023-12-22",
       "mean": 7.21,
-      "rank": 3608,
+      "rank": 3611,
       "popularity": 652,
       "nsfw": "white",
       "media_type": "tv",
@@ -325,8 +325,8 @@
       "id": 54362,
       "title": "Hametsu no Oukoku",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1610/138189.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1610/138189l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1610/138189.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1610/138189l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -364,8 +364,8 @@
       "start_date": "2023-10-07",
       "end_date": "2023-12-23",
       "mean": 6.22,
-      "rank": 9534,
-      "popularity": 1231,
+      "rank": 9540,
+      "popularity": 1230,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -422,7 +422,7 @@
       "start_date": "2020-10-04",
       "end_date": "2020-12-20",
       "mean": 6.95,
-      "rank": 5003,
+      "rank": 5006,
       "popularity": 1105,
       "nsfw": "white",
       "media_type": "tv",
@@ -442,8 +442,8 @@
       "id": 58514,
       "title": "Kusuriya no Hitorigoto 2nd Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1025/147458.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1025/147458l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1025/147458.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1025/147458l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -477,7 +477,7 @@
       "end_date": "2025-07-04",
       "mean": 8.91,
       "rank": 23,
-      "popularity": 497,
+      "popularity": 496,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -526,7 +526,7 @@
       "start_date": "2024-07-13",
       "end_date": "2024-09-28",
       "mean": 6.23,
-      "rank": 9498,
+      "rank": 9503,
       "popularity": 1861,
       "nsfw": "white",
       "media_type": "tv",
@@ -574,7 +574,7 @@
       "start_date": "2021-07-16",
       "mean": 7.29,
       "rank": 3158,
-      "popularity": 10232,
+      "popularity": 10235,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -592,8 +592,8 @@
       "id": 61549,
       "title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1264/153908.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1264/153908l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1264/153908.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1264/153908l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -622,8 +622,8 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.79,
-      "rank": 5926,
-      "popularity": 2699,
+      "rank": 5938,
+      "popularity": 2695,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -721,9 +721,9 @@
       "num_episodes": 182,
       "start_date": "2022-11-10",
       "end_date": "2026-04-23",
-      "mean": 8.32,
-      "rank": 309,
-      "popularity": 7983,
+      "mean": 8.31,
+      "rank": 318,
+      "popularity": 7987,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -741,8 +741,8 @@
       "id": 57442,
       "title": "Shixiong A Shixiong 2nd Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1578/153464.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1578/153464l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1578/153464.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1578/153464l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -778,7 +778,7 @@
       "start_date": "2023-12-14",
       "end_date": "2024-05-30",
       "mean": 7.64,
-      "rank": 1623,
+      "rank": 1621,
       "popularity": 12330,
       "nsfw": "white",
       "media_type": "ona",
@@ -851,8 +851,8 @@
       "id": 50602,
       "title": "Spy x Family Part 2",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1111/127508.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1111/127508l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1111/127508.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1111/127508l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -940,8 +940,8 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.42,
-      "rank": 8377,
-      "popularity": 3700,
+      "rank": 8379,
+      "popularity": 3698,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -984,9 +984,9 @@
       "num_episodes": 13,
       "start_date": "2026-04-06",
       "end_date": "2026-06-22",
-      "mean": 8.67,
-      "rank": 80,
-      "popularity": 789,
+      "mean": 8.64,
+      "rank": 91,
+      "popularity": 780,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1040,9 +1040,9 @@
       "synopsis": "Fourth season of Tunshi Xingkong.",
       "num_episodes": 175,
       "start_date": "2023-10-03",
-      "mean": 8.35,
-      "rank": 281,
-      "popularity": 8771,
+      "mean": 8.34,
+      "rank": 288,
+      "popularity": 8767,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1095,8 +1095,8 @@
       "num_episodes": 224,
       "start_date": "2022-08-16",
       "end_date": "2024-10-01",
-      "mean": 7.34,
-      "rank": 2909,
+      "mean": 7.33,
+      "rank": 2961,
       "popularity": 11514,
       "nsfw": "white",
       "media_type": "ona",
@@ -1153,7 +1153,7 @@
       "start_date": "2021-04-23",
       "mean": 7.87,
       "rank": 999,
-      "popularity": 6264,
+      "popularity": 6263,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1209,8 +1209,8 @@
       "num_episodes": 720,
       "start_date": "2020-03-08",
       "mean": 7.6,
-      "rank": 1774,
-      "popularity": 8466,
+      "rank": 1775,
+      "popularity": 8469,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1265,7 +1265,7 @@
       "start_date": "2023-09-25",
       "mean": 8.5,
       "rank": 171,
-      "popularity": 6804,
+      "popularity": 6803,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1283,8 +1283,8 @@
       "id": 56717,
       "title": "Xianwu Zhuan 2nd Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1878/157623.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1878/157623l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1878/157623.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1878/157623l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1320,8 +1320,8 @@
       "start_date": "2023-09-24",
       "end_date": "2026-05-24",
       "mean": 7.27,
-      "rank": 3285,
-      "popularity": 12058,
+      "rank": 3287,
+      "popularity": 12056,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1383,7 +1383,7 @@
       "end_date": "2025-07-22",
       "mean": 8.24,
       "rank": 404,
-      "popularity": 9955,
+      "popularity": 9944,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1430,8 +1430,8 @@
       "start_date": "2026-01-04",
       "end_date": "2026-03-22",
       "mean": 6.65,
-      "rank": 6869,
-      "popularity": 1875,
+      "rank": 6878,
+      "popularity": 1870,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
