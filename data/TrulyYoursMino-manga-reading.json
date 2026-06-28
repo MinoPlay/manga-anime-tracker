@@ -44,7 +44,7 @@
       "start_date": "2024-06-08",
       "mean": 7.57,
       "rank": 2691,
-      "popularity": 1317,
+      "popularity": 1313,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -93,7 +93,7 @@
       "num_chapters": 0,
       "start_date": "2021-06-14",
       "mean": 7.72,
-      "rank": 1822,
+      "rank": 1823,
       "popularity": 1322,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -144,7 +144,7 @@
       "start_date": "2020-08-31",
       "mean": 7.77,
       "rank": 1581,
-      "popularity": 614,
+      "popularity": 613,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -164,8 +164,8 @@
       "id": 165175,
       "title": "Nebula's Civilization",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/2/293346.webp",
-        "large": "https://cdn.myanimelist.net/images/manga/2/293346l.webp"
+        "medium": "https://cdn.myanimelist.net/images/manga/2/293346.jpg",
+        "large": "https://cdn.myanimelist.net/images/manga/2/293346l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -188,8 +188,8 @@
       "num_chapters": 0,
       "start_date": "2023-11-29",
       "mean": 7.74,
-      "rank": 1734,
-      "popularity": 2588,
+      "rank": 1736,
+      "popularity": 2585,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -256,8 +256,8 @@
       "id": 152612,
       "title": "Returning With Absolutely Nothing",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/2/270200.jpg",
-        "large": "https://cdn.myanimelist.net/images/manga/2/270200l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/manga/2/270200.webp",
+        "large": "https://cdn.myanimelist.net/images/manga/2/270200l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -290,7 +290,7 @@
       "num_chapters": 0,
       "start_date": "2022-03-27",
       "mean": 7.48,
-      "rank": 3400,
+      "rank": 3403,
       "popularity": 2186,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -311,8 +311,8 @@
       "id": 67617,
       "title": "Tate no Yuusha no Nariagari",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/3/115755.webp",
-        "large": "https://cdn.myanimelist.net/images/manga/3/115755l.webp"
+        "medium": "https://cdn.myanimelist.net/images/manga/3/115755.jpg",
+        "large": "https://cdn.myanimelist.net/images/manga/3/115755l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -385,7 +385,7 @@
       "num_chapters": 0,
       "start_date": "2023-12-28",
       "mean": 8.27,
-      "rank": 392,
+      "rank": 391,
       "popularity": 733,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -434,7 +434,7 @@
       "num_chapters": 0,
       "start_date": "2022-12-30",
       "mean": 7.85,
-      "rank": 1276,
+      "rank": 1278,
       "popularity": 531,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -485,7 +485,7 @@
       "start_date": "2024-05-17",
       "mean": 8.55,
       "rank": 133,
-      "popularity": 894,
+      "popularity": 892,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -591,7 +591,7 @@
       "start_date": "2015-02-16",
       "end_date": "2020-11-30",
       "mean": 7.49,
-      "rank": 3265,
+      "rank": 3267,
       "popularity": 2357,
       "nsfw": "white",
       "media_type": "manhwa",
