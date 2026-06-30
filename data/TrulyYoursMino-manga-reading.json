@@ -43,7 +43,7 @@
       "num_chapters": 0,
       "start_date": "2024-06-08",
       "mean": 7.57,
-      "rank": 2693,
+      "rank": 2695,
       "popularity": 1313,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -93,7 +93,7 @@
       "num_chapters": 0,
       "start_date": "2021-06-14",
       "mean": 7.72,
-      "rank": 1827,
+      "rank": 1826,
       "popularity": 1322,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -143,7 +143,7 @@
       "num_chapters": 0,
       "start_date": "2020-08-31",
       "mean": 7.77,
-      "rank": 1580,
+      "rank": 1582,
       "popularity": 612,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -189,7 +189,7 @@
       "start_date": "2023-11-29",
       "mean": 7.74,
       "rank": 1740,
-      "popularity": 2583,
+      "popularity": 2581,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -208,8 +208,8 @@
       "id": 164754,
       "title": "Necromancer Academy and the Genius Summoner",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/1/292639.jpg",
-        "large": "https://cdn.myanimelist.net/images/manga/1/292639l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/manga/1/292639.webp",
+        "large": "https://cdn.myanimelist.net/images/manga/1/292639l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -236,8 +236,8 @@
       "num_chapters": 0,
       "start_date": "2023-10-07",
       "mean": 7.11,
-      "rank": 7805,
-      "popularity": 3619,
+      "rank": 7809,
+      "popularity": 3613,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -290,8 +290,8 @@
       "num_chapters": 0,
       "start_date": "2022-03-27",
       "mean": 7.48,
-      "rank": 3404,
-      "popularity": 2185,
+      "rank": 3407,
+      "popularity": 2186,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -386,7 +386,7 @@
       "start_date": "2023-12-28",
       "mean": 8.27,
       "rank": 389,
-      "popularity": 733,
+      "popularity": 732,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -405,8 +405,8 @@
       "id": 154692,
       "title": "The Infinite Mage",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/2/274476.jpg",
-        "large": "https://cdn.myanimelist.net/images/manga/2/274476l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/manga/2/274476.webp",
+        "large": "https://cdn.myanimelist.net/images/manga/2/274476l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -434,7 +434,7 @@
       "num_chapters": 0,
       "start_date": "2022-12-30",
       "mean": 7.85,
-      "rank": 1279,
+      "rank": 1280,
       "popularity": 529,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -537,8 +537,8 @@
       "num_chapters": 0,
       "start_date": "2024-12-28",
       "mean": 7.1,
-      "rank": 8073,
-      "popularity": 3281,
+      "rank": 8078,
+      "popularity": 3278,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -558,8 +558,8 @@
       "id": 147536,
       "title": "The Legendary Moonlight Sculptor",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/1/261859.jpg",
-        "large": "https://cdn.myanimelist.net/images/manga/1/261859l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/manga/1/261859.webp",
+        "large": "https://cdn.myanimelist.net/images/manga/1/261859l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -591,7 +591,7 @@
       "start_date": "2015-02-16",
       "end_date": "2020-11-30",
       "mean": 7.49,
-      "rank": 3270,
+      "rank": 3275,
       "popularity": 2357,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -611,8 +611,8 @@
       "id": 122663,
       "title": "Tower of God",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/2/223694.jpg",
-        "large": "https://cdn.myanimelist.net/images/manga/2/223694l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/manga/2/223694.webp",
+        "large": "https://cdn.myanimelist.net/images/manga/2/223694l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -647,8 +647,8 @@
       "num_chapters": 0,
       "start_date": "2010-07-05",
       "mean": 8.34,
-      "rank": 313,
-      "popularity": 42,
+      "rank": 314,
+      "popularity": 43,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"

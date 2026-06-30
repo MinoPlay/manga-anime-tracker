@@ -37,7 +37,7 @@
       "start_date": "2025-10-07",
       "end_date": "2025-12-23",
       "mean": 6.56,
-      "rank": 7436,
+      "rank": 7439,
       "popularity": 1543,
       "nsfw": "white",
       "media_type": "tv",
@@ -96,9 +96,9 @@
       "num_episodes": 36,
       "start_date": "2024-12-06",
       "end_date": "2025-08-01",
-      "mean": 8.2,
-      "rank": 438,
-      "popularity": 11908,
+      "mean": 8.21,
+      "rank": 424,
+      "popularity": 11911,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -152,7 +152,7 @@
       "start_date": "2023-06-24",
       "mean": 8.05,
       "rank": 654,
-      "popularity": 8258,
+      "popularity": 8261,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -226,8 +226,8 @@
       "id": 50612,
       "title": "Dr. Stone: Ryuusui",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1071/124921.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1071/124921l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1071/124921.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1071/124921l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -306,7 +306,7 @@
       "start_date": "2023-10-06",
       "end_date": "2023-12-22",
       "mean": 7.21,
-      "rank": 3620,
+      "rank": 3624,
       "popularity": 651,
       "nsfw": "white",
       "media_type": "tv",
@@ -325,8 +325,8 @@
       "id": 54362,
       "title": "Hametsu no Oukoku",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1610/138189.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1610/138189l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1610/138189.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1610/138189l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -364,7 +364,7 @@
       "start_date": "2023-10-07",
       "end_date": "2023-12-23",
       "mean": 6.22,
-      "rank": 9561,
+      "rank": 9567,
       "popularity": 1229,
       "nsfw": "white",
       "media_type": "tv",
@@ -383,8 +383,8 @@
       "id": 41312,
       "title": "Kami-tachi ni Hirowareta Otoko",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1654/108801.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1654/108801l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1654/108801.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1654/108801l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -422,7 +422,7 @@
       "start_date": "2020-10-04",
       "end_date": "2020-12-20",
       "mean": 6.95,
-      "rank": 5026,
+      "rank": 5027,
       "popularity": 1105,
       "nsfw": "white",
       "media_type": "tv",
@@ -477,7 +477,7 @@
       "end_date": "2025-07-04",
       "mean": 8.91,
       "rank": 23,
-      "popularity": 495,
+      "popularity": 493,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -496,8 +496,8 @@
       "id": 56062,
       "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1664/144272.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1664/144272l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1664/144272.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1664/144272l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -526,8 +526,8 @@
       "start_date": "2024-07-13",
       "end_date": "2024-09-28",
       "mean": 6.23,
-      "rank": 9525,
-      "popularity": 1858,
+      "rank": 9531,
+      "popularity": 1857,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -573,8 +573,8 @@
       "num_episodes": 580,
       "start_date": "2021-07-16",
       "mean": 7.28,
-      "rank": 3207,
-      "popularity": 10245,
+      "rank": 3209,
+      "popularity": 10248,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -592,8 +592,8 @@
       "id": 61549,
       "title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1264/153908.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1264/153908l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1264/153908.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1264/153908l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -622,7 +622,7 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.79,
-      "rank": 5958,
+      "rank": 5962,
       "popularity": 2687,
       "nsfw": "white",
       "media_type": "tv",
@@ -722,8 +722,8 @@
       "start_date": "2022-11-10",
       "end_date": "2026-04-23",
       "mean": 8.32,
-      "rank": 312,
-      "popularity": 7992,
+      "rank": 310,
+      "popularity": 7993,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -779,7 +779,7 @@
       "end_date": "2024-05-30",
       "mean": 7.64,
       "rank": 1624,
-      "popularity": 12334,
+      "popularity": 12336,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -831,7 +831,7 @@
       "start_date": "2022-01-09",
       "end_date": "2022-03-27",
       "mean": 8.13,
-      "rank": 552,
+      "rank": 551,
       "popularity": 114,
       "nsfw": "white",
       "media_type": "tv",
@@ -940,8 +940,8 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.42,
-      "rank": 8402,
-      "popularity": 3688,
+      "rank": 8406,
+      "popularity": 3683,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -960,8 +960,8 @@
       "id": 51553,
       "title": "Tongari Boushi no Atelier",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1726/155542.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1726/155542l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1726/155542.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1726/155542l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -983,10 +983,10 @@
       "synopsis": "In a world where witches wield breathtaking magic, Coco, coming from a humble background, often wishes she were born one herself. After all, the secret behind casting magic is strictly guarded from non-witches. But when Coco manages to catch a glimpse of the witch Qifrey casting a spell, her revelation on the truth behind magic drastically alters the course of her life.\n\nHowever, Coco's curiosity pays a steep price when a disastrous spell cast in ignorance brings a tragic fate upon her beloved mother. Qifrey takes the shaken girl in, recognizing both her resolve to save her mother and her link to a group of forbidden magic heretics. Secrets are a heavy burden, and between navigating a society that views her as an uninvited guest and mastering the art of magic, Coco must give her all to prove her worth as a witch.\n\n[Written by MAL Rewrite]",
       "num_episodes": 13,
       "start_date": "2026-04-06",
-      "end_date": "2026-06-22",
+      "end_date": "2026-06-29",
       "mean": 8.58,
-      "rank": 122,
-      "popularity": 753,
+      "rank": 123,
+      "popularity": 750,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1097,7 +1097,7 @@
       "end_date": "2024-10-01",
       "mean": 7.33,
       "rank": 2964,
-      "popularity": 11532,
+      "popularity": 11534,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1152,8 +1152,8 @@
       "num_episodes": 286,
       "start_date": "2021-04-23",
       "mean": 7.86,
-      "rank": 1021,
-      "popularity": 6271,
+      "rank": 1022,
+      "popularity": 6273,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1209,8 +1209,8 @@
       "num_episodes": 720,
       "start_date": "2020-03-08",
       "mean": 7.6,
-      "rank": 1777,
-      "popularity": 8474,
+      "rank": 1778,
+      "popularity": 8475,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1263,9 +1263,9 @@
       "synopsis": "Wang Lin is a very smart boy with loving parents. Although he and his parents are shunned by the rest of their relatives, his parents have always held high hopes that he will one day achieve greatness. One day, Wang Lin suddenly gained the chance to walk the path of an immortal but found that he only had mediocre talent at best. Watch Wang Lin as he breaks through his lack of talent and walks the path towards becoming a real immortal!\n\n(Source: Xian Ni Wiki)",
       "num_episodes": 180,
       "start_date": "2023-09-25",
-      "mean": 8.5,
-      "rank": 171,
-      "popularity": 6792,
+      "mean": 8.51,
+      "rank": 163,
+      "popularity": 6791,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1319,9 +1319,9 @@
       "num_episodes": 147,
       "start_date": "2023-09-24",
       "end_date": "2026-05-24",
-      "mean": 7.25,
-      "rank": 3424,
-      "popularity": 12066,
+      "mean": 7.24,
+      "rank": 3482,
+      "popularity": 12069,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1382,8 +1382,8 @@
       "start_date": "2024-07-03",
       "end_date": "2025-07-22",
       "mean": 8.24,
-      "rank": 405,
-      "popularity": 9953,
+      "rank": 403,
+      "popularity": 9955,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1430,8 +1430,8 @@
       "start_date": "2026-01-04",
       "end_date": "2026-03-22",
       "mean": 6.65,
-      "rank": 6907,
-      "popularity": 1864,
+      "rank": 6917,
+      "popularity": 1862,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
