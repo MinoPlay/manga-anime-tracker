@@ -4,8 +4,8 @@
       "id": 121496,
       "title": "Solo Leveling",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/3/222295.jpg",
-        "large": "https://cdn.myanimelist.net/images/manga/3/222295l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/manga/3/222295.webp",
+        "large": "https://cdn.myanimelist.net/images/manga/3/222295l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -62,8 +62,8 @@
       "id": 168907,
       "title": "The Last Adventurer",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/3/299926.jpg",
-        "large": "https://cdn.myanimelist.net/images/manga/3/299926l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/manga/3/299926.webp",
+        "large": "https://cdn.myanimelist.net/images/manga/3/299926l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -96,7 +96,7 @@
       "end_date": "2026-04-25",
       "mean": 7.09,
       "rank": 8131,
-      "popularity": 2434,
+      "popularity": 2431,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "finished"
