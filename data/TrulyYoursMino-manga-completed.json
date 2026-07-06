@@ -62,8 +62,8 @@
       "id": 168907,
       "title": "The Last Adventurer",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/3/299926.jpg",
-        "large": "https://cdn.myanimelist.net/images/manga/3/299926l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/manga/3/299926.webp",
+        "large": "https://cdn.myanimelist.net/images/manga/3/299926l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -96,7 +96,7 @@
       "end_date": "2026-04-25",
       "mean": 7.08,
       "rank": 8285,
-      "popularity": 2424,
+      "popularity": 2422,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "finished"
