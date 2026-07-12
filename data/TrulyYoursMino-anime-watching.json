@@ -37,8 +37,8 @@
       "start_date": "2025-10-07",
       "end_date": "2025-12-23",
       "mean": 6.56,
-      "rank": 7530,
-      "popularity": 1535,
+      "rank": 7536,
+      "popularity": 1534,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -98,7 +98,7 @@
       "end_date": "2025-08-01",
       "mean": 8.2,
       "rank": 442,
-      "popularity": 11897,
+      "popularity": 11895,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -152,7 +152,7 @@
       "start_date": "2023-06-24",
       "mean": 8.04,
       "rank": 681,
-      "popularity": 8272,
+      "popularity": 8270,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -204,11 +204,11 @@
         }
       ],
       "synopsis": "Fifth season of Doupo Cangqiong.",
-      "num_episodes": 209,
+      "num_episodes": 219,
       "start_date": "2022-07-31",
       "mean": 8.41,
-      "rank": 219,
-      "popularity": 6672,
+      "rank": 218,
+      "popularity": 6670,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -306,7 +306,7 @@
       "start_date": "2023-10-06",
       "end_date": "2023-12-22",
       "mean": 7.21,
-      "rank": 3655,
+      "rank": 3658,
       "popularity": 649,
       "nsfw": "white",
       "media_type": "tv",
@@ -364,8 +364,8 @@
       "start_date": "2023-10-07",
       "end_date": "2023-12-23",
       "mean": 6.23,
-      "rank": 9595,
-      "popularity": 1229,
+      "rank": 9603,
+      "popularity": 1230,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -383,8 +383,8 @@
       "id": 41312,
       "title": "Kami-tachi ni Hirowareta Otoko",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1654/108801.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1654/108801l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1654/108801.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1654/108801l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -422,7 +422,7 @@
       "start_date": "2020-10-04",
       "end_date": "2020-12-20",
       "mean": 6.95,
-      "rank": 5095,
+      "rank": 5097,
       "popularity": 1106,
       "nsfw": "white",
       "media_type": "tv",
@@ -442,8 +442,8 @@
       "id": 58514,
       "title": "Kusuriya no Hitorigoto 2nd Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1025/147458.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1025/147458l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1025/147458.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1025/147458l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -477,7 +477,7 @@
       "end_date": "2025-07-04",
       "mean": 8.91,
       "rank": 24,
-      "popularity": 489,
+      "popularity": 488,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -526,7 +526,7 @@
       "start_date": "2024-07-13",
       "end_date": "2024-09-28",
       "mean": 6.23,
-      "rank": 9615,
+      "rank": 9623,
       "popularity": 1855,
       "nsfw": "white",
       "media_type": "tv",
@@ -573,7 +573,7 @@
       "num_episodes": 580,
       "start_date": "2021-07-16",
       "mean": 7.28,
-      "rank": 3249,
+      "rank": 3251,
       "popularity": 10259,
       "nsfw": "white",
       "media_type": "ona",
@@ -622,8 +622,8 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.79,
-      "rank": 6030,
-      "popularity": 2674,
+      "rank": 6036,
+      "popularity": 2672,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -642,8 +642,8 @@
       "id": 48895,
       "title": "Overlord IV",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1530/120110.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1530/120110l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1530/120110.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1530/120110l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -779,7 +779,7 @@
       "end_date": "2024-05-30",
       "mean": 7.64,
       "rank": 1641,
-      "popularity": 12339,
+      "popularity": 12343,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -831,7 +831,7 @@
       "start_date": "2022-01-09",
       "end_date": "2022-03-27",
       "mean": 8.13,
-      "rank": 559,
+      "rank": 558,
       "popularity": 113,
       "nsfw": "white",
       "media_type": "tv",
@@ -905,8 +905,8 @@
       "id": 61207,
       "title": "Tensei shitara Dragon no Tamago datta",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1250/156107.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1250/156107l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1250/156107.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1250/156107l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -940,7 +940,7 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.42,
-      "rank": 8496,
+      "rank": 8502,
       "popularity": 3663,
       "nsfw": "white",
       "media_type": "tv",
@@ -985,8 +985,8 @@
       "start_date": "2026-04-06",
       "end_date": "2026-06-29",
       "mean": 8.53,
-      "rank": 147,
-      "popularity": 704,
+      "rank": 146,
+      "popularity": 703,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1041,8 +1041,8 @@
       "num_episodes": 175,
       "start_date": "2023-10-03",
       "mean": 8.33,
-      "rank": 300,
-      "popularity": 8769,
+      "rank": 301,
+      "popularity": 8771,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1096,8 +1096,8 @@
       "start_date": "2022-08-16",
       "end_date": "2024-10-01",
       "mean": 7.33,
-      "rank": 2993,
-      "popularity": 11556,
+      "rank": 2992,
+      "popularity": 11559,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1152,8 +1152,8 @@
       "num_episodes": 286,
       "start_date": "2021-04-23",
       "mean": 7.86,
-      "rank": 1029,
-      "popularity": 6278,
+      "rank": 1030,
+      "popularity": 6280,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1171,8 +1171,8 @@
       "id": 41409,
       "title": "Wushen Zhuzai",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1738/107609.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1738/107609l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1738/107609.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1738/107609l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1264,8 +1264,8 @@
       "num_episodes": 180,
       "start_date": "2023-09-25",
       "mean": 8.5,
-      "rank": 169,
-      "popularity": 6774,
+      "rank": 168,
+      "popularity": 6772,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1320,8 +1320,8 @@
       "start_date": "2023-09-24",
       "end_date": "2026-05-24",
       "mean": 7.24,
-      "rank": 3518,
-      "popularity": 12089,
+      "rank": 3520,
+      "popularity": 12092,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1383,7 +1383,7 @@
       "end_date": "2025-07-22",
       "mean": 8.25,
       "rank": 397,
-      "popularity": 9945,
+      "popularity": 9943,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1430,8 +1430,8 @@
       "start_date": "2026-01-04",
       "end_date": "2026-03-22",
       "mean": 6.65,
-      "rank": 7001,
-      "popularity": 1847,
+      "rank": 7007,
+      "popularity": 1846,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
