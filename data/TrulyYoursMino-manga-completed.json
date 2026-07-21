@@ -4,8 +4,8 @@
       "id": 121496,
       "title": "Solo Leveling",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/3/222295.jpg",
-        "large": "https://cdn.myanimelist.net/images/manga/3/222295l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/manga/3/222295.webp",
+        "large": "https://cdn.myanimelist.net/images/manga/3/222295l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -94,9 +94,9 @@
       "num_chapters": 121,
       "start_date": "2024-03-30",
       "end_date": "2026-04-25",
-      "mean": 7.07,
-      "rank": 8551,
-      "popularity": 2387,
+      "mean": 7.06,
+      "rank": 8609,
+      "popularity": 2386,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "finished"
