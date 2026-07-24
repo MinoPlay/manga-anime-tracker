@@ -44,7 +44,7 @@
       "start_date": "2024-06-08",
       "mean": 7.58,
       "rank": 2653,
-      "popularity": 1284,
+      "popularity": 1280,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -93,8 +93,8 @@
       "num_chapters": 0,
       "start_date": "2021-06-14",
       "mean": 7.71,
-      "rank": 1906,
-      "popularity": 1306,
+      "rank": 1905,
+      "popularity": 1305,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -188,8 +188,8 @@
       "num_chapters": 0,
       "start_date": "2023-11-29",
       "mean": 7.73,
-      "rank": 1795,
-      "popularity": 2511,
+      "rank": 1794,
+      "popularity": 2510,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -236,8 +236,8 @@
       "num_chapters": 0,
       "start_date": "2023-10-07",
       "mean": 7.1,
-      "rank": 7985,
-      "popularity": 3569,
+      "rank": 7987,
+      "popularity": 3567,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -311,8 +311,8 @@
       "id": 67617,
       "title": "Tate no Yuusha no Nariagari",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/3/115755.webp",
-        "large": "https://cdn.myanimelist.net/images/manga/3/115755l.webp"
+        "medium": "https://cdn.myanimelist.net/images/manga/3/115755.jpg",
+        "large": "https://cdn.myanimelist.net/images/manga/3/115755l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -333,7 +333,7 @@
       "num_chapters": 0,
       "start_date": "2013-08-22",
       "mean": 7.91,
-      "rank": 1097,
+      "rank": 1096,
       "popularity": 410,
       "nsfw": "white",
       "media_type": "light_novel",
@@ -353,8 +353,8 @@
       "id": 166865,
       "title": "The Extra's Academy Survival Guide",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/2/296379.webp",
-        "large": "https://cdn.myanimelist.net/images/manga/2/296379l.webp"
+        "medium": "https://cdn.myanimelist.net/images/manga/2/296379.jpg",
+        "large": "https://cdn.myanimelist.net/images/manga/2/296379l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -385,7 +385,7 @@
       "num_chapters": 0,
       "start_date": "2023-12-28",
       "mean": 8.27,
-      "rank": 403,
+      "rank": 402,
       "popularity": 712,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -434,7 +434,7 @@
       "num_chapters": 0,
       "start_date": "2022-12-30",
       "mean": 7.85,
-      "rank": 1306,
+      "rank": 1305,
       "popularity": 522,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -484,8 +484,8 @@
       "num_chapters": 0,
       "start_date": "2024-05-17",
       "mean": 8.55,
-      "rank": 146,
-      "popularity": 861,
+      "rank": 144,
+      "popularity": 858,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -538,7 +538,7 @@
       "start_date": "2024-12-28",
       "mean": 7.13,
       "rank": 7650,
-      "popularity": 3163,
+      "popularity": 3156,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -591,7 +591,7 @@
       "start_date": "2015-02-16",
       "end_date": "2020-11-30",
       "mean": 7.48,
-      "rank": 3368,
+      "rank": 3366,
       "popularity": 2346,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -647,7 +647,7 @@
       "num_chapters": 0,
       "start_date": "2010-07-05",
       "mean": 8.34,
-      "rank": 310,
+      "rank": 309,
       "popularity": 43,
       "nsfw": "white",
       "media_type": "manhwa",
