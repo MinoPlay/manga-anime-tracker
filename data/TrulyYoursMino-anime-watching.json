@@ -37,8 +37,8 @@
       "start_date": "2025-10-07",
       "end_date": "2025-12-23",
       "mean": 6.56,
-      "rank": 7560,
-      "popularity": 1526,
+      "rank": 7580,
+      "popularity": 1524,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -98,7 +98,7 @@
       "end_date": "2025-08-01",
       "mean": 8.2,
       "rank": 441,
-      "popularity": 11882,
+      "popularity": 11880,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -152,7 +152,7 @@
       "start_date": "2023-06-24",
       "mean": 8.04,
       "rank": 682,
-      "popularity": 8271,
+      "popularity": 8269,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -208,7 +208,7 @@
       "start_date": "2022-07-31",
       "mean": 8.41,
       "rank": 218,
-      "popularity": 6671,
+      "popularity": 6672,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -306,7 +306,7 @@
       "start_date": "2023-10-06",
       "end_date": "2023-12-22",
       "mean": 7.21,
-      "rank": 3665,
+      "rank": 3670,
       "popularity": 649,
       "nsfw": "white",
       "media_type": "tv",
@@ -364,8 +364,8 @@
       "start_date": "2023-10-07",
       "end_date": "2023-12-23",
       "mean": 6.22,
-      "rank": 9694,
-      "popularity": 1227,
+      "rank": 9707,
+      "popularity": 1226,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -422,7 +422,7 @@
       "start_date": "2020-10-04",
       "end_date": "2020-12-20",
       "mean": 6.95,
-      "rank": 5100,
+      "rank": 5109,
       "popularity": 1109,
       "nsfw": "white",
       "media_type": "tv",
@@ -526,7 +526,7 @@
       "start_date": "2024-07-13",
       "end_date": "2024-09-28",
       "mean": 6.22,
-      "rank": 9712,
+      "rank": 9724,
       "popularity": 1854,
       "nsfw": "white",
       "media_type": "tv",
@@ -573,7 +573,7 @@
       "num_episodes": 580,
       "start_date": "2021-07-16",
       "mean": 7.27,
-      "rank": 3321,
+      "rank": 3323,
       "popularity": 10264,
       "nsfw": "white",
       "media_type": "ona",
@@ -592,8 +592,8 @@
       "id": 61549,
       "title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1264/153908.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1264/153908l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1264/153908.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1264/153908l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -622,8 +622,8 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.79,
-      "rank": 6056,
-      "popularity": 2643,
+      "rank": 6067,
+      "popularity": 2642,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -723,7 +723,7 @@
       "end_date": "2026-04-23",
       "mean": 8.3,
       "rank": 333,
-      "popularity": 8009,
+      "popularity": 8008,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -778,8 +778,8 @@
       "start_date": "2023-12-14",
       "end_date": "2024-05-30",
       "mean": 7.64,
-      "rank": 1647,
-      "popularity": 12346,
+      "rank": 1649,
+      "popularity": 12350,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -797,8 +797,8 @@
       "id": 48736,
       "title": "Sono Bisque Doll wa Koi wo Suru",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1179/119897.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1179/119897l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1179/119897.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1179/119897l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -940,7 +940,7 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.42,
-      "rank": 8520,
+      "rank": 8536,
       "popularity": 3636,
       "nsfw": "white",
       "media_type": "tv",
@@ -986,7 +986,7 @@
       "end_date": "2026-06-29",
       "mean": 8.51,
       "rank": 162,
-      "popularity": 671,
+      "popularity": 666,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1042,7 +1042,7 @@
       "start_date": "2023-10-03",
       "mean": 8.32,
       "rank": 314,
-      "popularity": 8760,
+      "popularity": 8762,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1095,9 +1095,9 @@
       "num_episodes": 224,
       "start_date": "2022-08-16",
       "end_date": "2024-10-01",
-      "mean": 7.32,
-      "rank": 3051,
-      "popularity": 11577,
+      "mean": 7.33,
+      "rank": 3004,
+      "popularity": 11579,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1152,7 +1152,7 @@
       "num_episodes": 286,
       "start_date": "2021-04-23",
       "mean": 7.85,
-      "rank": 1052,
+      "rank": 1055,
       "popularity": 6285,
       "nsfw": "white",
       "media_type": "ona",
@@ -1209,7 +1209,7 @@
       "num_episodes": 720,
       "start_date": "2020-03-08",
       "mean": 7.6,
-      "rank": 1801,
+      "rank": 1802,
       "popularity": 8496,
       "nsfw": "white",
       "media_type": "ona",
@@ -1265,7 +1265,7 @@
       "start_date": "2023-09-25",
       "mean": 8.48,
       "rank": 177,
-      "popularity": 6751,
+      "popularity": 6750,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1320,8 +1320,8 @@
       "start_date": "2023-09-24",
       "end_date": "2026-05-24",
       "mean": 7.23,
-      "rank": 3587,
-      "popularity": 12107,
+      "rank": 3589,
+      "popularity": 12112,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1430,8 +1430,8 @@
       "start_date": "2026-01-04",
       "end_date": "2026-03-22",
       "mean": 6.65,
-      "rank": 7020,
-      "popularity": 1823,
+      "rank": 7030,
+      "popularity": 1822,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
