@@ -44,7 +44,7 @@
       "start_date": "2024-06-08",
       "mean": 7.58,
       "rank": 2695,
-      "popularity": 1279,
+      "popularity": 1277,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -114,8 +114,8 @@
       "id": 147317,
       "title": "Lout of Count's Family",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/2/261316.webp",
-        "large": "https://cdn.myanimelist.net/images/manga/2/261316l.webp"
+        "medium": "https://cdn.myanimelist.net/images/manga/2/261316.jpg",
+        "large": "https://cdn.myanimelist.net/images/manga/2/261316l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -143,7 +143,7 @@
       "num_chapters": 0,
       "start_date": "2020-08-31",
       "mean": 7.77,
-      "rank": 1607,
+      "rank": 1609,
       "popularity": 604,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -189,7 +189,7 @@
       "start_date": "2023-11-29",
       "mean": 7.73,
       "rank": 1765,
-      "popularity": 2508,
+      "popularity": 2505,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -208,8 +208,8 @@
       "id": 164754,
       "title": "Necromancer Academy and the Genius Summoner",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/1/292639.webp",
-        "large": "https://cdn.myanimelist.net/images/manga/1/292639l.webp"
+        "medium": "https://cdn.myanimelist.net/images/manga/1/292639.jpg",
+        "large": "https://cdn.myanimelist.net/images/manga/1/292639l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -236,8 +236,8 @@
       "num_chapters": 0,
       "start_date": "2023-10-07",
       "mean": 7.1,
-      "rank": 8086,
-      "popularity": 3561,
+      "rank": 8092,
+      "popularity": 3562,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -290,7 +290,7 @@
       "num_chapters": 0,
       "start_date": "2022-03-27",
       "mean": 7.47,
-      "rank": 3460,
+      "rank": 3458,
       "popularity": 2175,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -349,7 +349,7 @@
       "start_date": "2018-03-04",
       "end_date": "2023-05-31",
       "mean": 8.56,
-      "rank": 126,
+      "rank": 125,
       "popularity": 5,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -391,7 +391,7 @@
       "num_chapters": 0,
       "start_date": "2013-08-22",
       "mean": 7.91,
-      "rank": 1107,
+      "rank": 1108,
       "popularity": 410,
       "nsfw": "white",
       "media_type": "light_novel",
@@ -411,8 +411,8 @@
       "id": 166865,
       "title": "The Extra's Academy Survival Guide",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/2/296379.jpg",
-        "large": "https://cdn.myanimelist.net/images/manga/2/296379l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/manga/2/296379.webp",
+        "large": "https://cdn.myanimelist.net/images/manga/2/296379l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -542,7 +542,7 @@
       "num_chapters": 0,
       "start_date": "2024-05-17",
       "mean": 8.55,
-      "rank": 145,
+      "rank": 144,
       "popularity": 856,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -596,7 +596,7 @@
       "end_date": "2026-04-25",
       "mean": 7.06,
       "rank": 8719,
-      "popularity": 2374,
+      "popularity": 2372,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "finished"
@@ -650,7 +650,7 @@
       "start_date": "2024-12-28",
       "mean": 7.13,
       "rank": 7564,
-      "popularity": 3147,
+      "popularity": 3142,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -703,7 +703,7 @@
       "start_date": "2015-02-16",
       "end_date": "2020-11-30",
       "mean": 7.48,
-      "rank": 3420,
+      "rank": 3422,
       "popularity": 2346,
       "nsfw": "white",
       "media_type": "manhwa",
