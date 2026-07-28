@@ -37,7 +37,7 @@
       "start_date": "2025-10-07",
       "end_date": "2025-12-23",
       "mean": 6.56,
-      "rank": 7580,
+      "rank": 7579,
       "popularity": 1524,
       "nsfw": "white",
       "media_type": "tv",
@@ -98,7 +98,7 @@
       "end_date": "2025-08-01",
       "mean": 8.2,
       "rank": 441,
-      "popularity": 11880,
+      "popularity": 11881,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -208,7 +208,7 @@
       "start_date": "2022-07-31",
       "mean": 8.41,
       "rank": 218,
-      "popularity": 6672,
+      "popularity": 6673,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -273,8 +273,8 @@
       "id": 47160,
       "title": "Goblin Slayer II",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1100/138338.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1100/138338l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1100/138338.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1100/138338l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -422,7 +422,7 @@
       "start_date": "2020-10-04",
       "end_date": "2020-12-20",
       "mean": 6.95,
-      "rank": 5109,
+      "rank": 5110,
       "popularity": 1109,
       "nsfw": "white",
       "media_type": "tv",
@@ -573,8 +573,8 @@
       "num_episodes": 580,
       "start_date": "2021-07-16",
       "mean": 7.27,
-      "rank": 3323,
-      "popularity": 10264,
+      "rank": 3321,
+      "popularity": 10265,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -623,7 +623,7 @@
       "end_date": "2026-03-28",
       "mean": 6.79,
       "rank": 6067,
-      "popularity": 2642,
+      "popularity": 2641,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -722,8 +722,8 @@
       "start_date": "2022-11-10",
       "end_date": "2026-04-23",
       "mean": 8.3,
-      "rank": 333,
-      "popularity": 8008,
+      "rank": 332,
+      "popularity": 8009,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -778,8 +778,8 @@
       "start_date": "2023-12-14",
       "end_date": "2024-05-30",
       "mean": 7.64,
-      "rank": 1649,
-      "popularity": 12350,
+      "rank": 1648,
+      "popularity": 12351,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -797,8 +797,8 @@
       "id": 48736,
       "title": "Sono Bisque Doll wa Koi wo Suru",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1179/119897.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1179/119897l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1179/119897.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1179/119897l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -905,8 +905,8 @@
       "id": 61207,
       "title": "Tensei shitara Dragon no Tamago datta",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1250/156107.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1250/156107l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1250/156107.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1250/156107l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -941,7 +941,7 @@
       "end_date": "2026-03-28",
       "mean": 6.42,
       "rank": 8536,
-      "popularity": 3636,
+      "popularity": 3634,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -984,9 +984,9 @@
       "num_episodes": 13,
       "start_date": "2026-04-06",
       "end_date": "2026-06-29",
-      "mean": 8.51,
-      "rank": 162,
-      "popularity": 666,
+      "mean": 8.5,
+      "rank": 167,
+      "popularity": 663,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1004,8 +1004,8 @@
       "id": 56524,
       "title": "Tunshi Xingkong 4th Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1335/138907.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1335/138907l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1335/138907.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1335/138907l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1097,7 +1097,7 @@
       "end_date": "2024-10-01",
       "mean": 7.33,
       "rank": 3004,
-      "popularity": 11579,
+      "popularity": 11582,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1152,7 +1152,7 @@
       "num_episodes": 286,
       "start_date": "2021-04-23",
       "mean": 7.85,
-      "rank": 1055,
+      "rank": 1056,
       "popularity": 6285,
       "nsfw": "white",
       "media_type": "ona",
@@ -1209,8 +1209,8 @@
       "num_episodes": 720,
       "start_date": "2020-03-08",
       "mean": 7.6,
-      "rank": 1802,
-      "popularity": 8496,
+      "rank": 1803,
+      "popularity": 8497,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1228,8 +1228,8 @@
       "id": 55809,
       "title": "Xian Ni",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1289/149708.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1289/149708l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1289/149708.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1289/149708l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1265,7 +1265,7 @@
       "start_date": "2023-09-25",
       "mean": 8.48,
       "rank": 177,
-      "popularity": 6750,
+      "popularity": 6749,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1319,9 +1319,9 @@
       "num_episodes": 147,
       "start_date": "2023-09-24",
       "end_date": "2026-05-24",
-      "mean": 7.23,
-      "rank": 3589,
-      "popularity": 12112,
+      "mean": 7.24,
+      "rank": 3534,
+      "popularity": 12116,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1382,7 +1382,7 @@
       "start_date": "2024-07-03",
       "end_date": "2025-07-22",
       "mean": 8.25,
-      "rank": 397,
+      "rank": 398,
       "popularity": 9911,
       "nsfw": "white",
       "media_type": "ona",
@@ -1431,7 +1431,7 @@
       "end_date": "2026-03-22",
       "mean": 6.65,
       "rank": 7030,
-      "popularity": 1822,
+      "popularity": 1821,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
