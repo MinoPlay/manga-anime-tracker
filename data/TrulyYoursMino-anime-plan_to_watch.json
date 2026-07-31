@@ -56,8 +56,8 @@
       "id": 52995,
       "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1553/145597.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1553/145597l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1553/145597.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1553/145597l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -93,7 +93,7 @@
       "start_date": "2024-10-14",
       "end_date": "2025-02-17",
       "mean": 7.02,
-      "rank": 4747,
+      "rank": 4748,
       "popularity": 1363,
       "nsfw": "white",
       "media_type": "tv",
@@ -168,7 +168,7 @@
       "start_date": "2012-02-04",
       "end_date": "2012-02-04",
       "mean": 7.71,
-      "rank": 1414,
+      "rank": 1413,
       "popularity": 1150,
       "nsfw": "white",
       "media_type": "movie",
@@ -187,8 +187,8 @@
       "id": 12113,
       "title": "Berserk: Ougon Jidai-hen II - Doldrey Kouryaku",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/12/37193.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/12/37193l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/12/37193.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/12/37193l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -241,7 +241,7 @@
       "start_date": "2012-06-23",
       "end_date": "2012-06-23",
       "mean": 7.87,
-      "rank": 992,
+      "rank": 991,
       "popularity": 1223,
       "nsfw": "white",
       "media_type": "movie",
@@ -372,7 +372,7 @@
       "end_date": "2025-09-19",
       "mean": 9.06,
       "rank": 6,
-      "popularity": 494,
+      "popularity": 493,
       "nsfw": "white",
       "media_type": "movie",
       "status": "finished_airing"
@@ -434,8 +434,8 @@
       "num_episodes": 52,
       "start_date": "2026-01-09",
       "mean": 7.15,
-      "rank": 4041,
-      "popularity": 14161,
+      "rank": 4036,
+      "popularity": 14152,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -525,9 +525,9 @@
       "num_episodes": 8,
       "start_date": "2026-03-02",
       "end_date": "2026-04-20",
-      "mean": 8.19,
-      "rank": 463,
-      "popularity": 4464,
+      "mean": 8.2,
+      "rank": 442,
+      "popularity": 4458,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -586,7 +586,7 @@
       "end_date": "2026-01-03",
       "mean": 8.52,
       "rank": 149,
-      "popularity": 10914,
+      "popularity": 10911,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -647,7 +647,7 @@
       "synopsis": "After his resurrection, Klein, now known as Sherlock, becomes a private detective. While taking on cases, he inadvertently provokes a spy organization. With the help of his bodyguard Sharron, as well as the assistance of Audrey and others, he faces many enemies, including the powerful Ambassador of Intis. In a later case, Klein unexpectedly discovers ruins from the Tudor dynasty. While continuing his detective work, Klein searches for clues to his advancement while also pursuing his enemies, Lanevus and Ince…\n\n(Source: Tencent, translated & edited)",
       "num_episodes": 0,
       "start_date": "2027",
-      "popularity": 5964,
+      "popularity": 5963,
       "nsfw": "white",
       "media_type": "ona",
       "status": "not_yet_aired"
@@ -723,8 +723,10 @@
         "large": "https://cdn.myanimelist.net/images/anime/1000/152184l.jpg"
       },
       "alternative_titles": {
-        "synonyms": [],
-        "en": "Demon Slayer: Kimetsu no Yaiba - The Movie 2: Infinity Castle",
+        "synonyms": [
+          "Demon Slayer: Kimetsu no Yaiba - The Movie: Infinity Castle - Part 2"
+        ],
+        "en": "Demon Slayer: Kimetsu no Yaiba Infinity Castle II",
         "ja": "劇場版 鬼滅の刃 無限城編"
       },
       "genres": [
@@ -747,7 +749,7 @@
       ],
       "synopsis": "Second anime movie of the trilogy adaptation of the Infinity Castle Arc.",
       "num_episodes": 1,
-      "popularity": 2467,
+      "popularity": 2456,
       "nsfw": "white",
       "media_type": "movie",
       "status": "not_yet_aired"
@@ -803,8 +805,8 @@
       "start_date": "2019-07-13",
       "end_date": "2019-09-21",
       "mean": 7.58,
-      "rank": 1864,
-      "popularity": 7748,
+      "rank": 1860,
+      "popularity": 7744,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -857,7 +859,7 @@
       "start_date": "2020-01-07",
       "end_date": "2020-03-31",
       "mean": 5.85,
-      "rank": 11750,
+      "rank": 11752,
       "popularity": 2830,
       "nsfw": "white",
       "media_type": "tv",
@@ -876,8 +878,8 @@
       "id": 50392,
       "title": "Mato Seihei no Slave",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1114/140805.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1114/140805l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1114/140805.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1114/140805l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -914,7 +916,7 @@
       "start_date": "2024-01-04",
       "end_date": "2024-03-21",
       "mean": 6.88,
-      "rank": 5508,
+      "rank": 5505,
       "popularity": 1011,
       "nsfw": "white",
       "media_type": "tv",
@@ -969,9 +971,9 @@
       "synopsis": "Second season of Nitian Xie Shen.",
       "num_episodes": 52,
       "start_date": "2026-04-16",
-      "mean": 7.13,
-      "rank": 4177,
-      "popularity": 15273,
+      "mean": 7.15,
+      "rank": 4061,
+      "popularity": 15260,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1023,7 +1025,7 @@
       "start_date": "2017-07-15",
       "end_date": "2017-07-15",
       "mean": 8.16,
-      "rank": 514,
+      "rank": 513,
       "popularity": 213,
       "nsfw": "white",
       "media_type": "movie",
@@ -1085,9 +1087,9 @@
       "synopsis": "Second season of Otome Game Sekai wa Mob ni Kibishii Sekai desu.",
       "num_episodes": 12,
       "start_date": "2026-07-08",
-      "mean": 6.69,
-      "rank": 6751,
-      "popularity": 2478,
+      "mean": 6.68,
+      "rank": 6815,
+      "popularity": 2475,
       "nsfw": "white",
       "media_type": "tv",
       "status": "currently_airing"
@@ -1161,8 +1163,8 @@
       "id": 39587,
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1444/108005.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1444/108005l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1444/108005.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1444/108005l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1252,7 +1254,7 @@
       "start_date": "2024-01-07",
       "end_date": "2024-03-24",
       "mean": 6.13,
-      "rank": 10254,
+      "rank": 10255,
       "popularity": 2355,
       "nsfw": "white",
       "media_type": "tv",
@@ -1359,7 +1361,7 @@
       "start_date": "2018-10-07",
       "end_date": "2019-03-31",
       "mean": 7.58,
-      "rank": 1873,
+      "rank": 1870,
       "popularity": 150,
       "nsfw": "white",
       "media_type": "tv",
@@ -1474,7 +1476,7 @@
       "start_date": "2023-10-06",
       "end_date": "2023-12-22",
       "mean": 7.08,
-      "rank": 4488,
+      "rank": 4489,
       "popularity": 489,
       "nsfw": "white",
       "media_type": "tv",
@@ -1527,7 +1529,7 @@
       "end_date": "2024-09-29",
       "mean": 7.86,
       "rank": 1034,
-      "popularity": 666,
+      "popularity": 664,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1626,9 +1628,9 @@
       "num_episodes": 28,
       "start_date": "2025-01-30",
       "end_date": "2025-07-17",
-      "mean": 7.92,
-      "rank": 893,
-      "popularity": 13385,
+      "mean": 7.91,
+      "rank": 920,
+      "popularity": 13382,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1685,8 +1687,8 @@
       "start_date": "2024-04-19",
       "end_date": "2024-07-19",
       "mean": 7.57,
-      "rank": 1915,
-      "popularity": 12881,
+      "rank": 1914,
+      "popularity": 12883,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1704,8 +1706,8 @@
       "id": 49759,
       "title": "Zhu Xian",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1709/155866.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1709/155866l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1709/155866.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1709/155866l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -1740,7 +1742,7 @@
       "end_date": "2023-01-17",
       "mean": 7.54,
       "rank": 2043,
-      "popularity": 9133,
+      "popularity": 9132,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1840,7 +1842,7 @@
       ],
       "synopsis": "Final season of [Oshi no Ko].",
       "num_episodes": 0,
-      "popularity": 3108,
+      "popularity": 3106,
       "nsfw": "white",
       "media_type": "tv",
       "status": "not_yet_aired"
