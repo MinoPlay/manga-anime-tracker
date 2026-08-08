@@ -37,8 +37,8 @@
       "start_date": "2025-10-07",
       "end_date": "2025-12-23",
       "mean": 6.56,
-      "rank": 7576,
-      "popularity": 1517,
+      "rank": 7577,
+      "popularity": 1516,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -98,7 +98,7 @@
       "end_date": "2025-08-01",
       "mean": 8.2,
       "rank": 441,
-      "popularity": 11862,
+      "popularity": 11859,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -208,7 +208,7 @@
       "start_date": "2022-07-31",
       "mean": 8.4,
       "rank": 229,
-      "popularity": 6672,
+      "popularity": 6673,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -325,8 +325,8 @@
       "id": 54362,
       "title": "Hametsu no Oukoku",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1610/138189.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1610/138189l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1610/138189.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1610/138189l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -364,7 +364,7 @@
       "start_date": "2023-10-07",
       "end_date": "2023-12-23",
       "mean": 6.22,
-      "rank": 9710,
+      "rank": 9709,
       "popularity": 1227,
       "nsfw": "white",
       "media_type": "tv",
@@ -423,7 +423,7 @@
       "end_date": "2020-12-20",
       "mean": 6.95,
       "rank": 5115,
-      "popularity": 1109,
+      "popularity": 1110,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -442,8 +442,8 @@
       "id": 58514,
       "title": "Kusuriya no Hitorigoto 2nd Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1025/147458.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1025/147458l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1025/147458.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1025/147458l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -477,7 +477,7 @@
       "end_date": "2025-07-04",
       "mean": 8.91,
       "rank": 24,
-      "popularity": 478,
+      "popularity": 479,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -526,7 +526,7 @@
       "start_date": "2024-07-13",
       "end_date": "2024-09-28",
       "mean": 6.22,
-      "rank": 9724,
+      "rank": 9723,
       "popularity": 1854,
       "nsfw": "white",
       "media_type": "tv",
@@ -573,8 +573,8 @@
       "num_episodes": 580,
       "start_date": "2021-07-16",
       "mean": 7.27,
-      "rank": 3325,
-      "popularity": 10272,
+      "rank": 3326,
+      "popularity": 10273,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -622,7 +622,7 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.79,
-      "rank": 6062,
+      "rank": 6064,
       "popularity": 2626,
       "nsfw": "white",
       "media_type": "tv",
@@ -693,8 +693,8 @@
       "id": 52684,
       "title": "Shen Yin Wangzuo 2nd Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1897/150028.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1897/150028l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1897/150028.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1897/150028l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -778,8 +778,8 @@
       "start_date": "2023-12-14",
       "end_date": "2024-05-30",
       "mean": 7.62,
-      "rank": 1718,
-      "popularity": 12340,
+      "rank": 1717,
+      "popularity": 12339,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -797,8 +797,8 @@
       "id": 48736,
       "title": "Sono Bisque Doll wa Koi wo Suru",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1179/119897.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1179/119897l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1179/119897.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1179/119897l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -940,7 +940,7 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.42,
-      "rank": 8537,
+      "rank": 8536,
       "popularity": 3631,
       "nsfw": "white",
       "media_type": "tv",
@@ -986,7 +986,7 @@
       "end_date": "2026-06-29",
       "mean": 8.5,
       "rank": 167,
-      "popularity": 648,
+      "popularity": 646,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1042,7 +1042,7 @@
       "start_date": "2023-10-03",
       "mean": 8.32,
       "rank": 313,
-      "popularity": 8750,
+      "popularity": 8749,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1096,7 +1096,7 @@
       "start_date": "2022-08-16",
       "end_date": "2024-10-01",
       "mean": 7.33,
-      "rank": 3007,
+      "rank": 3008,
       "popularity": 11593,
       "nsfw": "white",
       "media_type": "ona",
@@ -1116,8 +1116,8 @@
       "id": 47405,
       "title": "Wanmei Shijie",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1809/153679.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1809/153679l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1809/153679.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1809/153679l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1153,7 +1153,7 @@
       "start_date": "2021-04-23",
       "mean": 7.85,
       "rank": 1055,
-      "popularity": 6288,
+      "popularity": 6287,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1210,7 +1210,7 @@
       "start_date": "2020-03-08",
       "mean": 7.6,
       "rank": 1802,
-      "popularity": 8498,
+      "popularity": 8499,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1283,8 +1283,8 @@
       "id": 56717,
       "title": "Xianwu Zhuan 2nd Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1878/157623.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1878/157623l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1878/157623.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1878/157623l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1383,7 +1383,7 @@
       "end_date": "2025-07-22",
       "mean": 8.26,
       "rank": 385,
-      "popularity": 9891,
+      "popularity": 9893,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
