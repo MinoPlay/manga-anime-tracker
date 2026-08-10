@@ -96,9 +96,9 @@
       "num_episodes": 36,
       "start_date": "2024-12-06",
       "end_date": "2025-08-01",
-      "mean": 8.2,
-      "rank": 441,
-      "popularity": 11859,
+      "mean": 8.21,
+      "rank": 430,
+      "popularity": 11858,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -152,7 +152,7 @@
       "start_date": "2023-06-24",
       "mean": 8.04,
       "rank": 681,
-      "popularity": 8270,
+      "popularity": 8271,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -208,7 +208,7 @@
       "start_date": "2022-07-31",
       "mean": 8.4,
       "rank": 229,
-      "popularity": 6672,
+      "popularity": 6675,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -226,8 +226,8 @@
       "id": 50612,
       "title": "Dr. Stone: Ryuusui",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1071/124921.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1071/124921l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1071/124921.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1071/124921l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -306,7 +306,7 @@
       "start_date": "2023-10-06",
       "end_date": "2023-12-22",
       "mean": 7.21,
-      "rank": 3672,
+      "rank": 3670,
       "popularity": 650,
       "nsfw": "white",
       "media_type": "tv",
@@ -364,7 +364,7 @@
       "start_date": "2023-10-07",
       "end_date": "2023-12-23",
       "mean": 6.22,
-      "rank": 9711,
+      "rank": 9712,
       "popularity": 1227,
       "nsfw": "white",
       "media_type": "tv",
@@ -383,8 +383,8 @@
       "id": 41312,
       "title": "Kami-tachi ni Hirowareta Otoko",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1654/108801.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1654/108801l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1654/108801.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1654/108801l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -422,7 +422,7 @@
       "start_date": "2020-10-04",
       "end_date": "2020-12-20",
       "mean": 6.95,
-      "rank": 5115,
+      "rank": 5118,
       "popularity": 1110,
       "nsfw": "white",
       "media_type": "tv",
@@ -442,8 +442,8 @@
       "id": 58514,
       "title": "Kusuriya no Hitorigoto 2nd Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1025/147458.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1025/147458l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1025/147458.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1025/147458l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -573,8 +573,8 @@
       "num_episodes": 580,
       "start_date": "2021-07-16",
       "mean": 7.27,
-      "rank": 3326,
-      "popularity": 10274,
+      "rank": 3324,
+      "popularity": 10276,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -622,7 +622,7 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.79,
-      "rank": 6062,
+      "rank": 6060,
       "popularity": 2626,
       "nsfw": "white",
       "media_type": "tv",
@@ -673,7 +673,7 @@
       "start_date": "2022-07-05",
       "end_date": "2022-09-27",
       "mean": 8.06,
-      "rank": 659,
+      "rank": 658,
       "popularity": 387,
       "nsfw": "white",
       "media_type": "tv",
@@ -779,7 +779,7 @@
       "end_date": "2024-05-30",
       "mean": 7.62,
       "rank": 1717,
-      "popularity": 12341,
+      "popularity": 12345,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -905,8 +905,8 @@
       "id": 61207,
       "title": "Tensei shitara Dragon no Tamago datta",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1250/156107.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1250/156107l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1250/156107.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1250/156107l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -941,7 +941,7 @@
       "end_date": "2026-03-28",
       "mean": 6.42,
       "rank": 8537,
-      "popularity": 3631,
+      "popularity": 3630,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -960,8 +960,8 @@
       "id": 51553,
       "title": "Tongari Boushi no Atelier",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1726/155542.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1726/155542l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1726/155542.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1726/155542l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -984,9 +984,9 @@
       "num_episodes": 13,
       "start_date": "2026-04-06",
       "end_date": "2026-06-29",
-      "mean": 8.5,
-      "rank": 167,
-      "popularity": 646,
+      "mean": 8.49,
+      "rank": 172,
+      "popularity": 645,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1042,7 +1042,7 @@
       "start_date": "2023-10-03",
       "mean": 8.32,
       "rank": 313,
-      "popularity": 8750,
+      "popularity": 8751,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1096,8 +1096,8 @@
       "start_date": "2022-08-16",
       "end_date": "2024-10-01",
       "mean": 7.33,
-      "rank": 3008,
-      "popularity": 11595,
+      "rank": 3009,
+      "popularity": 11597,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1153,7 +1153,7 @@
       "start_date": "2021-04-23",
       "mean": 7.86,
       "rank": 1036,
-      "popularity": 6288,
+      "popularity": 6290,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1210,7 +1210,7 @@
       "start_date": "2020-03-08",
       "mean": 7.6,
       "rank": 1801,
-      "popularity": 8499,
+      "popularity": 8500,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1228,8 +1228,8 @@
       "id": 55809,
       "title": "Xian Ni",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1289/149708.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1289/149708l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1289/149708.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1289/149708l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1321,7 +1321,7 @@
       "end_date": "2026-05-24",
       "mean": 7.23,
       "rank": 3589,
-      "popularity": 12127,
+      "popularity": 12128,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1383,7 +1383,7 @@
       "end_date": "2025-07-22",
       "mean": 8.26,
       "rank": 385,
-      "popularity": 9890,
+      "popularity": 9886,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1430,7 +1430,7 @@
       "start_date": "2026-01-04",
       "end_date": "2026-03-22",
       "mean": 6.66,
-      "rank": 6965,
+      "rank": 6966,
       "popularity": 1813,
       "nsfw": "white",
       "media_type": "tv",
