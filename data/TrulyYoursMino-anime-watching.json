@@ -37,7 +37,7 @@
       "start_date": "2025-10-07",
       "end_date": "2025-12-23",
       "mean": 6.56,
-      "rank": 7580,
+      "rank": 7572,
       "popularity": 1516,
       "nsfw": "white",
       "media_type": "tv",
@@ -96,9 +96,9 @@
       "num_episodes": 36,
       "start_date": "2024-12-06",
       "end_date": "2025-08-01",
-      "mean": 8.21,
-      "rank": 430,
-      "popularity": 11857,
+      "mean": 8.2,
+      "rank": 441,
+      "popularity": 11854,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -152,7 +152,7 @@
       "start_date": "2023-06-24",
       "mean": 8.03,
       "rank": 700,
-      "popularity": 8269,
+      "popularity": 8268,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -208,7 +208,7 @@
       "start_date": "2022-07-31",
       "mean": 8.4,
       "rank": 229,
-      "popularity": 6672,
+      "popularity": 6671,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -226,8 +226,8 @@
       "id": 50612,
       "title": "Dr. Stone: Ryuusui",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1071/124921.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1071/124921l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1071/124921.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1071/124921l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -254,7 +254,7 @@
       "end_date": "2022-07-10",
       "mean": 8.11,
       "rank": 577,
-      "popularity": 687,
+      "popularity": 686,
       "nsfw": "white",
       "media_type": "tv_special",
       "status": "finished_airing"
@@ -364,7 +364,7 @@
       "start_date": "2023-10-07",
       "end_date": "2023-12-23",
       "mean": 6.22,
-      "rank": 9713,
+      "rank": 9705,
       "popularity": 1227,
       "nsfw": "white",
       "media_type": "tv",
@@ -422,7 +422,7 @@
       "start_date": "2020-10-04",
       "end_date": "2020-12-20",
       "mean": 6.95,
-      "rank": 5117,
+      "rank": 5113,
       "popularity": 1110,
       "nsfw": "white",
       "media_type": "tv",
@@ -526,7 +526,7 @@
       "start_date": "2024-07-13",
       "end_date": "2024-09-28",
       "mean": 6.22,
-      "rank": 9728,
+      "rank": 9723,
       "popularity": 1854,
       "nsfw": "white",
       "media_type": "tv",
@@ -545,8 +545,8 @@
       "id": 49448,
       "title": "Ni Tian Zhizun",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1114/150027.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1114/150027l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1114/150027.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1114/150027l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -592,8 +592,8 @@
       "id": 61549,
       "title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1264/153908.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1264/153908l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1264/153908.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1264/153908l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -622,8 +622,8 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.79,
-      "rank": 6070,
-      "popularity": 2626,
+      "rank": 6059,
+      "popularity": 2624,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -777,9 +777,9 @@
       "num_episodes": 26,
       "start_date": "2023-12-14",
       "end_date": "2024-05-30",
-      "mean": 7.62,
-      "rank": 1716,
-      "popularity": 12350,
+      "mean": 7.63,
+      "rank": 1684,
+      "popularity": 12348,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -887,7 +887,7 @@
       "end_date": "2022-12-24",
       "mean": 8.19,
       "rank": 471,
-      "popularity": 151,
+      "popularity": 150,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -905,8 +905,8 @@
       "id": 61207,
       "title": "Tensei shitara Dragon no Tamago datta",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1250/156107.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1250/156107l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1250/156107.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1250/156107l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -940,8 +940,8 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.42,
-      "rank": 8544,
-      "popularity": 3629,
+      "rank": 8538,
+      "popularity": 3628,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1010,7 +1010,8 @@
       "alternative_titles": {
         "synonyms": [
           "吞噬星空 宇宙篇",
-          "Tunshi Xingkong: Yuzhou Pian"
+          "Tunshi Xingkong: Yuzhou Pian",
+          "Swallowed Star 5th Season"
         ],
         "en": "Swallowed Star 4th Season",
         "ja": "吞噬星空 第四季"
@@ -1040,9 +1041,9 @@
       "synopsis": "Fourth season of Tunshi Xingkong.",
       "num_episodes": 175,
       "start_date": "2023-10-03",
-      "mean": 8.32,
-      "rank": 313,
-      "popularity": 8748,
+      "mean": 8.33,
+      "rank": 301,
+      "popularity": 8747,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1096,8 +1097,8 @@
       "start_date": "2022-08-16",
       "end_date": "2024-10-01",
       "mean": 7.33,
-      "rank": 3011,
-      "popularity": 11599,
+      "rank": 3008,
+      "popularity": 11598,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1209,7 +1210,7 @@
       "num_episodes": 720,
       "start_date": "2020-03-08",
       "mean": 7.6,
-      "rank": 1802,
+      "rank": 1799,
       "popularity": 8503,
       "nsfw": "white",
       "media_type": "ona",
@@ -1383,7 +1384,7 @@
       "end_date": "2025-07-22",
       "mean": 8.26,
       "rank": 384,
-      "popularity": 9884,
+      "popularity": 9882,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1430,8 +1431,8 @@
       "start_date": "2026-01-04",
       "end_date": "2026-03-22",
       "mean": 6.66,
-      "rank": 6971,
-      "popularity": 1811,
+      "rank": 6966,
+      "popularity": 1810,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
