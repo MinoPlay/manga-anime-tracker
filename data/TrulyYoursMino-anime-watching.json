@@ -97,7 +97,7 @@
       "start_date": "2024-12-06",
       "end_date": "2025-08-01",
       "mean": 8.2,
-      "rank": 441,
+      "rank": 442,
       "popularity": 11855,
       "nsfw": "white",
       "media_type": "ona",
@@ -151,8 +151,8 @@
       "num_episodes": 182,
       "start_date": "2023-06-24",
       "mean": 8.03,
-      "rank": 700,
-      "popularity": 8268,
+      "rank": 701,
+      "popularity": 8266,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -208,7 +208,7 @@
       "start_date": "2022-07-31",
       "mean": 8.4,
       "rank": 229,
-      "popularity": 6671,
+      "popularity": 6670,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -226,8 +226,8 @@
       "id": 50612,
       "title": "Dr. Stone: Ryuusui",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1071/124921.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1071/124921l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1071/124921.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1071/124921l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -253,7 +253,7 @@
       "start_date": "2022-07-10",
       "end_date": "2022-07-10",
       "mean": 8.11,
-      "rank": 577,
+      "rank": 578,
       "popularity": 686,
       "nsfw": "white",
       "media_type": "tv_special",
@@ -306,7 +306,7 @@
       "start_date": "2023-10-06",
       "end_date": "2023-12-22",
       "mean": 7.21,
-      "rank": 3677,
+      "rank": 3679,
       "popularity": 649,
       "nsfw": "white",
       "media_type": "tv",
@@ -325,8 +325,8 @@
       "id": 54362,
       "title": "Hametsu no Oukoku",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1610/138189.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1610/138189l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1610/138189.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1610/138189l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -383,8 +383,8 @@
       "id": 41312,
       "title": "Kami-tachi ni Hirowareta Otoko",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1654/108801.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1654/108801l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1654/108801.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1654/108801l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -422,7 +422,7 @@
       "start_date": "2020-10-04",
       "end_date": "2020-12-20",
       "mean": 6.95,
-      "rank": 5117,
+      "rank": 5116,
       "popularity": 1110,
       "nsfw": "white",
       "media_type": "tv",
@@ -574,7 +574,7 @@
       "start_date": "2021-07-16",
       "mean": 7.27,
       "rank": 3332,
-      "popularity": 10275,
+      "popularity": 10276,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -673,7 +673,7 @@
       "start_date": "2022-07-05",
       "end_date": "2022-09-27",
       "mean": 8.06,
-      "rank": 659,
+      "rank": 660,
       "popularity": 387,
       "nsfw": "white",
       "media_type": "tv",
@@ -723,7 +723,7 @@
       "end_date": "2026-04-23",
       "mean": 8.29,
       "rank": 342,
-      "popularity": 8004,
+      "popularity": 8006,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -779,7 +779,7 @@
       "end_date": "2024-05-30",
       "mean": 7.63,
       "rank": 1684,
-      "popularity": 12347,
+      "popularity": 12345,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -797,8 +797,8 @@
       "id": 48736,
       "title": "Sono Bisque Doll wa Koi wo Suru",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1179/119897.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1179/119897l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1179/119897.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1179/119897l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -831,7 +831,7 @@
       "start_date": "2022-01-09",
       "end_date": "2022-03-27",
       "mean": 8.12,
-      "rank": 575,
+      "rank": 576,
       "popularity": 113,
       "nsfw": "white",
       "media_type": "tv",
@@ -886,7 +886,7 @@
       "start_date": "2022-10-01",
       "end_date": "2022-12-24",
       "mean": 8.19,
-      "rank": 471,
+      "rank": 472,
       "popularity": 150,
       "nsfw": "white",
       "media_type": "tv",
@@ -940,8 +940,8 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.42,
-      "rank": 8545,
-      "popularity": 3625,
+      "rank": 8546,
+      "popularity": 3623,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -985,8 +985,8 @@
       "start_date": "2026-04-06",
       "end_date": "2026-06-29",
       "mean": 8.49,
-      "rank": 172,
-      "popularity": 642,
+      "rank": 171,
+      "popularity": 641,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1042,7 +1042,7 @@
       "num_episodes": 175,
       "start_date": "2023-10-03",
       "mean": 8.33,
-      "rank": 301,
+      "rank": 302,
       "popularity": 8748,
       "nsfw": "white",
       "media_type": "ona",
@@ -1098,7 +1098,7 @@
       "end_date": "2024-10-01",
       "mean": 7.33,
       "rank": 3013,
-      "popularity": 11602,
+      "popularity": 11605,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1154,7 +1154,7 @@
       "start_date": "2021-04-23",
       "mean": 7.86,
       "rank": 1039,
-      "popularity": 6291,
+      "popularity": 6292,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1210,7 +1210,7 @@
       "num_episodes": 720,
       "start_date": "2020-03-08",
       "mean": 7.6,
-      "rank": 1803,
+      "rank": 1801,
       "popularity": 8504,
       "nsfw": "white",
       "media_type": "ona",
@@ -1265,8 +1265,8 @@
       "num_episodes": 180,
       "start_date": "2023-09-25",
       "mean": 8.49,
-      "rank": 173,
-      "popularity": 6726,
+      "rank": 172,
+      "popularity": 6725,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1322,7 +1322,7 @@
       "end_date": "2026-05-24",
       "mean": 7.23,
       "rank": 3593,
-      "popularity": 12126,
+      "popularity": 12124,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1382,9 +1382,9 @@
       "num_episodes": 59,
       "start_date": "2024-07-03",
       "end_date": "2025-07-22",
-      "mean": 8.26,
-      "rank": 384,
-      "popularity": 9882,
+      "mean": 8.27,
+      "rank": 371,
+      "popularity": 9877,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1431,8 +1431,8 @@
       "start_date": "2026-01-04",
       "end_date": "2026-03-22",
       "mean": 6.66,
-      "rank": 6968,
-      "popularity": 1808,
+      "rank": 6969,
+      "popularity": 1806,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
