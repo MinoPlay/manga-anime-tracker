@@ -37,7 +37,7 @@
       "start_date": "2021-04-11",
       "end_date": "2021-06-20",
       "mean": 8.35,
-      "rank": 280,
+      "rank": 279,
       "popularity": 198,
       "nsfw": "white",
       "media_type": "tv",
@@ -93,7 +93,7 @@
       "start_date": "2024-10-14",
       "end_date": "2025-02-17",
       "mean": 7.02,
-      "rank": 4751,
+      "rank": 4752,
       "popularity": 1360,
       "nsfw": "white",
       "media_type": "tv",
@@ -169,7 +169,7 @@
       "end_date": "2012-02-04",
       "mean": 7.71,
       "rank": 1415,
-      "popularity": 1153,
+      "popularity": 1154,
       "nsfw": "white",
       "media_type": "movie",
       "status": "finished_airing"
@@ -187,8 +187,8 @@
       "id": 12113,
       "title": "Berserk: Ougon Jidai-hen II - Doldrey Kouryaku",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/12/37193.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/12/37193l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/12/37193.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/12/37193l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -241,7 +241,7 @@
       "start_date": "2012-06-23",
       "end_date": "2012-06-23",
       "mean": 7.87,
-      "rank": 996,
+      "rank": 995,
       "popularity": 1227,
       "nsfw": "white",
       "media_type": "movie",
@@ -434,8 +434,8 @@
       "num_episodes": 52,
       "start_date": "2026-01-09",
       "mean": 7.11,
-      "rank": 4272,
-      "popularity": 14122,
+      "rank": 4271,
+      "popularity": 14120,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -453,8 +453,8 @@
       "id": 48549,
       "title": "Dr. Stone: New World",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1316/136268.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1316/136268l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1316/136268.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1316/136268l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -527,7 +527,7 @@
       "end_date": "2026-04-20",
       "mean": 8.19,
       "rank": 462,
-      "popularity": 4410,
+      "popularity": 4405,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -586,7 +586,7 @@
       "end_date": "2026-01-03",
       "mean": 8.51,
       "rank": 156,
-      "popularity": 10889,
+      "popularity": 10888,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -647,7 +647,7 @@
       "synopsis": "After his resurrection, Klein, now known as Sherlock, becomes a private detective. While taking on cases, he inadvertently provokes a spy organization. With the help of his bodyguard Sharron, as well as the assistance of Audrey and others, he faces many enemies, including the powerful Ambassador of Intis. In a later case, Klein unexpectedly discovers ruins from the Tudor dynasty. While continuing his detective work, Klein searches for clues to his advancement while also pursuing his enemies, Lanevus and Ince…\n\n(Source: Tencent, translated & edited)",
       "num_episodes": 0,
       "start_date": "2027",
-      "popularity": 5902,
+      "popularity": 5900,
       "nsfw": "white",
       "media_type": "ona",
       "status": "not_yet_aired"
@@ -701,7 +701,7 @@
       "num_episodes": 1,
       "start_date": "2027",
       "end_date": "2027",
-      "popularity": 2146,
+      "popularity": 2145,
       "nsfw": "white",
       "media_type": "movie",
       "status": "not_yet_aired"
@@ -719,8 +719,8 @@
       "id": 62546,
       "title": "Kimetsu no Yaiba Movie 2: Mugenjou-hen",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1000/152184.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1000/152184l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1000/152184.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1000/152184l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -749,7 +749,7 @@
       ],
       "synopsis": "Second anime movie of the trilogy adaptation of the Infinity Castle Arc.",
       "num_episodes": 1,
-      "popularity": 2403,
+      "popularity": 2401,
       "nsfw": "white",
       "media_type": "movie",
       "status": "not_yet_aired"
@@ -805,8 +805,8 @@
       "start_date": "2019-07-13",
       "end_date": "2019-09-21",
       "mean": 7.58,
-      "rank": 1862,
-      "popularity": 7723,
+      "rank": 1861,
+      "popularity": 7721,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -916,7 +916,7 @@
       "start_date": "2024-01-04",
       "end_date": "2024-03-21",
       "mean": 6.88,
-      "rank": 5515,
+      "rank": 5517,
       "popularity": 1007,
       "nsfw": "white",
       "media_type": "tv",
@@ -971,9 +971,9 @@
       "synopsis": "Second season of Nitian Xie Shen.",
       "num_episodes": 52,
       "start_date": "2026-04-16",
-      "mean": 7.25,
-      "rank": 3458,
-      "popularity": 15181,
+      "mean": 7.24,
+      "rank": 3457,
+      "popularity": 15166,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -991,8 +991,8 @@
       "id": 33674,
       "title": "No Game No Life: Zero",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1085/90759.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1085/90759l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1085/90759.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1085/90759l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1088,9 +1088,9 @@
       "num_episodes": 12,
       "start_date": "2026-07-08",
       "end_date": "2026-09-23",
-      "mean": 6.7,
-      "rank": 6686,
-      "popularity": 2412,
+      "mean": 6.71,
+      "rank": 6616,
+      "popularity": 2407,
       "nsfw": "white",
       "media_type": "tv",
       "status": "currently_airing"
@@ -1164,8 +1164,8 @@
       "id": 39587,
       "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1444/108005.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1444/108005l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1444/108005.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1444/108005l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1255,8 +1255,8 @@
       "start_date": "2024-01-07",
       "end_date": "2024-03-24",
       "mean": 6.13,
-      "rank": 10266,
-      "popularity": 2353,
+      "rank": 10267,
+      "popularity": 2352,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1274,8 +1274,8 @@
       "id": 59978,
       "title": "Sousou no Frieren 2nd Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1921/154528.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1921/154528l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1921/154528.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1921/154528l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1362,7 +1362,7 @@
       "start_date": "2018-10-07",
       "end_date": "2019-03-31",
       "mean": 7.58,
-      "rank": 1874,
+      "rank": 1873,
       "popularity": 151,
       "nsfw": "white",
       "media_type": "tv",
@@ -1496,8 +1496,8 @@
       "id": 58059,
       "title": "Tsue to Tsurugi no Wistoria",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1281/144104.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1281/144104l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1281/144104.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1281/144104l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1530,7 +1530,7 @@
       "end_date": "2024-09-29",
       "mean": 7.86,
       "rank": 1038,
-      "popularity": 658,
+      "popularity": 657,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1548,8 +1548,8 @@
       "id": 33352,
       "title": "Violet Evergarden",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1795/95088.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1795/95088l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1795/95088.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1795/95088l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -1631,7 +1631,7 @@
       "end_date": "2025-07-17",
       "mean": 7.91,
       "rank": 923,
-      "popularity": 13357,
+      "popularity": 13359,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1743,7 +1743,7 @@
       "end_date": "2023-01-17",
       "mean": 7.54,
       "rank": 2049,
-      "popularity": 9127,
+      "popularity": 9129,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1761,8 +1761,8 @@
       "id": 60058,
       "title": "[Oshi no Ko] 3rd Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1979/153329.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1979/153329l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1979/153329.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1979/153329l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1813,8 +1813,8 @@
       "id": 63794,
       "title": "[Oshi no Ko] 4th Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1702/156273.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1702/156273l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1052/159561.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1052/159561l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1843,7 +1843,7 @@
       ],
       "synopsis": "Final season of [Oshi no Ko].",
       "num_episodes": 0,
-      "popularity": 3074,
+      "popularity": 3069,
       "nsfw": "white",
       "media_type": "tv",
       "status": "not_yet_aired"
