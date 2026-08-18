@@ -37,7 +37,7 @@
       "start_date": "2025-10-07",
       "end_date": "2025-12-23",
       "mean": 6.56,
-      "rank": 7579,
+      "rank": 7580,
       "popularity": 1516,
       "nsfw": "white",
       "media_type": "tv",
@@ -152,7 +152,7 @@
       "start_date": "2023-06-24",
       "mean": 8.03,
       "rank": 702,
-      "popularity": 8266,
+      "popularity": 8267,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -208,7 +208,7 @@
       "start_date": "2022-07-31",
       "mean": 8.4,
       "rank": 229,
-      "popularity": 6671,
+      "popularity": 6669,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -226,8 +226,8 @@
       "id": 50612,
       "title": "Dr. Stone: Ryuusui",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1071/124921.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1071/124921l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1071/124921.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1071/124921l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -253,7 +253,7 @@
       "start_date": "2022-07-10",
       "end_date": "2022-07-10",
       "mean": 8.11,
-      "rank": 578,
+      "rank": 579,
       "popularity": 686,
       "nsfw": "white",
       "media_type": "tv_special",
@@ -273,8 +273,8 @@
       "id": 47160,
       "title": "Goblin Slayer II",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1100/138338.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1100/138338l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1100/138338.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1100/138338l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -306,7 +306,7 @@
       "start_date": "2023-10-06",
       "end_date": "2023-12-22",
       "mean": 7.21,
-      "rank": 3678,
+      "rank": 3677,
       "popularity": 649,
       "nsfw": "white",
       "media_type": "tv",
@@ -325,8 +325,8 @@
       "id": 54362,
       "title": "Hametsu no Oukoku",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1610/138189.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1610/138189l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1610/138189.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1610/138189l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -422,7 +422,7 @@
       "start_date": "2020-10-04",
       "end_date": "2020-12-20",
       "mean": 6.95,
-      "rank": 5115,
+      "rank": 5116,
       "popularity": 1110,
       "nsfw": "white",
       "media_type": "tv",
@@ -572,9 +572,9 @@
       "synopsis": "The entire universe is divided into the inner universe and the outer universe. The two universes are enemies of each other. The outer universe is ruled by demons, and the inner universe is divided into The Realm of gods, the Eternal Realm, and the Mortal Realm. In the universe, there are countless mortal worlds like the Tianfa Continent, and they are collectively referred to as the Jiutian Xin Region. In the field of Jiutian Xin, nine immortal emperors commanded all star fields in nine layers. Above the nine heavens is the realm of purification of immortal gods. \n\n(Source: AnimeXin)",
       "num_episodes": 580,
       "start_date": "2021-07-16",
-      "mean": 7.27,
-      "rank": 3332,
-      "popularity": 10280,
+      "mean": 7.28,
+      "rank": 3264,
+      "popularity": 10281,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -592,8 +592,8 @@
       "id": 61549,
       "title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1264/153908.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1264/153908l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1264/153908.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1264/153908l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -623,7 +623,7 @@
       "end_date": "2026-03-28",
       "mean": 6.79,
       "rank": 6071,
-      "popularity": 2620,
+      "popularity": 2619,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -673,7 +673,7 @@
       "start_date": "2022-07-05",
       "end_date": "2022-09-27",
       "mean": 8.06,
-      "rank": 660,
+      "rank": 661,
       "popularity": 387,
       "nsfw": "white",
       "media_type": "tv",
@@ -779,7 +779,7 @@
       "end_date": "2024-05-30",
       "mean": 7.63,
       "rank": 1684,
-      "popularity": 12346,
+      "popularity": 12345,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -831,7 +831,7 @@
       "start_date": "2022-01-09",
       "end_date": "2022-03-27",
       "mean": 8.12,
-      "rank": 576,
+      "rank": 577,
       "popularity": 113,
       "nsfw": "white",
       "media_type": "tv",
@@ -851,8 +851,8 @@
       "id": 50602,
       "title": "Spy x Family Part 2",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1111/127508.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1111/127508l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1111/127508.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1111/127508l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -941,7 +941,7 @@
       "end_date": "2026-03-28",
       "mean": 6.42,
       "rank": 8547,
-      "popularity": 3619,
+      "popularity": 3618,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -985,8 +985,8 @@
       "start_date": "2026-04-06",
       "end_date": "2026-06-29",
       "mean": 8.49,
-      "rank": 172,
-      "popularity": 640,
+      "rank": 171,
+      "popularity": 637,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1043,7 +1043,7 @@
       "start_date": "2023-10-03",
       "mean": 8.33,
       "rank": 302,
-      "popularity": 8749,
+      "popularity": 8748,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1062,8 +1062,8 @@
       "id": 52765,
       "title": "Wan Jie Du Zun 2nd Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1937/127040.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1937/127040l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1937/127040.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1937/127040l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -1097,7 +1097,7 @@
       "start_date": "2022-08-16",
       "end_date": "2024-10-01",
       "mean": 7.33,
-      "rank": 3012,
+      "rank": 3013,
       "popularity": 11605,
       "nsfw": "white",
       "media_type": "ona",
@@ -1117,8 +1117,8 @@
       "id": 47405,
       "title": "Wanmei Shijie",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1809/153679.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1809/153679l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1809/153679.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1809/153679l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1154,7 +1154,7 @@
       "start_date": "2021-04-23",
       "mean": 7.86,
       "rank": 1039,
-      "popularity": 6290,
+      "popularity": 6291,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1210,8 +1210,8 @@
       "num_episodes": 720,
       "start_date": "2020-03-08",
       "mean": 7.6,
-      "rank": 1801,
-      "popularity": 8502,
+      "rank": 1802,
+      "popularity": 8503,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1265,8 +1265,8 @@
       "num_episodes": 180,
       "start_date": "2023-09-25",
       "mean": 8.49,
-      "rank": 173,
-      "popularity": 6722,
+      "rank": 172,
+      "popularity": 6721,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1284,8 +1284,8 @@
       "id": 56717,
       "title": "Xianwu Zhuan 2nd Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1878/157623.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1878/157623l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1878/157623.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1878/157623l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1322,7 +1322,7 @@
       "end_date": "2026-05-24",
       "mean": 7.24,
       "rank": 3542,
-      "popularity": 12125,
+      "popularity": 12127,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1383,7 +1383,7 @@
       "start_date": "2024-07-03",
       "end_date": "2025-07-22",
       "mean": 8.27,
-      "rank": 371,
+      "rank": 370,
       "popularity": 9877,
       "nsfw": "white",
       "media_type": "ona",
@@ -1402,8 +1402,8 @@
       "id": 61128,
       "title": "Yuusha Party wo Oidasareta Kiyoubinbou",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1486/153135.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1486/153135l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1486/153135.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1486/153135l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1432,7 +1432,7 @@
       "end_date": "2026-03-22",
       "mean": 6.66,
       "rank": 6968,
-      "popularity": 1806,
+      "popularity": 1805,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
