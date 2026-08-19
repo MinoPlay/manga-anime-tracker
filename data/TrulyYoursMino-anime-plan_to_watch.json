@@ -94,7 +94,7 @@
       "end_date": "2025-02-17",
       "mean": 7.02,
       "rank": 4754,
-      "popularity": 1359,
+      "popularity": 1360,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -168,7 +168,7 @@
       "start_date": "2012-02-04",
       "end_date": "2012-02-04",
       "mean": 7.71,
-      "rank": 1415,
+      "rank": 1412,
       "popularity": 1154,
       "nsfw": "white",
       "media_type": "movie",
@@ -242,7 +242,7 @@
       "end_date": "2012-06-23",
       "mean": 7.87,
       "rank": 995,
-      "popularity": 1227,
+      "popularity": 1228,
       "nsfw": "white",
       "media_type": "movie",
       "status": "finished_airing"
@@ -434,8 +434,8 @@
       "num_episodes": 52,
       "start_date": "2026-01-09",
       "mean": 7.11,
-      "rank": 4273,
-      "popularity": 14125,
+      "rank": 4272,
+      "popularity": 14122,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -526,8 +526,8 @@
       "start_date": "2026-03-02",
       "end_date": "2026-04-20",
       "mean": 8.19,
-      "rank": 462,
-      "popularity": 4403,
+      "rank": 461,
+      "popularity": 4400,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -586,7 +586,7 @@
       "end_date": "2026-01-03",
       "mean": 8.51,
       "rank": 157,
-      "popularity": 10886,
+      "popularity": 10887,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -604,8 +604,8 @@
       "id": 63632,
       "title": "Guimi Zhi Zhu: Wu Mian Ren Pian",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1756/158774.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1756/158774l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1756/158774.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1756/158774l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -647,7 +647,7 @@
       "synopsis": "After his resurrection, Klein, now known as Sherlock, becomes a private detective. While taking on cases, he inadvertently provokes a spy organization. With the help of his bodyguard Sharron, as well as the assistance of Audrey and others, he faces many enemies, including the powerful Ambassador of Intis. In a later case, Klein unexpectedly discovers ruins from the Tudor dynasty. While continuing his detective work, Klein searches for clues to his advancement while also pursuing his enemies, Lanevus and Ince…\n\n(Source: Tencent, translated & edited)",
       "num_episodes": 0,
       "start_date": "2027",
-      "popularity": 5896,
+      "popularity": 5894,
       "nsfw": "white",
       "media_type": "ona",
       "status": "not_yet_aired"
@@ -767,8 +767,8 @@
       "id": 39675,
       "title": "Ling Long: Incarnation",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1292/157575.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1292/157575l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1292/157575.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1292/157575l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -805,8 +805,8 @@
       "start_date": "2019-07-13",
       "end_date": "2019-09-21",
       "mean": 7.58,
-      "rank": 1862,
-      "popularity": 7720,
+      "rank": 1861,
+      "popularity": 7721,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -859,7 +859,7 @@
       "start_date": "2020-01-07",
       "end_date": "2020-03-31",
       "mean": 5.85,
-      "rank": 11768,
+      "rank": 11769,
       "popularity": 2837,
       "nsfw": "white",
       "media_type": "tv",
@@ -916,7 +916,7 @@
       "start_date": "2024-01-04",
       "end_date": "2024-03-21",
       "mean": 6.88,
-      "rank": 5518,
+      "rank": 5519,
       "popularity": 1007,
       "nsfw": "white",
       "media_type": "tv",
@@ -973,7 +973,7 @@
       "start_date": "2026-04-16",
       "mean": 7.24,
       "rank": 3525,
-      "popularity": 15162,
+      "popularity": 15158,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1089,8 +1089,8 @@
       "start_date": "2026-07-08",
       "end_date": "2026-09-23",
       "mean": 6.71,
-      "rank": 6617,
-      "popularity": 2403,
+      "rank": 6618,
+      "popularity": 2399,
       "nsfw": "white",
       "media_type": "tv",
       "status": "currently_airing"
@@ -1256,7 +1256,7 @@
       "end_date": "2024-03-24",
       "mean": 6.13,
       "rank": 10269,
-      "popularity": 2352,
+      "popularity": 2351,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1326,8 +1326,8 @@
       "id": 36474,
       "title": "Sword Art Online: Alicization",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1993/93837.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1993/93837l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1993/93837.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1993/93837l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1362,7 +1362,7 @@
       "start_date": "2018-10-07",
       "end_date": "2019-03-31",
       "mean": 7.58,
-      "rank": 1874,
+      "rank": 1873,
       "popularity": 151,
       "nsfw": "white",
       "media_type": "tv",
@@ -1477,7 +1477,7 @@
       "start_date": "2023-10-06",
       "end_date": "2023-12-22",
       "mean": 7.07,
-      "rank": 4531,
+      "rank": 4530,
       "popularity": 489,
       "nsfw": "white",
       "media_type": "tv",
@@ -1496,8 +1496,8 @@
       "id": 58059,
       "title": "Tsue to Tsurugi no Wistoria",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1281/144104.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1281/144104l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1281/144104.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1281/144104l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1630,7 +1630,7 @@
       "start_date": "2025-01-30",
       "end_date": "2025-07-17",
       "mean": 7.91,
-      "rank": 923,
+      "rank": 924,
       "popularity": 13359,
       "nsfw": "white",
       "media_type": "ona",
@@ -1688,7 +1688,7 @@
       "start_date": "2024-04-19",
       "end_date": "2024-07-19",
       "mean": 7.56,
-      "rank": 1955,
+      "rank": 1956,
       "popularity": 12879,
       "nsfw": "white",
       "media_type": "ona",
@@ -1761,8 +1761,8 @@
       "id": 60058,
       "title": "[Oshi no Ko] 3rd Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1979/153329.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1979/153329l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1979/153329.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1979/153329l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1843,7 +1843,7 @@
       ],
       "synopsis": "Final season of [Oshi no Ko].",
       "num_episodes": 0,
-      "popularity": 3067,
+      "popularity": 3065,
       "nsfw": "white",
       "media_type": "tv",
       "status": "not_yet_aired"
