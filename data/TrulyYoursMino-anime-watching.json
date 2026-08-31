@@ -37,7 +37,7 @@
       "start_date": "2025-10-07",
       "end_date": "2025-12-23",
       "mean": 6.56,
-      "rank": 7577,
+      "rank": 7576,
       "popularity": 1513,
       "nsfw": "white",
       "media_type": "tv",
@@ -98,7 +98,7 @@
       "end_date": "2025-08-01",
       "mean": 8.2,
       "rank": 443,
-      "popularity": 11852,
+      "popularity": 11853,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -152,7 +152,7 @@
       "start_date": "2023-06-24",
       "mean": 8.03,
       "rank": 699,
-      "popularity": 8265,
+      "popularity": 8263,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -208,7 +208,7 @@
       "start_date": "2022-07-31",
       "mean": 8.39,
       "rank": 242,
-      "popularity": 6672,
+      "popularity": 6671,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -254,7 +254,7 @@
       "end_date": "2022-07-10",
       "mean": 8.11,
       "rank": 579,
-      "popularity": 685,
+      "popularity": 684,
       "nsfw": "white",
       "media_type": "tv_special",
       "status": "finished_airing"
@@ -365,7 +365,7 @@
       "end_date": "2023-12-23",
       "mean": 6.22,
       "rank": 9716,
-      "popularity": 1225,
+      "popularity": 1226,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -383,8 +383,8 @@
       "id": 41312,
       "title": "Kami-tachi ni Hirowareta Otoko",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1654/108801.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1654/108801l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1654/108801.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1654/108801l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -422,7 +422,7 @@
       "start_date": "2020-10-04",
       "end_date": "2020-12-20",
       "mean": 6.95,
-      "rank": 5114,
+      "rank": 5115,
       "popularity": 1108,
       "nsfw": "white",
       "media_type": "tv",
@@ -442,8 +442,8 @@
       "id": 58514,
       "title": "Kusuriya no Hitorigoto 2nd Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1025/147458.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1025/147458l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1025/147458.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1025/147458l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -573,8 +573,8 @@
       "num_episodes": 580,
       "start_date": "2021-07-16",
       "mean": 7.27,
-      "rank": 3335,
-      "popularity": 10288,
+      "rank": 3334,
+      "popularity": 10290,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -623,7 +623,7 @@
       "end_date": "2026-03-28",
       "mean": 6.78,
       "rank": 6133,
-      "popularity": 2613,
+      "popularity": 2610,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -642,8 +642,8 @@
       "id": 48895,
       "title": "Overlord IV",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1530/120110.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1530/120110l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1530/120110.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1530/120110l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -779,7 +779,7 @@
       "end_date": "2024-05-30",
       "mean": 7.62,
       "rank": 1720,
-      "popularity": 12338,
+      "popularity": 12336,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -797,8 +797,8 @@
       "id": 48736,
       "title": "Sono Bisque Doll wa Koi wo Suru",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1179/119897.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1179/119897l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1179/119897.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1179/119897l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -851,8 +851,8 @@
       "id": 50602,
       "title": "Spy x Family Part 2",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1111/127508.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1111/127508l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1111/127508.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1111/127508l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -940,8 +940,8 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.42,
-      "rank": 8544,
-      "popularity": 3608,
+      "rank": 8545,
+      "popularity": 3607,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -985,8 +985,8 @@
       "start_date": "2026-04-06",
       "end_date": "2026-06-29",
       "mean": 8.48,
-      "rank": 176,
-      "popularity": 623,
+      "rank": 178,
+      "popularity": 622,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1096,9 +1096,9 @@
       "num_episodes": 224,
       "start_date": "2022-08-16",
       "end_date": "2024-10-01",
-      "mean": 7.33,
-      "rank": 3009,
-      "popularity": 11621,
+      "mean": 7.32,
+      "rank": 3065,
+      "popularity": 11623,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1211,7 +1211,7 @@
       "start_date": "2020-03-08",
       "mean": 7.59,
       "rank": 1836,
-      "popularity": 8512,
+      "popularity": 8515,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1265,8 +1265,8 @@
       "num_episodes": 180,
       "start_date": "2023-09-25",
       "mean": 8.49,
-      "rank": 172,
-      "popularity": 6707,
+      "rank": 173,
+      "popularity": 6705,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1384,7 +1384,7 @@
       "end_date": "2025-07-22",
       "mean": 8.26,
       "rank": 386,
-      "popularity": 9860,
+      "popularity": 9856,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1402,8 +1402,8 @@
       "id": 61128,
       "title": "Yuusha Party wo Oidasareta Kiyoubinbou",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1486/153135.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1486/153135l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1486/153135.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1486/153135l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1431,8 +1431,8 @@
       "start_date": "2026-01-04",
       "end_date": "2026-03-22",
       "mean": 6.65,
-      "rank": 7036,
-      "popularity": 1796,
+      "rank": 7035,
+      "popularity": 1792,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
