@@ -98,7 +98,7 @@
       "end_date": "2025-08-01",
       "mean": 8.2,
       "rank": 443,
-      "popularity": 11853,
+      "popularity": 11850,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -423,7 +423,7 @@
       "end_date": "2020-12-20",
       "mean": 6.95,
       "rank": 5115,
-      "popularity": 1108,
+      "popularity": 1109,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -723,7 +723,7 @@
       "end_date": "2026-04-23",
       "mean": 8.28,
       "rank": 358,
-      "popularity": 8009,
+      "popularity": 8010,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -778,8 +778,8 @@
       "start_date": "2023-12-14",
       "end_date": "2024-05-30",
       "mean": 7.62,
-      "rank": 1720,
-      "popularity": 12336,
+      "rank": 1721,
+      "popularity": 12338,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -886,7 +886,7 @@
       "start_date": "2022-10-01",
       "end_date": "2022-12-24",
       "mean": 8.19,
-      "rank": 472,
+      "rank": 473,
       "popularity": 150,
       "nsfw": "white",
       "media_type": "tv",
@@ -905,8 +905,8 @@
       "id": 61207,
       "title": "Tensei shitara Dragon no Tamago datta",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1250/156107.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1250/156107l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1250/156107.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1250/156107l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -941,7 +941,7 @@
       "end_date": "2026-03-28",
       "mean": 6.42,
       "rank": 8545,
-      "popularity": 3607,
+      "popularity": 3606,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -960,8 +960,8 @@
       "id": 51553,
       "title": "Tongari Boushi no Atelier",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1726/155542.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1726/155542l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1726/155542.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1726/155542l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -986,7 +986,7 @@
       "end_date": "2026-06-29",
       "mean": 8.48,
       "rank": 178,
-      "popularity": 622,
+      "popularity": 621,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1041,8 +1041,8 @@
       "synopsis": "Fourth season of Tunshi Xingkong.",
       "num_episodes": 175,
       "start_date": "2023-10-03",
-      "mean": 8.32,
-      "rank": 315,
+      "mean": 8.33,
+      "rank": 302,
       "popularity": 8745,
       "nsfw": "white",
       "media_type": "ona",
@@ -1097,7 +1097,7 @@
       "start_date": "2022-08-16",
       "end_date": "2024-10-01",
       "mean": 7.32,
-      "rank": 3065,
+      "rank": 3063,
       "popularity": 11623,
       "nsfw": "white",
       "media_type": "ona",
@@ -1154,7 +1154,7 @@
       "start_date": "2021-04-23",
       "mean": 7.85,
       "rank": 1057,
-      "popularity": 6288,
+      "popularity": 6289,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1321,7 +1321,7 @@
       "start_date": "2023-09-24",
       "end_date": "2026-05-24",
       "mean": 7.24,
-      "rank": 3543,
+      "rank": 3542,
       "popularity": 12133,
       "nsfw": "white",
       "media_type": "ona",
@@ -1384,7 +1384,7 @@
       "end_date": "2025-07-22",
       "mean": 8.26,
       "rank": 386,
-      "popularity": 9856,
+      "popularity": 9851,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1402,8 +1402,8 @@
       "id": 61128,
       "title": "Yuusha Party wo Oidasareta Kiyoubinbou",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1486/153135.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1486/153135l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1486/153135.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1486/153135l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1432,7 +1432,7 @@
       "end_date": "2026-03-22",
       "mean": 6.65,
       "rank": 7035,
-      "popularity": 1792,
+      "popularity": 1791,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
