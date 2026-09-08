@@ -36,9 +36,9 @@
       "num_episodes": 12,
       "start_date": "2025-10-07",
       "end_date": "2025-12-23",
-      "mean": 6.56,
-      "rank": 7577,
-      "popularity": 1509,
+      "mean": 6.55,
+      "rank": 7628,
+      "popularity": 1508,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -152,7 +152,7 @@
       "start_date": "2023-06-24",
       "mean": 8.03,
       "rank": 699,
-      "popularity": 8264,
+      "popularity": 8265,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -364,8 +364,8 @@
       "start_date": "2023-10-07",
       "end_date": "2023-12-23",
       "mean": 6.22,
-      "rank": 9717,
-      "popularity": 1226,
+      "rank": 9719,
+      "popularity": 1228,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -383,8 +383,8 @@
       "id": 41312,
       "title": "Kami-tachi ni Hirowareta Otoko",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1654/108801.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1654/108801l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1654/108801.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1654/108801l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -422,7 +422,7 @@
       "start_date": "2020-10-04",
       "end_date": "2020-12-20",
       "mean": 6.95,
-      "rank": 5116,
+      "rank": 5117,
       "popularity": 1108,
       "nsfw": "white",
       "media_type": "tv",
@@ -496,8 +496,8 @@
       "id": 56062,
       "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1664/144272.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1664/144272l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1664/144272.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1664/144272l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -526,7 +526,7 @@
       "start_date": "2024-07-13",
       "end_date": "2024-09-28",
       "mean": 6.22,
-      "rank": 9734,
+      "rank": 9735,
       "popularity": 1853,
       "nsfw": "white",
       "media_type": "tv",
@@ -545,8 +545,8 @@
       "id": 49448,
       "title": "Ni Tian Zhizun",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1114/150027.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1114/150027l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1114/150027.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1114/150027l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -574,7 +574,7 @@
       "start_date": "2021-07-16",
       "mean": 7.27,
       "rank": 3335,
-      "popularity": 10301,
+      "popularity": 10304,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -622,7 +622,7 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.78,
-      "rank": 6131,
+      "rank": 6133,
       "popularity": 2605,
       "nsfw": "white",
       "media_type": "tv",
@@ -693,8 +693,8 @@
       "id": 52684,
       "title": "Shen Yin Wangzuo 2nd Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1897/150028.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1897/150028l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1897/150028.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1897/150028l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -723,7 +723,7 @@
       "end_date": "2026-04-23",
       "mean": 8.27,
       "rank": 365,
-      "popularity": 8009,
+      "popularity": 8008,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -778,8 +778,8 @@
       "start_date": "2023-12-14",
       "end_date": "2024-05-30",
       "mean": 7.62,
-      "rank": 1721,
-      "popularity": 12340,
+      "rank": 1723,
+      "popularity": 12339,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -797,8 +797,8 @@
       "id": 48736,
       "title": "Sono Bisque Doll wa Koi wo Suru",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1179/119897.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1179/119897l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1179/119897.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1179/119897l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -940,7 +940,7 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.42,
-      "rank": 8547,
+      "rank": 8546,
       "popularity": 3599,
       "nsfw": "white",
       "media_type": "tv",
@@ -986,7 +986,7 @@
       "end_date": "2026-06-29",
       "mean": 8.48,
       "rank": 178,
-      "popularity": 617,
+      "popularity": 616,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1043,7 +1043,7 @@
       "start_date": "2023-10-03",
       "mean": 8.32,
       "rank": 314,
-      "popularity": 8740,
+      "popularity": 8742,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1097,7 +1097,7 @@
       "start_date": "2022-08-16",
       "end_date": "2024-10-01",
       "mean": 7.32,
-      "rank": 3064,
+      "rank": 3063,
       "popularity": 11631,
       "nsfw": "white",
       "media_type": "ona",
@@ -1172,8 +1172,8 @@
       "id": 41409,
       "title": "Wushen Zhuzai",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1738/107609.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1738/107609l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1738/107609.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1738/107609l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1209,9 +1209,9 @@
       "synopsis": "The protagonist, Qin Chen, was originally one of the most outstanding geniuses in the Martial Domain, but he was betrayed and killed in the forbidden Death Valley of the continent. Facing certain death, Qin Chen unexpectedly triggered the power of a mysterious ancient sword… \n\nThree hundred years later, in a remote part of the Tianwu Continent, a young man with the same name unexpectedly inherited Qin Chen's will. As the beloved grandson of the War God of the Great Qi Kingdom, King Dingwu, his mother and he suffered neglect in the King Dingwu's mansion due to the mystery surrounding his father's origins, relying on each other for survival. To rewrite the legend of past powerhouses and to protect everything he loves, Qin Chen resolutely shoulders the responsibility of protecting the five kingdoms of the world, embarking once again on the path of martial arts.\n\n(Source: Tencent, translated)",
       "num_episodes": 720,
       "start_date": "2020-03-08",
-      "mean": 7.59,
-      "rank": 1837,
-      "popularity": 8513,
+      "mean": 7.6,
+      "rank": 1803,
+      "popularity": 8514,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1266,7 +1266,7 @@
       "start_date": "2023-09-25",
       "mean": 8.49,
       "rank": 174,
-      "popularity": 6697,
+      "popularity": 6695,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1322,7 +1322,7 @@
       "end_date": "2026-05-24",
       "mean": 7.24,
       "rank": 3542,
-      "popularity": 12143,
+      "popularity": 12142,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1430,9 +1430,9 @@
       "num_episodes": 12,
       "start_date": "2026-01-04",
       "end_date": "2026-03-22",
-      "mean": 6.65,
-      "rank": 7027,
-      "popularity": 1786,
+      "mean": 6.66,
+      "rank": 6967,
+      "popularity": 1785,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
