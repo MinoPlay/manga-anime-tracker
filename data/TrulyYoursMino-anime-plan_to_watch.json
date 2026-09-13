@@ -168,7 +168,7 @@
       "start_date": "2012-02-04",
       "end_date": "2012-02-04",
       "mean": 7.71,
-      "rank": 1416,
+      "rank": 1414,
       "popularity": 1155,
       "nsfw": "white",
       "media_type": "movie",
@@ -241,7 +241,7 @@
       "start_date": "2012-06-23",
       "end_date": "2012-06-23",
       "mean": 7.87,
-      "rank": 998,
+      "rank": 996,
       "popularity": 1231,
       "nsfw": "white",
       "media_type": "movie",
@@ -316,7 +316,7 @@
       "end_date": "2013-02-01",
       "mean": 8.21,
       "rank": 431,
-      "popularity": 1156,
+      "popularity": 1157,
       "nsfw": "white",
       "media_type": "movie",
       "status": "finished_airing"
@@ -372,7 +372,7 @@
       "end_date": "2025-09-19",
       "mean": 9.05,
       "rank": 7,
-      "popularity": 474,
+      "popularity": 472,
       "nsfw": "white",
       "media_type": "movie",
       "status": "finished_airing"
@@ -433,9 +433,9 @@
       "synopsis": "Second season of Da Zhuzai: Nian Fan.",
       "num_episodes": 52,
       "start_date": "2026-01-09",
-      "mean": 7.15,
-      "rank": 4052,
-      "popularity": 14051,
+      "mean": 7.16,
+      "rank": 3981,
+      "popularity": 14055,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -501,8 +501,8 @@
       "id": 62927,
       "title": "Fangkai Nage Nuwu",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1381/153536.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1381/153536l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1381/153536.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1381/153536l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -525,9 +525,9 @@
       "num_episodes": 8,
       "start_date": "2026-03-02",
       "end_date": "2026-04-20",
-      "mean": 8.19,
-      "rank": 462,
-      "popularity": 4351,
+      "mean": 8.18,
+      "rank": 480,
+      "popularity": 4349,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -647,7 +647,7 @@
       "synopsis": "After his resurrection, Klein, now known as Sherlock, becomes a private detective. While taking on cases, he inadvertently provokes a spy organization. With the help of his bodyguard Sharron, as well as the assistance of Audrey and others, he faces many enemies, including the powerful Ambassador of Intis. In a later case, Klein unexpectedly discovers ruins from the Tudor dynasty. While continuing his detective work, Klein searches for clues to his advancement while also pursuing his enemies, Lanevus and Ince…\n\n(Source: Tencent, translated & edited)",
       "num_episodes": 0,
       "start_date": "2027",
-      "popularity": 5802,
+      "popularity": 5799,
       "nsfw": "white",
       "media_type": "ona",
       "status": "not_yet_aired"
@@ -665,8 +665,8 @@
       "id": 57584,
       "title": "Kage no Jitsuryokusha ni Naritakute! Movie: Zankyou-hen",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1797/156362.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1797/156362l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1797/156362.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1797/156362l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -701,7 +701,7 @@
       "num_episodes": 1,
       "start_date": "2027",
       "end_date": "2027",
-      "popularity": 2126,
+      "popularity": 2125,
       "nsfw": "white",
       "media_type": "movie",
       "status": "not_yet_aired"
@@ -719,8 +719,8 @@
       "id": 62546,
       "title": "Kimetsu no Yaiba Movie 2: Mugenjou-hen",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1000/152184.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1000/152184l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1000/152184.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1000/152184l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -749,7 +749,7 @@
       ],
       "synopsis": "Second anime movie of the trilogy adaptation of the Infinity Castle Arc.",
       "num_episodes": 1,
-      "popularity": 2349,
+      "popularity": 2348,
       "nsfw": "white",
       "media_type": "movie",
       "status": "not_yet_aired"
@@ -859,7 +859,7 @@
       "start_date": "2020-01-07",
       "end_date": "2020-03-31",
       "mean": 5.85,
-      "rank": 11790,
+      "rank": 11793,
       "popularity": 2844,
       "nsfw": "white",
       "media_type": "tv",
@@ -916,8 +916,8 @@
       "start_date": "2024-01-04",
       "end_date": "2024-03-21",
       "mean": 6.88,
-      "rank": 5516,
-      "popularity": 1004,
+      "rank": 5518,
+      "popularity": 1003,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -973,7 +973,7 @@
       "start_date": "2026-04-16",
       "mean": 7.29,
       "rank": 3223,
-      "popularity": 15045,
+      "popularity": 15046,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -991,8 +991,8 @@
       "id": 33674,
       "title": "No Game No Life: Zero",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1085/90759.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1085/90759l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1085/90759.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1085/90759l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1025,7 +1025,7 @@
       "start_date": "2017-07-15",
       "end_date": "2017-07-15",
       "mean": 8.16,
-      "rank": 516,
+      "rank": 515,
       "popularity": 213,
       "nsfw": "white",
       "media_type": "movie",
@@ -1090,7 +1090,7 @@
       "end_date": "2026-09-23",
       "mean": 6.74,
       "rank": 6388,
-      "popularity": 2327,
+      "popularity": 2320,
       "nsfw": "white",
       "media_type": "tv",
       "status": "currently_airing"
@@ -1108,8 +1108,8 @@
       "id": 50380,
       "title": "Paripi Koumei",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1970/122297.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1970/122297l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1970/122297.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1970/122297l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1145,7 +1145,7 @@
       "start_date": "2022-04-05",
       "end_date": "2022-06-21",
       "mean": 8.08,
-      "rank": 634,
+      "rank": 632,
       "popularity": 861,
       "nsfw": "white",
       "media_type": "tv",
@@ -1255,7 +1255,7 @@
       "start_date": "2024-01-07",
       "end_date": "2024-03-24",
       "mean": 6.13,
-      "rank": 10273,
+      "rank": 10274,
       "popularity": 2353,
       "nsfw": "white",
       "media_type": "tv",
@@ -1326,8 +1326,8 @@
       "id": 36474,
       "title": "Sword Art Online: Alicization",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1993/93837.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1993/93837l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1993/93837.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1993/93837l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1362,7 +1362,7 @@
       "start_date": "2018-10-07",
       "end_date": "2019-03-31",
       "mean": 7.58,
-      "rank": 1873,
+      "rank": 1874,
       "popularity": 151,
       "nsfw": "white",
       "media_type": "tv",
@@ -1381,8 +1381,8 @@
       "id": 40540,
       "title": "Sword Art Online: Alicization - War of Underworld 2nd Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1438/105106.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1438/105106l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1438/105106.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1438/105106l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1420,7 +1420,7 @@
       "start_date": "2020-07-12",
       "end_date": "2020-09-20",
       "mean": 7.52,
-      "rank": 2125,
+      "rank": 2123,
       "popularity": 353,
       "nsfw": "white",
       "media_type": "tv",
@@ -1439,8 +1439,8 @@
       "id": 40357,
       "title": "Tate no Yuusha no Nariagari Season 3",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1317/139802.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1317/139802l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1317/139802.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1317/139802l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1629,8 +1629,8 @@
       "num_episodes": 28,
       "start_date": "2025-01-30",
       "end_date": "2025-07-17",
-      "mean": 7.91,
-      "rank": 919,
+      "mean": 7.9,
+      "rank": 944,
       "popularity": 13340,
       "nsfw": "white",
       "media_type": "ona",
@@ -1689,7 +1689,7 @@
       "end_date": "2024-07-19",
       "mean": 7.56,
       "rank": 1958,
-      "popularity": 12886,
+      "popularity": 12887,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1743,7 +1743,7 @@
       "end_date": "2023-01-17",
       "mean": 7.54,
       "rank": 2049,
-      "popularity": 9115,
+      "popularity": 9116,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1813,8 +1813,8 @@
       "id": 63794,
       "title": "[Oshi no Ko] 4th Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1052/159561.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1052/159561l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1052/159561.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1052/159561l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1843,7 +1843,7 @@
       ],
       "synopsis": "Final season of [Oshi no Ko].",
       "num_episodes": 0,
-      "popularity": 3014,
+      "popularity": 3013,
       "nsfw": "white",
       "media_type": "tv",
       "status": "not_yet_aired"
