@@ -36,8 +36,8 @@
       "num_episodes": 12,
       "start_date": "2025-10-07",
       "end_date": "2025-12-23",
-      "mean": 6.55,
-      "rank": 7634,
+      "mean": 6.56,
+      "rank": 7578,
       "popularity": 1505,
       "nsfw": "white",
       "media_type": "tv",
@@ -98,7 +98,7 @@
       "end_date": "2025-08-01",
       "mean": 8.19,
       "rank": 460,
-      "popularity": 11834,
+      "popularity": 11829,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -152,7 +152,7 @@
       "start_date": "2023-06-24",
       "mean": 8.03,
       "rank": 700,
-      "popularity": 8262,
+      "popularity": 8263,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -253,7 +253,7 @@
       "start_date": "2022-07-10",
       "end_date": "2022-07-10",
       "mean": 8.11,
-      "rank": 578,
+      "rank": 579,
       "popularity": 683,
       "nsfw": "white",
       "media_type": "tv_special",
@@ -273,8 +273,8 @@
       "id": 47160,
       "title": "Goblin Slayer II",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1100/138338.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1100/138338l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1100/138338.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1100/138338l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -306,7 +306,7 @@
       "start_date": "2023-10-06",
       "end_date": "2023-12-22",
       "mean": 7.21,
-      "rank": 3677,
+      "rank": 3680,
       "popularity": 651,
       "nsfw": "white",
       "media_type": "tv",
@@ -365,7 +365,7 @@
       "end_date": "2023-12-23",
       "mean": 6.22,
       "rank": 9724,
-      "popularity": 1229,
+      "popularity": 1228,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -422,7 +422,7 @@
       "start_date": "2020-10-04",
       "end_date": "2020-12-20",
       "mean": 6.95,
-      "rank": 5119,
+      "rank": 5118,
       "popularity": 1109,
       "nsfw": "white",
       "media_type": "tv",
@@ -442,8 +442,8 @@
       "id": 58514,
       "title": "Kusuriya no Hitorigoto 2nd Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1025/147458.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1025/147458l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1025/147458.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1025/147458l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -574,7 +574,7 @@
       "start_date": "2021-07-16",
       "mean": 7.27,
       "rank": 3337,
-      "popularity": 10309,
+      "popularity": 10307,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -723,7 +723,7 @@
       "end_date": "2026-04-23",
       "mean": 8.27,
       "rank": 365,
-      "popularity": 8011,
+      "popularity": 8013,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -779,7 +779,7 @@
       "end_date": "2024-05-30",
       "mean": 7.62,
       "rank": 1722,
-      "popularity": 12328,
+      "popularity": 12324,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -797,8 +797,8 @@
       "id": 48736,
       "title": "Sono Bisque Doll wa Koi wo Suru",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1179/119897.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1179/119897l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1179/119897.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1179/119897l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -831,7 +831,7 @@
       "start_date": "2022-01-09",
       "end_date": "2022-03-27",
       "mean": 8.12,
-      "rank": 574,
+      "rank": 575,
       "popularity": 112,
       "nsfw": "white",
       "media_type": "tv",
@@ -851,8 +851,8 @@
       "id": 50602,
       "title": "Spy x Family Part 2",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1111/127508.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1111/127508l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1111/127508.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1111/127508l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -985,7 +985,7 @@
       "start_date": "2026-04-06",
       "end_date": "2026-06-29",
       "mean": 8.48,
-      "rank": 179,
+      "rank": 178,
       "popularity": 612,
       "nsfw": "white",
       "media_type": "tv",
@@ -1098,7 +1098,7 @@
       "end_date": "2024-10-01",
       "mean": 7.32,
       "rank": 3067,
-      "popularity": 11639,
+      "popularity": 11640,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1154,7 +1154,7 @@
       "start_date": "2021-04-23",
       "mean": 7.86,
       "rank": 1040,
-      "popularity": 6292,
+      "popularity": 6293,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1209,9 +1209,9 @@
       "synopsis": "The protagonist, Qin Chen, was originally one of the most outstanding geniuses in the Martial Domain, but he was betrayed and killed in the forbidden Death Valley of the continent. Facing certain death, Qin Chen unexpectedly triggered the power of a mysterious ancient sword… \n\nThree hundred years later, in a remote part of the Tianwu Continent, a young man with the same name unexpectedly inherited Qin Chen's will. As the beloved grandson of the War God of the Great Qi Kingdom, King Dingwu, his mother and he suffered neglect in the King Dingwu's mansion due to the mystery surrounding his father's origins, relying on each other for survival. To rewrite the legend of past powerhouses and to protect everything he loves, Qin Chen resolutely shoulders the responsibility of protecting the five kingdoms of the world, embarking once again on the path of martial arts.\n\n(Source: Tencent, translated)",
       "num_episodes": 720,
       "start_date": "2020-03-08",
-      "mean": 7.6,
-      "rank": 1802,
-      "popularity": 8516,
+      "mean": 7.59,
+      "rank": 1838,
+      "popularity": 8517,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1266,7 +1266,7 @@
       "start_date": "2023-09-25",
       "mean": 8.49,
       "rank": 174,
-      "popularity": 6684,
+      "popularity": 6681,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1384,7 +1384,7 @@
       "end_date": "2025-07-22",
       "mean": 8.26,
       "rank": 383,
-      "popularity": 9842,
+      "popularity": 9841,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1402,8 +1402,8 @@
       "id": 61128,
       "title": "Yuusha Party wo Oidasareta Kiyoubinbou",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1486/153135.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1486/153135l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1486/153135.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1486/153135l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1430,9 +1430,9 @@
       "num_episodes": 12,
       "start_date": "2026-01-04",
       "end_date": "2026-03-22",
-      "mean": 6.65,
-      "rank": 7030,
-      "popularity": 1782,
+      "mean": 6.66,
+      "rank": 6970,
+      "popularity": 1781,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
