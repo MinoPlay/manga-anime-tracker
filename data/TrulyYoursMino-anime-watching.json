@@ -37,7 +37,7 @@
       "start_date": "2025-10-07",
       "end_date": "2025-12-23",
       "mean": 6.55,
-      "rank": 7636,
+      "rank": 7642,
       "popularity": 1502,
       "nsfw": "white",
       "media_type": "tv",
@@ -151,8 +151,8 @@
       "num_episodes": 182,
       "start_date": "2023-06-24",
       "mean": 8.03,
-      "rank": 702,
-      "popularity": 8272,
+      "rank": 700,
+      "popularity": 8273,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -211,7 +211,7 @@
       "start_date": "2022-07-31",
       "mean": 8.39,
       "rank": 240,
-      "popularity": 6676,
+      "popularity": 6680,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -229,8 +229,8 @@
       "id": 50612,
       "title": "Dr. Stone: Ryuusui",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1071/124921.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1071/124921l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1071/124921.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1071/124921l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -309,7 +309,7 @@
       "start_date": "2023-10-06",
       "end_date": "2023-12-22",
       "mean": 7.21,
-      "rank": 3677,
+      "rank": 3679,
       "popularity": 650,
       "nsfw": "white",
       "media_type": "tv",
@@ -328,8 +328,8 @@
       "id": 54362,
       "title": "Hametsu no Oukoku",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1610/138189.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1610/138189l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1610/138189.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1610/138189l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -367,7 +367,7 @@
       "start_date": "2023-10-07",
       "end_date": "2023-12-23",
       "mean": 6.22,
-      "rank": 9716,
+      "rank": 9720,
       "popularity": 1229,
       "nsfw": "white",
       "media_type": "tv",
@@ -386,8 +386,8 @@
       "id": 41312,
       "title": "Kami-tachi ni Hirowareta Otoko",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1654/108801.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1654/108801l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1654/108801.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1654/108801l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -425,7 +425,7 @@
       "start_date": "2020-10-04",
       "end_date": "2020-12-20",
       "mean": 6.95,
-      "rank": 5107,
+      "rank": 5109,
       "popularity": 1110,
       "nsfw": "white",
       "media_type": "tv",
@@ -529,7 +529,7 @@
       "start_date": "2024-07-13",
       "end_date": "2024-09-28",
       "mean": 6.22,
-      "rank": 9733,
+      "rank": 9737,
       "popularity": 1853,
       "nsfw": "white",
       "media_type": "tv",
@@ -576,8 +576,8 @@
       "num_episodes": 580,
       "start_date": "2021-07-16",
       "mean": 7.26,
-      "rank": 3404,
-      "popularity": 10325,
+      "rank": 3407,
+      "popularity": 10327,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -595,8 +595,8 @@
       "id": 61549,
       "title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1264/153908.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1264/153908l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1264/153908.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1264/153908l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -625,8 +625,8 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.78,
-      "rank": 6136,
-      "popularity": 2596,
+      "rank": 6140,
+      "popularity": 2595,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -725,8 +725,8 @@
       "start_date": "2022-11-10",
       "end_date": "2026-04-23",
       "mean": 8.27,
-      "rank": 364,
-      "popularity": 8020,
+      "rank": 365,
+      "popularity": 8023,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -782,7 +782,7 @@
       "end_date": "2024-05-30",
       "mean": 7.62,
       "rank": 1724,
-      "popularity": 12325,
+      "popularity": 12324,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -800,8 +800,8 @@
       "id": 48736,
       "title": "Sono Bisque Doll wa Koi wo Suru",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1179/119897.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1179/119897l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1179/119897.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1179/119897l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -943,7 +943,7 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.42,
-      "rank": 8548,
+      "rank": 8551,
       "popularity": 3591,
       "nsfw": "white",
       "media_type": "tv",
@@ -987,9 +987,9 @@
       "num_episodes": 13,
       "start_date": "2026-04-06",
       "end_date": "2026-06-29",
-      "mean": 8.48,
-      "rank": 178,
-      "popularity": 603,
+      "mean": 8.47,
+      "rank": 184,
+      "popularity": 601,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1046,7 +1046,7 @@
       "start_date": "2023-10-03",
       "mean": 8.32,
       "rank": 314,
-      "popularity": 8746,
+      "popularity": 8743,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1100,8 +1100,8 @@
       "start_date": "2022-08-16",
       "end_date": "2024-10-01",
       "mean": 7.31,
-      "rank": 3115,
-      "popularity": 11654,
+      "rank": 3116,
+      "popularity": 11655,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1155,8 +1155,8 @@
       "synopsis": "Born into a unique world where villages fight to gain power and control, the main character, Shi Hao, is a genius blessed by the heavens born under the poorest of conditions.\n\nHis clan, however, has a mysterious past. To rise up and become the genius he is meant to be, the clan goes through every effort to aid his cultivation as they battle through fanatical monsters and engage in power struggles with other clans.\n\nHis journey will bring him through unknown lands until he is able to become a person that can truly shake the world.\n\n(Source: Novels Xianxia & Xuanhuan Wiki)",
       "num_episodes": 338,
       "start_date": "2021-04-23",
-      "mean": 7.86,
-      "rank": 1035,
+      "mean": 7.85,
+      "rank": 1053,
       "popularity": 6302,
       "nsfw": "white",
       "media_type": "ona",
@@ -1214,7 +1214,7 @@
       "start_date": "2020-03-08",
       "mean": 7.6,
       "rank": 1803,
-      "popularity": 8522,
+      "popularity": 8524,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1269,7 +1269,7 @@
       "start_date": "2023-09-25",
       "mean": 8.49,
       "rank": 174,
-      "popularity": 6671,
+      "popularity": 6676,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1324,8 +1324,8 @@
       "start_date": "2023-09-24",
       "end_date": "2026-05-24",
       "mean": 7.23,
-      "rank": 3597,
-      "popularity": 12162,
+      "rank": 3599,
+      "popularity": 12164,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1387,7 +1387,7 @@
       "end_date": "2025-07-22",
       "mean": 8.26,
       "rank": 383,
-      "popularity": 9847,
+      "popularity": 9849,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1434,8 +1434,8 @@
       "start_date": "2026-01-04",
       "end_date": "2026-03-22",
       "mean": 6.66,
-      "rank": 6965,
-      "popularity": 1774,
+      "rank": 6967,
+      "popularity": 1772,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
