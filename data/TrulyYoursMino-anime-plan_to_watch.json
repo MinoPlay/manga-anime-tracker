@@ -93,7 +93,7 @@
       "start_date": "2024-10-14",
       "end_date": "2025-02-17",
       "mean": 7.02,
-      "rank": 4752,
+      "rank": 4753,
       "popularity": 1349,
       "nsfw": "white",
       "media_type": "tv",
@@ -112,8 +112,8 @@
       "id": 10218,
       "title": "Berserk: Ougon Jidai-hen I - Haou no Tamago",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/12/62179.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/12/62179l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/12/62179.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/12/62179l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -187,8 +187,8 @@
       "id": 12113,
       "title": "Berserk: Ougon Jidai-hen II - Doldrey Kouryaku",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/12/37193.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/12/37193l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/12/37193.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/12/37193l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -241,8 +241,8 @@
       "start_date": "2012-06-23",
       "end_date": "2012-06-23",
       "mean": 7.87,
-      "rank": 994,
-      "popularity": 1232,
+      "rank": 995,
+      "popularity": 1233,
       "nsfw": "white",
       "media_type": "movie",
       "status": "finished_airing"
@@ -260,8 +260,8 @@
       "id": 12115,
       "title": "Berserk: Ougon Jidai-hen III - Kourin",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/12/41305.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/12/41305l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/12/41305.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/12/41305l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -371,8 +371,8 @@
       "start_date": "2025-09-19",
       "end_date": "2025-09-19",
       "mean": 9.05,
-      "rank": 7,
-      "popularity": 466,
+      "rank": 6,
+      "popularity": 465,
       "nsfw": "white",
       "media_type": "movie",
       "status": "finished_airing"
@@ -434,8 +434,8 @@
       "num_episodes": 52,
       "start_date": "2026-01-09",
       "mean": 7.16,
-      "rank": 3980,
-      "popularity": 14027,
+      "rank": 3981,
+      "popularity": 14022,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -482,7 +482,7 @@
       "start_date": "2023-04-06",
       "end_date": "2023-06-15",
       "mean": 8.14,
-      "rank": 529,
+      "rank": 530,
       "popularity": 403,
       "nsfw": "white",
       "media_type": "tv",
@@ -526,8 +526,8 @@
       "start_date": "2026-03-02",
       "end_date": "2026-04-20",
       "mean": 8.18,
-      "rank": 479,
-      "popularity": 4329,
+      "rank": 478,
+      "popularity": 4325,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -586,7 +586,7 @@
       "end_date": "2026-01-03",
       "mean": 8.49,
       "rank": 171,
-      "popularity": 10841,
+      "popularity": 10843,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -647,7 +647,7 @@
       "synopsis": "After his resurrection, Klein, now known as Sherlock, becomes a private detective. While taking on cases, he inadvertently provokes a spy organization. With the help of his bodyguard Sharron, as well as the assistance of Audrey and others, he faces many enemies, including the powerful Ambassador of Intis. In a later case, Klein unexpectedly discovers ruins from the Tudor dynasty. While continuing his detective work, Klein searches for clues to his advancement while also pursuing his enemies, Lanevus and Ince…\n\n(Source: Tencent, translated & edited)",
       "num_episodes": 0,
       "start_date": "2027",
-      "popularity": 5769,
+      "popularity": 5768,
       "nsfw": "white",
       "media_type": "ona",
       "status": "not_yet_aired"
@@ -701,7 +701,7 @@
       "num_episodes": 1,
       "start_date": "2027",
       "end_date": "2027",
-      "popularity": 2118,
+      "popularity": 2117,
       "nsfw": "white",
       "media_type": "movie",
       "status": "not_yet_aired"
@@ -749,7 +749,7 @@
       ],
       "synopsis": "Second anime movie of the trilogy adaptation of the Infinity Castle Arc.",
       "num_episodes": 1,
-      "popularity": 2329,
+      "popularity": 2326,
       "nsfw": "white",
       "media_type": "movie",
       "status": "not_yet_aired"
@@ -806,7 +806,7 @@
       "end_date": "2019-09-21",
       "mean": 7.59,
       "rank": 1823,
-      "popularity": 7719,
+      "popularity": 7720,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -824,8 +824,8 @@
       "id": 37576,
       "title": "Majutsushi Orphen Hagure Tabi",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1093/113944.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1093/113944l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1093/113944.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1093/113944l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -859,7 +859,7 @@
       "start_date": "2020-01-07",
       "end_date": "2020-03-31",
       "mean": 5.85,
-      "rank": 11787,
+      "rank": 11790,
       "popularity": 2849,
       "nsfw": "white",
       "media_type": "tv",
@@ -916,8 +916,8 @@
       "start_date": "2024-01-04",
       "end_date": "2024-03-21",
       "mean": 6.88,
-      "rank": 5512,
-      "popularity": 1001,
+      "rank": 5513,
+      "popularity": 1000,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -971,9 +971,9 @@
       "synopsis": "Second season of Nitian Xie Shen.",
       "num_episodes": 52,
       "start_date": "2026-04-16",
-      "mean": 7.35,
-      "rank": 2892,
-      "popularity": 15000,
+      "mean": 7.36,
+      "rank": 2836,
+      "popularity": 14992,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -991,8 +991,8 @@
       "id": 33674,
       "title": "No Game No Life: Zero",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1085/90759.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1085/90759l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1085/90759.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1085/90759l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1089,8 +1089,8 @@
       "start_date": "2026-07-08",
       "end_date": "2026-09-23",
       "mean": 6.88,
-      "rank": 5519,
-      "popularity": 2239,
+      "rank": 5521,
+      "popularity": 2232,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1108,8 +1108,8 @@
       "id": 50380,
       "title": "Paripi Koumei",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1970/122297.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1970/122297l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1970/122297.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1970/122297l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1145,8 +1145,8 @@
       "start_date": "2022-04-05",
       "end_date": "2022-06-21",
       "mean": 8.08,
-      "rank": 633,
-      "popularity": 861,
+      "rank": 634,
+      "popularity": 862,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1255,7 +1255,7 @@
       "start_date": "2024-01-07",
       "end_date": "2024-03-24",
       "mean": 6.13,
-      "rank": 10275,
+      "rank": 10278,
       "popularity": 2353,
       "nsfw": "white",
       "media_type": "tv",
@@ -1274,8 +1274,8 @@
       "id": 59978,
       "title": "Sousou no Frieren 2nd Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1921/154528.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1921/154528l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1921/154528.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1921/154528l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1362,7 +1362,7 @@
       "start_date": "2018-10-07",
       "end_date": "2019-03-31",
       "mean": 7.58,
-      "rank": 1873,
+      "rank": 1874,
       "popularity": 152,
       "nsfw": "white",
       "media_type": "tv",
@@ -1420,7 +1420,7 @@
       "start_date": "2020-07-12",
       "end_date": "2020-09-20",
       "mean": 7.52,
-      "rank": 2125,
+      "rank": 2128,
       "popularity": 353,
       "nsfw": "white",
       "media_type": "tv",
@@ -1478,7 +1478,7 @@
       "end_date": "2023-12-22",
       "mean": 7.07,
       "rank": 4530,
-      "popularity": 488,
+      "popularity": 489,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1529,8 +1529,8 @@
       "start_date": "2024-07-07",
       "end_date": "2024-09-29",
       "mean": 7.85,
-      "rank": 1051,
-      "popularity": 647,
+      "rank": 1052,
+      "popularity": 646,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1548,8 +1548,8 @@
       "id": 33352,
       "title": "Violet Evergarden",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1795/95088.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1795/95088l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1795/95088.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1795/95088l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -1630,8 +1630,8 @@
       "start_date": "2025-01-30",
       "end_date": "2025-07-17",
       "mean": 7.89,
-      "rank": 968,
-      "popularity": 13350,
+      "rank": 969,
+      "popularity": 13354,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1689,7 +1689,7 @@
       "end_date": "2024-07-19",
       "mean": 7.57,
       "rank": 1924,
-      "popularity": 12907,
+      "popularity": 12909,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1743,7 +1743,7 @@
       "end_date": "2023-01-17",
       "mean": 7.54,
       "rank": 2052,
-      "popularity": 9121,
+      "popularity": 9120,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1843,7 +1843,7 @@
       ],
       "synopsis": "Final season of [Oshi no Ko].",
       "num_episodes": 0,
-      "popularity": 2989,
+      "popularity": 2983,
       "nsfw": "white",
       "media_type": "tv",
       "status": "not_yet_aired"

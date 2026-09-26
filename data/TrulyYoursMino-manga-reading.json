@@ -1,6 +1,63 @@
 [
   {
     "node": {
+      "id": 183650,
+      "title": "A Regressor's Tale of Cultivation",
+      "main_picture": {
+        "medium": "https://cdn.myanimelist.net/images/manga/1/328866.jpg",
+        "large": "https://cdn.myanimelist.net/images/manga/1/328866l.jpg"
+      },
+      "alternative_titles": {
+        "synonyms": [
+          "Hoegwi Suseonjeon"
+        ],
+        "en": "A Regressor's Tale of Cultivation",
+        "ja": "회귀수선전"
+      },
+      "genres": [
+        {
+          "id": 1,
+          "name": "Action"
+        },
+        {
+          "id": 10,
+          "name": "Fantasy"
+        },
+        {
+          "id": 62,
+          "name": "Isekai"
+        },
+        {
+          "id": 17,
+          "name": "Martial Arts"
+        },
+        {
+          "id": 79,
+          "name": "Time Travel"
+        }
+      ],
+      "synopsis": "Is infinite regression a blessing—or a curse? For Eunhyeon, it is a fate that he desperately wishes to escape. Seven beings fall into the world of cultivators. Each has rare talents, but Eunhyeon appears to have none and struggles to survive in this strange world. Yet after his death, he finds himself back at the start of it all, realizing that his talent is the ability of infinite regression. Here begins Eunhyeon's relentless struggle to break free.\n\n(Source: Webtoon Entertainment)",
+      "num_chapters": 0,
+      "start_date": "2025-06-19",
+      "mean": 8.01,
+      "rank": 842,
+      "popularity": 5273,
+      "nsfw": "white",
+      "media_type": "manhwa",
+      "status": "currently_publishing"
+    },
+    "list_status": {
+      "status": "reading",
+      "is_rereading": false,
+      "num_volumes_read": 0,
+      "num_chapters_read": 31,
+      "score": 0,
+      "updated_at": "2026-09-25T21:03:06+00:00",
+      "start_date": "2026-09-25"
+    }
+  },
+  {
+    "node": {
       "id": 170974,
       "title": "Blink Master of the Magic Academy",
       "main_picture": {
@@ -43,7 +100,7 @@
       "num_chapters": 0,
       "start_date": "2024-06-08",
       "mean": 7.58,
-      "rank": 2678,
+      "rank": 2676,
       "popularity": 1220,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -93,7 +150,7 @@
       "num_chapters": 0,
       "start_date": "2021-06-14",
       "mean": 7.71,
-      "rank": 1918,
+      "rank": 1920,
       "popularity": 1278,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -142,9 +199,9 @@
       "synopsis": "Birth of a Hero is an ordinary novel where the kind protagonist, Choi Han, loses everyone he loves and falls deep into desperation. In order to get revenge, he leaves his home and heads to a nearby city where he beats up a low-life, drunken noble who was getting on his nerves, a barely relevant moment for this soon-to-be hero's journey.\n\nUnfortunately for Kim Roksu, he wakes up as Cale Henituse—the same drunkard noble who is destined to be beaten by Choi Han. However, Roksu has no intentions of letting the story keep its course and intends to live a peaceful life instead.  Using his knowledge of the novel from his previous life and the wealth from his current one, he plans to protect himself with the help of ancient spells in case he encounters the main lead.\n\nCale's wish to be free of worries for the rest of his days sounds easy on paper, but his actions might take him and the story in a completely different direction.\n\n[Written by MAL Rewrite]",
       "num_chapters": 0,
       "start_date": "2020-08-31",
-      "mean": 7.77,
-      "rank": 1631,
-      "popularity": 596,
+      "mean": 7.76,
+      "rank": 1650,
+      "popularity": 595,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -187,9 +244,9 @@
       "synopsis": "Seong-un Choi is the top-ranked player in the game \"Lost World,\" being the only player to have completed all its achievements. However, his triumph is short-lived as a mysterious message transports him to the real \"Lost World,\" transforming him from a mere gamer to a contender for godhood. Amidst others vying for divinity, will Seong-un be able to achieve true godhood and reign supreme in this new realm?\n\n(Source: Webtoon Entertainment)",
       "num_chapters": 0,
       "start_date": "2023-11-29",
-      "mean": 7.73,
-      "rank": 1809,
-      "popularity": 2357,
+      "mean": 7.74,
+      "rank": 1742,
+      "popularity": 2356,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -208,8 +265,8 @@
       "id": 164754,
       "title": "Necromancer Academy and the Genius Summoner",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/1/292639.webp",
-        "large": "https://cdn.myanimelist.net/images/manga/1/292639l.webp"
+        "medium": "https://cdn.myanimelist.net/images/manga/1/292639.jpg",
+        "large": "https://cdn.myanimelist.net/images/manga/1/292639l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -237,7 +294,7 @@
       "start_date": "2023-10-07",
       "mean": 7.09,
       "rank": 8296,
-      "popularity": 3449,
+      "popularity": 3447,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -291,7 +348,7 @@
       "start_date": "2022-03-27",
       "end_date": "2025-12-04",
       "mean": 7.45,
-      "rank": 3691,
+      "rank": 3690,
       "popularity": 2140,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -387,7 +444,7 @@
       "start_date": "2023-12-28",
       "mean": 8.27,
       "rank": 407,
-      "popularity": 675,
+      "popularity": 674,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -406,8 +463,8 @@
       "id": 154692,
       "title": "The Infinite Mage",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/2/274476.jpg",
-        "large": "https://cdn.myanimelist.net/images/manga/2/274476l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/manga/2/274476.webp",
+        "large": "https://cdn.myanimelist.net/images/manga/2/274476l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -436,7 +493,7 @@
       "start_date": "2022-12-30",
       "mean": 7.84,
       "rank": 1340,
-      "popularity": 511,
+      "popularity": 510,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -486,7 +543,7 @@
       "start_date": "2024-05-17",
       "mean": 8.56,
       "rank": 135,
-      "popularity": 804,
+      "popularity": 803,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -538,8 +595,8 @@
       "num_chapters": 0,
       "start_date": "2024-12-28",
       "mean": 7.16,
-      "rank": 7152,
-      "popularity": 2941,
+      "rank": 7153,
+      "popularity": 2938,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -592,7 +649,7 @@
       "start_date": "2015-02-16",
       "end_date": "2020-11-30",
       "mean": 7.48,
-      "rank": 3390,
+      "rank": 3391,
       "popularity": 2326,
       "nsfw": "white",
       "media_type": "manhwa",
