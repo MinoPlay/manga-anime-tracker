@@ -98,7 +98,7 @@
       "end_date": "2025-08-01",
       "mean": 8.19,
       "rank": 461,
-      "popularity": 11830,
+      "popularity": 11825,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -152,7 +152,7 @@
       "start_date": "2023-06-24",
       "mean": 8.03,
       "rank": 700,
-      "popularity": 8273,
+      "popularity": 8272,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -210,7 +210,7 @@
       "num_episodes": 219,
       "start_date": "2022-07-31",
       "mean": 8.39,
-      "rank": 240,
+      "rank": 241,
       "popularity": 6680,
       "nsfw": "white",
       "media_type": "ona",
@@ -256,7 +256,7 @@
       "start_date": "2022-07-10",
       "end_date": "2022-07-10",
       "mean": 8.11,
-      "rank": 579,
+      "rank": 580,
       "popularity": 683,
       "nsfw": "white",
       "media_type": "tv_special",
@@ -309,7 +309,7 @@
       "start_date": "2023-10-06",
       "end_date": "2023-12-22",
       "mean": 7.21,
-      "rank": 3679,
+      "rank": 3678,
       "popularity": 650,
       "nsfw": "white",
       "media_type": "tv",
@@ -529,7 +529,7 @@
       "start_date": "2024-07-13",
       "end_date": "2024-09-28",
       "mean": 6.22,
-      "rank": 9737,
+      "rank": 9738,
       "popularity": 1853,
       "nsfw": "white",
       "media_type": "tv",
@@ -577,7 +577,7 @@
       "start_date": "2021-07-16",
       "mean": 7.26,
       "rank": 3407,
-      "popularity": 10327,
+      "popularity": 10330,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -626,7 +626,7 @@
       "end_date": "2026-03-28",
       "mean": 6.78,
       "rank": 6140,
-      "popularity": 2595,
+      "popularity": 2594,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -726,7 +726,7 @@
       "end_date": "2026-04-23",
       "mean": 8.27,
       "rank": 365,
-      "popularity": 8023,
+      "popularity": 8022,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -744,8 +744,8 @@
       "id": 57442,
       "title": "Shixiong A Shixiong 2nd Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1578/153464.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1578/153464l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1578/153464.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1578/153464l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -781,8 +781,8 @@
       "start_date": "2023-12-14",
       "end_date": "2024-05-30",
       "mean": 7.62,
-      "rank": 1724,
-      "popularity": 12324,
+      "rank": 1723,
+      "popularity": 12325,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -800,8 +800,8 @@
       "id": 48736,
       "title": "Sono Bisque Doll wa Koi wo Suru",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1179/119897.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1179/119897l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1179/119897.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1179/119897l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -834,7 +834,7 @@
       "start_date": "2022-01-09",
       "end_date": "2022-03-27",
       "mean": 8.12,
-      "rank": 575,
+      "rank": 576,
       "popularity": 112,
       "nsfw": "white",
       "media_type": "tv",
@@ -889,7 +889,7 @@
       "start_date": "2022-10-01",
       "end_date": "2022-12-24",
       "mean": 8.19,
-      "rank": 472,
+      "rank": 471,
       "popularity": 149,
       "nsfw": "white",
       "media_type": "tv",
@@ -943,8 +943,8 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.42,
-      "rank": 8551,
-      "popularity": 3591,
+      "rank": 8552,
+      "popularity": 3592,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1101,7 +1101,7 @@
       "end_date": "2024-10-01",
       "mean": 7.31,
       "rank": 3116,
-      "popularity": 11655,
+      "popularity": 11661,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1156,7 +1156,7 @@
       "num_episodes": 338,
       "start_date": "2021-04-23",
       "mean": 7.85,
-      "rank": 1053,
+      "rank": 1054,
       "popularity": 6302,
       "nsfw": "white",
       "media_type": "ona",
@@ -1213,8 +1213,8 @@
       "num_episodes": 720,
       "start_date": "2020-03-08",
       "mean": 7.6,
-      "rank": 1803,
-      "popularity": 8524,
+      "rank": 1802,
+      "popularity": 8525,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1269,7 +1269,7 @@
       "start_date": "2023-09-25",
       "mean": 8.49,
       "rank": 174,
-      "popularity": 6676,
+      "popularity": 6673,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1325,7 +1325,7 @@
       "end_date": "2026-05-24",
       "mean": 7.23,
       "rank": 3599,
-      "popularity": 12164,
+      "popularity": 12170,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1434,8 +1434,8 @@
       "start_date": "2026-01-04",
       "end_date": "2026-03-22",
       "mean": 6.66,
-      "rank": 6967,
-      "popularity": 1772,
+      "rank": 6965,
+      "popularity": 1771,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
