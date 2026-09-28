@@ -4,8 +4,8 @@
       "id": 61026,
       "title": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1276/151118.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1276/151118l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1276/151118.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1276/151118l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -37,8 +37,8 @@
       "start_date": "2025-10-07",
       "end_date": "2025-12-23",
       "mean": 6.55,
-      "rank": 7645,
-      "popularity": 1502,
+      "rank": 7652,
+      "popularity": 1500,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -96,9 +96,9 @@
       "num_episodes": 36,
       "start_date": "2024-12-06",
       "end_date": "2025-08-01",
-      "mean": 8.19,
-      "rank": 461,
-      "popularity": 11825,
+      "mean": 8.2,
+      "rank": 444,
+      "popularity": 11829,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -152,7 +152,7 @@
       "start_date": "2023-06-24",
       "mean": 8.03,
       "rank": 700,
-      "popularity": 8273,
+      "popularity": 8275,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -210,8 +210,8 @@
       "num_episodes": 219,
       "start_date": "2022-07-31",
       "mean": 8.39,
-      "rank": 241,
-      "popularity": 6681,
+      "rank": 242,
+      "popularity": 6683,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -367,7 +367,7 @@
       "start_date": "2023-10-07",
       "end_date": "2023-12-23",
       "mean": 6.22,
-      "rank": 9719,
+      "rank": 9721,
       "popularity": 1229,
       "nsfw": "white",
       "media_type": "tv",
@@ -425,8 +425,8 @@
       "start_date": "2020-10-04",
       "end_date": "2020-12-20",
       "mean": 6.95,
-      "rank": 5113,
-      "popularity": 1110,
+      "rank": 5116,
+      "popularity": 1111,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -529,7 +529,7 @@
       "start_date": "2024-07-13",
       "end_date": "2024-09-28",
       "mean": 6.22,
-      "rank": 9737,
+      "rank": 9739,
       "popularity": 1853,
       "nsfw": "white",
       "media_type": "tv",
@@ -576,8 +576,8 @@
       "num_episodes": 580,
       "start_date": "2021-07-16",
       "mean": 7.26,
-      "rank": 3409,
-      "popularity": 10331,
+      "rank": 3411,
+      "popularity": 10335,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -625,7 +625,7 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.78,
-      "rank": 6144,
+      "rank": 6147,
       "popularity": 2593,
       "nsfw": "white",
       "media_type": "tv",
@@ -645,8 +645,8 @@
       "id": 48895,
       "title": "Overlord IV",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1530/120110.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1530/120110l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1530/120110.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1530/120110l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -726,7 +726,7 @@
       "end_date": "2026-04-23",
       "mean": 8.27,
       "rank": 364,
-      "popularity": 8024,
+      "popularity": 8027,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -781,8 +781,8 @@
       "start_date": "2023-12-14",
       "end_date": "2024-05-30",
       "mean": 7.62,
-      "rank": 1722,
-      "popularity": 12324,
+      "rank": 1723,
+      "popularity": 12325,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -800,8 +800,8 @@
       "id": 48736,
       "title": "Sono Bisque Doll wa Koi wo Suru",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1179/119897.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1179/119897l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1179/119897.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1179/119897l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -889,7 +889,7 @@
       "start_date": "2022-10-01",
       "end_date": "2022-12-24",
       "mean": 8.19,
-      "rank": 470,
+      "rank": 469,
       "popularity": 149,
       "nsfw": "white",
       "media_type": "tv",
@@ -944,7 +944,7 @@
       "end_date": "2026-03-28",
       "mean": 6.42,
       "rank": 8554,
-      "popularity": 3592,
+      "popularity": 3591,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -988,7 +988,7 @@
       "start_date": "2026-04-06",
       "end_date": "2026-06-29",
       "mean": 8.47,
-      "rank": 184,
+      "rank": 183,
       "popularity": 601,
       "nsfw": "white",
       "media_type": "tv",
@@ -1046,7 +1046,7 @@
       "start_date": "2023-10-03",
       "mean": 8.33,
       "rank": 299,
-      "popularity": 8742,
+      "popularity": 8738,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1100,8 +1100,8 @@
       "start_date": "2022-08-16",
       "end_date": "2024-10-01",
       "mean": 7.31,
-      "rank": 3119,
-      "popularity": 11664,
+      "rank": 3118,
+      "popularity": 11666,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1157,7 +1157,7 @@
       "start_date": "2021-04-23",
       "mean": 7.85,
       "rank": 1054,
-      "popularity": 6305,
+      "popularity": 6306,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1214,7 +1214,7 @@
       "start_date": "2020-03-08",
       "mean": 7.6,
       "rank": 1802,
-      "popularity": 8528,
+      "popularity": 8530,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1269,7 +1269,7 @@
       "start_date": "2023-09-25",
       "mean": 8.49,
       "rank": 174,
-      "popularity": 6671,
+      "popularity": 6664,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1324,8 +1324,8 @@
       "start_date": "2023-09-24",
       "end_date": "2026-05-24",
       "mean": 7.23,
-      "rank": 3604,
-      "popularity": 12169,
+      "rank": 3603,
+      "popularity": 12173,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1387,7 +1387,7 @@
       "end_date": "2025-07-22",
       "mean": 8.26,
       "rank": 383,
-      "popularity": 9852,
+      "popularity": 9854,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1434,7 +1434,7 @@
       "start_date": "2026-01-04",
       "end_date": "2026-03-22",
       "mean": 6.66,
-      "rank": 6967,
+      "rank": 6973,
       "popularity": 1772,
       "nsfw": "white",
       "media_type": "tv",
