@@ -40,8 +40,8 @@
       "num_chapters": 0,
       "start_date": "2025-06-19",
       "mean": 8.02,
-      "rank": 823,
-      "popularity": 5184,
+      "rank": 824,
+      "popularity": 5177,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -100,8 +100,8 @@
       "num_chapters": 0,
       "start_date": "2024-06-08",
       "mean": 7.58,
-      "rank": 2709,
-      "popularity": 1214,
+      "rank": 2712,
+      "popularity": 1213,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -150,7 +150,7 @@
       "num_chapters": 0,
       "start_date": "2021-06-14",
       "mean": 7.7,
-      "rank": 1965,
+      "rank": 1966,
       "popularity": 1275,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -201,7 +201,7 @@
       "start_date": "2020-08-31",
       "mean": 7.76,
       "rank": 1666,
-      "popularity": 594,
+      "popularity": 593,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -246,7 +246,7 @@
       "start_date": "2023-11-29",
       "mean": 7.74,
       "rank": 1760,
-      "popularity": 2349,
+      "popularity": 2348,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -293,7 +293,7 @@
       "num_chapters": 0,
       "start_date": "2023-10-07",
       "mean": 7.09,
-      "rank": 8188,
+      "rank": 8187,
       "popularity": 3440,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -313,8 +313,8 @@
       "id": 152612,
       "title": "Returning With Absolutely Nothing",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/2/270200.jpg",
-        "large": "https://cdn.myanimelist.net/images/manga/2/270200l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/manga/2/270200.webp",
+        "large": "https://cdn.myanimelist.net/images/manga/2/270200l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -349,7 +349,7 @@
       "end_date": "2025-12-04",
       "mean": 7.45,
       "rank": 3633,
-      "popularity": 2139,
+      "popularity": 2140,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "discontinued"
@@ -427,8 +427,8 @@
       "id": 67617,
       "title": "Tate no Yuusha no Nariagari",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/3/115755.webp",
-        "large": "https://cdn.myanimelist.net/images/manga/3/115755l.webp"
+        "medium": "https://cdn.myanimelist.net/images/manga/3/115755.jpg",
+        "large": "https://cdn.myanimelist.net/images/manga/3/115755l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -449,7 +449,7 @@
       "num_chapters": 0,
       "start_date": "2013-08-22",
       "mean": 7.91,
-      "rank": 1123,
+      "rank": 1122,
       "popularity": 413,
       "nsfw": "white",
       "media_type": "light_novel",
@@ -502,7 +502,7 @@
       "start_date": "2023-12-28",
       "mean": 8.27,
       "rank": 393,
-      "popularity": 670,
+      "popularity": 669,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -550,8 +550,8 @@
       "num_chapters": 0,
       "start_date": "2022-12-30",
       "mean": 7.84,
-      "rank": 1373,
-      "popularity": 509,
+      "rank": 1371,
+      "popularity": 508,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -601,7 +601,7 @@
       "start_date": "2024-05-17",
       "mean": 8.56,
       "rank": 135,
-      "popularity": 802,
+      "popularity": 799,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -653,8 +653,8 @@
       "start_date": "2024-03-30",
       "end_date": "2026-04-25",
       "mean": 7.03,
-      "rank": 9156,
-      "popularity": 2304,
+      "rank": 9157,
+      "popularity": 2303,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "finished"
@@ -707,8 +707,8 @@
       "num_chapters": 0,
       "start_date": "2024-12-28",
       "mean": 7.17,
-      "rank": 6994,
-      "popularity": 2924,
+      "rank": 6992,
+      "popularity": 2921,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -761,8 +761,8 @@
       "start_date": "2015-02-16",
       "end_date": "2020-11-30",
       "mean": 7.49,
-      "rank": 3326,
-      "popularity": 2324,
+      "rank": 3324,
+      "popularity": 2325,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "on_hiatus"
