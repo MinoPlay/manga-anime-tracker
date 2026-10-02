@@ -93,7 +93,7 @@
       "start_date": "2025-01-12",
       "end_date": "2025-06-29",
       "mean": 6.54,
-      "rank": 7715,
+      "rank": 7718,
       "popularity": 2105,
       "nsfw": "white",
       "media_type": "tv",
@@ -113,8 +113,8 @@
       "id": 11759,
       "title": "Accel World",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1002/135430.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1002/135430l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1002/135430.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1002/135430l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -150,7 +150,7 @@
       "start_date": "2012-04-07",
       "end_date": "2012-09-22",
       "mean": 7.19,
-      "rank": 3807,
+      "rank": 3810,
       "popularity": 311,
       "nsfw": "white",
       "media_type": "tv",
@@ -202,7 +202,7 @@
       "start_date": "2025-10-07",
       "end_date": "2025-12-23",
       "mean": 6.55,
-      "rank": 7667,
+      "rank": 7669,
       "popularity": 1500,
       "nsfw": "white",
       "media_type": "tv",
@@ -222,8 +222,8 @@
       "id": 36882,
       "title": "Arifureta Shokugyou de Sekai Saikyou",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1776/97682.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1776/97682l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1776/97682.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1776/97682l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -259,7 +259,7 @@
       "start_date": "2019-07-08",
       "end_date": "2019-10-07",
       "mean": 6.72,
-      "rank": 6522,
+      "rank": 6524,
       "popularity": 276,
       "nsfw": "white",
       "media_type": "tv",
@@ -316,7 +316,7 @@
       "start_date": "2022-01-13",
       "end_date": "2022-03-31",
       "mean": 7.12,
-      "rank": 4220,
+      "rank": 4222,
       "popularity": 570,
       "nsfw": "white",
       "media_type": "tv",
@@ -373,7 +373,7 @@
       "start_date": "2024-10-14",
       "end_date": "2025-02-17",
       "mean": 7.02,
-      "rank": 4761,
+      "rank": 4764,
       "popularity": 1346,
       "nsfw": "white",
       "media_type": "tv",
@@ -432,8 +432,8 @@
       "start_date": "2022-11-04",
       "end_date": "2023-10-20",
       "mean": 7.27,
-      "rank": 3308,
-      "popularity": 10324,
+      "rank": 3312,
+      "popularity": 10325,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -491,7 +491,7 @@
       "start_date": "2023-12-08",
       "end_date": "2024-11-28",
       "mean": 7.58,
-      "rank": 1847,
+      "rank": 1846,
       "popularity": 12686,
       "nsfw": "white",
       "media_type": "ona",
@@ -510,8 +510,8 @@
       "id": 9513,
       "title": "Beelzebub",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/3/28013.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/3/28013l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/3/28013.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/3/28013l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -553,7 +553,7 @@
       "start_date": "2011-01-09",
       "end_date": "2012-03-25",
       "mean": 7.84,
-      "rank": 1059,
+      "rank": 1060,
       "popularity": 398,
       "nsfw": "white",
       "media_type": "tv",
@@ -629,7 +629,7 @@
       "start_date": "2012-02-04",
       "end_date": "2012-02-04",
       "mean": 7.71,
-      "rank": 1420,
+      "rank": 1421,
       "popularity": 1158,
       "nsfw": "white",
       "media_type": "movie",
@@ -702,7 +702,7 @@
       "start_date": "2012-06-23",
       "end_date": "2012-06-23",
       "mean": 7.87,
-      "rank": 995,
+      "rank": 997,
       "popularity": 1233,
       "nsfw": "white",
       "media_type": "movie",
@@ -776,7 +776,7 @@
       "start_date": "2013-02-01",
       "end_date": "2013-02-01",
       "mean": 8.21,
-      "rank": 433,
+      "rank": 434,
       "popularity": 1159,
       "nsfw": "white",
       "media_type": "movie",
@@ -825,8 +825,8 @@
       "start_date": "2021-12-11",
       "end_date": "2022-11-26",
       "mean": 7.19,
-      "rank": 3812,
-      "popularity": 10525,
+      "rank": 3815,
+      "popularity": 10528,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -873,9 +873,9 @@
       "num_episodes": 104,
       "start_date": "2022-12-03",
       "end_date": "2024-08-10",
-      "mean": 7.12,
-      "rank": 4222,
-      "popularity": 13340,
+      "mean": 7.11,
+      "rank": 4283,
+      "popularity": 13342,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -921,7 +921,7 @@
       "start_date": "2017-10-03",
       "end_date": "2021-03-30",
       "mean": 8.14,
-      "rank": 527,
+      "rank": 528,
       "popularity": 52,
       "nsfw": "white",
       "media_type": "tv",
@@ -940,8 +940,8 @@
       "id": 269,
       "title": "Bleach",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1541/147774.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1541/147774l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1541/147774.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1541/147774l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -990,8 +990,8 @@
       "id": 31964,
       "title": "Boku no Hero Academia",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/10/78745l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/10/78745.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/10/78745l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -1021,7 +1021,7 @@
       "start_date": "2016-04-03",
       "end_date": "2016-06-26",
       "mean": 7.82,
-      "rank": 1114,
+      "rank": 1116,
       "popularity": 6,
       "nsfw": "white",
       "media_type": "tv",
@@ -1040,8 +1040,8 @@
       "id": 58437,
       "title": "Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1245/147612.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1245/147612l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1245/147612.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1245/147612l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1069,7 +1069,7 @@
       "start_date": "2025-01-07",
       "end_date": "2025-03-25",
       "mean": 6.09,
-      "rank": 10481,
+      "rank": 10484,
       "popularity": 2588,
       "nsfw": "white",
       "media_type": "tv",
@@ -1115,7 +1115,7 @@
       "start_date": "2023-10-05",
       "end_date": "2023-12-21",
       "mean": 6.72,
-      "rank": 6527,
+      "rank": 6528,
       "popularity": 1062,
       "nsfw": "white",
       "media_type": "tv",
@@ -1177,7 +1177,7 @@
       "start_date": "2012-10-04",
       "end_date": "2012-12-20",
       "mean": 7.26,
-      "rank": 3373,
+      "rank": 3376,
       "popularity": 231,
       "nsfw": "white",
       "media_type": "tv",
@@ -1196,8 +1196,8 @@
       "id": 10163,
       "title": "C: The Money of Soul and Possibility Control",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/5/50551.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/5/50551l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/5/50551.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/5/50551l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1237,7 +1237,7 @@
       "start_date": "2011-04-15",
       "end_date": "2011-06-24",
       "mean": 7.14,
-      "rank": 4115,
+      "rank": 4116,
       "popularity": 836,
       "nsfw": "white",
       "media_type": "tv",
@@ -1295,8 +1295,8 @@
       "start_date": "2023-06-22",
       "end_date": "2023-12-07",
       "mean": 8.14,
-      "rank": 528,
-      "popularity": 9177,
+      "rank": 529,
+      "popularity": 9176,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1353,9 +1353,9 @@
       "num_episodes": 36,
       "start_date": "2024-12-06",
       "end_date": "2025-08-01",
-      "mean": 8.19,
-      "rank": 461,
-      "popularity": 11827,
+      "mean": 8.2,
+      "rank": 445,
+      "popularity": 11825,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1373,8 +1373,8 @@
       "id": 59245,
       "title": "Cang Yuan Tu: Dongning Fu Fanwai Pian",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1425/155836.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1425/155836l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1425/155836.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1425/155836l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -1407,8 +1407,8 @@
       "num_episodes": 4,
       "start_date": "2024-07-13",
       "end_date": "2024-08-03",
-      "mean": 7.66,
-      "rank": 1566,
+      "mean": 7.67,
+      "rank": 1536,
       "popularity": 12484,
       "nsfw": "white",
       "media_type": "ona",
@@ -1535,8 +1535,8 @@
       "id": 1818,
       "title": "Claymore",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/3/21834.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/3/21834l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/3/21834.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/3/21834l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -1570,7 +1570,7 @@
       "start_date": "2007-04-04",
       "end_date": "2007-09-26",
       "mean": 7.73,
-      "rank": 1368,
+      "rank": 1369,
       "popularity": 326,
       "nsfw": "white",
       "media_type": "tv",
@@ -1652,8 +1652,8 @@
       "id": 2904,
       "title": "Code Geass: Hangyaku no Lelouch R2",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1088/135089.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1088/135089l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1088/135089.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1088/135089l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1850,7 +1850,7 @@
       "start_date": "2021-12-03",
       "end_date": "2022-02-11",
       "mean": 7.49,
-      "rank": 2234,
+      "rank": 2235,
       "popularity": 2197,
       "nsfw": "white",
       "media_type": "ona",
@@ -1903,7 +1903,7 @@
       "start_date": "2023-12-30",
       "end_date": "2024-01-27",
       "mean": 7.58,
-      "rank": 1850,
+      "rank": 1848,
       "popularity": 4973,
       "nsfw": "white",
       "media_type": "ona",
@@ -1972,8 +1972,8 @@
       "start_date": "2023-06-30",
       "end_date": "2024-06-07",
       "mean": 7.76,
-      "rank": 1280,
-      "popularity": 10761,
+      "rank": 1282,
+      "popularity": 10762,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1991,8 +1991,8 @@
       "id": 61556,
       "title": "Da Zhuzai: Nian Fan 2",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1707/158947.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1707/158947l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1707/158947.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1707/158947l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -2035,8 +2035,8 @@
       "num_episodes": 52,
       "start_date": "2026-01-09",
       "mean": 7.16,
-      "rank": 3994,
-      "popularity": 14001,
+      "rank": 3997,
+      "popularity": 13998,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -2054,8 +2054,8 @@
       "id": 2025,
       "title": "Darker than Black: Kuro no Keiyakusha",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/5/19570.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/5/19570l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/5/19570.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/5/19570l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -2083,7 +2083,7 @@
       "start_date": "2007-04-06",
       "end_date": "2007-09-28",
       "mean": 8.04,
-      "rank": 686,
+      "rank": 687,
       "popularity": 191,
       "nsfw": "white",
       "media_type": "tv",
@@ -2151,7 +2151,7 @@
       "start_date": "2011-04-17",
       "end_date": "2011-07-03",
       "mean": 7.13,
-      "rank": 4164,
+      "rank": 4165,
       "popularity": 121,
       "nsfw": "white",
       "media_type": "tv",
@@ -2170,8 +2170,8 @@
       "id": 1535,
       "title": "Death Note",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1079/138100.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1079/138100l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1079/138100.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1079/138100l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -2251,8 +2251,8 @@
       "start_date": "2024-04-02",
       "end_date": "2024-06-18",
       "mean": 5.26,
-      "rank": 14110,
-      "popularity": 2465,
+      "rank": 14112,
+      "popularity": 2466,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -2305,7 +2305,7 @@
       "start_date": "2015-04-06",
       "end_date": "2016-03-28",
       "mean": 8.31,
-      "rank": 319,
+      "rank": 320,
       "popularity": 1784,
       "nsfw": "white",
       "media_type": "tv",
@@ -2369,7 +2369,7 @@
       "start_date": "2018-01-20",
       "end_date": "2018-07-14",
       "mean": 7.94,
-      "rank": 851,
+      "rank": 852,
       "popularity": 4458,
       "nsfw": "white",
       "media_type": "ona",
@@ -2424,7 +2424,7 @@
       "end_date": "2023-06-10",
       "mean": 8.35,
       "rank": 280,
-      "popularity": 5180,
+      "popularity": 5181,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -2478,7 +2478,7 @@
       "start_date": "2023-06-24",
       "mean": 8.03,
       "rank": 703,
-      "popularity": 8274,
+      "popularity": 8271,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -2542,8 +2542,8 @@
       "start_date": "2017-01-07",
       "end_date": "2017-04-01",
       "mean": 7.23,
-      "rank": 3569,
-      "popularity": 5975,
+      "rank": 3570,
+      "popularity": 5976,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -2605,7 +2605,7 @@
       "end_date": "2018-05-13",
       "mean": 7.64,
       "rank": 1635,
-      "popularity": 6790,
+      "popularity": 6792,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -2666,8 +2666,8 @@
       "start_date": "2019-07-21",
       "end_date": "2019-09-29",
       "mean": 7.89,
-      "rank": 950,
-      "popularity": 6919,
+      "rank": 952,
+      "popularity": 6920,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -2728,7 +2728,7 @@
       "start_date": "2021-03-28",
       "end_date": "2021-08-29",
       "mean": 8.25,
-      "rank": 384,
+      "rank": 385,
       "popularity": 7243,
       "nsfw": "white",
       "media_type": "ona",
@@ -2787,8 +2787,8 @@
       "num_episodes": 219,
       "start_date": "2022-07-31",
       "mean": 8.39,
-      "rank": 241,
-      "popularity": 6684,
+      "rank": 240,
+      "popularity": 6686,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -2893,7 +2893,7 @@
       "start_date": "2019-07-05",
       "end_date": "2019-12-13",
       "mean": 8.26,
-      "rank": 369,
+      "rank": 370,
       "popularity": 49,
       "nsfw": "white",
       "media_type": "tv",
@@ -2943,7 +2943,7 @@
       "start_date": "2023-04-06",
       "end_date": "2023-06-15",
       "mean": 8.14,
-      "rank": 529,
+      "rank": 530,
       "popularity": 403,
       "nsfw": "white",
       "media_type": "tv",
@@ -2989,7 +2989,7 @@
       "start_date": "2022-07-10",
       "end_date": "2022-07-10",
       "mean": 8.11,
-      "rank": 578,
+      "rank": 580,
       "popularity": 683,
       "nsfw": "white",
       "media_type": "tv_special",
@@ -3039,7 +3039,7 @@
       "start_date": "2021-01-14",
       "end_date": "2021-03-25",
       "mean": 8.15,
-      "rank": 522,
+      "rank": 523,
       "popularity": 137,
       "nsfw": "white",
       "media_type": "tv",
@@ -3101,7 +3101,7 @@
       "start_date": "1986-02-26",
       "end_date": "1989-04-12",
       "mean": 7.98,
-      "rank": 782,
+      "rank": 783,
       "popularity": 154,
       "nsfw": "white",
       "media_type": "tv",
@@ -3120,8 +3120,8 @@
       "id": 225,
       "title": "Dragon Ball GT",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1262/93119.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1262/93119l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1262/93119.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1262/93119l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -3162,7 +3162,7 @@
       "start_date": "1996-02-07",
       "end_date": "1997-11-19",
       "mean": 6.53,
-      "rank": 7812,
+      "rank": 7816,
       "popularity": 359,
       "nsfw": "white",
       "media_type": "tv",
@@ -3182,8 +3182,8 @@
       "id": 987,
       "title": "Dragon Ball GT: Gokuu Gaiden! Yuuki no Akashi wa Suushinchuu",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1128/121990.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1128/121990l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1128/121990.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1128/121990l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -3243,8 +3243,8 @@
       "id": 30694,
       "title": "Dragon Ball Super",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/7/74606.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/7/74606l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/7/74606.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/7/74606l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -3286,7 +3286,7 @@
       "start_date": "2015-07-05",
       "end_date": "2018-03-25",
       "mean": 7.48,
-      "rank": 2280,
+      "rank": 2282,
       "popularity": 226,
       "nsfw": "white",
       "media_type": "tv",
@@ -3349,7 +3349,7 @@
       "start_date": "1989-04-26",
       "end_date": "1996-01-31",
       "mean": 8.21,
-      "rank": 436,
+      "rank": 437,
       "popularity": 118,
       "nsfw": "white",
       "media_type": "tv",
@@ -3368,8 +3368,8 @@
       "id": 28121,
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1172/148981.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1172/148981l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1172/148981.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1172/148981l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -3417,8 +3417,8 @@
       "id": 37347,
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1730/101329.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1730/101329l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1730/101329.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1730/101329l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -3447,7 +3447,7 @@
       "start_date": "2019-07-13",
       "end_date": "2019-09-28",
       "mean": 7.24,
-      "rank": 3506,
+      "rank": 3508,
       "popularity": 230,
       "nsfw": "white",
       "media_type": "tv",
@@ -3496,7 +3496,7 @@
       "start_date": "2020-10-03",
       "end_date": "2020-12-19",
       "mean": 7.47,
-      "rank": 2324,
+      "rank": 2325,
       "popularity": 356,
       "nsfw": "white",
       "media_type": "tv",
@@ -3545,8 +3545,8 @@
       "start_date": "2022-07-23",
       "end_date": "2022-10-01",
       "mean": 7.75,
-      "rank": 1309,
-      "popularity": 660,
+      "rank": 1311,
+      "popularity": 659,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -3564,8 +3564,8 @@
       "id": 53111,
       "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1476/128693.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1476/128693l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1476/128693.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1476/128693l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -3593,7 +3593,7 @@
       "start_date": "2023-01-07",
       "end_date": "2023-03-18",
       "mean": 8.26,
-      "rank": 371,
+      "rank": 372,
       "popularity": 942,
       "nsfw": "white",
       "media_type": "tv",
@@ -3642,7 +3642,7 @@
       "start_date": "2024-10-05",
       "end_date": "2025-03-07",
       "mean": 7.9,
-      "rank": 928,
+      "rank": 930,
       "popularity": 1256,
       "nsfw": "white",
       "media_type": "tv",
@@ -3694,7 +3694,7 @@
       "start_date": "2010-01-08",
       "end_date": "2010-06-25",
       "mean": 8.08,
-      "rank": 626,
+      "rank": 628,
       "popularity": 100,
       "nsfw": "white",
       "media_type": "tv",
@@ -3745,7 +3745,7 @@
       "start_date": "2009-10-12",
       "end_date": "2013-03-30",
       "mean": 7.57,
-      "rank": 1893,
+      "rank": 1895,
       "popularity": 61,
       "nsfw": "white",
       "media_type": "tv",
@@ -3764,8 +3764,8 @@
       "id": 62927,
       "title": "Fangkai Nage Nuwu",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1381/153536.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1381/153536l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1381/153536.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1381/153536l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -3790,7 +3790,7 @@
       "end_date": "2026-04-20",
       "mean": 8.18,
       "rank": 478,
-      "popularity": 4311,
+      "popularity": 4309,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -3852,8 +3852,8 @@
       "start_date": "2020-07-25",
       "end_date": "2020-11-29",
       "mean": 7.76,
-      "rank": 1281,
-      "popularity": 7801,
+      "rank": 1283,
+      "popularity": 7802,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -3914,7 +3914,7 @@
       "end_date": "2022-10-15",
       "mean": 8,
       "rank": 755,
-      "popularity": 9299,
+      "popularity": 9300,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -3971,9 +3971,9 @@
       "num_episodes": 52,
       "start_date": "2025-01-18",
       "end_date": "2026-01-03",
-      "mean": 8.5,
-      "rank": 164,
-      "popularity": 10836,
+      "mean": 8.51,
+      "rank": 156,
+      "popularity": 10826,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -4038,7 +4038,7 @@
       "end_date": "2024-10-19",
       "mean": 8.35,
       "rank": 281,
-      "popularity": 10105,
+      "popularity": 10102,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -4096,8 +4096,8 @@
       "start_date": "2023-07-30",
       "end_date": "2023-08-20",
       "mean": 7.95,
-      "rank": 838,
-      "popularity": 6259,
+      "rank": 839,
+      "popularity": 6260,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -4156,8 +4156,8 @@
       "start_date": "2021-01-31",
       "end_date": "2021-02-14",
       "mean": 7.63,
-      "rank": 1671,
-      "popularity": 10179,
+      "rank": 1672,
+      "popularity": 10181,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -4175,8 +4175,8 @@
       "id": 356,
       "title": "Fate/stay night",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/4/30327.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/4/30327l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/4/30327.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/4/30327l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -4208,7 +4208,7 @@
       "start_date": "2006-01-07",
       "end_date": "2006-06-17",
       "mean": 7.27,
-      "rank": 3317,
+      "rank": 3320,
       "popularity": 193,
       "nsfw": "white",
       "media_type": "tv",
@@ -4257,7 +4257,7 @@
       "start_date": "2015-04-05",
       "end_date": "2015-06-28",
       "mean": 8.32,
-      "rank": 302,
+      "rank": 303,
       "popularity": 223,
       "nsfw": "white",
       "media_type": "tv",
@@ -4303,7 +4303,7 @@
       "start_date": "2011-10-02",
       "end_date": "2011-12-25",
       "mean": 8.26,
-      "rank": 373,
+      "rank": 374,
       "popularity": 84,
       "nsfw": "white",
       "media_type": "tv",
@@ -4442,7 +4442,7 @@
       "start_date": "2004-04-13",
       "end_date": "2004-06-22",
       "mean": 6.97,
-      "rank": 5012,
+      "rank": 5015,
       "popularity": 718,
       "nsfw": "white",
       "media_type": "tv",
@@ -4492,7 +4492,7 @@
       "start_date": "2018-10-07",
       "end_date": "2018-12-30",
       "mean": 7.41,
-      "rank": 2595,
+      "rank": 2596,
       "popularity": 135,
       "nsfw": "white",
       "media_type": "tv",
@@ -4511,8 +4511,8 @@
       "id": 47160,
       "title": "Goblin Slayer II",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1100/138338.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1100/138338l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1100/138338.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1100/138338l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -4544,7 +4544,7 @@
       "start_date": "2023-10-06",
       "end_date": "2023-12-22",
       "mean": 7.21,
-      "rank": 3694,
+      "rank": 3696,
       "popularity": 651,
       "nsfw": "white",
       "media_type": "tv",
@@ -4563,8 +4563,8 @@
       "id": 33783,
       "title": "Godzilla 1: Kaijuu Wakusei",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1847/93081.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1847/93081l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1847/93081.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1847/93081l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -4590,8 +4590,8 @@
       "start_date": "2017-11-17",
       "end_date": "2017-11-17",
       "mean": 6.43,
-      "rank": 8463,
-      "popularity": 3095,
+      "rank": 8465,
+      "popularity": 3096,
       "nsfw": "white",
       "media_type": "movie",
       "status": "finished_airing"
@@ -4710,7 +4710,7 @@
       "synopsis": "After his resurrection, Klein, now known as Sherlock, becomes a private detective. While taking on cases, he inadvertently provokes a spy organization. With the help of his bodyguard Sharron, as well as the assistance of Audrey and others, he faces many enemies, including the powerful Ambassador of Intis. In a later case, Klein unexpectedly discovers ruins from the Tudor dynasty. While continuing his detective work, Klein searches for clues to his advancement while also pursuing his enemies, Lanevus and Ince…\n\n(Source: Tencent, translated & edited)",
       "num_episodes": 0,
       "start_date": "2027",
-      "popularity": 5754,
+      "popularity": 5752,
       "nsfw": "white",
       "media_type": "ona",
       "status": "not_yet_aired"
@@ -4843,8 +4843,8 @@
       "id": 28891,
       "title": "Haikyuu!! Second Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/9/76662.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/9/76662l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/9/76662.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/9/76662l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -4975,7 +4975,7 @@
       "start_date": "2009-01-07",
       "end_date": "2009-07-01",
       "mean": 8.67,
-      "rank": 81,
+      "rank": 80,
       "popularity": 866,
       "nsfw": "white",
       "media_type": "tv",
@@ -5082,7 +5082,7 @@
       "start_date": "2023-10-07",
       "end_date": "2023-12-23",
       "mean": 6.22,
-      "rank": 9738,
+      "rank": 9740,
       "popularity": 1230,
       "nsfw": "white",
       "media_type": "tv",
@@ -5101,8 +5101,8 @@
       "id": 57892,
       "title": "Hazurewaku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete wo Juurin suru made",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1914/143630.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1914/143630l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1914/143630.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1914/143630l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -5135,7 +5135,7 @@
       "start_date": "2024-07-05",
       "end_date": "2024-09-27",
       "mean": 6.46,
-      "rank": 8270,
+      "rank": 8273,
       "popularity": 1199,
       "nsfw": "white",
       "media_type": "tv",
@@ -5189,7 +5189,7 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 7.2,
-      "rank": 3760,
+      "rank": 3763,
       "popularity": 2399,
       "nsfw": "white",
       "media_type": "tv",
@@ -5255,7 +5255,7 @@
       "start_date": "2009-04-10",
       "end_date": "2009-06-19",
       "mean": 7.72,
-      "rank": 1396,
+      "rank": 1397,
       "popularity": 424,
       "nsfw": "white",
       "media_type": "tv",
@@ -5309,7 +5309,7 @@
       "start_date": "2004-11-20",
       "end_date": "2004-11-20",
       "mean": 8.67,
-      "rank": 82,
+      "rank": 81,
       "popularity": 98,
       "nsfw": "white",
       "media_type": "movie",
@@ -5328,8 +5328,8 @@
       "id": 136,
       "title": "Hunter x Hunter",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1305/132237.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1305/132237l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1305/132237.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1305/132237l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -5432,8 +5432,8 @@
       "id": 137,
       "title": "Hunter x Hunter: Original Video Animation",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1/137.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1/137l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1/137.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1/137l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -5466,7 +5466,7 @@
       "start_date": "2002-01-17",
       "end_date": "2002-04-17",
       "mean": 8.32,
-      "rank": 305,
+      "rank": 306,
       "popularity": 1935,
       "nsfw": "white",
       "media_type": "ova",
@@ -5526,7 +5526,7 @@
       "start_date": "2017-07-11",
       "end_date": "2017-09-26",
       "mean": 6.09,
-      "rank": 10500,
+      "rank": 10503,
       "popularity": 397,
       "nsfw": "white",
       "media_type": "tv",
@@ -5578,7 +5578,7 @@
       "start_date": "2022-07-10",
       "end_date": "2022-09-25",
       "mean": 7.25,
-      "rank": 3457,
+      "rank": 3460,
       "popularity": 1015,
       "nsfw": "white",
       "media_type": "tv",
@@ -5597,8 +5597,8 @@
       "id": 40748,
       "title": "Jujutsu Kaisen",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1171/109222.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1171/109222l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1171/109222l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -5635,7 +5635,7 @@
       "start_date": "2020-10-03",
       "end_date": "2021-03-27",
       "mean": 8.49,
-      "rank": 172,
+      "rank": 173,
       "popularity": 10,
       "nsfw": "white",
       "media_type": "tv",
@@ -5753,7 +5753,7 @@
       "start_date": "2022-10-05",
       "end_date": "2023-02-15",
       "mean": 8.21,
-      "rank": 438,
+      "rank": 439,
       "popularity": 239,
       "nsfw": "white",
       "media_type": "tv",
@@ -5828,8 +5828,8 @@
       "id": 57584,
       "title": "Kage no Jitsuryokusha ni Naritakute! Movie: Zankyou-hen",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1797/156362.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1797/156362l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1797/156362.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1797/156362l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -5864,7 +5864,7 @@
       "num_episodes": 1,
       "start_date": "2027",
       "end_date": "2027",
-      "popularity": 2111,
+      "popularity": 2110,
       "nsfw": "white",
       "media_type": "movie",
       "status": "not_yet_aired"
@@ -5930,7 +5930,7 @@
       "start_date": "2024-04-13",
       "end_date": "2024-06-29",
       "mean": 8.19,
-      "rank": 466,
+      "rank": 467,
       "popularity": 309,
       "nsfw": "white",
       "media_type": "tv",
@@ -5949,8 +5949,8 @@
       "id": 40221,
       "title": "Kami no Tou",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1702/106229.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1702/106229l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1702/106229.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1702/106229l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -5987,7 +5987,7 @@
       "start_date": "2020-04-02",
       "end_date": "2020-06-25",
       "mean": 7.55,
-      "rank": 1985,
+      "rank": 1988,
       "popularity": 174,
       "nsfw": "white",
       "media_type": "tv",
@@ -6046,7 +6046,7 @@
       "start_date": "2020-10-04",
       "end_date": "2020-12-20",
       "mean": 6.95,
-      "rank": 5121,
+      "rank": 5124,
       "popularity": 1111,
       "nsfw": "white",
       "media_type": "tv",
@@ -6066,8 +6066,8 @@
       "id": 1604,
       "title": "Katekyou Hitman Reborn!",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1531/142751.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1531/142751l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1531/142751.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1531/142751l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -6104,7 +6104,7 @@
       "start_date": "2006-10-07",
       "end_date": "2010-09-25",
       "mean": 8.12,
-      "rank": 568,
+      "rank": 569,
       "popularity": 434,
       "nsfw": "white",
       "media_type": "tv",
@@ -6197,8 +6197,8 @@
       "id": 93,
       "title": "Kidou Senshi Gundam SEED",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1792/91081.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1792/91081l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1792/91081.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1792/91081l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -6242,7 +6242,7 @@
       "start_date": "2002-10-05",
       "end_date": "2003-09-27",
       "mean": 7.74,
-      "rank": 1346,
+      "rank": 1347,
       "popularity": 1511,
       "nsfw": "white",
       "media_type": "tv",
@@ -6303,7 +6303,7 @@
       "start_date": "2004-10-09",
       "end_date": "2005-10-01",
       "mean": 7.17,
-      "rank": 3938,
+      "rank": 3940,
       "popularity": 2183,
       "nsfw": "white",
       "media_type": "tv",
@@ -6361,8 +6361,8 @@
       "start_date": "2005-12-26",
       "end_date": "2005-12-26",
       "mean": 7.36,
-      "rank": 2832,
-      "popularity": 5056,
+      "rank": 2833,
+      "popularity": 5058,
       "nsfw": "white",
       "media_type": "tv_special",
       "status": "finished_airing"
@@ -6473,7 +6473,7 @@
       "start_date": "2019-04-06",
       "end_date": "2019-09-28",
       "mean": 8.39,
-      "rank": 245,
+      "rank": 244,
       "popularity": 5,
       "nsfw": "white",
       "media_type": "tv",
@@ -6492,8 +6492,8 @@
       "id": 59192,
       "title": "Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1681/148216.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1681/148216l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1681/148216.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1681/148216l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -6530,7 +6530,7 @@
       "end_date": "2025-07-18",
       "mean": 8.65,
       "rank": 88,
-      "popularity": 641,
+      "popularity": 640,
       "nsfw": "white",
       "media_type": "movie",
       "status": "finished_airing"
@@ -6578,7 +6578,7 @@
       ],
       "synopsis": "Second anime movie of the trilogy adaptation of the Infinity Castle Arc.",
       "num_episodes": 1,
-      "popularity": 2305,
+      "popularity": 2303,
       "nsfw": "white",
       "media_type": "movie",
       "status": "not_yet_aired"
@@ -6596,8 +6596,8 @@
       "id": 40456,
       "title": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1704/106947.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1704/106947l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1704/106947.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1704/106947l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -6681,7 +6681,7 @@
       "start_date": "2024-05-12",
       "end_date": "2024-06-30",
       "mean": 8,
-      "rank": 759,
+      "rank": 760,
       "popularity": 286,
       "nsfw": "white",
       "media_type": "tv",
@@ -6700,8 +6700,8 @@
       "id": 51019,
       "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1765/135099.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1765/135099l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1765/135099.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1765/135099l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -6731,7 +6731,7 @@
       "start_date": "2023-04-09",
       "end_date": "2023-06-18",
       "mean": 8.14,
-      "rank": 534,
+      "rank": 535,
       "popularity": 156,
       "nsfw": "white",
       "media_type": "tv",
@@ -6925,7 +6925,7 @@
       "start_date": "2012-06-04",
       "end_date": "2013-02-25",
       "mean": 7.86,
-      "rank": 1025,
+      "rank": 1027,
       "popularity": 1084,
       "nsfw": "white",
       "media_type": "tv",
@@ -6993,8 +6993,8 @@
       "id": 32937,
       "title": "Kono Subarashii Sekai ni Shukufuku wo! 2",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/2/83188.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/2/83188l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/2/83188.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/2/83188l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -7049,8 +7049,8 @@
       "id": 37984,
       "title": "Kumo desu ga, Nani ka?",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1593/113724.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1593/113724l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1593/113724.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1593/113724l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -7107,8 +7107,8 @@
       "id": 51064,
       "title": "Kuro no Shoukanshi",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1517/125496.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1517/125496l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1517/125496.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1517/125496l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -7140,7 +7140,7 @@
       "start_date": "2022-07-09",
       "end_date": "2022-09-24",
       "mean": 6.99,
-      "rank": 4933,
+      "rank": 4935,
       "popularity": 940,
       "nsfw": "white",
       "media_type": "tv",
@@ -7160,8 +7160,8 @@
       "id": 16894,
       "title": "Kuroko no Basket 2nd Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/9/56155.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/9/56155l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/9/56155.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/9/56155l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -7194,7 +7194,7 @@
       "start_date": "2013-10-06",
       "end_date": "2014-03-30",
       "mean": 8.2,
-      "rank": 449,
+      "rank": 451,
       "popularity": 220,
       "nsfw": "white",
       "media_type": "tv",
@@ -7359,8 +7359,8 @@
       "start_date": "2019-07-13",
       "end_date": "2019-09-21",
       "mean": 7.59,
-      "rank": 1826,
-      "popularity": 7728,
+      "rank": 1825,
+      "popularity": 7731,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -7413,8 +7413,8 @@
       "start_date": "2013-10-05",
       "end_date": "2014-03-22",
       "mean": 7.89,
-      "rank": 956,
-      "popularity": 142,
+      "rank": 959,
+      "popularity": 143,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -7466,7 +7466,7 @@
       "start_date": "2024-04-08",
       "end_date": "2024-06-24",
       "mean": 6.83,
-      "rank": 5826,
+      "rank": 5828,
       "popularity": 1071,
       "nsfw": "white",
       "media_type": "tv",
@@ -7521,7 +7521,7 @@
       "start_date": "2013-10-06",
       "end_date": "2014-03-30",
       "mean": 8.2,
-      "rank": 450,
+      "rank": 452,
       "popularity": 235,
       "nsfw": "white",
       "media_type": "tv",
@@ -7573,7 +7573,7 @@
       "start_date": "2012-10-07",
       "end_date": "2013-03-31",
       "mean": 8,
-      "rank": 760,
+      "rank": 761,
       "popularity": 163,
       "nsfw": "white",
       "media_type": "tv",
@@ -7621,7 +7621,7 @@
       "start_date": "2025-01-09",
       "end_date": "2025-03-27",
       "mean": 6.78,
-      "rank": 6150,
+      "rank": 6152,
       "popularity": 2654,
       "nsfw": "white",
       "media_type": "tv",
@@ -7640,8 +7640,8 @@
       "id": 20785,
       "title": "Mahouka Koukou no Rettousei",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/11/61039.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/11/61039l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/11/61039.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/11/61039l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -7679,7 +7679,7 @@
       "start_date": "2014-04-06",
       "end_date": "2014-09-28",
       "mean": 7.36,
-      "rank": 2837,
+      "rank": 2838,
       "popularity": 151,
       "nsfw": "white",
       "media_type": "tv",
@@ -7734,8 +7734,8 @@
       "start_date": "2020-01-07",
       "end_date": "2020-03-31",
       "mean": 5.85,
-      "rank": 11819,
-      "popularity": 2853,
+      "rank": 11821,
+      "popularity": 2854,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -7796,7 +7796,7 @@
       "start_date": "2023-04-08",
       "end_date": "2023-07-01",
       "mean": 7.6,
-      "rank": 1790,
+      "rank": 1791,
       "popularity": 281,
       "nsfw": "white",
       "media_type": "tv",
@@ -7861,7 +7861,7 @@
       "start_date": "2024-01-06",
       "end_date": "2024-03-30",
       "mean": 7.77,
-      "rank": 1262,
+      "rank": 1264,
       "popularity": 493,
       "nsfw": "white",
       "media_type": "tv",
@@ -7881,8 +7881,8 @@
       "id": 50392,
       "title": "Mato Seihei no Slave",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1114/140805.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1114/140805l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1114/140805.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1114/140805l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -7919,7 +7919,7 @@
       "start_date": "2024-01-04",
       "end_date": "2024-03-21",
       "mean": 6.88,
-      "rank": 5530,
+      "rank": 5531,
       "popularity": 1000,
       "nsfw": "white",
       "media_type": "tv",
@@ -7979,7 +7979,7 @@
       "start_date": "2021-01-11",
       "end_date": "2021-03-22",
       "mean": 8.31,
-      "rank": 324,
+      "rank": 325,
       "popularity": 82,
       "nsfw": "white",
       "media_type": "tv",
@@ -8039,8 +8039,8 @@
       "start_date": "2021-10-04",
       "end_date": "2021-12-20",
       "mean": 8.59,
-      "rank": 119,
-      "popularity": 150,
+      "rank": 118,
+      "popularity": 149,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -8151,7 +8151,7 @@
       "start_date": "2007-02-15",
       "end_date": "2017-03-23",
       "mean": 8.29,
-      "rank": 340,
+      "rank": 341,
       "popularity": 15,
       "nsfw": "white",
       "media_type": "tv",
@@ -8200,7 +8200,7 @@
       "start_date": "2024-07-13",
       "end_date": "2024-09-28",
       "mean": 6.22,
-      "rank": 9759,
+      "rank": 9760,
       "popularity": 1853,
       "nsfw": "white",
       "media_type": "tv",
@@ -8247,8 +8247,8 @@
       "num_episodes": 580,
       "start_date": "2021-07-16",
       "mean": 7.26,
-      "rank": 3417,
-      "popularity": 10339,
+      "rank": 3420,
+      "popularity": 10340,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -8301,8 +8301,8 @@
       "start_date": "2023-09-23",
       "end_date": "2024-03-30",
       "mean": 7.8,
-      "rank": 1180,
-      "popularity": 11646,
+      "rank": 1181,
+      "popularity": 11644,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -8357,8 +8357,8 @@
       "num_episodes": 52,
       "start_date": "2026-04-16",
       "mean": 7.39,
-      "rank": 2708,
-      "popularity": 14959,
+      "rank": 2711,
+      "popularity": 14945,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -8466,7 +8466,7 @@
       "start_date": "2017-07-15",
       "end_date": "2017-07-15",
       "mean": 8.16,
-      "rank": 515,
+      "rank": 516,
       "popularity": 213,
       "nsfw": "white",
       "media_type": "movie",
@@ -8515,8 +8515,8 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.78,
-      "rank": 6161,
-      "popularity": 2595,
+      "rank": 6163,
+      "popularity": 2594,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -8576,7 +8576,7 @@
       "start_date": "2008-10-08",
       "end_date": "2009-04-01",
       "mean": 8.32,
-      "rank": 311,
+      "rank": 312,
       "popularity": 1113,
       "nsfw": "white",
       "media_type": "tv",
@@ -8695,8 +8695,8 @@
       "start_date": "2024-01-07",
       "end_date": "2024-03-31",
       "mean": 8.13,
-      "rank": 559,
-      "popularity": 143,
+      "rank": 560,
+      "popularity": 142,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -8803,7 +8803,7 @@
       "start_date": "2024-07-05",
       "end_date": "2024-09-20",
       "mean": 6.86,
-      "rank": 5664,
+      "rank": 5666,
       "popularity": 1259,
       "nsfw": "white",
       "media_type": "tv",
@@ -8823,8 +8823,8 @@
       "id": 50461,
       "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1161/121462.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1161/121462l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1161/121462.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1161/121462l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -8870,7 +8870,7 @@
       "start_date": "2022-04-03",
       "end_date": "2022-06-19",
       "mean": 7.3,
-      "rank": 3171,
+      "rank": 3173,
       "popularity": 680,
       "nsfw": "white",
       "media_type": "tv",
@@ -8934,8 +8934,8 @@
       "start_date": "2026-07-08",
       "end_date": "2026-09-23",
       "mean": 6.88,
-      "rank": 5537,
-      "popularity": 2194,
+      "rank": 5538,
+      "popularity": 2191,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -8984,7 +8984,7 @@
       "start_date": "2015-07-07",
       "end_date": "2015-09-29",
       "mean": 7.89,
-      "rank": 960,
+      "rank": 963,
       "popularity": 70,
       "nsfw": "white",
       "media_type": "tv",
@@ -9035,7 +9035,7 @@
       "start_date": "2018-01-09",
       "end_date": "2018-04-03",
       "mean": 7.75,
-      "rank": 1320,
+      "rank": 1322,
       "popularity": 158,
       "nsfw": "white",
       "media_type": "tv",
@@ -9086,7 +9086,7 @@
       "start_date": "2018-07-10",
       "end_date": "2018-10-02",
       "mean": 7.9,
-      "rank": 940,
+      "rank": 942,
       "popularity": 187,
       "nsfw": "white",
       "media_type": "tv",
@@ -9138,7 +9138,7 @@
       "start_date": "2022-07-05",
       "end_date": "2022-09-27",
       "mean": 8.06,
-      "rank": 665,
+      "rank": 666,
       "popularity": 387,
       "nsfw": "white",
       "media_type": "tv",
@@ -9195,7 +9195,7 @@
       "start_date": "2022-04-05",
       "end_date": "2022-06-21",
       "mean": 8.08,
-      "rank": 633,
+      "rank": 635,
       "popularity": 863,
       "nsfw": "white",
       "media_type": "tv",
@@ -9256,7 +9256,7 @@
       "start_date": "2016-04-04",
       "end_date": "2016-09-19",
       "mean": 8.25,
-      "rank": 392,
+      "rank": 393,
       "popularity": 22,
       "nsfw": "white",
       "media_type": "tv",
@@ -9318,7 +9318,7 @@
       "start_date": "2020-07-08",
       "end_date": "2020-09-30",
       "mean": 8.32,
-      "rank": 313,
+      "rank": 314,
       "popularity": 123,
       "nsfw": "white",
       "media_type": "tv",
@@ -9337,8 +9337,8 @@
       "id": 56845,
       "title": "Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou sareru",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1384/140829.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1384/140829l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1384/140829.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1384/140829l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -9366,7 +9366,7 @@
       "start_date": "2024-01-07",
       "end_date": "2024-03-24",
       "mean": 6.13,
-      "rank": 10300,
+      "rank": 10302,
       "popularity": 2354,
       "nsfw": "white",
       "media_type": "tv",
@@ -9422,7 +9422,7 @@
       "start_date": "2023-10-03",
       "end_date": "2023-12-19",
       "mean": 6.21,
-      "rank": 9821,
+      "rank": 9822,
       "popularity": 1527,
       "nsfw": "white",
       "media_type": "tv",
@@ -9523,8 +9523,8 @@
       "start_date": "2022-04-28",
       "end_date": "2022-09-29",
       "mean": 8.1,
-      "rank": 603,
-      "popularity": 7000,
+      "rank": 605,
+      "popularity": 7003,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -9571,8 +9571,8 @@
       "start_date": "2022-11-10",
       "end_date": "2026-04-23",
       "mean": 8.27,
-      "rank": 364,
-      "popularity": 8027,
+      "rank": 365,
+      "popularity": 8030,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -9616,7 +9616,7 @@
       "start_date": "2021-10-06",
       "end_date": "2021-12-29",
       "mean": 6.91,
-      "rank": 5348,
+      "rank": 5350,
       "popularity": 697,
       "nsfw": "white",
       "media_type": "tv",
@@ -9661,7 +9661,7 @@
       "start_date": "2024-01-07",
       "end_date": "2024-03-24",
       "mean": 6.76,
-      "rank": 6296,
+      "rank": 6298,
       "popularity": 1692,
       "nsfw": "white",
       "media_type": "tv",
@@ -9682,8 +9682,8 @@
       "id": 16498,
       "title": "Shingeki no Kyojin",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/10/47347.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/10/47347l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/10/47347l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -9775,8 +9775,8 @@
       "num_episodes": 12,
       "start_date": "2025-10-03",
       "end_date": "2025-12-19",
-      "mean": 7.07,
-      "rank": 4541,
+      "mean": 7.06,
+      "rank": 4599,
       "popularity": 1887,
       "nsfw": "white",
       "media_type": "tv",
@@ -9796,8 +9796,8 @@
       "id": 54913,
       "title": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1212/144711.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1212/144711l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1212/144711.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1212/144711l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -9825,7 +9825,7 @@
       "start_date": "2024-07-02",
       "end_date": "2024-09-24",
       "mean": 7.34,
-      "rank": 2974,
+      "rank": 2976,
       "popularity": 1313,
       "nsfw": "white",
       "media_type": "tv",
@@ -9883,8 +9883,8 @@
       "start_date": "2023-01-19",
       "end_date": "2023-04-06",
       "mean": 7.61,
-      "rank": 1763,
-      "popularity": 11195,
+      "rank": 1764,
+      "popularity": 11194,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -9939,8 +9939,8 @@
       "start_date": "2023-12-14",
       "end_date": "2024-05-30",
       "mean": 7.62,
-      "rank": 1724,
-      "popularity": 12321,
+      "rank": 1725,
+      "popularity": 12322,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -9958,8 +9958,8 @@
       "id": 32282,
       "title": "Shokugeki no Souma: Ni no Sara",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/8/79353.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/8/79353l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/8/79353.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/8/79353l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -10013,8 +10013,8 @@
       "id": 35788,
       "title": "Shokugeki no Souma: San no Sara",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/3/88434.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/3/88434l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/3/88434.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/3/88434l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -10047,7 +10047,7 @@
       "start_date": "2017-10-04",
       "end_date": "2017-12-20",
       "mean": 7.96,
-      "rank": 832,
+      "rank": 833,
       "popularity": 179,
       "nsfw": "white",
       "media_type": "tv",
@@ -10066,8 +10066,8 @@
       "id": 44942,
       "title": "Shuumatsu no Walküre",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1456/115123.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1456/115123l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1456/115123.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1456/115123l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -10109,7 +10109,7 @@
       "start_date": "2021-06-17",
       "end_date": "2021-06-17",
       "mean": 6.84,
-      "rank": 5782,
+      "rank": 5784,
       "popularity": 684,
       "nsfw": "white",
       "media_type": "ona",
@@ -10172,7 +10172,7 @@
       "start_date": "2023-01-26",
       "end_date": "2023-01-26",
       "mean": 7.49,
-      "rank": 2262,
+      "rank": 2263,
       "popularity": 1595,
       "nsfw": "white",
       "media_type": "ona",
@@ -10225,7 +10225,7 @@
       "start_date": "2022-01-09",
       "end_date": "2022-03-27",
       "mean": 8.12,
-      "rank": 573,
+      "rank": 575,
       "popularity": 112,
       "nsfw": "white",
       "media_type": "tv",
@@ -10385,7 +10385,7 @@
       "end_date": "2025-12-23",
       "mean": 6.12,
       "rank": 10355,
-      "popularity": 2708,
+      "popularity": 2707,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -10405,8 +10405,8 @@
       "id": 50265,
       "title": "Spy x Family",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1441/122795.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1441/122795l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1441/122795.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1441/122795l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -10499,7 +10499,7 @@
       "end_date": "2022-12-24",
       "mean": 8.19,
       "rank": 471,
-      "popularity": 149,
+      "popularity": 150,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -10517,8 +10517,8 @@
       "id": 2418,
       "title": "Stranger: Mukou Hadan",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/9/87066.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/9/87066l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/9/87066.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/9/87066l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -10605,7 +10605,7 @@
       "start_date": "2012-07-08",
       "end_date": "2012-12-23",
       "mean": 7.23,
-      "rank": 3605,
+      "rank": 3607,
       "popularity": 7,
       "nsfw": "white",
       "media_type": "tv",
@@ -10737,8 +10737,8 @@
       "id": 35790,
       "title": "Tate no Yuusha no Nariagari",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1490/101365.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1490/101365l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1490/101365.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1490/101365l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -10772,7 +10772,7 @@
       "start_date": "2019-01-09",
       "end_date": "2019-06-26",
       "mean": 7.89,
-      "rank": 968,
+      "rank": 971,
       "popularity": 67,
       "nsfw": "white",
       "media_type": "tv",
@@ -10791,8 +10791,8 @@
       "id": 40356,
       "title": "Tate no Yuusha no Nariagari Season 2",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1143/121873.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1143/121873l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1143/121873.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1143/121873l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -10828,7 +10828,7 @@
       "start_date": "2022-04-06",
       "end_date": "2022-06-29",
       "mean": 6.53,
-      "rank": 7852,
+      "rank": 7855,
       "popularity": 249,
       "nsfw": "white",
       "media_type": "tv",
@@ -10885,7 +10885,7 @@
       "start_date": "2023-10-06",
       "end_date": "2023-12-22",
       "mean": 7.07,
-      "rank": 4545,
+      "rank": 4548,
       "popularity": 489,
       "nsfw": "white",
       "media_type": "tv",
@@ -10960,8 +10960,8 @@
       "id": 4565,
       "title": "Tengen Toppa Gurren Lagann Movie 2: Lagann-hen",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/12/19698.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/12/19698l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/12/19698.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/12/19698l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -11042,7 +11042,7 @@
       "start_date": "2001-10-10",
       "end_date": "2005-03-23",
       "mean": 7.85,
-      "rank": 1050,
+      "rank": 1052,
       "popularity": 1431,
       "nsfw": "white",
       "media_type": "tv",
@@ -11090,8 +11090,8 @@
       "start_date": "2009-05-26",
       "end_date": "2009-09-25",
       "mean": 7.6,
-      "rank": 1800,
-      "popularity": 6037,
+      "rank": 1801,
+      "popularity": 6038,
       "nsfw": "white",
       "media_type": "ova",
       "status": "finished_airing"
@@ -11109,8 +11109,8 @@
       "id": 10573,
       "title": "Tennis no Oujisama: Another Story II - Ano Toki no Bokura",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/8/29026.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/8/29026l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/8/29026.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/8/29026l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -11142,8 +11142,8 @@
       "start_date": "2011-08-26",
       "end_date": "2011-10-26",
       "mean": 7.45,
-      "rank": 2435,
-      "popularity": 6864,
+      "rank": 2434,
+      "popularity": 6865,
       "nsfw": "white",
       "media_type": "ova",
       "status": "finished_airing"
@@ -11161,8 +11161,8 @@
       "id": 995,
       "title": "Tennis no Oujisama: Zenkoku Taikai-hen",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/12/10572.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/12/10572l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/12/10572.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/12/10572l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -11188,7 +11188,7 @@
       "start_date": "2006-03-24",
       "end_date": "2007-03-23",
       "mean": 7.88,
-      "rank": 989,
+      "rank": 991,
       "popularity": 3689,
       "nsfw": "white",
       "media_type": "ova",
@@ -11207,8 +11207,8 @@
       "id": 4053,
       "title": "Tennis no Oujisama: Zenkoku Taikai-hen - Final",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1142/133867.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1142/133867l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1142/133867.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1142/133867l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -11230,8 +11230,8 @@
       "start_date": "2008-04-25",
       "end_date": "2009-01-23",
       "mean": 7.95,
-      "rank": 848,
-      "popularity": 4217,
+      "rank": 849,
+      "popularity": 4218,
       "nsfw": "white",
       "media_type": "ova",
       "status": "finished_airing"
@@ -11275,7 +11275,7 @@
       "start_date": "2007-06-22",
       "end_date": "2008-01-25",
       "mean": 7.87,
-      "rank": 1014,
+      "rank": 1016,
       "popularity": 4131,
       "nsfw": "white",
       "media_type": "ova",
@@ -11294,8 +11294,8 @@
       "id": 47163,
       "title": "Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1563/148868.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1563/148868l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1563/148868.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1563/148868l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -11327,7 +11327,7 @@
       "start_date": "2022-07-04",
       "end_date": "2022-09-12",
       "mean": 6.32,
-      "rank": 9181,
+      "rank": 9182,
       "popularity": 1112,
       "nsfw": "white",
       "media_type": "tv",
@@ -11376,7 +11376,7 @@
       "start_date": "2024-04-02",
       "end_date": "2024-06-18",
       "mean": 7.4,
-      "rank": 2672,
+      "rank": 2673,
       "popularity": 1028,
       "nsfw": "white",
       "media_type": "tv",
@@ -11432,7 +11432,7 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.42,
-      "rank": 8563,
+      "rank": 8564,
       "popularity": 3588,
       "nsfw": "white",
       "media_type": "tv",
@@ -11493,7 +11493,7 @@
       "start_date": "2018-10-02",
       "end_date": "2019-03-19",
       "mean": 8.12,
-      "rank": 574,
+      "rank": 576,
       "popularity": 76,
       "nsfw": "white",
       "media_type": "tv",
@@ -11553,7 +11553,7 @@
       "start_date": "2021-01-12",
       "end_date": "2021-03-30",
       "mean": 8.33,
-      "rank": 298,
+      "rank": 299,
       "popularity": 161,
       "nsfw": "white",
       "media_type": "tv",
@@ -11572,8 +11572,8 @@
       "id": 41487,
       "title": "Tensei shitara Slime Datta Ken 2nd Season Part 2",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1033/118296.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1033/118296l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1033/118296.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1033/118296l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -11613,7 +11613,7 @@
       "start_date": "2021-07-06",
       "end_date": "2021-09-21",
       "mean": 8.28,
-      "rank": 356,
+      "rank": 357,
       "popularity": 219,
       "nsfw": "white",
       "media_type": "tv",
@@ -11673,7 +11673,7 @@
       "start_date": "2024-04-05",
       "end_date": "2024-09-27",
       "mean": 7.71,
-      "rank": 1440,
+      "rank": 1441,
       "popularity": 525,
       "nsfw": "white",
       "media_type": "tv",
@@ -11694,8 +11694,8 @@
       "id": 41353,
       "title": "The God of High School",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1722/107269.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1722/107269l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1722/107269.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1722/107269l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -11729,7 +11729,7 @@
       "start_date": "2020-07-06",
       "end_date": "2020-09-28",
       "mean": 7.07,
-      "rank": 4546,
+      "rank": 4549,
       "popularity": 192,
       "nsfw": "white",
       "media_type": "tv",
@@ -11779,7 +11779,7 @@
       "start_date": "2024-04-14",
       "end_date": "2024-06-30",
       "mean": 6.47,
-      "rank": 8239,
+      "rank": 8241,
       "popularity": 1724,
       "nsfw": "white",
       "media_type": "tv",
@@ -11850,7 +11850,7 @@
       "start_date": "2014-07-04",
       "end_date": "2014-09-19",
       "mean": 7.79,
-      "rank": 1211,
+      "rank": 1212,
       "popularity": 11,
       "nsfw": "white",
       "media_type": "tv",
@@ -11904,7 +11904,7 @@
       "start_date": "2012-10-02",
       "end_date": "2012-12-25",
       "mean": 7.45,
-      "rank": 2436,
+      "rank": 2435,
       "popularity": 145,
       "nsfw": "white",
       "media_type": "tv",
@@ -11924,8 +11924,8 @@
       "id": 523,
       "title": "Tonari no Totoro",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1110/147278.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1110/147278l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1110/147278.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1110/147278l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -12058,8 +12058,8 @@
       "start_date": "2007-11-16",
       "end_date": "2008-03-17",
       "mean": 8.26,
-      "rank": 381,
-      "popularity": 2411,
+      "rank": 382,
+      "popularity": 2412,
       "nsfw": "white",
       "media_type": "ova",
       "status": "finished_airing"
@@ -12077,8 +12077,8 @@
       "id": 58059,
       "title": "Tsue to Tsurugi no Wistoria",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1281/144104.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1281/144104l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1281/144104.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1281/144104l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -12110,8 +12110,8 @@
       "start_date": "2024-07-07",
       "end_date": "2024-09-29",
       "mean": 7.85,
-      "rank": 1052,
-      "popularity": 646,
+      "rank": 1054,
+      "popularity": 645,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -12166,7 +12166,7 @@
       "start_date": "2021-07-07",
       "end_date": "2021-09-22",
       "mean": 7.71,
-      "rank": 1443,
+      "rank": 1444,
       "popularity": 442,
       "nsfw": "white",
       "media_type": "tv",
@@ -12221,7 +12221,7 @@
       "start_date": "2024-01-08",
       "end_date": "2024-06-24",
       "mean": 7.84,
-      "rank": 1083,
+      "rank": 1084,
       "popularity": 826,
       "nsfw": "white",
       "media_type": "tv",
@@ -12277,8 +12277,8 @@
       "start_date": "2020-11-29",
       "end_date": "2021-05-16",
       "mean": 8.07,
-      "rank": 654,
-      "popularity": 6559,
+      "rank": 657,
+      "popularity": 6561,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -12334,8 +12334,8 @@
       "start_date": "2021-12-29",
       "end_date": "2022-09-07",
       "mean": 8.28,
-      "rank": 357,
-      "popularity": 7560,
+      "rank": 358,
+      "popularity": 7562,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -12447,8 +12447,8 @@
       "num_episodes": 175,
       "start_date": "2023-10-03",
       "mean": 8.33,
-      "rank": 299,
-      "popularity": 8739,
+      "rank": 300,
+      "popularity": 8738,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -12582,8 +12582,8 @@
       "id": 49387,
       "title": "Vinland Saga Season 2",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1170/124312.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1170/124312l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1170/124312.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1170/124312l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -12680,8 +12680,8 @@
       "id": 48684,
       "title": "Wan Jie Du Zun",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1571/114240.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1571/114240l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1571/114240.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1571/114240l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -12711,8 +12711,8 @@
       "start_date": "2021-04-06",
       "end_date": "2021-09-18",
       "mean": 7.21,
-      "rank": 3734,
-      "popularity": 10211,
+      "rank": 3736,
+      "popularity": 10214,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -12766,7 +12766,7 @@
       "start_date": "2022-08-16",
       "end_date": "2024-10-01",
       "mean": 7.3,
-      "rank": 3191,
+      "rank": 3193,
       "popularity": 11674,
       "nsfw": "white",
       "media_type": "ona",
@@ -12786,8 +12786,8 @@
       "id": 45196,
       "title": "Wan Jie Fa Shen",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1077/111009.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1077/111009l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1077/111009.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1077/111009l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -12823,8 +12823,8 @@
       "start_date": "2020-12-21",
       "end_date": "2021-06-18",
       "mean": 7.35,
-      "rank": 2919,
-      "popularity": 10838,
+      "rank": 2921,
+      "popularity": 10839,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -12842,8 +12842,8 @@
       "id": 47405,
       "title": "Wanmei Shijie",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1809/153679.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1809/153679l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1809/153679.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1809/153679l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -12878,8 +12878,8 @@
       "num_episodes": 338,
       "start_date": "2021-04-23",
       "mean": 7.85,
-      "rank": 1054,
-      "popularity": 6309,
+      "rank": 1055,
+      "popularity": 6310,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -12897,8 +12897,8 @@
       "id": 39024,
       "title": "Wu Dong Qian Kun",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1051/153746.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1051/153746l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1051/153746.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1051/153746l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -12937,7 +12937,7 @@
       "end_date": "2019-04-07",
       "mean": 7.42,
       "rank": 2582,
-      "popularity": 7444,
+      "popularity": 7445,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -12996,7 +12996,7 @@
       "start_date": "2020-07-12",
       "end_date": "2020-09-20",
       "mean": 7.66,
-      "rank": 1593,
+      "rank": 1594,
       "popularity": 8886,
       "nsfw": "white",
       "media_type": "ona",
@@ -13052,8 +13052,8 @@
       "start_date": "2022-05-01",
       "end_date": "2022-07-10",
       "mean": 7.85,
-      "rank": 1055,
-      "popularity": 9261,
+      "rank": 1056,
+      "popularity": 9260,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -13108,7 +13108,7 @@
       "start_date": "2023-11-25",
       "end_date": "2023-12-09",
       "mean": 7.85,
-      "rank": 1056,
+      "rank": 1057,
       "popularity": 11196,
       "nsfw": "white",
       "media_type": "ona",
@@ -13165,8 +13165,8 @@
       "start_date": "2025-01-01",
       "end_date": "2025-01-16",
       "mean": 7.9,
-      "rank": 945,
-      "popularity": 11958,
+      "rank": 947,
+      "popularity": 11957,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -13220,7 +13220,7 @@
       "start_date": "2016-06-24",
       "end_date": "2017-08-24",
       "mean": 7.3,
-      "rank": 3192,
+      "rank": 3194,
       "popularity": 8874,
       "nsfw": "white",
       "media_type": "ona",
@@ -13274,8 +13274,8 @@
       "start_date": "2021-07-22",
       "end_date": "2021-12-23",
       "mean": 7,
-      "rank": 4909,
-      "popularity": 12952,
+      "rank": 4911,
+      "popularity": 12953,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -13328,8 +13328,8 @@
       "start_date": "2023-01-03",
       "end_date": "2023-04-25",
       "mean": 6.83,
-      "rank": 5850,
-      "popularity": 14989,
+      "rank": 5853,
+      "popularity": 14994,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -13347,8 +13347,8 @@
       "id": 38467,
       "title": "Wu Geng Ji: San Jie",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1732/105204.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1732/105204l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1732/105204.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1732/105204l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -13383,8 +13383,8 @@
       "start_date": "2019-12-20",
       "end_date": "2020-10-09",
       "mean": 7.3,
-      "rank": 3193,
-      "popularity": 11302,
+      "rank": 3195,
+      "popularity": 11304,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -13402,8 +13402,8 @@
       "id": 36910,
       "title": "Wu Geng Ji: Tianqi",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1775/90211.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1775/90211l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1775/90211.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1775/90211l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -13497,8 +13497,8 @@
       "num_episodes": 720,
       "start_date": "2020-03-08",
       "mean": 7.6,
-      "rank": 1803,
-      "popularity": 8534,
+      "rank": 1804,
+      "popularity": 8535,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -13551,9 +13551,9 @@
       "synopsis": "Wang Lin is a very smart boy with loving parents. Although he and his parents are shunned by the rest of their relatives, his parents have always held high hopes that he will one day achieve greatness. One day, Wang Lin suddenly gained the chance to walk the path of an immortal but found that he only had mediocre talent at best. Watch Wang Lin as he breaks through his lack of talent and walks the path towards becoming a real immortal!\n\n(Source: Xian Ni Wiki)",
       "num_episodes": 180,
       "start_date": "2023-09-25",
-      "mean": 8.49,
-      "rank": 174,
-      "popularity": 6654,
+      "mean": 8.5,
+      "rank": 171,
+      "popularity": 6656,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -13612,7 +13612,7 @@
       "start_date": "2023-03-19",
       "end_date": "2023-09-03",
       "mean": 7.24,
-      "rank": 3553,
+      "rank": 3554,
       "popularity": 11719,
       "nsfw": "white",
       "media_type": "ona",
@@ -13631,8 +13631,8 @@
       "id": 56717,
       "title": "Xianwu Zhuan 2nd Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1878/157623.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1878/157623l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1878/157623.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1878/157623l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -13668,8 +13668,8 @@
       "start_date": "2023-09-24",
       "end_date": "2026-05-24",
       "mean": 7.23,
-      "rank": 3610,
-      "popularity": 12180,
+      "rank": 3612,
+      "popularity": 12183,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -13717,7 +13717,7 @@
       "end_date": "2021-02-03",
       "mean": 6.88,
       "rank": 5557,
-      "popularity": 12978,
+      "popularity": 12979,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -13768,7 +13768,7 @@
       "end_date": "2023-01-10",
       "mean": 7.65,
       "rank": 1627,
-      "popularity": 11330,
+      "popularity": 11329,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -13828,8 +13828,8 @@
       "start_date": "2018-10-05",
       "end_date": "2018-12-14",
       "mean": 7.5,
-      "rank": 2222,
-      "popularity": 7406,
+      "rank": 2223,
+      "popularity": 7407,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -13847,8 +13847,8 @@
       "id": 41528,
       "title": "Xingchen Bian 2nd Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1548/107365.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1548/107365l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1548/107365.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1548/107365l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -13892,8 +13892,8 @@
       "start_date": "2020-05-03",
       "end_date": "2020-05-31",
       "mean": 7.37,
-      "rank": 2807,
-      "popularity": 9269,
+      "rank": 2808,
+      "popularity": 9270,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -13955,8 +13955,8 @@
       "start_date": "2021-09-05",
       "end_date": "2021-10-03",
       "mean": 7.49,
-      "rank": 2268,
-      "popularity": 10238,
+      "rank": 2269,
+      "popularity": 10237,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -14018,8 +14018,8 @@
       "start_date": "2022-12-26",
       "end_date": "2023-07-31",
       "mean": 7.71,
-      "rank": 1446,
-      "popularity": 11527,
+      "rank": 1447,
+      "popularity": 11524,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -14081,8 +14081,8 @@
       "start_date": "2025-01-30",
       "end_date": "2025-07-17",
       "mean": 7.89,
-      "rank": 969,
-      "popularity": 13362,
+      "rank": 972,
+      "popularity": 13357,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -14143,8 +14143,8 @@
       "start_date": "2018-12-20",
       "end_date": "2019-06-06",
       "mean": 7.37,
-      "rank": 2808,
-      "popularity": 9239,
+      "rank": 2809,
+      "popularity": 9238,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -14204,8 +14204,8 @@
       "start_date": "2020-12-31",
       "end_date": "2021-03-04",
       "mean": 7.49,
-      "rank": 2269,
-      "popularity": 11453,
+      "rank": 2270,
+      "popularity": 11454,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -14223,8 +14223,8 @@
       "id": 49569,
       "title": "Xue Ying Ling Zhu 3rd Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1070/156613.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1070/156613l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1070/156613.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1070/156613l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -14265,8 +14265,8 @@
       "start_date": "2021-12-27",
       "end_date": "2022-06-13",
       "mean": 7.25,
-      "rank": 3491,
-      "popularity": 11926,
+      "rank": 3493,
+      "popularity": 11928,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -14328,7 +14328,7 @@
       "end_date": "2020-01-23",
       "mean": 7.42,
       "rank": 2585,
-      "popularity": 11543,
+      "popularity": 11545,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -14346,8 +14346,8 @@
       "id": 53126,
       "title": "Yamada-kun to Lv999 no Koi wo Suru",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1298/134178.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1298/134178l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1298/134178.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1298/134178l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -14371,7 +14371,7 @@
       "start_date": "2023-04-02",
       "end_date": "2023-06-25",
       "mean": 7.74,
-      "rank": 1364,
+      "rank": 1365,
       "popularity": 443,
       "nsfw": "white",
       "media_type": "tv",
@@ -14431,8 +14431,8 @@
       "start_date": "2020-08-12",
       "end_date": "2021-07-21",
       "mean": 7.97,
-      "rank": 814,
-      "popularity": 5195,
+      "rank": 815,
+      "popularity": 5197,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -14490,7 +14490,7 @@
       "end_date": "2023-07-12",
       "mean": 8.19,
       "rank": 473,
-      "popularity": 7445,
+      "popularity": 7446,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -14551,8 +14551,8 @@
       "start_date": "2024-07-03",
       "end_date": "2025-07-22",
       "mean": 8.26,
-      "rank": 382,
-      "popularity": 9854,
+      "rank": 383,
+      "popularity": 9856,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -14608,7 +14608,7 @@
       "start_date": "2022-01-29",
       "end_date": "2022-04-09",
       "mean": 7.46,
-      "rank": 2394,
+      "rank": 2395,
       "popularity": 10588,
       "nsfw": "white",
       "media_type": "ona",
@@ -14666,7 +14666,7 @@
       "start_date": "2024-04-19",
       "end_date": "2024-07-19",
       "mean": 7.57,
-      "rank": 1926,
+      "rank": 1927,
       "popularity": 12914,
       "nsfw": "white",
       "media_type": "ona",
@@ -14724,8 +14724,8 @@
       "start_date": "2023-07-08",
       "end_date": "2023-09-16",
       "mean": 7.52,
-      "rank": 2139,
-      "popularity": 12266,
+      "rank": 2140,
+      "popularity": 12265,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -14743,8 +14743,8 @@
       "id": 392,
       "title": "Yuu☆Yuu☆Hakusho",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1228/111372.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1228/111372l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1228/111372.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1228/111372l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -14802,8 +14802,8 @@
       "id": 61128,
       "title": "Yuusha Party wo Oidasareta Kiyoubinbou",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1486/153135.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1486/153135l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1486/153135.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1486/153135l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -14831,7 +14831,7 @@
       "start_date": "2026-01-04",
       "end_date": "2026-03-22",
       "mean": 6.66,
-      "rank": 6989,
+      "rank": 6991,
       "popularity": 1769,
       "nsfw": "white",
       "media_type": "tv",
@@ -14851,8 +14851,8 @@
       "id": 50175,
       "title": "Yuusha, Yamemasu",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1934/122301.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1934/122301l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1934/122301.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1934/122301l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -14884,7 +14884,7 @@
       "start_date": "2022-04-05",
       "end_date": "2022-06-21",
       "mean": 6.99,
-      "rank": 4958,
+      "rank": 4960,
       "popularity": 767,
       "nsfw": "white",
       "media_type": "tv",
@@ -14939,7 +14939,7 @@
       "start_date": "2022-08-02",
       "end_date": "2023-01-17",
       "mean": 7.54,
-      "rank": 2054,
+      "rank": 2055,
       "popularity": 9125,
       "nsfw": "white",
       "media_type": "ona",
@@ -14958,8 +14958,8 @@
       "id": 52034,
       "title": "[Oshi no Ko]",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1812/134736.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1812/134736l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1812/134736.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1812/134736l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -14995,7 +14995,7 @@
       "start_date": "2023-04-12",
       "end_date": "2023-06-28",
       "mean": 8.52,
-      "rank": 155,
+      "rank": 154,
       "popularity": 175,
       "nsfw": "white",
       "media_type": "tv",
@@ -15047,7 +15047,7 @@
       "start_date": "2024-07-03",
       "end_date": "2024-10-06",
       "mean": 8.5,
-      "rank": 171,
+      "rank": 172,
       "popularity": 480,
       "nsfw": "white",
       "media_type": "tv",
@@ -15098,9 +15098,9 @@
       "num_episodes": 11,
       "start_date": "2026-01-14",
       "end_date": "2026-03-25",
-      "mean": 8.68,
-      "rank": 78,
-      "popularity": 953,
+      "mean": 8.67,
+      "rank": 84,
+      "popularity": 952,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -15148,7 +15148,7 @@
       ],
       "synopsis": "Final season of [Oshi no Ko].",
       "num_episodes": 0,
-      "popularity": 2971,
+      "popularity": 2969,
       "nsfw": "white",
       "media_type": "tv",
       "status": "not_yet_aired"
