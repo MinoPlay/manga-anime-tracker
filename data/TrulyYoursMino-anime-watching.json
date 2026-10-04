@@ -37,7 +37,7 @@
       "start_date": "2025-10-07",
       "end_date": "2025-12-23",
       "mean": 6.55,
-      "rank": 7674,
+      "rank": 7683,
       "popularity": 1500,
       "nsfw": "white",
       "media_type": "tv",
@@ -97,8 +97,8 @@
       "start_date": "2024-12-06",
       "end_date": "2025-08-01",
       "mean": 8.2,
-      "rank": 446,
-      "popularity": 11824,
+      "rank": 447,
+      "popularity": 11823,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -151,7 +151,7 @@
       "num_episodes": 182,
       "start_date": "2023-06-24",
       "mean": 8.03,
-      "rank": 704,
+      "rank": 706,
       "popularity": 8270,
       "nsfw": "white",
       "media_type": "ona",
@@ -210,7 +210,7 @@
       "num_episodes": 219,
       "start_date": "2022-07-31",
       "mean": 8.39,
-      "rank": 243,
+      "rank": 244,
       "popularity": 6685,
       "nsfw": "white",
       "media_type": "ona",
@@ -256,7 +256,7 @@
       "start_date": "2022-07-10",
       "end_date": "2022-07-10",
       "mean": 8.11,
-      "rank": 583,
+      "rank": 584,
       "popularity": 683,
       "nsfw": "white",
       "media_type": "tv_special",
@@ -309,7 +309,7 @@
       "start_date": "2023-10-06",
       "end_date": "2023-12-22",
       "mean": 7.21,
-      "rank": 3700,
+      "rank": 3706,
       "popularity": 651,
       "nsfw": "white",
       "media_type": "tv",
@@ -328,8 +328,8 @@
       "id": 54362,
       "title": "Hametsu no Oukoku",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1610/138189.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1610/138189l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1610/138189.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1610/138189l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -367,7 +367,7 @@
       "start_date": "2023-10-07",
       "end_date": "2023-12-23",
       "mean": 6.22,
-      "rank": 9749,
+      "rank": 9761,
       "popularity": 1230,
       "nsfw": "white",
       "media_type": "tv",
@@ -386,8 +386,8 @@
       "id": 41312,
       "title": "Kami-tachi ni Hirowareta Otoko",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1654/108801.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1654/108801l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1654/108801.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1654/108801l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -425,7 +425,7 @@
       "start_date": "2020-10-04",
       "end_date": "2020-12-20",
       "mean": 6.95,
-      "rank": 5129,
+      "rank": 5136,
       "popularity": 1111,
       "nsfw": "white",
       "media_type": "tv",
@@ -529,7 +529,7 @@
       "start_date": "2024-07-13",
       "end_date": "2024-09-28",
       "mean": 6.22,
-      "rank": 9769,
+      "rank": 9781,
       "popularity": 1853,
       "nsfw": "white",
       "media_type": "tv",
@@ -576,8 +576,8 @@
       "num_episodes": 580,
       "start_date": "2021-07-16",
       "mean": 7.26,
-      "rank": 3423,
-      "popularity": 10340,
+      "rank": 3429,
+      "popularity": 10342,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -625,8 +625,8 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.78,
-      "rank": 6169,
-      "popularity": 2594,
+      "rank": 6175,
+      "popularity": 2593,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -676,7 +676,7 @@
       "start_date": "2022-07-05",
       "end_date": "2022-09-27",
       "mean": 8.06,
-      "rank": 667,
+      "rank": 670,
       "popularity": 387,
       "nsfw": "white",
       "media_type": "tv",
@@ -724,9 +724,9 @@
       "num_episodes": 182,
       "start_date": "2022-11-10",
       "end_date": "2026-04-23",
-      "mean": 8.27,
-      "rank": 365,
-      "popularity": 8030,
+      "mean": 8.26,
+      "rank": 381,
+      "popularity": 8031,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -781,7 +781,7 @@
       "start_date": "2023-12-14",
       "end_date": "2024-05-30",
       "mean": 7.61,
-      "rank": 1766,
+      "rank": 1769,
       "popularity": 12322,
       "nsfw": "white",
       "media_type": "ona",
@@ -834,7 +834,7 @@
       "start_date": "2022-01-09",
       "end_date": "2022-03-27",
       "mean": 8.12,
-      "rank": 578,
+      "rank": 579,
       "popularity": 112,
       "nsfw": "white",
       "media_type": "tv",
@@ -854,8 +854,8 @@
       "id": 50602,
       "title": "Spy x Family Part 2",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1111/127508.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1111/127508l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1111/127508.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1111/127508l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -889,7 +889,7 @@
       "start_date": "2022-10-01",
       "end_date": "2022-12-24",
       "mean": 8.19,
-      "rank": 472,
+      "rank": 475,
       "popularity": 150,
       "nsfw": "white",
       "media_type": "tv",
@@ -908,8 +908,8 @@
       "id": 61207,
       "title": "Tensei shitara Dragon no Tamago datta",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1250/156107.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1250/156107l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1250/156107.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1250/156107l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -943,8 +943,8 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.42,
-      "rank": 8573,
-      "popularity": 3587,
+      "rank": 8586,
+      "popularity": 3585,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -963,8 +963,8 @@
       "id": 51553,
       "title": "Tongari Boushi no Atelier",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1726/155542.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1726/155542l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1726/155542.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1726/155542l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -989,7 +989,7 @@
       "end_date": "2026-06-29",
       "mean": 8.47,
       "rank": 184,
-      "popularity": 598,
+      "popularity": 596,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1045,8 +1045,8 @@
       "num_episodes": 175,
       "start_date": "2023-10-03",
       "mean": 8.33,
-      "rank": 301,
-      "popularity": 8737,
+      "rank": 302,
+      "popularity": 8740,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1100,8 +1100,8 @@
       "start_date": "2022-08-16",
       "end_date": "2024-10-01",
       "mean": 7.3,
-      "rank": 3198,
-      "popularity": 11674,
+      "rank": 3200,
+      "popularity": 11676,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1156,8 +1156,8 @@
       "num_episodes": 338,
       "start_date": "2021-04-23",
       "mean": 7.85,
-      "rank": 1056,
-      "popularity": 6311,
+      "rank": 1059,
+      "popularity": 6312,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1213,8 +1213,8 @@
       "num_episodes": 720,
       "start_date": "2020-03-08",
       "mean": 7.6,
-      "rank": 1807,
-      "popularity": 8537,
+      "rank": 1810,
+      "popularity": 8535,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1267,9 +1267,9 @@
       "synopsis": "Wang Lin is a very smart boy with loving parents. Although he and his parents are shunned by the rest of their relatives, his parents have always held high hopes that he will one day achieve greatness. One day, Wang Lin suddenly gained the chance to walk the path of an immortal but found that he only had mediocre talent at best. Watch Wang Lin as he breaks through his lack of talent and walks the path towards becoming a real immortal!\n\n(Source: Xian Ni Wiki)",
       "num_episodes": 180,
       "start_date": "2023-09-25",
-      "mean": 8.5,
-      "rank": 172,
-      "popularity": 6656,
+      "mean": 8.49,
+      "rank": 176,
+      "popularity": 6655,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1323,9 +1323,9 @@
       "num_episodes": 147,
       "start_date": "2023-09-24",
       "end_date": "2026-05-24",
-      "mean": 7.23,
-      "rank": 3615,
-      "popularity": 12187,
+      "mean": 7.24,
+      "rank": 3565,
+      "popularity": 12188,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1386,7 +1386,7 @@
       "start_date": "2024-07-03",
       "end_date": "2025-07-22",
       "mean": 8.26,
-      "rank": 384,
+      "rank": 385,
       "popularity": 9854,
       "nsfw": "white",
       "media_type": "ona",
@@ -1405,8 +1405,8 @@
       "id": 61128,
       "title": "Yuusha Party wo Oidasareta Kiyoubinbou",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1486/153135.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1486/153135l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1486/153135.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1486/153135l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1434,8 +1434,8 @@
       "start_date": "2026-01-04",
       "end_date": "2026-03-22",
       "mean": 6.66,
-      "rank": 6999,
-      "popularity": 1769,
+      "rank": 7010,
+      "popularity": 1768,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
