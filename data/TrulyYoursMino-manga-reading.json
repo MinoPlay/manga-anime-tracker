@@ -40,8 +40,8 @@
       "num_chapters": 0,
       "start_date": "2025-06-19",
       "mean": 8.02,
-      "rank": 825,
-      "popularity": 5124,
+      "rank": 817,
+      "popularity": 5100,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -100,8 +100,8 @@
       "num_chapters": 0,
       "start_date": "2024-06-08",
       "mean": 7.58,
-      "rank": 2712,
-      "popularity": 1208,
+      "rank": 2676,
+      "popularity": 1207,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -150,8 +150,8 @@
       "num_chapters": 0,
       "start_date": "2021-06-14",
       "mean": 7.7,
-      "rank": 1966,
-      "popularity": 1275,
+      "rank": 1937,
+      "popularity": 1276,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -200,7 +200,7 @@
       "num_chapters": 0,
       "start_date": "2020-08-31",
       "mean": 7.76,
-      "rank": 1667,
+      "rank": 1648,
       "popularity": 592,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -245,8 +245,8 @@
       "num_chapters": 0,
       "start_date": "2023-11-29",
       "mean": 7.73,
-      "rank": 1787,
-      "popularity": 2345,
+      "rank": 1813,
+      "popularity": 2343,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -293,8 +293,8 @@
       "num_chapters": 0,
       "start_date": "2023-10-07",
       "mean": 7.09,
-      "rank": 8188,
-      "popularity": 3432,
+      "rank": 8298,
+      "popularity": 3434,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -348,8 +348,8 @@
       "start_date": "2022-03-27",
       "end_date": "2025-12-04",
       "mean": 7.45,
-      "rank": 3633,
-      "popularity": 2138,
+      "rank": 3697,
+      "popularity": 2137,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "discontinued"
@@ -391,7 +391,7 @@
       "num_chapters": 0,
       "start_date": "2013-08-22",
       "mean": 7.91,
-      "rank": 1122,
+      "rank": 1109,
       "popularity": 413,
       "nsfw": "white",
       "media_type": "light_novel",
@@ -443,7 +443,7 @@
       "num_chapters": 0,
       "start_date": "2023-12-28",
       "mean": 8.27,
-      "rank": 394,
+      "rank": 408,
       "popularity": 669,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -463,8 +463,8 @@
       "id": 154692,
       "title": "The Infinite Mage",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/2/274476.jpg",
-        "large": "https://cdn.myanimelist.net/images/manga/2/274476l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/manga/2/274476.webp",
+        "large": "https://cdn.myanimelist.net/images/manga/2/274476l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -492,8 +492,8 @@
       "num_chapters": 0,
       "start_date": "2022-12-30",
       "mean": 7.84,
-      "rank": 1373,
-      "popularity": 507,
+      "rank": 1345,
+      "popularity": 506,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -595,8 +595,8 @@
       "num_chapters": 0,
       "start_date": "2024-12-28",
       "mean": 7.17,
-      "rank": 6988,
-      "popularity": 2909,
+      "rank": 7102,
+      "popularity": 2906,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -649,8 +649,8 @@
       "start_date": "2015-02-16",
       "end_date": "2020-11-30",
       "mean": 7.48,
-      "rank": 3445,
-      "popularity": 2325,
+      "rank": 3391,
+      "popularity": 2323,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "on_hiatus"
@@ -669,8 +669,8 @@
       "id": 122663,
       "title": "Tower of God",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/2/223694.webp",
-        "large": "https://cdn.myanimelist.net/images/manga/2/223694l.webp"
+        "medium": "https://cdn.myanimelist.net/images/manga/2/223694.jpg",
+        "large": "https://cdn.myanimelist.net/images/manga/2/223694l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
