@@ -40,8 +40,8 @@
       "num_chapters": 0,
       "start_date": "2025-06-19",
       "mean": 8.02,
-      "rank": 817,
-      "popularity": 5085,
+      "rank": 816,
+      "popularity": 5069,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -100,7 +100,7 @@
       "num_chapters": 0,
       "start_date": "2024-06-08",
       "mean": 7.58,
-      "rank": 2678,
+      "rank": 2679,
       "popularity": 1204,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -150,7 +150,7 @@
       "num_chapters": 0,
       "start_date": "2021-06-14",
       "mean": 7.7,
-      "rank": 1934,
+      "rank": 1935,
       "popularity": 1275,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -200,7 +200,7 @@
       "num_chapters": 0,
       "start_date": "2020-08-31",
       "mean": 7.76,
-      "rank": 1649,
+      "rank": 1648,
       "popularity": 592,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -245,7 +245,7 @@
       "num_chapters": 0,
       "start_date": "2023-11-29",
       "mean": 7.73,
-      "rank": 1816,
+      "rank": 1819,
       "popularity": 2338,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -293,8 +293,8 @@
       "num_chapters": 0,
       "start_date": "2023-10-07",
       "mean": 7.09,
-      "rank": 8301,
-      "popularity": 3429,
+      "rank": 8302,
+      "popularity": 3423,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -313,8 +313,8 @@
       "id": 152612,
       "title": "Returning With Absolutely Nothing",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/2/270200.webp",
-        "large": "https://cdn.myanimelist.net/images/manga/2/270200l.webp"
+        "medium": "https://cdn.myanimelist.net/images/manga/2/270200.jpg",
+        "large": "https://cdn.myanimelist.net/images/manga/2/270200l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -349,7 +349,7 @@
       "end_date": "2025-12-04",
       "mean": 7.45,
       "rank": 3700,
-      "popularity": 2137,
+      "popularity": 2138,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "discontinued"
@@ -427,8 +427,8 @@
       "id": 67617,
       "title": "Tate no Yuusha no Nariagari",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/3/115755.webp",
-        "large": "https://cdn.myanimelist.net/images/manga/3/115755l.webp"
+        "medium": "https://cdn.myanimelist.net/images/manga/3/115755.jpg",
+        "large": "https://cdn.myanimelist.net/images/manga/3/115755l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -502,7 +502,7 @@
       "start_date": "2023-12-28",
       "mean": 8.27,
       "rank": 407,
-      "popularity": 667,
+      "popularity": 666,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -550,7 +550,7 @@
       "num_chapters": 0,
       "start_date": "2022-12-30",
       "mean": 7.84,
-      "rank": 1345,
+      "rank": 1346,
       "popularity": 506,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -599,7 +599,7 @@
       "synopsis": "\"You're a genius.\" Those words he heard as a child were poison. Encrid dreamed of becoming a knight, but he soon realized it was futile. \"You want to live by the sword with that level of skill?\" Some laughed at him. \"Just give up.\" Some advised him against it. Despite that, his dream remained steadfast. He slept less, ran more, and trained harder. One day, he died, having been stabbed in the neck. Encrid opened his eyes again to \"today's\" morning.\n\n(Source: Naver Corporation, translated)",
       "num_chapters": 0,
       "start_date": "2024-05-17",
-      "mean": 8.56,
+      "mean": 8.57,
       "rank": 135,
       "popularity": 797,
       "nsfw": "white",
@@ -620,8 +620,8 @@
       "id": 168907,
       "title": "The Last Adventurer",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/3/299926.webp",
-        "large": "https://cdn.myanimelist.net/images/manga/3/299926l.webp"
+        "medium": "https://cdn.myanimelist.net/images/manga/3/299926.jpg",
+        "large": "https://cdn.myanimelist.net/images/manga/3/299926l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -653,7 +653,7 @@
       "start_date": "2024-03-30",
       "end_date": "2026-04-25",
       "mean": 7.03,
-      "rank": 9259,
+      "rank": 9258,
       "popularity": 2301,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -707,8 +707,8 @@
       "num_chapters": 0,
       "start_date": "2024-12-28",
       "mean": 7.17,
-      "rank": 7098,
-      "popularity": 2898,
+      "rank": 7097,
+      "popularity": 2896,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -762,7 +762,7 @@
       "end_date": "2020-11-30",
       "mean": 7.48,
       "rank": 3390,
-      "popularity": 2321,
+      "popularity": 2320,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "on_hiatus"
