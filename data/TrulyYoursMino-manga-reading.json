@@ -41,7 +41,7 @@
       "start_date": "2025-06-19",
       "mean": 8.02,
       "rank": 816,
-      "popularity": 5069,
+      "popularity": 5054,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -100,8 +100,8 @@
       "num_chapters": 0,
       "start_date": "2024-06-08",
       "mean": 7.58,
-      "rank": 2679,
-      "popularity": 1204,
+      "rank": 2680,
+      "popularity": 1202,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -150,7 +150,7 @@
       "num_chapters": 0,
       "start_date": "2021-06-14",
       "mean": 7.7,
-      "rank": 1935,
+      "rank": 1937,
       "popularity": 1275,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -200,7 +200,7 @@
       "num_chapters": 0,
       "start_date": "2020-08-31",
       "mean": 7.76,
-      "rank": 1648,
+      "rank": 1651,
       "popularity": 592,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -245,8 +245,8 @@
       "num_chapters": 0,
       "start_date": "2023-11-29",
       "mean": 7.73,
-      "rank": 1819,
-      "popularity": 2338,
+      "rank": 1818,
+      "popularity": 2336,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -293,8 +293,8 @@
       "num_chapters": 0,
       "start_date": "2023-10-07",
       "mean": 7.09,
-      "rank": 8302,
-      "popularity": 3423,
+      "rank": 8305,
+      "popularity": 3418,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -492,7 +492,7 @@
       "num_chapters": 0,
       "start_date": "2022-12-30",
       "mean": 7.84,
-      "rank": 1346,
+      "rank": 1345,
       "popularity": 506,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -542,7 +542,7 @@
       "num_chapters": 0,
       "start_date": "2024-05-17",
       "mean": 8.57,
-      "rank": 135,
+      "rank": 124,
       "popularity": 797,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -595,7 +595,7 @@
       "num_chapters": 0,
       "start_date": "2024-12-28",
       "mean": 7.17,
-      "rank": 7097,
+      "rank": 7100,
       "popularity": 2896,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -616,8 +616,8 @@
       "id": 147536,
       "title": "The Legendary Moonlight Sculptor",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/1/261859.jpg",
-        "large": "https://cdn.myanimelist.net/images/manga/1/261859l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/manga/1/261859.webp",
+        "large": "https://cdn.myanimelist.net/images/manga/1/261859l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -649,7 +649,7 @@
       "start_date": "2015-02-16",
       "end_date": "2020-11-30",
       "mean": 7.48,
-      "rank": 3390,
+      "rank": 3392,
       "popularity": 2320,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -669,8 +669,8 @@
       "id": 122663,
       "title": "Tower of God",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/2/223694.jpg",
-        "large": "https://cdn.myanimelist.net/images/manga/2/223694l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/manga/2/223694.webp",
+        "large": "https://cdn.myanimelist.net/images/manga/2/223694l.webp"
       },
       "alternative_titles": {
         "synonyms": [
