@@ -37,8 +37,8 @@
       "start_date": "2025-10-07",
       "end_date": "2025-12-23",
       "mean": 6.55,
-      "rank": 7711,
-      "popularity": 1496,
+      "rank": 7714,
+      "popularity": 1497,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -98,7 +98,7 @@
       "end_date": "2025-08-01",
       "mean": 8.2,
       "rank": 448,
-      "popularity": 11826,
+      "popularity": 11827,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -152,7 +152,7 @@
       "start_date": "2023-06-24",
       "mean": 8.03,
       "rank": 710,
-      "popularity": 8271,
+      "popularity": 8270,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -211,7 +211,7 @@
       "start_date": "2022-07-31",
       "mean": 8.39,
       "rank": 243,
-      "popularity": 6693,
+      "popularity": 6692,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -309,7 +309,7 @@
       "start_date": "2023-10-06",
       "end_date": "2023-12-22",
       "mean": 7.21,
-      "rank": 3716,
+      "rank": 3718,
       "popularity": 651,
       "nsfw": "white",
       "media_type": "tv",
@@ -367,7 +367,7 @@
       "start_date": "2023-10-07",
       "end_date": "2023-12-23",
       "mean": 6.22,
-      "rank": 9795,
+      "rank": 9798,
       "popularity": 1229,
       "nsfw": "white",
       "media_type": "tv",
@@ -425,7 +425,7 @@
       "start_date": "2020-10-04",
       "end_date": "2020-12-20",
       "mean": 6.95,
-      "rank": 5149,
+      "rank": 5152,
       "popularity": 1113,
       "nsfw": "white",
       "media_type": "tv",
@@ -499,8 +499,8 @@
       "id": 56062,
       "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1664/144272.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1664/144272l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1664/144272.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1664/144272l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -529,8 +529,8 @@
       "start_date": "2024-07-13",
       "end_date": "2024-09-28",
       "mean": 6.22,
-      "rank": 9814,
-      "popularity": 1853,
+      "rank": 9817,
+      "popularity": 1852,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -576,8 +576,8 @@
       "num_episodes": 580,
       "start_date": "2021-07-16",
       "mean": 7.26,
-      "rank": 3439,
-      "popularity": 10347,
+      "rank": 3440,
+      "popularity": 10348,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -595,8 +595,8 @@
       "id": 61549,
       "title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1264/153908.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1264/153908l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1264/153908.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1264/153908l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -625,8 +625,8 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.78,
-      "rank": 6197,
-      "popularity": 2587,
+      "rank": 6207,
+      "popularity": 2586,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -645,8 +645,8 @@
       "id": 48895,
       "title": "Overlord IV",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1530/120110.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1530/120110l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1530/120110.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1530/120110l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -782,7 +782,7 @@
       "end_date": "2024-05-30",
       "mean": 7.62,
       "rank": 1734,
-      "popularity": 12325,
+      "popularity": 12327,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -800,8 +800,8 @@
       "id": 48736,
       "title": "Sono Bisque Doll wa Koi wo Suru",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1179/119897.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1179/119897l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1179/119897.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1179/119897l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -889,7 +889,7 @@
       "start_date": "2022-10-01",
       "end_date": "2022-12-24",
       "mean": 8.19,
-      "rank": 475,
+      "rank": 474,
       "popularity": 150,
       "nsfw": "white",
       "media_type": "tv",
@@ -943,8 +943,8 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.42,
-      "rank": 8609,
-      "popularity": 3577,
+      "rank": 8615,
+      "popularity": 3580,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -963,8 +963,8 @@
       "id": 51553,
       "title": "Tongari Boushi no Atelier",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1726/155542.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1726/155542l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1726/155542.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1726/155542l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -989,7 +989,7 @@
       "end_date": "2026-06-29",
       "mean": 8.47,
       "rank": 184,
-      "popularity": 592,
+      "popularity": 591,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1046,7 +1046,7 @@
       "start_date": "2023-10-03",
       "mean": 8.32,
       "rank": 317,
-      "popularity": 8742,
+      "popularity": 8741,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1100,8 +1100,8 @@
       "start_date": "2022-08-16",
       "end_date": "2024-10-01",
       "mean": 7.3,
-      "rank": 3204,
-      "popularity": 11678,
+      "rank": 3207,
+      "popularity": 11679,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1120,8 +1120,8 @@
       "id": 47405,
       "title": "Wanmei Shijie",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1809/153679.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1809/153679l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1809/153679.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1809/153679l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1156,8 +1156,8 @@
       "num_episodes": 338,
       "start_date": "2021-04-23",
       "mean": 7.85,
-      "rank": 1061,
-      "popularity": 6320,
+      "rank": 1063,
+      "popularity": 6321,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1213,7 +1213,7 @@
       "num_episodes": 720,
       "start_date": "2020-03-08",
       "mean": 7.6,
-      "rank": 1813,
+      "rank": 1814,
       "popularity": 8542,
       "nsfw": "white",
       "media_type": "ona",
@@ -1269,7 +1269,7 @@
       "start_date": "2023-09-25",
       "mean": 8.49,
       "rank": 176,
-      "popularity": 6656,
+      "popularity": 6657,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1324,8 +1324,8 @@
       "start_date": "2023-09-24",
       "end_date": "2026-05-24",
       "mean": 7.24,
-      "rank": 3571,
-      "popularity": 12189,
+      "rank": 3576,
+      "popularity": 12190,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1387,7 +1387,7 @@
       "end_date": "2025-07-22",
       "mean": 8.26,
       "rank": 385,
-      "popularity": 9849,
+      "popularity": 9848,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1434,7 +1434,7 @@
       "start_date": "2026-01-04",
       "end_date": "2026-03-22",
       "mean": 6.65,
-      "rank": 7098,
+      "rank": 7100,
       "popularity": 1765,
       "nsfw": "white",
       "media_type": "tv",
