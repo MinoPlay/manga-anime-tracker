@@ -94,7 +94,7 @@
       "end_date": "2025-02-17",
       "mean": 7.02,
       "rank": 4800,
-      "popularity": 1345,
+      "popularity": 1344,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -168,7 +168,7 @@
       "start_date": "2012-02-04",
       "end_date": "2012-02-04",
       "mean": 7.71,
-      "rank": 1432,
+      "rank": 1433,
       "popularity": 1158,
       "nsfw": "white",
       "media_type": "movie",
@@ -334,8 +334,8 @@
       "id": 57555,
       "title": "Chainsaw Man Movie: Reze-hen",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1763/150638.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1763/150638l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1763/150638.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1763/150638l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -372,7 +372,7 @@
       "end_date": "2025-09-19",
       "mean": 9.05,
       "rank": 5,
-      "popularity": 461,
+      "popularity": 460,
       "nsfw": "white",
       "media_type": "movie",
       "status": "finished_airing"
@@ -434,8 +434,8 @@
       "num_episodes": 52,
       "start_date": "2026-01-09",
       "mean": 7.16,
-      "rank": 4026,
-      "popularity": 13978,
+      "rank": 4027,
+      "popularity": 13977,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -526,7 +526,7 @@
       "start_date": "2026-03-02",
       "end_date": "2026-04-20",
       "mean": 8.18,
-      "rank": 482,
+      "rank": 484,
       "popularity": 4289,
       "nsfw": "white",
       "media_type": "ona",
@@ -584,9 +584,9 @@
       "num_episodes": 52,
       "start_date": "2025-01-18",
       "end_date": "2026-01-03",
-      "mean": 8.5,
-      "rank": 166,
-      "popularity": 10821,
+      "mean": 8.49,
+      "rank": 172,
+      "popularity": 10820,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -647,7 +647,7 @@
       "synopsis": "After his resurrection, Klein, now known as Sherlock, becomes a private detective. While taking on cases, he inadvertently provokes a spy organization. With the help of his bodyguard Sharron, as well as the assistance of Audrey and others, he faces many enemies, including the powerful Ambassador of Intis. In a later case, Klein unexpectedly discovers ruins from the Tudor dynasty. While continuing his detective work, Klein searches for clues to his advancement while also pursuing his enemies, Lanevus and Ince…\n\n(Source: Tencent, translated & edited)",
       "num_episodes": 0,
       "start_date": "2027",
-      "popularity": 5740,
+      "popularity": 5736,
       "nsfw": "white",
       "media_type": "ona",
       "status": "not_yet_aired"
@@ -701,7 +701,7 @@
       "num_episodes": 1,
       "start_date": "2027",
       "end_date": "2027",
-      "popularity": 2104,
+      "popularity": 2103,
       "nsfw": "white",
       "media_type": "movie",
       "status": "not_yet_aired"
@@ -767,8 +767,8 @@
       "id": 39675,
       "title": "Ling Long: Incarnation",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1292/157575.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1292/157575l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1292/157575.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1292/157575l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -805,8 +805,8 @@
       "start_date": "2019-07-13",
       "end_date": "2019-09-21",
       "mean": 7.59,
-      "rank": 1835,
-      "popularity": 7739,
+      "rank": 1836,
+      "popularity": 7736,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -859,7 +859,7 @@
       "start_date": "2020-01-07",
       "end_date": "2020-03-31",
       "mean": 5.85,
-      "rank": 11892,
+      "rank": 11890,
       "popularity": 2858,
       "nsfw": "white",
       "media_type": "tv",
@@ -916,8 +916,8 @@
       "start_date": "2024-01-04",
       "end_date": "2024-03-21",
       "mean": 6.88,
-      "rank": 5571,
-      "popularity": 1000,
+      "rank": 5572,
+      "popularity": 999,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -971,9 +971,9 @@
       "synopsis": "Second season of Nitian Xie Shen.",
       "num_episodes": 52,
       "start_date": "2026-04-16",
-      "mean": 7.39,
-      "rank": 2732,
-      "popularity": 14906,
+      "mean": 7.42,
+      "rank": 2639,
+      "popularity": 14905,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -991,8 +991,8 @@
       "id": 33674,
       "title": "No Game No Life: Zero",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1085/90759.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1085/90759l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1085/90759.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1085/90759l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1088,9 +1088,9 @@
       "num_episodes": 12,
       "start_date": "2026-07-08",
       "end_date": "2026-09-23",
-      "mean": 6.89,
-      "rank": 5519,
-      "popularity": 2136,
+      "mean": 6.9,
+      "rank": 5451,
+      "popularity": 2132,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1207,7 +1207,7 @@
       "start_date": "2020-07-08",
       "end_date": "2020-09-30",
       "mean": 8.32,
-      "rank": 315,
+      "rank": 316,
       "popularity": 122,
       "nsfw": "white",
       "media_type": "tv",
@@ -1362,7 +1362,7 @@
       "start_date": "2018-10-07",
       "end_date": "2019-03-31",
       "mean": 7.58,
-      "rank": 1889,
+      "rank": 1890,
       "popularity": 152,
       "nsfw": "white",
       "media_type": "tv",
@@ -1420,7 +1420,7 @@
       "start_date": "2020-07-12",
       "end_date": "2020-09-20",
       "mean": 7.52,
-      "rank": 2145,
+      "rank": 2146,
       "popularity": 353,
       "nsfw": "white",
       "media_type": "tv",
@@ -1477,7 +1477,7 @@
       "start_date": "2023-10-06",
       "end_date": "2023-12-22",
       "mean": 7.07,
-      "rank": 4584,
+      "rank": 4585,
       "popularity": 489,
       "nsfw": "white",
       "media_type": "tv",
@@ -1496,8 +1496,8 @@
       "id": 58059,
       "title": "Tsue to Tsurugi no Wistoria",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1281/144104.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1281/144104l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1281/144104.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1281/144104l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1548,8 +1548,8 @@
       "id": 33352,
       "title": "Violet Evergarden",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1795/95088.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1795/95088l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1795/95088.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1795/95088l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -1630,8 +1630,8 @@
       "start_date": "2025-01-30",
       "end_date": "2025-07-17",
       "mean": 7.9,
-      "rank": 953,
-      "popularity": 13361,
+      "rank": 954,
+      "popularity": 13364,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1843,7 +1843,7 @@
       ],
       "synopsis": "Final season of [Oshi no Ko].",
       "num_episodes": 0,
-      "popularity": 2936,
+      "popularity": 2933,
       "nsfw": "white",
       "media_type": "tv",
       "status": "not_yet_aired"
