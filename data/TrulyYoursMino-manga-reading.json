@@ -40,8 +40,8 @@
       "num_chapters": 0,
       "start_date": "2025-06-19",
       "mean": 8.02,
-      "rank": 819,
-      "popularity": 4960,
+      "rank": 818,
+      "popularity": 4944,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -100,8 +100,8 @@
       "num_chapters": 0,
       "start_date": "2024-06-08",
       "mean": 7.58,
-      "rank": 2680,
-      "popularity": 1192,
+      "rank": 2681,
+      "popularity": 1190,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -200,7 +200,7 @@
       "num_chapters": 0,
       "start_date": "2020-08-31",
       "mean": 7.76,
-      "rank": 1649,
+      "rank": 1651,
       "popularity": 592,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -245,8 +245,8 @@
       "num_chapters": 0,
       "start_date": "2023-11-29",
       "mean": 7.73,
-      "rank": 1817,
-      "popularity": 2326,
+      "rank": 1816,
+      "popularity": 2324,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -293,7 +293,7 @@
       "num_chapters": 0,
       "start_date": "2023-10-07",
       "mean": 7.09,
-      "rank": 8319,
+      "rank": 8316,
       "popularity": 3404,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -348,7 +348,7 @@
       "start_date": "2022-03-27",
       "end_date": "2025-12-04",
       "mean": 7.44,
-      "rank": 3736,
+      "rank": 3739,
       "popularity": 2136,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -463,8 +463,8 @@
       "id": 154692,
       "title": "The Infinite Mage",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/2/274476.webp",
-        "large": "https://cdn.myanimelist.net/images/manga/2/274476l.webp"
+        "medium": "https://cdn.myanimelist.net/images/manga/2/274476.jpg",
+        "large": "https://cdn.myanimelist.net/images/manga/2/274476l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -492,7 +492,7 @@
       "num_chapters": 0,
       "start_date": "2022-12-30",
       "mean": 7.84,
-      "rank": 1343,
+      "rank": 1342,
       "popularity": 505,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -562,8 +562,8 @@
       "id": 177451,
       "title": "The Legendary Hero Is an Academy Honors Student",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/2/317060.webp",
-        "large": "https://cdn.myanimelist.net/images/manga/2/317060l.webp"
+        "medium": "https://cdn.myanimelist.net/images/manga/2/317060.jpg",
+        "large": "https://cdn.myanimelist.net/images/manga/2/317060l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -649,7 +649,7 @@
       "start_date": "2015-02-16",
       "end_date": "2020-11-30",
       "mean": 7.48,
-      "rank": 3395,
+      "rank": 3394,
       "popularity": 2313,
       "nsfw": "white",
       "media_type": "manhwa",
