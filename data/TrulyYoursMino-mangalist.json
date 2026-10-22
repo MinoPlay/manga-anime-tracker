@@ -41,7 +41,7 @@
       "start_date": "2025-06-19",
       "mean": 8.02,
       "rank": 818,
-      "popularity": 4917,
+      "popularity": 4901,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -61,8 +61,8 @@
       "id": 170974,
       "title": "Blink Master of the Magic Academy",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/2/303869.webp",
-        "large": "https://cdn.myanimelist.net/images/manga/2/303869l.webp"
+        "medium": "https://cdn.myanimelist.net/images/manga/2/303869.jpg",
+        "large": "https://cdn.myanimelist.net/images/manga/2/303869l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -150,8 +150,8 @@
       "num_chapters": 0,
       "start_date": "2021-06-14",
       "mean": 7.7,
-      "rank": 1938,
-      "popularity": 1271,
+      "rank": 1937,
+      "popularity": 1270,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -200,7 +200,7 @@
       "num_chapters": 0,
       "start_date": "2020-08-31",
       "mean": 7.76,
-      "rank": 1650,
+      "rank": 1651,
       "popularity": 592,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -246,7 +246,7 @@
       "start_date": "2023-11-29",
       "mean": 7.73,
       "rank": 1821,
-      "popularity": 2322,
+      "popularity": 2320,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -293,8 +293,8 @@
       "num_chapters": 0,
       "start_date": "2023-10-07",
       "mean": 7.09,
-      "rank": 8325,
-      "popularity": 3397,
+      "rank": 8320,
+      "popularity": 3396,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -348,7 +348,7 @@
       "start_date": "2022-03-27",
       "end_date": "2025-12-04",
       "mean": 7.44,
-      "rank": 3735,
+      "rank": 3734,
       "popularity": 2135,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -550,7 +550,7 @@
       "num_chapters": 0,
       "start_date": "2022-12-30",
       "mean": 7.84,
-      "rank": 1338,
+      "rank": 1339,
       "popularity": 504,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -620,8 +620,8 @@
       "id": 168907,
       "title": "The Last Adventurer",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/3/299926.webp",
-        "large": "https://cdn.myanimelist.net/images/manga/3/299926l.webp"
+        "medium": "https://cdn.myanimelist.net/images/manga/3/299926.jpg",
+        "large": "https://cdn.myanimelist.net/images/manga/3/299926l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -653,8 +653,8 @@
       "start_date": "2024-03-30",
       "end_date": "2026-04-25",
       "mean": 7.03,
-      "rank": 9287,
-      "popularity": 2293,
+      "rank": 9285,
+      "popularity": 2292,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "finished"
@@ -674,8 +674,8 @@
       "id": 177451,
       "title": "The Legendary Hero Is an Academy Honors Student",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/2/317060.jpg",
-        "large": "https://cdn.myanimelist.net/images/manga/2/317060l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/manga/2/317060.webp",
+        "large": "https://cdn.myanimelist.net/images/manga/2/317060l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -707,7 +707,7 @@
       "num_chapters": 0,
       "start_date": "2024-12-28",
       "mean": 7.17,
-      "rank": 7118,
+      "rank": 7115,
       "popularity": 2867,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -761,8 +761,8 @@
       "start_date": "2015-02-16",
       "end_date": "2020-11-30",
       "mean": 7.49,
-      "rank": 3363,
-      "popularity": 2312,
+      "rank": 3361,
+      "popularity": 2311,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "on_hiatus"
