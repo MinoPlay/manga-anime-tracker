@@ -40,8 +40,8 @@
       "num_chapters": 0,
       "start_date": "2025-06-19",
       "mean": 8.02,
-      "rank": 818,
-      "popularity": 4901,
+      "rank": 819,
+      "popularity": 4889,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -100,8 +100,8 @@
       "num_chapters": 0,
       "start_date": "2024-06-08",
       "mean": 7.59,
-      "rank": 2652,
-      "popularity": 1188,
+      "rank": 2651,
+      "popularity": 1186,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -151,7 +151,7 @@
       "start_date": "2021-06-14",
       "mean": 7.7,
       "rank": 1937,
-      "popularity": 1270,
+      "popularity": 1269,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -200,8 +200,8 @@
       "num_chapters": 0,
       "start_date": "2020-08-31",
       "mean": 7.76,
-      "rank": 1651,
-      "popularity": 592,
+      "rank": 1652,
+      "popularity": 591,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -245,8 +245,8 @@
       "num_chapters": 0,
       "start_date": "2023-11-29",
       "mean": 7.73,
-      "rank": 1821,
-      "popularity": 2320,
+      "rank": 1820,
+      "popularity": 2316,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -293,8 +293,8 @@
       "num_chapters": 0,
       "start_date": "2023-10-07",
       "mean": 7.09,
-      "rank": 8320,
-      "popularity": 3396,
+      "rank": 8319,
+      "popularity": 3392,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -348,8 +348,8 @@
       "start_date": "2022-03-27",
       "end_date": "2025-12-04",
       "mean": 7.44,
-      "rank": 3734,
-      "popularity": 2135,
+      "rank": 3731,
+      "popularity": 2134,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "discontinued"
@@ -443,7 +443,7 @@
       "num_chapters": 0,
       "start_date": "2023-12-28",
       "mean": 8.27,
-      "rank": 406,
+      "rank": 407,
       "popularity": 661,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -512,8 +512,8 @@
       "id": 170427,
       "title": "The Knight Only Lives Today",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/1/303264.jpg",
-        "large": "https://cdn.myanimelist.net/images/manga/1/303264l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/manga/1/303264.webp",
+        "large": "https://cdn.myanimelist.net/images/manga/1/303264l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -543,7 +543,7 @@
       "start_date": "2024-05-17",
       "mean": 8.57,
       "rank": 128,
-      "popularity": 786,
+      "popularity": 785,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -562,8 +562,8 @@
       "id": 177451,
       "title": "The Legendary Hero Is an Academy Honors Student",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/2/317060.webp",
-        "large": "https://cdn.myanimelist.net/images/manga/2/317060l.webp"
+        "medium": "https://cdn.myanimelist.net/images/manga/2/317060.jpg",
+        "large": "https://cdn.myanimelist.net/images/manga/2/317060l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -595,8 +595,8 @@
       "num_chapters": 0,
       "start_date": "2024-12-28",
       "mean": 7.17,
-      "rank": 7115,
-      "popularity": 2867,
+      "rank": 7117,
+      "popularity": 2861,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -649,7 +649,7 @@
       "start_date": "2015-02-16",
       "end_date": "2020-11-30",
       "mean": 7.49,
-      "rank": 3361,
+      "rank": 3358,
       "popularity": 2311,
       "nsfw": "white",
       "media_type": "manhwa",
