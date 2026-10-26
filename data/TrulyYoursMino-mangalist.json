@@ -40,8 +40,8 @@
       "num_chapters": 0,
       "start_date": "2025-06-19",
       "mean": 8.02,
-      "rank": 819,
-      "popularity": 4870,
+      "rank": 828,
+      "popularity": 4861,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -100,7 +100,7 @@
       "num_chapters": 0,
       "start_date": "2024-06-08",
       "mean": 7.59,
-      "rank": 2650,
+      "rank": 2604,
       "popularity": 1182,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -150,7 +150,7 @@
       "num_chapters": 0,
       "start_date": "2021-06-14",
       "mean": 7.7,
-      "rank": 1943,
+      "rank": 1967,
       "popularity": 1269,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -200,7 +200,7 @@
       "num_chapters": 0,
       "start_date": "2020-08-31",
       "mean": 7.76,
-      "rank": 1655,
+      "rank": 1674,
       "popularity": 590,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -244,8 +244,8 @@
       "synopsis": "Seong-un Choi is the top-ranked player in the game \"Lost World,\" being the only player to have completed all its achievements. However, his triumph is short-lived as a mysterious message transports him to the real \"Lost World,\" transforming him from a mere gamer to a contender for godhood. Amidst others vying for divinity, will Seong-un be able to achieve true godhood and reign supreme in this new realm?\n\n(Source: Webtoon Entertainment)",
       "num_chapters": 0,
       "start_date": "2023-11-29",
-      "mean": 7.74,
-      "rank": 1751,
+      "mean": 7.73,
+      "rank": 1792,
       "popularity": 2315,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -293,8 +293,8 @@
       "num_chapters": 0,
       "start_date": "2023-10-07",
       "mean": 7.09,
-      "rank": 8321,
-      "popularity": 3391,
+      "rank": 8206,
+      "popularity": 3390,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -313,8 +313,8 @@
       "id": 152612,
       "title": "Returning With Absolutely Nothing",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/2/270200.jpg",
-        "large": "https://cdn.myanimelist.net/images/manga/2/270200l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/manga/2/270200.webp",
+        "large": "https://cdn.myanimelist.net/images/manga/2/270200l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -348,7 +348,7 @@
       "start_date": "2022-03-27",
       "end_date": "2025-12-04",
       "mean": 7.44,
-      "rank": 3732,
+      "rank": 3799,
       "popularity": 2133,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -407,7 +407,7 @@
       "start_date": "2018-03-04",
       "end_date": "2023-05-31",
       "mean": 8.54,
-      "rank": 147,
+      "rank": 148,
       "popularity": 5,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -449,7 +449,7 @@
       "num_chapters": 0,
       "start_date": "2013-08-22",
       "mean": 7.91,
-      "rank": 1108,
+      "rank": 1123,
       "popularity": 413,
       "nsfw": "white",
       "media_type": "light_novel",
@@ -501,8 +501,8 @@
       "num_chapters": 0,
       "start_date": "2023-12-28",
       "mean": 8.27,
-      "rank": 407,
-      "popularity": 661,
+      "rank": 396,
+      "popularity": 660,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -521,8 +521,8 @@
       "id": 154692,
       "title": "The Infinite Mage",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/2/274476.jpg",
-        "large": "https://cdn.myanimelist.net/images/manga/2/274476l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/manga/2/274476.webp",
+        "large": "https://cdn.myanimelist.net/images/manga/2/274476l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -550,7 +550,7 @@
       "num_chapters": 0,
       "start_date": "2022-12-30",
       "mean": 7.84,
-      "rank": 1339,
+      "rank": 1365,
       "popularity": 503,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -570,8 +570,8 @@
       "id": 170427,
       "title": "The Knight Only Lives Today",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/1/303264.jpg",
-        "large": "https://cdn.myanimelist.net/images/manga/1/303264l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/manga/1/303264.webp",
+        "large": "https://cdn.myanimelist.net/images/manga/1/303264l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -601,7 +601,7 @@
       "start_date": "2024-05-17",
       "mean": 8.57,
       "rank": 128,
-      "popularity": 785,
+      "popularity": 781,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -652,9 +652,9 @@
       "num_chapters": 121,
       "start_date": "2024-03-30",
       "end_date": "2026-04-25",
-      "mean": 7.03,
-      "rank": 9293,
-      "popularity": 2291,
+      "mean": 7.02,
+      "rank": 9474,
+      "popularity": 2288,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "finished"
@@ -707,8 +707,8 @@
       "num_chapters": 0,
       "start_date": "2024-12-28",
       "mean": 7.17,
-      "rank": 7115,
-      "popularity": 2851,
+      "rank": 7014,
+      "popularity": 2849,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -760,8 +760,8 @@
       "num_chapters": 169,
       "start_date": "2015-02-16",
       "end_date": "2020-11-30",
-      "mean": 7.49,
-      "rank": 3359,
+      "mean": 7.48,
+      "rank": 3454,
       "popularity": 2310,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -817,7 +817,7 @@
       "num_chapters": 0,
       "start_date": "2010-07-05",
       "mean": 8.33,
-      "rank": 334,
+      "rank": 326,
       "popularity": 43,
       "nsfw": "white",
       "media_type": "manhwa",
