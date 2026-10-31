@@ -93,7 +93,7 @@
       "start_date": "2024-10-14",
       "end_date": "2025-02-17",
       "mean": 7.02,
-      "rank": 4815,
+      "rank": 4816,
       "popularity": 1344,
       "nsfw": "white",
       "media_type": "tv",
@@ -168,7 +168,7 @@
       "start_date": "2012-02-04",
       "end_date": "2012-02-04",
       "mean": 7.71,
-      "rank": 1436,
+      "rank": 1437,
       "popularity": 1160,
       "nsfw": "white",
       "media_type": "movie",
@@ -433,9 +433,9 @@
       "synopsis": "Second season of Da Zhuzai: Nian Fan.",
       "num_episodes": 52,
       "start_date": "2026-01-09",
-      "mean": 7.16,
-      "rank": 4037,
-      "popularity": 13933,
+      "mean": 7.18,
+      "rank": 3913,
+      "popularity": 13929,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -482,7 +482,7 @@
       "start_date": "2023-04-06",
       "end_date": "2023-06-15",
       "mean": 8.14,
-      "rank": 540,
+      "rank": 539,
       "popularity": 401,
       "nsfw": "white",
       "media_type": "tv",
@@ -527,7 +527,7 @@
       "end_date": "2026-04-20",
       "mean": 8.18,
       "rank": 485,
-      "popularity": 4274,
+      "popularity": 4272,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -586,7 +586,7 @@
       "end_date": "2026-01-03",
       "mean": 8.49,
       "rank": 170,
-      "popularity": 10806,
+      "popularity": 10805,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -647,7 +647,7 @@
       "synopsis": "After his resurrection, Klein, now known as Sherlock, becomes a private detective. While taking on cases, he inadvertently provokes a spy organization. With the help of his bodyguard Sharron, as well as the assistance of Audrey and others, he faces many enemies, including the powerful Ambassador of Intis. In a later case, Klein unexpectedly discovers ruins from the Tudor dynasty. While continuing his detective work, Klein searches for clues to his advancement while also pursuing his enemies, Lanevus and Ince…\n\n(Source: Tencent, translated & edited)",
       "num_episodes": 0,
       "start_date": "2027",
-      "popularity": 5697,
+      "popularity": 5691,
       "nsfw": "white",
       "media_type": "ona",
       "status": "not_yet_aired"
@@ -701,7 +701,7 @@
       "num_episodes": 1,
       "start_date": "2027",
       "end_date": "2027",
-      "popularity": 2098,
+      "popularity": 2097,
       "nsfw": "white",
       "media_type": "movie",
       "status": "not_yet_aired"
@@ -719,8 +719,8 @@
       "id": 62546,
       "title": "Kimetsu no Yaiba Movie 2: Mugenjou-hen",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1000/152184.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1000/152184l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1000/152184.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1000/152184l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -805,8 +805,8 @@
       "start_date": "2019-07-13",
       "end_date": "2019-09-21",
       "mean": 7.59,
-      "rank": 1840,
-      "popularity": 7731,
+      "rank": 1839,
+      "popularity": 7732,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -916,8 +916,8 @@
       "start_date": "2024-01-04",
       "end_date": "2024-03-21",
       "mean": 6.89,
-      "rank": 5528,
-      "popularity": 995,
+      "rank": 5527,
+      "popularity": 994,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -971,9 +971,9 @@
       "synopsis": "Second season of Nitian Xie Shen.",
       "num_episodes": 52,
       "start_date": "2026-04-16",
-      "mean": 7.44,
-      "rank": 2509,
-      "popularity": 14868,
+      "mean": 7.41,
+      "rank": 2646,
+      "popularity": 14864,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1044,8 +1044,8 @@
       "id": 54000,
       "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1285/158337.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1285/158337l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1285/158337.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1285/158337l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1089,8 +1089,8 @@
       "start_date": "2026-07-08",
       "end_date": "2026-09-23",
       "mean": 6.91,
-      "rank": 5406,
-      "popularity": 2093,
+      "rank": 5407,
+      "popularity": 2091,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1108,8 +1108,8 @@
       "id": 50380,
       "title": "Paripi Koumei",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1970/122297.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1970/122297l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1970/122297.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1970/122297l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1326,8 +1326,8 @@
       "id": 36474,
       "title": "Sword Art Online: Alicization",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1993/93837.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1993/93837l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1993/93837.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1993/93837l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1362,7 +1362,7 @@
       "start_date": "2018-10-07",
       "end_date": "2019-03-31",
       "mean": 7.58,
-      "rank": 1897,
+      "rank": 1895,
       "popularity": 152,
       "nsfw": "white",
       "media_type": "tv",
@@ -1381,8 +1381,8 @@
       "id": 40540,
       "title": "Sword Art Online: Alicization - War of Underworld 2nd Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1438/105106.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1438/105106l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1438/105106.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1438/105106l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1420,7 +1420,7 @@
       "start_date": "2020-07-12",
       "end_date": "2020-09-20",
       "mean": 7.52,
-      "rank": 2148,
+      "rank": 2149,
       "popularity": 353,
       "nsfw": "white",
       "media_type": "tv",
@@ -1477,7 +1477,7 @@
       "start_date": "2023-10-06",
       "end_date": "2023-12-22",
       "mean": 7.07,
-      "rank": 4594,
+      "rank": 4592,
       "popularity": 489,
       "nsfw": "white",
       "media_type": "tv",
@@ -1631,7 +1631,7 @@
       "end_date": "2025-07-17",
       "mean": 7.9,
       "rank": 955,
-      "popularity": 13366,
+      "popularity": 13368,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1688,8 +1688,8 @@
       "start_date": "2024-04-19",
       "end_date": "2024-07-19",
       "mean": 7.56,
-      "rank": 1976,
-      "popularity": 12939,
+      "rank": 1977,
+      "popularity": 12940,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1743,7 +1743,7 @@
       "end_date": "2023-01-17",
       "mean": 7.54,
       "rank": 2072,
-      "popularity": 9143,
+      "popularity": 9142,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1794,7 +1794,7 @@
       "start_date": "2026-01-14",
       "end_date": "2026-03-25",
       "mean": 8.67,
-      "rank": 85,
+      "rank": 84,
       "popularity": 943,
       "nsfw": "white",
       "media_type": "tv",
@@ -1843,7 +1843,7 @@
       ],
       "synopsis": "Final season of [Oshi no Ko].",
       "num_episodes": 0,
-      "popularity": 2912,
+      "popularity": 2911,
       "nsfw": "white",
       "media_type": "tv",
       "status": "not_yet_aired"
