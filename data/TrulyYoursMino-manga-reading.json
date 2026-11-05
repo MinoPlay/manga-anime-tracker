@@ -41,7 +41,7 @@
       "start_date": "2025-06-19",
       "mean": 8.03,
       "rank": 814,
-      "popularity": 4739,
+      "popularity": 4720,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -101,7 +101,7 @@
       "start_date": "2024-06-08",
       "mean": 7.59,
       "rank": 2656,
-      "popularity": 1171,
+      "popularity": 1169,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -150,7 +150,7 @@
       "num_chapters": 0,
       "start_date": "2021-06-14",
       "mean": 7.69,
-      "rank": 2018,
+      "rank": 2021,
       "popularity": 1263,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -200,8 +200,8 @@
       "num_chapters": 0,
       "start_date": "2020-08-31",
       "mean": 7.76,
-      "rank": 1659,
-      "popularity": 587,
+      "rank": 1657,
+      "popularity": 586,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -221,8 +221,8 @@
       "id": 165175,
       "title": "Nebula's Civilization",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/2/293346.jpg",
-        "large": "https://cdn.myanimelist.net/images/manga/2/293346l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/manga/2/293346.webp",
+        "large": "https://cdn.myanimelist.net/images/manga/2/293346l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -245,7 +245,7 @@
       "num_chapters": 0,
       "start_date": "2023-11-29",
       "mean": 7.73,
-      "rank": 1823,
+      "rank": 1824,
       "popularity": 2304,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -293,8 +293,8 @@
       "num_chapters": 0,
       "start_date": "2023-10-07",
       "mean": 7.09,
-      "rank": 8343,
-      "popularity": 3377,
+      "rank": 8339,
+      "popularity": 3375,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -313,8 +313,8 @@
       "id": 152612,
       "title": "Returning With Absolutely Nothing",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/2/270200.jpg",
-        "large": "https://cdn.myanimelist.net/images/manga/2/270200l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/manga/2/270200.webp",
+        "large": "https://cdn.myanimelist.net/images/manga/2/270200l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -391,7 +391,7 @@
       "num_chapters": 0,
       "start_date": "2013-08-22",
       "mean": 7.91,
-      "rank": 1109,
+      "rank": 1108,
       "popularity": 413,
       "nsfw": "white",
       "media_type": "light_novel",
@@ -443,8 +443,8 @@
       "num_chapters": 0,
       "start_date": "2023-12-28",
       "mean": 8.27,
-      "rank": 407,
-      "popularity": 654,
+      "rank": 408,
+      "popularity": 653,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -460,11 +460,61 @@
   },
   {
     "node": {
+      "id": 148156,
+      "title": "The Frozen Player Returns",
+      "main_picture": {
+        "medium": "https://cdn.myanimelist.net/images/manga/2/262892.webp",
+        "large": "https://cdn.myanimelist.net/images/manga/2/262892l.webp"
+      },
+      "alternative_titles": {
+        "synonyms": [
+          "Return of the Frozen Player",
+          "Eoreobuteun Player-ui Gwihwan"
+        ],
+        "en": "The Frozen Player Returns",
+        "ja": "얼어붙은 플레이어의 귀환"
+      },
+      "genres": [
+        {
+          "id": 1,
+          "name": "Action"
+        },
+        {
+          "id": 2,
+          "name": "Adventure"
+        },
+        {
+          "id": 10,
+          "name": "Fantasy"
+        }
+      ],
+      "synopsis": "When Seo Junho and his companions sacrificed themselves to defeat the frost queen, they thought they were restoring peace to Earth. But after 25 years of being frozen solid, Junho thaws out only to find that nine more floors appeared in his absence, only one of which has been cleared! As the only one who holds the key to clearing the next floor and defrosting his friends, Junho must step up once again. But has this hero been in hibernation too long to take on the world's fearsome new foes?\n\n(Source: Tapas Media)",
+      "num_chapters": 0,
+      "start_date": "2021-03-05",
+      "mean": 7.2,
+      "rank": 6571,
+      "popularity": 1099,
+      "nsfw": "white",
+      "media_type": "manhwa",
+      "status": "currently_publishing"
+    },
+    "list_status": {
+      "status": "reading",
+      "is_rereading": false,
+      "num_volumes_read": 0,
+      "num_chapters_read": 2,
+      "score": 0,
+      "updated_at": "2026-11-04T19:50:56+00:00",
+      "start_date": "2026-11-04"
+    }
+  },
+  {
+    "node": {
       "id": 154692,
       "title": "The Infinite Mage",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/2/274476.webp",
-        "large": "https://cdn.myanimelist.net/images/manga/2/274476l.webp"
+        "medium": "https://cdn.myanimelist.net/images/manga/2/274476.jpg",
+        "large": "https://cdn.myanimelist.net/images/manga/2/274476l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -493,7 +543,7 @@
       "start_date": "2022-12-30",
       "mean": 7.84,
       "rank": 1341,
-      "popularity": 499,
+      "popularity": 498,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -543,7 +593,7 @@
       "start_date": "2024-05-17",
       "mean": 8.57,
       "rank": 128,
-      "popularity": 774,
+      "popularity": 771,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -595,8 +645,8 @@
       "num_chapters": 0,
       "start_date": "2024-12-28",
       "mean": 7.17,
-      "rank": 7126,
-      "popularity": 2820,
+      "rank": 7128,
+      "popularity": 2816,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
