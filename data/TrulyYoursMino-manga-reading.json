@@ -41,7 +41,7 @@
       "start_date": "2025-06-19",
       "mean": 8.04,
       "rank": 782,
-      "popularity": 4664,
+      "popularity": 4650,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -100,7 +100,7 @@
       "num_chapters": 0,
       "start_date": "2024-06-08",
       "mean": 7.59,
-      "rank": 2656,
+      "rank": 2658,
       "popularity": 1168,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -150,7 +150,7 @@
       "num_chapters": 0,
       "start_date": "2021-06-14",
       "mean": 7.69,
-      "rank": 2020,
+      "rank": 2019,
       "popularity": 1261,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -201,7 +201,7 @@
       "start_date": "2020-08-31",
       "mean": 7.76,
       "rank": 1657,
-      "popularity": 584,
+      "popularity": 583,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -221,8 +221,8 @@
       "id": 165175,
       "title": "Nebula's Civilization",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/2/293346.webp",
-        "large": "https://cdn.myanimelist.net/images/manga/2/293346l.webp"
+        "medium": "https://cdn.myanimelist.net/images/manga/2/293346.jpg",
+        "large": "https://cdn.myanimelist.net/images/manga/2/293346l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -246,7 +246,7 @@
       "start_date": "2023-11-29",
       "mean": 7.73,
       "rank": 1826,
-      "popularity": 2297,
+      "popularity": 2296,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -265,8 +265,8 @@
       "id": 164754,
       "title": "Necromancer Academy and the Genius Summoner",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/1/292639.webp",
-        "large": "https://cdn.myanimelist.net/images/manga/1/292639l.webp"
+        "medium": "https://cdn.myanimelist.net/images/manga/1/292639.jpg",
+        "large": "https://cdn.myanimelist.net/images/manga/1/292639l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -293,8 +293,8 @@
       "num_chapters": 0,
       "start_date": "2023-10-07",
       "mean": 7.09,
-      "rank": 8344,
-      "popularity": 3367,
+      "rank": 8345,
+      "popularity": 3363,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -313,8 +313,8 @@
       "id": 152612,
       "title": "Returning With Absolutely Nothing",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/2/270200.jpg",
-        "large": "https://cdn.myanimelist.net/images/manga/2/270200l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/manga/2/270200.webp",
+        "large": "https://cdn.myanimelist.net/images/manga/2/270200l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -348,7 +348,7 @@
       "start_date": "2022-03-27",
       "end_date": "2025-12-04",
       "mean": 7.44,
-      "rank": 3742,
+      "rank": 3741,
       "popularity": 2131,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -391,7 +391,7 @@
       "num_chapters": 0,
       "start_date": "2013-08-22",
       "mean": 7.91,
-      "rank": 1108,
+      "rank": 1109,
       "popularity": 413,
       "nsfw": "white",
       "media_type": "light_novel",
@@ -492,7 +492,7 @@
       "num_chapters": 0,
       "start_date": "2021-03-05",
       "mean": 7.2,
-      "rank": 6578,
+      "rank": 6575,
       "popularity": 1099,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -542,7 +542,7 @@
       "num_chapters": 0,
       "start_date": "2022-12-30",
       "mean": 7.83,
-      "rank": 1426,
+      "rank": 1423,
       "popularity": 497,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -593,7 +593,7 @@
       "start_date": "2024-05-17",
       "mean": 8.57,
       "rank": 129,
-      "popularity": 770,
+      "popularity": 769,
       "nsfw": "white",
       "media_type": "manhwa",
       "status": "currently_publishing"
@@ -645,7 +645,7 @@
       "num_chapters": 0,
       "start_date": "2024-12-28",
       "mean": 7.18,
-      "rank": 6889,
+      "rank": 6888,
       "popularity": 2805,
       "nsfw": "white",
       "media_type": "manhwa",
@@ -666,8 +666,8 @@
       "id": 147536,
       "title": "The Legendary Moonlight Sculptor",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/manga/1/261859.webp",
-        "large": "https://cdn.myanimelist.net/images/manga/1/261859l.webp"
+        "medium": "https://cdn.myanimelist.net/images/manga/1/261859.jpg",
+        "large": "https://cdn.myanimelist.net/images/manga/1/261859l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -699,7 +699,7 @@
       "start_date": "2015-02-16",
       "end_date": "2020-11-30",
       "mean": 7.48,
-      "rank": 3403,
+      "rank": 3404,
       "popularity": 2308,
       "nsfw": "white",
       "media_type": "manhwa",
