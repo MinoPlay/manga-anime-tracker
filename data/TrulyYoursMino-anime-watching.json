@@ -37,7 +37,7 @@
       "start_date": "2025-10-07",
       "end_date": "2025-12-23",
       "mean": 6.55,
-      "rank": 7763,
+      "rank": 7764,
       "popularity": 1486,
       "nsfw": "white",
       "media_type": "tv",
@@ -57,8 +57,8 @@
       "id": 60420,
       "title": "Cang Yuan Tu 2",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1403/155838.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1403/155838l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1403/155838.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1403/155838l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -98,7 +98,7 @@
       "end_date": "2025-08-01",
       "mean": 8.2,
       "rank": 447,
-      "popularity": 11815,
+      "popularity": 11816,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -212,7 +212,7 @@
       "end_date": "2026-11-15",
       "mean": 8.53,
       "rank": 146,
-      "popularity": 6688,
+      "popularity": 6689,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -257,7 +257,7 @@
       "start_date": "2022-07-10",
       "end_date": "2022-07-10",
       "mean": 8.1,
-      "rank": 603,
+      "rank": 604,
       "popularity": 681,
       "nsfw": "white",
       "media_type": "tv_special",
@@ -368,7 +368,7 @@
       "start_date": "2023-10-07",
       "end_date": "2023-12-23",
       "mean": 6.22,
-      "rank": 9855,
+      "rank": 9857,
       "popularity": 1225,
       "nsfw": "white",
       "media_type": "tv",
@@ -426,7 +426,7 @@
       "start_date": "2020-10-04",
       "end_date": "2020-12-20",
       "mean": 6.95,
-      "rank": 5179,
+      "rank": 5180,
       "popularity": 1112,
       "nsfw": "white",
       "media_type": "tv",
@@ -530,7 +530,7 @@
       "start_date": "2024-07-13",
       "end_date": "2024-09-28",
       "mean": 6.22,
-      "rank": 9877,
+      "rank": 9879,
       "popularity": 1845,
       "nsfw": "white",
       "media_type": "tv",
@@ -576,8 +576,8 @@
       "synopsis": "The entire universe is divided into the inner universe and the outer universe. The two universes are enemies of each other. The outer universe is ruled by demons, and the inner universe is divided into The Realm of gods, the Eternal Realm, and the Mortal Realm. In the universe, there are countless mortal worlds like the Tianfa Continent, and they are collectively referred to as the Jiutian Xin Region. In the field of Jiutian Xin, nine immortal emperors commanded all star fields in nine layers. Above the nine heavens is the realm of purification of immortal gods. \n\n(Source: AnimeXin)",
       "num_episodes": 580,
       "start_date": "2021-07-16",
-      "mean": 7.26,
-      "rank": 3459,
+      "mean": 7.25,
+      "rank": 3513,
       "popularity": 10377,
       "nsfw": "white",
       "media_type": "ona",
@@ -625,9 +625,9 @@
       "num_episodes": 12,
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
-      "mean": 6.79,
-      "rank": 6189,
-      "popularity": 2559,
+      "mean": 6.78,
+      "rank": 6253,
+      "popularity": 2557,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -727,7 +727,7 @@
       "end_date": "2026-04-23",
       "mean": 8.26,
       "rank": 380,
-      "popularity": 8040,
+      "popularity": 8041,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -783,7 +783,7 @@
       "end_date": "2024-05-30",
       "mean": 7.62,
       "rank": 1742,
-      "popularity": 12345,
+      "popularity": 12346,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -801,8 +801,8 @@
       "id": 48736,
       "title": "Sono Bisque Doll wa Koi wo Suru",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1179/119897.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1179/119897l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1179/119897.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1179/119897l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -890,7 +890,7 @@
       "start_date": "2022-10-01",
       "end_date": "2022-12-24",
       "mean": 8.19,
-      "rank": 476,
+      "rank": 475,
       "popularity": 150,
       "nsfw": "white",
       "media_type": "tv",
@@ -990,7 +990,7 @@
       "end_date": "2026-06-29",
       "mean": 8.46,
       "rank": 189,
-      "popularity": 569,
+      "popularity": 568,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1047,7 +1047,7 @@
       "start_date": "2023-10-03",
       "mean": 8.32,
       "rank": 319,
-      "popularity": 8729,
+      "popularity": 8727,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1157,8 +1157,8 @@
       "num_episodes": 338,
       "start_date": "2021-04-23",
       "mean": 7.85,
-      "rank": 1069,
-      "popularity": 6335,
+      "rank": 1068,
+      "popularity": 6337,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1215,7 +1215,7 @@
       "start_date": "2020-03-08",
       "mean": 7.59,
       "rank": 1866,
-      "popularity": 8566,
+      "popularity": 8567,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1326,7 +1326,7 @@
       "end_date": "2026-05-24",
       "mean": 7.3,
       "rank": 3228,
-      "popularity": 12204,
+      "popularity": 12207,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1344,8 +1344,8 @@
       "id": 56215,
       "title": "Yi Nian Yong Heng 3rd Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1105/150044.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1105/150044l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1105/150044.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1105/150044l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1388,7 +1388,7 @@
       "end_date": "2025-07-22",
       "mean": 8.28,
       "rank": 363,
-      "popularity": 9814,
+      "popularity": 9811,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1435,8 +1435,8 @@
       "start_date": "2026-01-04",
       "end_date": "2026-03-22",
       "mean": 6.66,
-      "rank": 7081,
-      "popularity": 1737,
+      "rank": 7084,
+      "popularity": 1736,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
