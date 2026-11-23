@@ -1,11 +1,11 @@
 [
   {
     "username": "TrulyYoursMino",
-    "fetchedAt": "2026-11-22T13:07:13.954Z",
+    "fetchedAt": "2026-11-23T15:44:03.673Z",
     "statistics": {
       "totalAnime": 273,
-      "totalManga": 17,
-      "totalEntries": 290,
+      "totalManga": 18,
+      "totalEntries": 291,
       "animeProgress": {
         "totalEpisodesWatched": 8115,
         "byStatus": {
@@ -32,11 +32,11 @@
         }
       },
       "mangaProgress": {
-        "totalChaptersRead": 1315,
+        "totalChaptersRead": 1391,
         "byStatus": {
           "reading": {
-            "count": 15,
-            "chaptersRead": 993,
+            "count": 16,
+            "chaptersRead": 1069,
             "averageScore": 0
           },
           "completed": {
