@@ -1,6 +1,106 @@
 [
   {
     "node": {
+      "id": 60058,
+      "title": "[Oshi no Ko] 3rd Season",
+      "main_picture": {
+        "medium": "https://cdn.myanimelist.net/images/anime/1979/153329.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1979/153329l.jpg"
+      },
+      "alternative_titles": {
+        "synonyms": [
+          "My Star Season 3"
+        ],
+        "en": "[Oshi No Ko] Season 3",
+        "ja": "【推しの子】 第3期"
+      },
+      "genres": [
+        {
+          "id": 8,
+          "name": "Drama"
+        },
+        {
+          "id": 72,
+          "name": "Reincarnation"
+        },
+        {
+          "id": 42,
+          "name": "Seinen"
+        },
+        {
+          "id": 75,
+          "name": "Showbiz"
+        }
+      ],
+      "synopsis": "Satisfied with his investigation of Lala Lai Theatrical Company, Aquamarine \"Aqua\" Hoshino shifts his focus from revenge to career growth and becomes a regular on the variety show Dig Deep! Chase the Impawsible. With memories of his mother still lingering in his mind, Aqua cuts contact with Kana Arima, leaving her unable to enjoy the surging popularity of her idol group, B-Komachi.\n\nMeanwhile, following the bone-chilling discovery during B-Komachi's recent music video shoot, Aqua's sister, Ruby, resolves to solve the murders of those dearest to her. With the help of another soul still weighed down by Ai Hoshino's untimely demise, Ruby rises through the ranks, using any means necessary to get her way.\n\n[Written by MAL Rewrite]",
+      "num_episodes": 11,
+      "start_date": "2026-01-14",
+      "end_date": "2026-03-25",
+      "mean": 8.67,
+      "rank": 82,
+      "popularity": 934,
+      "nsfw": "white",
+      "media_type": "tv",
+      "status": "finished_airing"
+    },
+    "list_status": {
+      "status": "plan_to_watch",
+      "score": 0,
+      "num_episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at": "2026-03-12T11:10:16+00:00"
+    }
+  },
+  {
+    "node": {
+      "id": 63794,
+      "title": "[Oshi no Ko] 4th Season",
+      "main_picture": {
+        "medium": "https://cdn.myanimelist.net/images/anime/1052/159561.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1052/159561l.webp"
+      },
+      "alternative_titles": {
+        "synonyms": [
+          "[Oshi no Ko] Final Season"
+        ],
+        "en": "[Oshi No Ko] Season 4",
+        "ja": "【推しの子】第4期 Final Season"
+      },
+      "genres": [
+        {
+          "id": 8,
+          "name": "Drama"
+        },
+        {
+          "id": 72,
+          "name": "Reincarnation"
+        },
+        {
+          "id": 42,
+          "name": "Seinen"
+        },
+        {
+          "id": 75,
+          "name": "Showbiz"
+        }
+      ],
+      "synopsis": "Final season of [Oshi no Ko].",
+      "num_episodes": 0,
+      "popularity": 2885,
+      "nsfw": "white",
+      "media_type": "tv",
+      "status": "not_yet_aired"
+    },
+    "list_status": {
+      "status": "plan_to_watch",
+      "score": 0,
+      "num_episodes_watched": 0,
+      "is_rewatching": false,
+      "updated_at": "2026-03-28T20:41:15+00:00"
+    }
+  },
+  {
+    "node": {
       "id": 41457,
       "title": "86",
       "main_picture": {
@@ -38,7 +138,7 @@
       "end_date": "2021-06-20",
       "mean": 8.36,
       "rank": 270,
-      "popularity": 192,
+      "popularity": 191,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -93,7 +193,7 @@
       "start_date": "2024-10-14",
       "end_date": "2025-02-17",
       "mean": 7.02,
-      "rank": 4831,
+      "rank": 4833,
       "popularity": 1342,
       "nsfw": "white",
       "media_type": "tv",
@@ -112,8 +212,8 @@
       "id": 10218,
       "title": "Berserk: Ougon Jidai-hen I - Haou no Tamago",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/12/62179.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/12/62179l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/12/62179.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/12/62179l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -260,8 +360,8 @@
       "id": 12115,
       "title": "Berserk: Ougon Jidai-hen III - Kourin",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/12/41305.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/12/41305l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/12/41305.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/12/41305l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -372,7 +472,7 @@
       "end_date": "2025-09-19",
       "mean": 9.05,
       "rank": 5,
-      "popularity": 444,
+      "popularity": 443,
       "nsfw": "white",
       "media_type": "movie",
       "status": "finished_airing"
@@ -433,9 +533,9 @@
       "synopsis": "Second season of Da Zhuzai: Nian Fan.",
       "num_episodes": 52,
       "start_date": "2026-01-09",
-      "mean": 7.16,
-      "rank": 4043,
-      "popularity": 13877,
+      "mean": 7.17,
+      "rank": 3983,
+      "popularity": 13871,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -526,8 +626,8 @@
       "start_date": "2026-03-02",
       "end_date": "2026-04-20",
       "mean": 8.18,
-      "rank": 483,
-      "popularity": 4237,
+      "rank": 484,
+      "popularity": 4235,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -647,7 +747,7 @@
       "synopsis": "After his resurrection, Klein, now known as Sherlock, becomes a private detective. While taking on cases, he inadvertently provokes a spy organization. With the help of his bodyguard Sharron, as well as the assistance of Audrey and others, he faces many enemies, including the powerful Ambassador of Intis. In a later case, Klein unexpectedly discovers ruins from the Tudor dynasty. While continuing his detective work, Klein searches for clues to his advancement while also pursuing his enemies, Lanevus and Ince…\n\n(Source: Tencent, translated & edited)",
       "num_episodes": 0,
       "start_date": "2027",
-      "popularity": 5646,
+      "popularity": 5645,
       "nsfw": "white",
       "media_type": "ona",
       "status": "not_yet_aired"
@@ -701,7 +801,7 @@
       "num_episodes": 1,
       "start_date": "2027",
       "end_date": "2027",
-      "popularity": 2085,
+      "popularity": 2084,
       "nsfw": "white",
       "media_type": "movie",
       "status": "not_yet_aired"
@@ -749,7 +849,7 @@
       ],
       "synopsis": "Second anime movie of the trilogy adaptation of the Infinity Castle Arc.",
       "num_episodes": 1,
-      "popularity": 2242,
+      "popularity": 2241,
       "nsfw": "white",
       "media_type": "movie",
       "status": "not_yet_aired"
@@ -767,8 +867,8 @@
       "id": 39675,
       "title": "Ling Long: Incarnation",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1292/157575.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1292/157575l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1292/157575.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1292/157575l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -805,8 +905,8 @@
       "start_date": "2019-07-13",
       "end_date": "2019-09-21",
       "mean": 7.6,
-      "rank": 1812,
-      "popularity": 7723,
+      "rank": 1813,
+      "popularity": 7721,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -824,8 +924,8 @@
       "id": 37576,
       "title": "Majutsushi Orphen Hagure Tabi",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1093/113944.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1093/113944l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1093/113944.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1093/113944l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -859,8 +959,8 @@
       "start_date": "2020-01-07",
       "end_date": "2020-03-31",
       "mean": 5.85,
-      "rank": 11939,
-      "popularity": 2868,
+      "rank": 11941,
+      "popularity": 2869,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -916,7 +1016,7 @@
       "start_date": "2024-01-04",
       "end_date": "2024-03-21",
       "mean": 6.89,
-      "rank": 5543,
+      "rank": 5544,
       "popularity": 990,
       "nsfw": "white",
       "media_type": "tv",
@@ -935,8 +1035,8 @@
       "id": 61557,
       "title": "Nitian Xie Shen: Nian Fan",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1518/160212.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1518/160212l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1518/160212.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1518/160212l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -971,9 +1071,9 @@
       "synopsis": "Second season of Nitian Xie Shen.",
       "num_episodes": 52,
       "start_date": "2026-04-16",
-      "mean": 7.41,
-      "rank": 2647,
-      "popularity": 14764,
+      "mean": 7.4,
+      "rank": 2699,
+      "popularity": 14766,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -991,8 +1091,8 @@
       "id": 33674,
       "title": "No Game No Life: Zero",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1085/90759.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1085/90759l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1085/90759.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1085/90759l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1044,8 +1144,8 @@
       "id": 54000,
       "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1285/158337.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1285/158337l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1285/158337.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1285/158337l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1089,8 +1189,8 @@
       "start_date": "2026-07-08",
       "end_date": "2026-09-23",
       "mean": 6.91,
-      "rank": 5421,
-      "popularity": 2051,
+      "rank": 5424,
+      "popularity": 2049,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1326,8 +1426,8 @@
       "id": 36474,
       "title": "Sword Art Online: Alicization",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1993/93837.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1993/93837l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1993/93837.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1993/93837l.webp"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1362,8 +1462,8 @@
       "start_date": "2018-10-07",
       "end_date": "2019-03-31",
       "mean": 7.58,
-      "rank": 1904,
-      "popularity": 152,
+      "rank": 1903,
+      "popularity": 153,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1381,8 +1481,8 @@
       "id": 40540,
       "title": "Sword Art Online: Alicization - War of Underworld 2nd Season",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1438/105106.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1438/105106l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1438/105106.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1438/105106l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1477,7 +1577,7 @@
       "start_date": "2023-10-06",
       "end_date": "2023-12-22",
       "mean": 7.07,
-      "rank": 4610,
+      "rank": 4609,
       "popularity": 490,
       "nsfw": "white",
       "media_type": "tv",
@@ -1548,8 +1648,8 @@
       "id": 33352,
       "title": "Violet Evergarden",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1795/95088.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1795/95088l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1795/95088.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1795/95088l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -1631,7 +1731,7 @@
       "end_date": "2025-07-17",
       "mean": 7.89,
       "rank": 981,
-      "popularity": 13365,
+      "popularity": 13356,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1689,7 +1789,7 @@
       "end_date": "2024-07-19",
       "mean": 7.56,
       "rank": 1983,
-      "popularity": 12958,
+      "popularity": 12957,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1743,7 +1843,7 @@
       "end_date": "2023-01-17",
       "mean": 7.54,
       "rank": 2079,
-      "popularity": 9134,
+      "popularity": 9133,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1754,106 +1854,6 @@
       "num_episodes_watched": 0,
       "is_rewatching": false,
       "updated_at": "2025-04-22T14:33:46+00:00"
-    }
-  },
-  {
-    "node": {
-      "id": 60058,
-      "title": "[Oshi no Ko] 3rd Season",
-      "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1979/153329.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1979/153329l.jpg"
-      },
-      "alternative_titles": {
-        "synonyms": [
-          "My Star Season 3"
-        ],
-        "en": "[Oshi No Ko] Season 3",
-        "ja": "【推しの子】 第3期"
-      },
-      "genres": [
-        {
-          "id": 8,
-          "name": "Drama"
-        },
-        {
-          "id": 72,
-          "name": "Reincarnation"
-        },
-        {
-          "id": 42,
-          "name": "Seinen"
-        },
-        {
-          "id": 75,
-          "name": "Showbiz"
-        }
-      ],
-      "synopsis": "Satisfied with his investigation of Lala Lai Theatrical Company, Aquamarine \"Aqua\" Hoshino shifts his focus from revenge to career growth and becomes a regular on the variety show Dig Deep! Chase the Impawsible. With memories of his mother still lingering in his mind, Aqua cuts contact with Kana Arima, leaving her unable to enjoy the surging popularity of her idol group, B-Komachi.\n\nMeanwhile, following the bone-chilling discovery during B-Komachi's recent music video shoot, Aqua's sister, Ruby, resolves to solve the murders of those dearest to her. With the help of another soul still weighed down by Ai Hoshino's untimely demise, Ruby rises through the ranks, using any means necessary to get her way.\n\n[Written by MAL Rewrite]",
-      "num_episodes": 11,
-      "start_date": "2026-01-14",
-      "end_date": "2026-03-25",
-      "mean": 8.67,
-      "rank": 82,
-      "popularity": 934,
-      "nsfw": "white",
-      "media_type": "tv",
-      "status": "finished_airing"
-    },
-    "list_status": {
-      "status": "plan_to_watch",
-      "score": 0,
-      "num_episodes_watched": 0,
-      "is_rewatching": false,
-      "updated_at": "2026-03-12T11:10:16+00:00"
-    }
-  },
-  {
-    "node": {
-      "id": 63794,
-      "title": "[Oshi no Ko] 4th Season",
-      "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1052/159561.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1052/159561l.webp"
-      },
-      "alternative_titles": {
-        "synonyms": [
-          "[Oshi no Ko] Final Season"
-        ],
-        "en": "[Oshi No Ko] Season 4",
-        "ja": "【推しの子】第4期 Final Season"
-      },
-      "genres": [
-        {
-          "id": 8,
-          "name": "Drama"
-        },
-        {
-          "id": 72,
-          "name": "Reincarnation"
-        },
-        {
-          "id": 42,
-          "name": "Seinen"
-        },
-        {
-          "id": 75,
-          "name": "Showbiz"
-        }
-      ],
-      "synopsis": "Final season of [Oshi no Ko].",
-      "num_episodes": 0,
-      "popularity": 2886,
-      "nsfw": "white",
-      "media_type": "tv",
-      "status": "not_yet_aired"
-    },
-    "list_status": {
-      "status": "plan_to_watch",
-      "score": 0,
-      "num_episodes_watched": 0,
-      "is_rewatching": false,
-      "updated_at": "2026-03-28T20:41:15+00:00"
     }
   }
 ]
