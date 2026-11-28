@@ -37,8 +37,8 @@
       "start_date": "2025-10-07",
       "end_date": "2025-12-23",
       "mean": 6.55,
-      "rank": 7786,
-      "popularity": 1482,
+      "rank": 7784,
+      "popularity": 1481,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -97,7 +97,7 @@
       "start_date": "2024-12-06",
       "end_date": "2025-08-01",
       "mean": 8.2,
-      "rank": 447,
+      "rank": 448,
       "popularity": 11817,
       "nsfw": "white",
       "media_type": "ona",
@@ -210,8 +210,8 @@
       "num_episodes": 219,
       "start_date": "2022-07-31",
       "end_date": "2026-11-15",
-      "mean": 8.53,
-      "rank": 146,
+      "mean": 8.52,
+      "rank": 150,
       "popularity": 6686,
       "nsfw": "white",
       "media_type": "ona",
@@ -310,7 +310,7 @@
       "start_date": "2023-10-06",
       "end_date": "2023-12-22",
       "mean": 7.21,
-      "rank": 3753,
+      "rank": 3752,
       "popularity": 651,
       "nsfw": "white",
       "media_type": "tv",
@@ -329,8 +329,8 @@
       "id": 54362,
       "title": "Hametsu no Oukoku",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1610/138189.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1610/138189l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1610/138189.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1610/138189l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -426,7 +426,7 @@
       "start_date": "2020-10-04",
       "end_date": "2020-12-20",
       "mean": 6.95,
-      "rank": 5195,
+      "rank": 5194,
       "popularity": 1111,
       "nsfw": "white",
       "media_type": "tv",
@@ -531,7 +531,7 @@
       "end_date": "2024-09-28",
       "mean": 6.22,
       "rank": 9896,
-      "popularity": 1846,
+      "popularity": 1845,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -549,8 +549,8 @@
       "id": 49448,
       "title": "Ni Tian Zhizun",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1114/150027.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1114/150027l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1114/150027.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1114/150027l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -578,7 +578,7 @@
       "start_date": "2021-07-16",
       "mean": 7.25,
       "rank": 3519,
-      "popularity": 10390,
+      "popularity": 10392,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -646,8 +646,8 @@
       "id": 48895,
       "title": "Overlord IV",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1530/120110.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1530/120110l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1530/120110.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1530/120110l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -726,7 +726,7 @@
       "start_date": "2022-11-10",
       "end_date": "2026-04-23",
       "mean": 8.26,
-      "rank": 380,
+      "rank": 381,
       "popularity": 8042,
       "nsfw": "white",
       "media_type": "ona",
@@ -783,7 +783,7 @@
       "end_date": "2024-05-30",
       "mean": 7.62,
       "rank": 1745,
-      "popularity": 12347,
+      "popularity": 12348,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -855,8 +855,8 @@
       "id": 50602,
       "title": "Spy x Family Part 2",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1111/127508.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1111/127508l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1111/127508.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1111/127508l.jpg"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -890,7 +890,7 @@
       "start_date": "2022-10-01",
       "end_date": "2022-12-24",
       "mean": 8.19,
-      "rank": 474,
+      "rank": 475,
       "popularity": 150,
       "nsfw": "white",
       "media_type": "tv",
@@ -909,8 +909,8 @@
       "id": 61207,
       "title": "Tensei shitara Dragon no Tamago datta",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1250/156107.jpg",
-        "large": "https://cdn.myanimelist.net/images/anime/1250/156107l.jpg"
+        "medium": "https://cdn.myanimelist.net/images/anime/1250/156107.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1250/156107l.webp"
       },
       "alternative_titles": {
         "synonyms": [],
@@ -944,8 +944,8 @@
       "start_date": "2026-01-10",
       "end_date": "2026-03-28",
       "mean": 6.43,
-      "rank": 8610,
-      "popularity": 3555,
+      "rank": 8609,
+      "popularity": 3554,
       "nsfw": "white",
       "media_type": "tv",
       "status": "finished_airing"
@@ -1101,8 +1101,8 @@
       "start_date": "2022-08-16",
       "end_date": "2024-10-01",
       "mean": 7.29,
-      "rank": 3295,
-      "popularity": 11732,
+      "rank": 3294,
+      "popularity": 11734,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1121,8 +1121,8 @@
       "id": 47405,
       "title": "Wanmei Shijie",
       "main_picture": {
-        "medium": "https://cdn.myanimelist.net/images/anime/1809/153679.webp",
-        "large": "https://cdn.myanimelist.net/images/anime/1809/153679l.webp"
+        "medium": "https://cdn.myanimelist.net/images/anime/1809/153679.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1809/153679l.jpg"
       },
       "alternative_titles": {
         "synonyms": [
@@ -1214,8 +1214,8 @@
       "num_episodes": 776,
       "start_date": "2020-03-08",
       "mean": 7.59,
-      "rank": 1873,
-      "popularity": 8570,
+      "rank": 1872,
+      "popularity": 8571,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1268,9 +1268,9 @@
       "synopsis": "Wang Lin is a very smart boy with loving parents. Although he and his parents are shunned by the rest of their relatives, his parents have always held high hopes that he will one day achieve greatness. One day, Wang Lin suddenly gained the chance to walk the path of an immortal but found that he only had mediocre talent at best. Watch Wang Lin as he breaks through his lack of talent and walks the path towards becoming a real immortal!\n\n(Source: Xian Ni Wiki)",
       "num_episodes": 180,
       "start_date": "2023-09-25",
-      "mean": 8.48,
-      "rank": 180,
-      "popularity": 6600,
+      "mean": 8.47,
+      "rank": 182,
+      "popularity": 6597,
       "nsfw": "white",
       "media_type": "ona",
       "status": "currently_airing"
@@ -1326,7 +1326,7 @@
       "end_date": "2026-05-24",
       "mean": 7.3,
       "rank": 3233,
-      "popularity": 12218,
+      "popularity": 12215,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1387,8 +1387,8 @@
       "start_date": "2024-07-03",
       "end_date": "2025-07-22",
       "mean": 8.28,
-      "rank": 364,
-      "popularity": 9811,
+      "rank": 365,
+      "popularity": 9812,
       "nsfw": "white",
       "media_type": "ona",
       "status": "finished_airing"
@@ -1435,7 +1435,7 @@
       "start_date": "2026-01-04",
       "end_date": "2026-03-22",
       "mean": 6.66,
-      "rank": 7102,
+      "rank": 7104,
       "popularity": 1731,
       "nsfw": "white",
       "media_type": "tv",
